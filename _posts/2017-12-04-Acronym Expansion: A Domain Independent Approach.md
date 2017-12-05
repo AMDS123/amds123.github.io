@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Acronym Expansion: A Domain Independent Approach
-date:   2017-12-05 18:20:28
+title:  'Acronym Expansion: A Domain Independent Approach'
+date:   2017-12-05 18:45:01
 categories: CL
 tags: CL
 author: Aditya Thakker, Suhail Barot, Sudhir Bagul

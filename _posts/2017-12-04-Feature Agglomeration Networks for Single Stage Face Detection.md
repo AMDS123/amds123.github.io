@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Feature Agglomeration Networks for Single Stage Face Detection
-date:   2017-12-05 18:20:05
+title:  'Feature Agglomeration Networks for Single Stage Face Detection'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Jialiang Zhang, Xiongwei Wu, Jianke Zhu, Steven C.H. Hoi

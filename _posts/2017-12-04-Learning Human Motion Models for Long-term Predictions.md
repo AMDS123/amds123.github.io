@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Learning Human Motion Models for Long-term Predictions
-date:   2017-12-05 18:20:05
+title:  'Learning Human Motion Models for Long-term Predictions'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Partha Ghosh, Jie Song, Emre Aksan, Otmar Hilliges

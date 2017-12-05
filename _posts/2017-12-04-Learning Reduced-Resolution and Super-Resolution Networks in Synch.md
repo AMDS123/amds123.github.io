@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Learning Reduced-Resolution and Super-Resolution Networks in Synch
-date:   2017-12-05 18:20:05
+title:  'Learning Reduced-Resolution and Super-Resolution Networks in Synch'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Bolun Cai, Xiangmin Xu, Kailing Guo, Kui Jia, Dacheng Tao

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Learning Deep Correspondence through Prior and Posterior Feature Constancy
-date:   2017-12-05 18:20:05
+title:  'Learning Deep Correspondence through Prior and Posterior Feature Constancy'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Zhengfa Liang, Yiliu Feng, Yulan Guo, Hengzhu Liu, Linbo Qiao, Wei Chen, Li Zhou, Jianfeng Zhang

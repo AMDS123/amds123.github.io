@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Multimodal Visual Concept Learning with Weakly Supervised Techniques
-date:   2017-12-05 18:20:05
+title:  'Multimodal Visual Concept Learning with Weakly Supervised Techniques'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Giorgos Bouritsas, Petros Koutras, Athanasia Zlatintsi, Petros Maragos

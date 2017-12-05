@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Chord Generation from Symbolic Melody Using BLSTM Networks
-date:   2017-12-05 18:20:32
+title:  'Chord Generation from Symbolic Melody Using BLSTM Networks'
+date:   2017-12-05 18:45:06
 categories: SD
 tags: SD
 author: Hyungui Lim, Seungyeon Rhyu, Kyogu Lee

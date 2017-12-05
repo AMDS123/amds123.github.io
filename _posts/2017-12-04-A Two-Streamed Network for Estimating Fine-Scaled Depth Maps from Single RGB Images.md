@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images
-date:   2017-12-05 18:20:05
+title:  'A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Jun Li, Reinhard Klein, Angela Yao

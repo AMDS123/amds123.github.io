@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification
-date:   2017-12-05 18:20:05
+title:  'Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Lin Wu, Yang Wang

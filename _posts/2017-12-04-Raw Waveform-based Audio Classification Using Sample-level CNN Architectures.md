@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Raw Waveform-based Audio Classification Using Sample-level CNN Architectures
-date:   2017-12-05 18:20:32
+title:  'Raw Waveform-based Audio Classification Using Sample-level CNN Architectures'
+date:   2017-12-05 18:45:06
 categories: SD
 tags: SD
 author: Jongpil Lee, Taejun Kim, Jiyoung Park, Juhan Nam

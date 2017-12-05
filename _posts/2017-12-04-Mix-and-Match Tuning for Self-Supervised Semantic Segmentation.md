@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Mix-and-Match Tuning for Self-Supervised Semantic Segmentation
-date:   2017-12-05 18:20:05
+title:  'Mix-and-Match Tuning for Self-Supervised Semantic Segmentation'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Xiaohang Zhan, Ziwei Liu, Ping Luo, Xiaoou Tang, Chen Change Loy

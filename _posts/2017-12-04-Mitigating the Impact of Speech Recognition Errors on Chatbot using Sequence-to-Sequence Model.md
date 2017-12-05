@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Mitigating the Impact of Speech Recognition Errors on Chatbot using Sequence-to-Sequence Model
-date:   2017-12-05 18:20:28
+title:  'Mitigating the Impact of Speech Recognition Errors on Chatbot using Sequence-to-Sequence Model'
+date:   2017-12-05 18:45:01
 categories: CL
 tags: CL
 author: Pin-Jung Chen, I-Hung Hsu, Yi-Yao Huang, Hung-Yi Lee

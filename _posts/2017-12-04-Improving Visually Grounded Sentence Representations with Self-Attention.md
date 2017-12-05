@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Improving Visually Grounded Sentence Representations with Self-Attention
-date:   2017-12-05 18:20:28
+title:  'Improving Visually Grounded Sentence Representations with Self-Attention'
+date:   2017-12-05 18:45:01
 categories: CL
 tags: CL
 author: Kang Min Yoo, Youhyun Shin, Sang-goo Lee

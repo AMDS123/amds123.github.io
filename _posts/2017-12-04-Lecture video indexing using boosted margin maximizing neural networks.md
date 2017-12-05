@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Lecture video indexing using boosted margin maximizing neural networks
-date:   2017-12-05 18:20:05
+title:  'Lecture video indexing using boosted margin maximizing neural networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Di Ma, Xi Zhang, Xu Ouyang, Gady Agam

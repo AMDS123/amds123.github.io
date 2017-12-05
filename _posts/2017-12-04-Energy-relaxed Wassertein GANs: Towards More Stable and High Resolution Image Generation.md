@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Energy-relaxed Wassertein GANs: Towards More Stable and High Resolution Image Generation
-date:   2017-12-05 18:20:05
+title:  'Energy-relaxed Wassertein GANs: Towards More Stable and High Resolution Image Generation'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Jiqing Wu, Zhiwu Huang, Janine Thoma, Luc Van Gool

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Spatial PixelCNN: Generating Images from Patches
-date:   2017-12-05 18:20:05
+title:  'Spatial PixelCNN: Generating Images from Patches'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Nader Akoury, Anh Nguyen

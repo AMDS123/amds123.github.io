@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  SeeThrough: Finding Chairs in Heavily Occluded Indoor Scene Images
-date:   2017-12-05 18:20:05
+title:  'SeeThrough: Finding Chairs in Heavily Occluded Indoor Scene Images'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Moos Hueting, Pradyumna Reddy, Vladimir Kim, Ersin Yumer, Nathan Carr, Niloy Mitra

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  From Images to 3D Shape Attributes
-date:   2017-12-05 18:20:05
+title:  'From Images to 3D Shape Attributes'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: David F. Fouhey, Abhinav Gupta, Andrew Zisserman

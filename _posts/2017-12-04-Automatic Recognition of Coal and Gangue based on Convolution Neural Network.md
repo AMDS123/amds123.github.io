@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Automatic Recognition of Coal and Gangue based on Convolution Neural Network
-date:   2017-12-05 18:20:05
+title:  'Automatic Recognition of Coal and Gangue based on Convolution Neural Network'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Huichao Hong, Lixin Zheng, Jianqing Zhu, Shuwan Pan, Kaiting Zhou

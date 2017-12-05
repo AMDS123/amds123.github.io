@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement
-date:   2017-12-05 18:20:05
+title:  'DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Chongyi Li, Jichang Guo, Fatih Porikli, Chunle Guo, Huzhu Fu, Xi Li

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Wavenet based low rate speech coding
-date:   2017-12-05 18:20:32
+title:  'Wavenet based low rate speech coding'
+date:   2017-12-05 18:45:06
 categories: SD
 tags: SD
 author: W. Bastiaan Kleijn, Felicia S. C. Lim, Alejandro Luebs, Jan Skoglund, Florian Stimberg, Quan Wang, Thomas C. Walters

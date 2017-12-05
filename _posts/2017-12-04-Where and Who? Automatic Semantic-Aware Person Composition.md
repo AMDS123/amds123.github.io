@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Where and Who? Automatic Semantic-Aware Person Composition
-date:   2017-12-05 18:20:05
+title:  'Where and Who? Automatic Semantic-Aware Person Composition'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Fuwen Tan, Crispin Bernier, Benjamin Cohen, Vicente Ordonez, Connelly Barnes

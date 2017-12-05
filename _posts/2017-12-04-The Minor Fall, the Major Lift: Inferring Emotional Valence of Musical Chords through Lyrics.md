@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The Minor Fall, the Major Lift: Inferring Emotional Valence of Musical Chords through Lyrics
-date:   2017-12-05 18:20:28
+title:  'The Minor Fall, the Major Lift: Inferring Emotional Valence of Musical Chords through Lyrics'
+date:   2017-12-05 18:45:01
 categories: CL
 tags: CL
 author: Artemy Kolchinsky, Nakul Dhande, Kengjeun Park, Yong-Yeol Ahn

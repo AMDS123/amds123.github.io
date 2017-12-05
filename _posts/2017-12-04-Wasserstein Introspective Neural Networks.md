@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Wasserstein Introspective Neural Networks
-date:   2017-12-05 18:20:05
+title:  'Wasserstein Introspective Neural Networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Kwonjoon Lee, Weijian Xu, Fan Fan, Zhuowen Tu

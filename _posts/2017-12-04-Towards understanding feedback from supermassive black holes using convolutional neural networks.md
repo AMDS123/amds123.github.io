@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Towards understanding feedback from supermassive black holes using convolutional neural networks
-date:   2017-12-05 18:20:05
+title:  'Towards understanding feedback from supermassive black holes using convolutional neural networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Stanislav Fort

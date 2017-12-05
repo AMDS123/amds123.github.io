@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization
-date:   2017-12-05 18:20:05
+title:  'Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Peihua Li, Jiangtao Xie, Qilong Wang, Zilin Gao

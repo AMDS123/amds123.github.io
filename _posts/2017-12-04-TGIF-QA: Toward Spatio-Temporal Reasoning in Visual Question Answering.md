@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering'
-date:   2017-12-05 18:20:05
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Yunseok Jang, Yale Song, Youngjae Yu, Youngjin Kim, Gunhee Kim

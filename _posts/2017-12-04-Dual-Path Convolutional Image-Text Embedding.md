@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Dual-Path Convolutional Image-Text Embedding
-date:   2017-12-05 18:20:05
+title:  'Dual-Path Convolutional Image-Text Embedding'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Yi-Dong Shen

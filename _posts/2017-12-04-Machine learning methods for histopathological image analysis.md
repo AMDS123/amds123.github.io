@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Machine learning methods for histopathological image analysis
-date:   2017-12-05 18:20:05
+title:  'Machine learning methods for histopathological image analysis'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Daisuke Komura, Shumpei Ishikawa

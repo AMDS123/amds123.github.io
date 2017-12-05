@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Why my photos look sideways or upside down? Detecting Canonical Orientation of Images using Convolutional Neural Networks
-date:   2017-12-05 18:20:05
+title:  'Why my photos look sideways or upside down? Detecting Canonical Orientation of Images using Convolutional Neural Networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Kunal Swami, Pranav P. Deshpande, Gaurav Khandelwal, Ajay Vijayvargiya

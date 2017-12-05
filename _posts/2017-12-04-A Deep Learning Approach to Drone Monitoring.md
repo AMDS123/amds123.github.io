@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  A Deep Learning Approach to Drone Monitoring
-date:   2017-12-05 18:20:05
+title:  'A Deep Learning Approach to Drone Monitoring'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Yueru Chen, Pranav Aggarwal, Jongmoo Choi, C.-C. Jay Kuo

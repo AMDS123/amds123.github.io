@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Fruit recognition from images using deep learning
-date:   2017-12-05 18:20:05
+title:  'Fruit recognition from images using deep learning'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Horea Mure&#x15f;an, Mihai Oltean

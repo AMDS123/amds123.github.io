@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Fine-grained Pattern Matching Over Streaming Time Series
-date:   2017-12-05 18:20:05
+title:  'Fine-grained Pattern Matching Over Streaming Time Series'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Rong Kang, Chen Wang, Peng Wang, Yuting Ding, Jianmin Wang

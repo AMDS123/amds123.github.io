@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Learning by Asking Questions
-date:   2017-12-05 18:20:05
+title:  'Learning by Asking Questions'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Ishan Misra, Ross Girshick, Rob Fergus, Martial Hebert, Abhinav Gupta, Laurens van der Maaten

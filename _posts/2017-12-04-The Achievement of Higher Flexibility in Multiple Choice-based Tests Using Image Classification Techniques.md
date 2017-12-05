@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  The Achievement of Higher Flexibility in Multiple Choice-based Tests Using Image Classification Techniques
-date:   2017-12-05 18:20:05
+title:  'The Achievement of Higher Flexibility in Multiple Choice-based Tests Using Image Classification Techniques'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Mahmoud Afifi, Khaled F. Hussain

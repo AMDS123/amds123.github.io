@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Can We Boost the Power of the Viola-Jones Face Detector Using Pre-processing? An Empirical Study
-date:   2017-12-05 18:20:05
+title:  'Can We Boost the Power of the Viola-Jones Face Detector Using Pre-processing? An Empirical Study'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Mahmoud Afifi, Marwa Nasser, Mostafa Korashy, Katherine Rohde, Aly Abdelrahim

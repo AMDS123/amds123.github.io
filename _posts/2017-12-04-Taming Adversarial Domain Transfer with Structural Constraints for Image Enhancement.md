@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Taming Adversarial Domain Transfer with Structural Constraints for Image Enhancement
-date:   2017-12-05 18:20:05
+title:  'Taming Adversarial Domain Transfer with Structural Constraints for Image Enhancement'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Elias Vansteenkiste, Patrick Kern

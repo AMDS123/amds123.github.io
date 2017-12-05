@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Visual Features for Context-Aware Speech Recognition
-date:   2017-12-05 18:20:05
+title:  'Visual Features for Context-Aware Speech Recognition'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Abhinav Gupta, Yajie Miao, Leonardo Neves, Florian Metze

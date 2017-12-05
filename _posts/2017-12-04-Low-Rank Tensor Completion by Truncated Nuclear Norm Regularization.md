@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Low-Rank Tensor Completion by Truncated Nuclear Norm Regularization
-date:   2017-12-05 18:20:05
+title:  'Low-Rank Tensor Completion by Truncated Nuclear Norm Regularization'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Shengke Xue, Wenyuan Qiu, Fan Liu, Xinyu Jin

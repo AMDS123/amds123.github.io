@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping
-date:   2017-12-05 18:20:05
+title:  'A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Debang Li, Huikai Wu, Junge Zhang, Kaiqi Huang

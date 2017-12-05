@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Compressed Video Action Recognition
-date:   2017-12-05 18:20:05
+title:  'Compressed Video Action Recognition'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Chao-Yuan Wu, Manzil Zaheer, Hexiang Hu, R. Manmatha, Alexander J. Smola, Philipp Kr&#xe4;henb&#xfc;hl

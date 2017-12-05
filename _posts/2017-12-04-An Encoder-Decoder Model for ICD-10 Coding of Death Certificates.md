@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  An Encoder-Decoder Model for ICD-10 Coding of Death Certificates
-date:   2017-12-05 18:20:28
+title:  'An Encoder-Decoder Model for ICD-10 Coding of Death Certificates'
+date:   2017-12-05 18:45:01
 categories: CL
 tags: CL
 author: Elena Tutubalina, Zulfat Miftahutdinov

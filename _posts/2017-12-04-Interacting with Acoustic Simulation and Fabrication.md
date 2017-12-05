@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Interacting with Acoustic Simulation and Fabrication
-date:   2017-12-05 18:20:05
+title:  'Interacting with Acoustic Simulation and Fabrication'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Dingzeyu Li

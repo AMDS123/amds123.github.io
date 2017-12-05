@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Propagating Uncertainty in Multi-Stage Bayesian Convolutional Neural Networks with Application to Pulmonary Nodule Detection
-date:   2017-12-05 18:20:05
+title:  'Propagating Uncertainty in Multi-Stage Bayesian Convolutional Neural Networks with Application to Pulmonary Nodule Detection'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Onur Ozdemir, Benjamin Woodward, Andrew A. Berlin

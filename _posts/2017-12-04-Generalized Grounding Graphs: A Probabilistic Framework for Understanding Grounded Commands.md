@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Generalized Grounding Graphs: A Probabilistic Framework for Understanding Grounded Commands
-date:   2017-12-05 18:20:28
+title:  'Generalized Grounding Graphs: A Probabilistic Framework for Understanding Grounded Commands'
+date:   2017-12-05 18:45:01
 categories: CL
 tags: CL
 author: Thomas Kollar, Stefanie Tellex, Matthew Walter, Albert Huang, Abraham Bachrach, Sachi Hemachandra, Emma Brunskill, Ashis Banerjee, Deb Roy, Seth Teller, Nicholas Roy

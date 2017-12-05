@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions
-date:   2017-12-05 18:20:05
+title:  'Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Bichen Wu, Alvin Wan, Xiangyu Yue, Peter Jin, Sicheng Zhao, Noah Golmant, Amir Gholaminejad, Joseph Gonzalez, Kurt Keutzer

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Objects as context for detecting their semantic parts
-date:   2017-12-05 18:20:05
+title:  'Objects as context for detecting their semantic parts'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Abel Gonzalez-Garcia, Davide Modolo, Vittorio Ferrari

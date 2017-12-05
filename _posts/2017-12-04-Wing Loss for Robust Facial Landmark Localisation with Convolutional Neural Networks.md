@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks
-date:   2017-12-05 18:20:05
+title:  'Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Zhen-Hua Feng, Josef Kittler, Muhammad Awais, Patrik Huber, Xiao-Jun Wu

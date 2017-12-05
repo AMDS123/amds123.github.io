@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Multiframe Motion Coupling for Video Super Resolution
-date:   2017-12-05 18:20:05
+title:  'Multiframe Motion Coupling for Video Super Resolution'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Jonas Geiping, Hendrik Dirks, Daniel Cremers, Michael Moeller

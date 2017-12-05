@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects
-date:   2017-12-05 18:20:05
+title:  'Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Daniel Gordon, Ali Farhadi, Dieter Fox

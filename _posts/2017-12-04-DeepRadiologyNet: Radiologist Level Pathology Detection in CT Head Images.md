@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  DeepRadiologyNet: Radiologist Level Pathology Detection in CT Head Images
-date:   2017-12-05 18:20:05
+title:  'DeepRadiologyNet: Radiologist Level Pathology Detection in CT Head Images'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Jameson Merkow, Robert Lufkin, Kim Nguyen, Stefano Soatto, Zhuowen Tu, Andrea Vedaldi

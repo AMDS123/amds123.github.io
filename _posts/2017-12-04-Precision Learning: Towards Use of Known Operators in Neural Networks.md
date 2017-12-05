@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Precision Learning: Towards Use of Known Operators in Neural Networks
-date:   2017-12-05 18:20:05
+title:  'Precision Learning: Towards Use of Known Operators in Neural Networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Andreas Maier, Christopher Syben, Tobias W&#xfc;rfl, Stefan Steidl, Jang-Hwan Choi, Rebecca Fahrig

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Cascade R-CNN: Delving into High Quality Object Detection
-date:   2017-12-05 18:20:05
+title:  'Cascade R-CNN: Delving into High Quality Object Detection'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Zhaowei Cai, Nuno Vasconcelos

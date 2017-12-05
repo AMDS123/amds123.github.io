@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Deep Learning Can Reverse Photon Migration for Diffuse Optical Tomography
-date:   2017-12-05 18:20:05
+title:  'Deep Learning Can Reverse Photon Migration for Diffuse Optical Tomography'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Jaejun Yoo, Sohail Sabir, Duchang Heo, Kee Hyun Kim, Abdul Wahab, Yoonseok Choi, Seul-I Lee, Eun Young Chae, Hak Hee Kim, Young Min Bae, Young-wook Choi, Seungryong Cho, Jong Chul Ye

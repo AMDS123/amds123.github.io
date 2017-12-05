@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Incorporating External Knowledge to Answer Open-Domain Visual Questions with Dynamic Memory Networks
-date:   2017-12-05 18:20:05
+title:  'Incorporating External Knowledge to Answer Open-Domain Visual Questions with Dynamic Memory Networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Guohao Li, Hang Su, Wenwu Zhu

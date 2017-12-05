@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  On the Effects of Batch and Weight Normalization in Generative Adversarial Networks
-date:   2017-12-05 18:20:05
+title:  'On the Effects of Batch and Weight Normalization in Generative Adversarial Networks'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Sitao Xiang, Hao Li

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Image to Image Translation for Domain Adaptation
-date:   2017-12-05 18:20:05
+title:  'Image to Image Translation for Domain Adaptation'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Zak Murez, Soheil Kolouri, David Kriegman, Ravi Ramamoorthi, Kyungnam Kim

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Revisiting Graph Construction for Fast Image Segmentation
-date:   2017-12-05 18:20:05
+title:  'Revisiting Graph Construction for Fast Image Segmentation'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Zizhao Zhang, Fuyong Xing, Hanzi Wang, Yan Yan, Ying Huang, Xiaoshuang Shi, Lin Yang

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Multi-Content GAN for Few-Shot Font Style Transfer
-date:   2017-12-05 18:20:05
+title:  'Multi-Content GAN for Few-Shot Font Style Transfer'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Samaneh Azadi, Matthew Fisher, Vladimir Kim, Zhaowen Wang, Eli Shechtman, Trevor Darrell

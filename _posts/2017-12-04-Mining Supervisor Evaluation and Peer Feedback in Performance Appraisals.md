@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Mining Supervisor Evaluation and Peer Feedback in Performance Appraisals
-date:   2017-12-05 18:20:28
+title:  'Mining Supervisor Evaluation and Peer Feedback in Performance Appraisals'
+date:   2017-12-05 18:45:01
 categories: CL
 tags: CL
 author: Girish Keshav Palshikar, Sachin Pawar, Saheb Chourasia, Nitin Ramrakhiyani

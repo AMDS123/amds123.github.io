@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Iterative Deep Learning for Network Topology Extraction
-date:   2017-12-05 18:20:05
+title:  'Iterative Deep Learning for Network Topology Extraction'
+date:   2017-12-05 18:44:29
 categories: CV
 tags: CV
 author: Carles Ventura, Jordi Pont-Tuset, Sergi Caelles, Kevis-Kokitsi Maninis, Luc Van Gool
