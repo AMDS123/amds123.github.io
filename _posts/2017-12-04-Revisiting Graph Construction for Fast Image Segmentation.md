@@ -3,7 +3,7 @@ layout: post
 title: 'Revisiting Graph Construction for Fast Image Segmentation'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: arXiv_CV 'Segmentation'
+[arXiv_CV,Segmentation]
 author: Zizhao Zhang, Fuyong Xing, Hanzi Wang, Yan Yan, Ying Huang, Xiaoshuang Shi, Lin Yang
 ---
 
