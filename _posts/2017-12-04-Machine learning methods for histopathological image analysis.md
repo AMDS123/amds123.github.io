@@ -3,7 +3,7 @@ layout: post
 title: 'Machine learning methods for histopathological image analysis'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV]
+tags:[arXiv_CV]
 author: Daisuke Komura, Shumpei Ishikawa
 ---
 

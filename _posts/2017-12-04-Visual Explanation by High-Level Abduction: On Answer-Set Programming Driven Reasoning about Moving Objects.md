@@ -3,7 +3,7 @@ layout: post
 title: 'Visual Explanation by High-Level Abduction: On Answer-Set Programming Driven Reasoning about Moving Objects'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV]
+tags:[arXiv_CV]
 author: Jakob Suchan, Mehul Bhatt, Przemys&#x142;aw Wa&#x142;&#x119;ga, Carl Schultz
 ---
 

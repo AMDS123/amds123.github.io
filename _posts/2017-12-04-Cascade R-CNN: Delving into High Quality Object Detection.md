@@ -3,7 +3,7 @@ layout: post
 title: 'Cascade R-CNN: Delving into High Quality Object Detection'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV,Object Detection,Detection]
+tags:[arXiv_CV,Object Detection,Detection]
 author: Zhaowei Cai, Nuno Vasconcelos
 ---
 

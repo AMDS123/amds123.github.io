@@ -3,7 +3,7 @@ layout: post
 title: 'Compressed Video Action Recognition'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV,Action Recognition,Recognition]
+tags:[arXiv_CV,Action Recognition,Recognition]
 author: Chao-Yuan Wu, Manzil Zaheer, Hexiang Hu, R. Manmatha, Alexander J. Smola, Philipp Kr&#xe4;henb&#xfc;hl
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'An End-to-end 3D Convolutional Neural Network for Action Detection and Segmentation in Videos'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV,Segmentation,CNN,Detection]
+tags:[arXiv_CV,Segmentation,CNN,Detection]
 author: Rui Hou, Chen Chen, Mubarak Shah
 ---
 

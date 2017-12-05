@@ -3,7 +3,7 @@ layout: post
 title: 'Fruit recognition from images using deep learning'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV,Deep Learning,Recognition]
+tags:[arXiv_CV,Deep Learning,Recognition]
 author: Horea Mure&#x15f;an, Mihai Oltean
 ---
 

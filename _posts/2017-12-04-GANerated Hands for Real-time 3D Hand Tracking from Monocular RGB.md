@@ -3,7 +3,7 @@ layout: post
 title: 'GANerated Hands for Real-time 3D Hand Tracking from Monocular RGB'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV,GAN]
+tags:[arXiv_CV,GAN]
 author: Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt
 ---
 

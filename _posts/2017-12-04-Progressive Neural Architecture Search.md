@@ -3,7 +3,7 @@ layout: post
 title: 'Progressive Neural Architecture Search'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV]
+tags:[arXiv_CV]
 author: Chenxi Liu, Barret Zoph, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy
 ---
 

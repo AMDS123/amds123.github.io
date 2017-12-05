@@ -3,7 +3,7 @@ layout: post
 title: 'Learning to Segment Moving Objects'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV]
+tags:[arXiv_CV]
 author: Pavel Tokmakov, Cordelia Schmid, Karteek Alahari
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Face Translation between Images and Videos using Identity-aware CycleGAN'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV,GAN]
+tags:[arXiv_CV,GAN]
 author: Zhiwu Huang, Bernhard Kratzwald, Danda Pani Paudel, Jiqing Wu, Luc Van Gool
 ---
 

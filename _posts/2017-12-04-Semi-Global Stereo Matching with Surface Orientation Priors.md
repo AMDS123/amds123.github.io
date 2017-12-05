@@ -3,7 +3,7 @@ layout: post
 title: 'Semi-Global Stereo Matching with Surface Orientation Priors'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-[arXiv_CV,Semi Global]
+tags:[arXiv_CV,Semi Global]
 author: Daniel Scharstein, Tatsunori Taniai, Sudipta N. Sinha
 ---
 
