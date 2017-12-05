@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unsupervised Learning for Color Constancy'
-date: 2017-12-06 00:57:45
+date: 2017-12-06 02:05:30
 categories: arXiv_CV
 tags: arXiv_CV
 author: Nikola Banić, Sven Lončarić
