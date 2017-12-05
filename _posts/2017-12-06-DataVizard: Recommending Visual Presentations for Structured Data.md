@@ -3,7 +3,7 @@ layout: post
 title: 'DataVizard: Recommending Visual Presentations for Structured Data'
 date: 2017-12-06 03:24:54
 categories: arXiv_CV
-tags: arXiv_CV Caption Survey
+tags: arXiv_CV Image_Caption Caption Survey
 author: Rema Ananthanarayanan, Pranay Kr. Lohia, Srikanta Bedathur
 ---
 
