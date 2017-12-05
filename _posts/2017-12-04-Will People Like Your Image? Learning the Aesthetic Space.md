@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Will People Like Your Image? Learning the Aesthetic Space'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Katharina Schwarz, Patrick Wieschollek, Hendrik P. A. Lensch
@@ -15,4 +15,7 @@ Rating how aesthetically pleasing an image appears is a highly complex matter an
 
 ##### Abstract (translated by Google)
 评价一个形象如何在美学上令人愉悦的评价是一个非常复杂的问题，取决于大量不同的视觉因素。以前的工作已经通过在1维评定量表上进行排名来解决美学评分问题，例如，结合手工属性。在本文中，我们提出了一种相当普遍的方法来自动将审美愉悦性及其所有的复杂性映射到一个“审美空间”，以便获得高度精细的分辨率。详细地讲，利用深度学习，我们的方法直接将给定图像的编码学习到类似于视觉美学的高维特征空间中。除了提到的视觉因素之外，个人判断的差异对照片的可喜性有很大的影响。如今，在线平台允许用户只需点击一下就能“喜欢”或者赞成某些内容。为了整合多样化的人，我们利用这种多用户协议，并将380K图像（AROD）的大数据集与相关的元信息进行组合，并得出评分以评价给定照片的视觉愉悦度。我们在用户研究中验证了我们派生的美学模型。此外，没有任何额外的数据标签或手工功能，我们在AVA基准测试数据集上获得了最新的准确性。最后，由于我们的方法能够预测任意图像或视频的审美质量，因此我们展示了我们在诉诸照片集合的应用程序，捕获移动设备上的最佳照片以及从视频中提取美学关键帧的结果。
+
+##### URL
+[http://arxiv.org/abs/1611.05203](http://arxiv.org/abs/1611.05203)
 

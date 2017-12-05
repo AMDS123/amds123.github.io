@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Beyond Part Models: Person Retrieval with Refined Part Pooling'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang
@@ -15,4 +15,7 @@ Employing part-level features for pedestrian image description offers fine-grain
 
 ##### Abstract (translated by Google)
 在行人图像描述中使用部分级别的特征提供了细​​粒度的信息，并且在最近的文献中已经被验证为有益于人员检索。零件发现的前提是每个零件都应该位于适当位置。本文不是直接使用外部线索（例如姿态估计）直接定位部分，而是着重于每个部分的内容一致性。具体来说，我们的目标是学习人类检索的区分性的部分通知功能，并作出两个贡献。 （i）名为基于部分的卷积基线（PCB）的网络。给定一个图像输入，它输出一个卷积描述符，由几个部分级特征组成。采用统一的分区策略，PCB以最先进的方法获得了有竞争力的结果，证明了自己是人类检索的强大卷积基准。 （ii）精炼零件库（RPP）方法。统一划分不可避免地导致每个部分中的异常值，实际上与其他部分更相似。 RPP将这些异常值重新分配给它们最接近的部分，从而导致部件间一致性增强的精细部件。实验证实RPP可以让PCB获得新一轮的性能提升。例如，在Market-1501数据集中，我们实现了（77.4 + 4.2）％的mAP和（92.3 + 1.5）％的一级精度，大大超过了现有技术水平。
+
+##### URL
+[http://arxiv.org/abs/1711.09349](http://arxiv.org/abs/1711.09349)
 

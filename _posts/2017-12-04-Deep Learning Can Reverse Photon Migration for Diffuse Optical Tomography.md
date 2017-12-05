@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Deep Learning Can Reverse Photon Migration for Diffuse Optical Tomography'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Jaejun Yoo, Sohail Sabir, Duchang Heo, Kee Hyun Kim, Abdul Wahab, Yoonseok Choi, Seul-I Lee, Eun Young Chae, Hak Hee Kim, Young Min Bae, Young-wook Choi, Seungryong Cho, Jong Chul Ye
@@ -15,4 +15,7 @@ Can artificial intelligence (AI) learn complicated non-linear physics? Here we p
 
 ##### Abstract (translated by Google)
 人工智能（AI）可以学习复杂的非线性物理吗？在这里，我们提出了一种新的深度学习方法，学习非线性光子散射物理学，并获得准确的三维光学异常分布。与传统的黑盒深度学习方法相反，我们的深度网络学习颠倒Lippmann-Schwinger积分方程，描述混浊介质中漫散射近红外（NIR）光子的光子迁移的基本物理学。作为临床相关性的一个例子，我们将该方法应用于我们的原型漫射光学层析成像（DOT）。我们表明，我们的深层神经网络，只有模拟数据训练，可以准确地恢复仿生模型和活动物内的异常位置，而无需使用外源造影剂。
+
+##### URL
+[http://arxiv.org/abs/1712.00912](http://arxiv.org/abs/1712.00912)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Multi-Content GAN for Few-Shot Font Style Transfer'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Samaneh Azadi, Matthew Fisher, Vladimir Kim, Zhaowen Wang, Eli Shechtman, Trevor Darrell
@@ -15,4 +15,7 @@ In this work, we focus on the challenge of taking partial observations of highly
 
 ##### Abstract (translated by Google)
 在这项工作中，我们把注意力集中在对高度程式化的文本进行部分观察并将观察推广到在装饰字体中产生不可观察的字形的挑战上。为了从少数几个例子中产生一个一致的风格的多内容图像，我们提出了一个端到端的堆栈条件GAN模型，考虑沿着网络层的渠道和风格的内容。我们提出的网络将给定的字形的风格转移到看不见的内容，捕捉在现实世界中发现的高度程式化的字体，例如在电影海报或信息图表上的字体。我们试图转移印刷风格（如衬线和耳朵）以及文字风格（例如颜色渐变和效果）。我们的实验基于我们收集的数据集，包括10,000种不同风格的字体，只有极少数观察到的字形。
+
+##### URL
+[http://arxiv.org/abs/1712.00516](http://arxiv.org/abs/1712.00516)
 

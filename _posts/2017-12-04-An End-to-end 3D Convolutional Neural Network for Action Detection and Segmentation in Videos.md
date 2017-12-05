@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'An End-to-end 3D Convolutional Neural Network for Action Detection and Segmentation in Videos'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Rui Hou, Chen Chen, Mubarak Shah
@@ -15,4 +15,7 @@ In this paper, we propose an end-to-end 3D CNN for action detection and segmenta
 
 ##### Abstract (translated by Google)
 在本文中，我们提出了一个端到端的3D CNN，用于视频中的动作检测和分割。所提出的体系结构是一个统一的深度网络，能够基于三维卷积特征识别和定位动作。首先将视频分成等长的剪辑，然后针对每个剪辑，基于3D CNN特征生成一组管提议。最后，将不同剪辑的管提议链接在一起，并使用这些链接的视频提议来执行时空动作检测。这种自顶向下的动作检测方法明确地依赖于一组好的管提议来良好地执行，并且训练边界框回归通常需要大量的带注释的样本。为了弥补这一点，我们进一步将3D CNN扩展到编码器 - 解码器结构，并将动作分割制定为定位问题。首先对每帧的前景区域（即动作区域）进行分段，然后使用分段的前景地图来生成边界框。这种自下而上的方法通过利用分段的像素明智的注释来有效地避免管提议生成。分割框架也可以容易地应用于视频对象分割的一般问题。对多个视频数据集进行的大量实验证明，与现有技术相比，我们的动作检测和视频对象分割方法具有优越的性能。
+
+##### URL
+[http://arxiv.org/abs/1712.01111](http://arxiv.org/abs/1712.01111)
 

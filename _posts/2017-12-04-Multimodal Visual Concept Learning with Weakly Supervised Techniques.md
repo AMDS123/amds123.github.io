@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Multimodal Visual Concept Learning with Weakly Supervised Techniques'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Giorgos Bouritsas, Petros Koutras, Athanasia Zlatintsi, Petros Maragos
@@ -15,4 +15,7 @@ Despite the availability of a huge amount of video data accompanied by descripti
 
 ##### Abstract (translated by Google)
 尽管大量的视频数据伴随着描述性文本，但为了自动识别视频概念，利用自然语言中包含的信息并不总是很容易。为了实现这个目标，本文中，我们使用文本线索作为监督手段，引入两个弱监督技术来扩展多重实例学习（MIL）框架：模糊集多实例学习（FSMIL）和概率标签多实例学习（PLMIL ）。前者利用模糊集对语言描述的时空不精确性进行编码，而后者则用概率标注对每种描述的语义进行不同的解释，这两种解释都是通过凸优化算法制定的。此外，我们提供了一种新的技术来提取复杂语义存在的弱标签，由语义相似度计算组成。在COGNIMUSE数据库中，我们评估我们的方法，以面对和行动识别两个不同的问题，即电影伴随的电影的挑战性和现实的设置。我们表明，在这两个任务上，我们的方法都大大超过了最先进的弱监督方法以及其他基线。
+
+##### URL
+[http://arxiv.org/abs/1712.00796](http://arxiv.org/abs/1712.00796)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Lecture video indexing using boosted margin maximizing neural networks'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Di Ma, Xi Zhang, Xu Ouyang, Gady Agam
@@ -15,4 +15,7 @@ This paper presents a novel approach for lecture video indexing using a boosted 
 
 ##### Abstract (translated by Google)
 本文提出了一种新颖的讲座视频索引方法，使用增强型深度卷积神经网络系统。索引是通过将高质量的幻灯片图像（其文本是已知的或提取的）匹配到具有可能的噪声，透视失真和遮挡的较低分辨率的视频帧来执行的。我们提出了一个深度神经网络与增强框架结合，由两个子网络组成，目标是进行特征提取和相似性确定以进行匹配。经训练的网络被输入一对幻灯片图像和候选视频帧图像，并产生它们之间的相似性。在培训过程中，我们提出的网络中融入了一个促进框架。实验结果表明，与已知方法相比，所提出的方法更能够处理遮挡，空间变换和其他类型的噪声。
+
+##### URL
+[http://arxiv.org/abs/1712.00575](http://arxiv.org/abs/1712.00575)
 

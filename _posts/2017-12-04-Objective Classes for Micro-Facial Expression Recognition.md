@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Objective Classes for Micro-Facial Expression Recognition'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Adrian K. Davison, Walied Merghani, Moi Hoon Yap
@@ -15,4 +15,7 @@ Micro-expressions are brief spontaneous facial expressions that appear on a face
 
 ##### Abstract (translated by Google)
 微表情是指当一个人隐藏一种情绪时在脸上出现的简短的自发的面部表情，使其在微妙和持续时间上与正常的面部表情不同。目前，CASME II数据库中的情感类别是基于行动单位和自我报告的，在机器学习培训期间产生冲突。我们将表明，使用行动单位而不是预测的情绪来分类表达，消除了人类报告的潜在偏见。建议的类使用LBP-TOP，HOOF和HOG 3D特征描述符进行测试。在两个基准FACS编码数据集上评估实验：CASME II和SAMM。当使用HOG 3D对CASME II上提出的5个类别进行分类时，最佳结果达到了86.35％的准确率，超过了CASME II中最先进的5级情绪分类结果。结果表明，基于行动单元的分类为改善微表情识别提供了客观的方法。
+
+##### URL
+[http://arxiv.org/abs/1708.07549](http://arxiv.org/abs/1708.07549)
 

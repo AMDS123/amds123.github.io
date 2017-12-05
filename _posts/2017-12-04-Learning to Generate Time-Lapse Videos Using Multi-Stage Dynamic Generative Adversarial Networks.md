@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Wei Xiong, Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo
@@ -15,4 +15,7 @@ Taking a photo outside, can we predict the immediate future, \textit{e.g.}, how 
 
 ##### Abstract (translated by Google)
 在外面拍一张照片，我们可以预测不久的将来吗，例如，云将如何在天空中移动？我们通过提供基于生成对抗网络（GAN）的两阶段方法来生成高分辨率的现实时间推移视频来解决这个问题。鉴于第一帧，我们的模型学习产生长期的未来帧。第一阶段为每一帧生成真实内容的视频。第二阶段通过强化它在第一阶段生成的视频，以更接近真实的视频关于运动动态。为了进一步鼓励在最终生成的视频中的生动的运动，使用克拉矩阵来更精确地对运动进行建模。我们建立一个大规模的时间推移数据集，并在这个新的数据集上测试我们的方法。使用我们的模型，我们能够生成高达128美元的真实视频，128帧的分辨率为32帧。定量和定性的实验结果证明了我们的模型优于最先进的模型。
+
+##### URL
+[http://arxiv.org/abs/1709.07592](http://arxiv.org/abs/1709.07592)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Shape Complementarity Analysis for Objects of Arbitrary Shape'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Morad Behandish, Horea T. Ilies
@@ -15,4 +15,7 @@ The basic problem of shape complementarity analysis appears fundamental to appli
 
 ##### Abstract (translated by Google)
 形状互补分析的基本问题对机械设计，装配自动化，机器人运动规划，微米和纳米制造，蛋白质 - 配体结合以及合理的药物设计等多种应用来说是很基础的。然而，目前的挑战在于缺乏适用于任意形状的物体的一般数学公式。我们提出，形状互补的度量可以从形状骨架之间的近似重叠的程度获得。一个称为骨架密度函数（SDF）的骨架的空间连续隐式泛化定义在包含单独的装配伙伴的欧几里得空间上。 SDF形状描述符捕捉与适当接触对齐相关的基本特征，并且比传统的显式骨架表示更加稳健。我们将形状互补性分数表示为个体自卫队的卷积。然后，这个问题被分解到空间关系配置空间上的分数的全局优化，这可以使用对非空隙样本的快速傅里叶变换（FFT）来有效地实现。我们展示了从二维插入孔对齐到机械装配和蛋白质对接中更复杂的三维实例的几个例子的评分方法的有效性。我们表明，提出的方法是可靠的，固有的抗小扰动，有效的转向梯度优化。
+
+##### URL
+[http://arxiv.org/abs/1712.00238](http://arxiv.org/abs/1712.00238)
 

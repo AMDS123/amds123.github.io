@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'GAGAN: Geometry-Aware Generative Adverserial Networks'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Jean Kossaifi, Linh Tran, Yannis Panagakis, Maja Pantic
@@ -15,4 +15,7 @@ Deep generative models learned through adversarial training have become increasi
 
 ##### Abstract (translated by Google)
 通过对抗训练学习的深度生成模型由于其生成自然图像纹理的能力而变得越来越受欢迎。但是，除了视觉纹理之外，物体的视觉外观受其形状几何形状的明显影响，现有的生成模型没有考虑到这些信息。本文介绍了几何感知生成对抗网络（GAGAN）将几何信息纳入图像生成过程。具体而言，在GAGAN中，生成器从统计形状模型的概率空间中采样潜在变量。通过将发生器的输出映射到规范坐标系，通过可微分几何变换，我们强制执行对象的几何，并从生成的对象之前添加隐式连接。面部生成的实验结果表明，GAGAN能够生成具有任意面部属性（如面部表情，姿态和形态）的逼真图像，与现有的基于GAN的方法相比，具有更好的质量。最后，我们的方法可以很容易地结合到任何现有的GAN体系结构中，并提高图像的质量。
+
+##### URL
+[http://arxiv.org/abs/1712.00684](http://arxiv.org/abs/1712.00684)
 

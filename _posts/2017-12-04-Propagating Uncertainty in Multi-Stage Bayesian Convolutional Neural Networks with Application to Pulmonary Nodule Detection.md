@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Propagating Uncertainty in Multi-Stage Bayesian Convolutional Neural Networks with Application to Pulmonary Nodule Detection'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Onur Ozdemir, Benjamin Woodward, Andrew A. Berlin
@@ -15,4 +15,7 @@ Motivated by the problem of computer-aided detection (CAD) of pulmonary nodules,
 
 ##### Abstract (translated by Google)
 受到肺结节计算机辅助检测（CAD）问题的推动，我们引入了多阶段贝叶斯卷积神经网络（CNN）架构中的不确定性信息传播和融合方法。我们试图回答的问题是：“我们能利用一种深度学习模型提供的模型不确定性来提高后续深度学习模型的性能，最终提高多阶段贝叶斯深度学习架构的整体性能吗？”。我们的实验表明，通过流水线传播不确定性使得我们能够在最终预测精度和模型可信度方面提高总体性能。
+
+##### URL
+[http://arxiv.org/abs/1712.00497](http://arxiv.org/abs/1712.00497)
 

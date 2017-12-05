@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Semi-Global Stereo Matching with Surface Orientation Priors'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Daniel Scharstein, Tatsunori Taniai, Sudipta N. Sinha
@@ -15,4 +15,7 @@ Semi-Global Matching (SGM) is a widely-used efficient stereo matching technique.
 
 ##### Abstract (translated by Google)
 半全球匹配（SGM）是一种广泛使用的高效立体匹配技术。它适用于有纹理的场景，但由于其平行平滑假设，在无纹理的倾斜表面上失败。为了解决这个问题，我们提出了一个简单的扩展，称为SGM-P，以利用预先计算的表面定向先验。这样的先验在不同的2D图像区域或3D场景区域中倾向于不同的表面倾斜，并且可以以各种方式导出。在本文中，我们评估了从较粗糙分辨率的立体匹配导出的平面方向的先验，并显示出这样的先验可以在困难的弱纹理场景中产生显着的性能增益。我们还探索源自曼哈顿世界假设的表面正态前体，并且我们使用从地面实况数据得到的先验知识来分析潜在的性能增益。 SGM-P仅为SGM增加了一个小的计算开销，并且是采用更高阶平滑项的更复杂方法的有吸引力的替代方案。
+
+##### URL
+[http://arxiv.org/abs/1712.00818](http://arxiv.org/abs/1712.00818)
 

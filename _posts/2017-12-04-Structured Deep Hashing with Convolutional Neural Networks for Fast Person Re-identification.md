@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Lin Wu, Yang Wang
@@ -15,4 +15,7 @@ Given a pedestrian image as a query, the purpose of person re-identification is 
 
 ##### Abstract (translated by Google)
 给定行人图像作为查询，人物重新识别的目的是从大量的画廊图像中确定正确的匹配，描绘由不相交的摄像机视图捕获的同一个人。关键的挑战是如何构建一个强大而有区别的特征表示来捕捉行人外观的复杂变化。为此，已经提出了深度学习方法来提取针对外观的极端可变性的分层特征。但是，现有的这种方法一般忽略了匹配阶段的效率，而重新识别系统的搜索速度在现实应用中是至关重要的。在本文中，我们提出了一个新的深度哈希框架与卷积神经网络（CNNs）快速的人重新识别。从技术上讲，我们同时学习CNN特征和哈希函数/代码，以获得鲁棒性，但有区别的特征和相似性保持哈希码。因此，通过有效地计算和排列图像之间的汉明距离，可以解决人重新识别问题。提出了一个在正对和负向上定义的结构损失函数，用来形成一个新的优化问题，从而得到快速收敛和更稳定的最优解。在两个基准CUHK03 \ cite {FPNN}和Market-1501 \ cite {Market1501}上进行的大量实验表明，所提出的深层架构的效能优于现有技术。
+
+##### URL
+[http://arxiv.org/abs/1702.04179](http://arxiv.org/abs/1702.04179)
 

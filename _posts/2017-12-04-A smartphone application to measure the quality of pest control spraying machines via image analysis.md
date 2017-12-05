@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'A smartphone application to measure the quality of pest control spraying machines via image analysis'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Bruno B. Machado, Gabriel Spadon, Mauro S. Arruda, Wesley N. Goncalves, Andre C. P. L. F. Carvalho, Jose F. Rodrigues-Jr
@@ -15,4 +15,7 @@ The need for higher agricultural productivity has demanded the intensive use of 
 
 ##### Abstract (translated by Google)
 农业生产力提高的要求要求大量使用农药。然而，其正确使用取决于评估方法，可以准确预测农药喷洒覆盖预定作物区域的情况。文献中已经提出了一些方法，但是它们的高成本和低可移植性损害了它们的广泛使用。本文提出并实验性地评估了一种基于智能手机的移动应用程序DropLeaf的新方法。使用DropLeaf进行的实验表明，除了通用性外，还可以高精度地预测农药喷洒。 DropLeaf是基于以下方面的五重图像处理方法：（i）颜色空间转换，（ii）阈值噪声去除，（iii）膨胀和侵蚀的卷积操作，（iv）在水敏卡中检测轮廓标记（v）通过标记控制的分水岭转化来识别液滴。作者在两个案例研究中进行了成功的实验，第一个使用了一组合成卡片，第二个使用了真实世界的作物。拟议的工具可以广泛地用于配备传统移动电话的农民，从而改善农药对健康，环境和经济效益的使用。
+
+##### URL
+[http://arxiv.org/abs/1711.07828](http://arxiv.org/abs/1711.07828)
 

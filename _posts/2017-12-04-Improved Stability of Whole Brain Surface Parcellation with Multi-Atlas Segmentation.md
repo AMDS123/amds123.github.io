@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Improved Stability of Whole Brain Surface Parcellation with Multi-Atlas Segmentation'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Yuankai Huo, Shunxing Bao, Prasanna Parvathaneni, Bennett A. Landman
@@ -15,4 +15,7 @@ Whole brain segmentation and cortical surface parcellation are essential in unde
 
 ##### Abstract (translated by Google)
 全脑分割和皮层表面分割对理解大脑的解剖 - 功能关系至关重要。多图分割被认为是全脑分割的主要分割方法之一。在我们最近的工作中，多地图技术已经适应了使用称为Multi-Atlas CRUISE（MaCRUISE）的方法进行地表重建。 MaCRUISE方法不仅可以执行一致的体积表面分析，而且与FreeSurfer方法相比，还显示了鲁棒性方面的优势。然而，MaCRUISE没有提供详细的表面分割，这阻碍了基于感兴趣区域（ROI）的表面分析。在此，提出用MaCRUISE表面分块（MaCRUISEsp）方法对由MaCRUISE重建的内，中，外表面进行表面分块。 MaCRUISEsp根据拓扑校正步骤分别使用基于体积分割的表面分割（VSBSP）的98个皮质标签分割内部，中央和外部表面。为了验证MaCRUISEsp的性能，使用来自Kirby21数据集的21个扫描 - 重新扫描磁共振成像（MRI）T1体积对进行重现性分析。 MaCRUISEsp对中心表面的Dice相似系数（DSC）的平均值为0.948。同时，FreeSurfer的内表面DSC为0.905，外表面为0.881 DSC，而内表面的DSC为0.929，外表面的DSC为0.835。定性地说，结果是令人鼓舞的，但不能直接比较，因为这两种方法使用不同的皮质标签定义。
+
+##### URL
+[http://arxiv.org/abs/1712.00543](http://arxiv.org/abs/1712.00543)
 

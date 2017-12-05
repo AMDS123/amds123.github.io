@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'An Error Detection and Correction Framework for Connectomics'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Jonathan Zung, Ignacio Tartavull, Kisuk Lee, H. Sebastian Seung
@@ -15,4 +15,7 @@ We define and study error detection and correction tasks that are useful for 3D 
 
 ##### Abstract (translated by Google)
 我们定义和研究错误检测和纠正任务，这些任务对于电子显微图像中的神经元的三维重建以及更普遍的图像分割是有用的。这两个任务都将原始图像和代表候选对象的二进制掩码作为输入。对于错误检测任务，所需的输出是对象中的拆分和合并错误的映射。对于纠错任务，所需的输出是真实的对象。我们称之为对象遮罩修剪，因为候选对象遮罩被假定为真实对象的超集。我们训练多尺度的三维卷积网络来执行这两个任务。我们发现错误检测网络可以达到很高的精度。如果其输入对象掩码是来自错误检测网络的“建议”（错误对象的联合），则纠错网络的准确性得到增强。
+
+##### URL
+[http://arxiv.org/abs/1708.02599](http://arxiv.org/abs/1708.02599)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Revisiting Graph Construction for Fast Image Segmentation'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Zizhao Zhang, Fuyong Xing, Hanzi Wang, Yan Yan, Ying Huang, Xiaoshuang Shi, Lin Yang
@@ -15,4 +15,7 @@ In this paper, we propose a simple but effective method for fast image segmentat
 
 ##### Abstract (translated by Google)
 在本文中，我们提出了一个简单而有效的快速图像分割方法。我们通过在全局和局部连接的图像区域上构建一个图来重新检查谱聚类的局部保持特性。我们建立图连接的新方法依赖于两个关键的观察：1）经常出现的局部区域对将很有可能驻留在一个共同的对象上; 2）在一个共同的对象空间遥远的地区往往表现出相似的视觉显着性，这意味着他们的邻居在一个歧管。我们提出了一种新的能量函数来有效地进行图分区。基于多个高质量分区，我们证明了生成的基于特征向量直方图的表示可以自动驱动一个分层随机场模型的有效一元电位来产生多类分割。在BSDS500基准，大型PASCAL VOC和COCO数据集上进行充分的实验证明了与其他国家相比，我们所提出方法的竞争性分割准确性和显着提高的效率。
+
+##### URL
+[http://arxiv.org/abs/1702.05650](http://arxiv.org/abs/1702.05650)
 

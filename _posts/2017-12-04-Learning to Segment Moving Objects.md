@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Learning to Segment Moving Objects'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Pavel Tokmakov, Cordelia Schmid, Karteek Alahari
@@ -15,4 +15,7 @@ We study the problem of segmenting moving objects in unconstrained videos. Given
 
 ##### Abstract (translated by Google)
 我们研究在无约束视频中分割移动对象的问题。给定一个视频，任务是分割所有在至少一帧中展示独立运动的对象。我们将其作为一个学习问题，并用三个线索来设计我们的框架：（i）一对框架之间的独立对象运动，它补充对象识别;（ii）对象外观，这有助于纠正运动估计中的错误; ）时间一致性，这对分割施加了额外的限制。该框架是一个具有显式存储器模块的双流神经网络。两个流分别对视频序列中的外观和运动提示进行编码，而内存模块随时间捕获对象的演变，利用时间一致性。运动流是在合成视频上训练的卷积神经网络，以在光流场中分割独立移动的物体。利用从少量训练视频序列中学习的卷积递归单元来实现在视频中构建“视觉存储器”的模块，即所有视频帧的联合表示。对于测试视频帧中的每个像素，我们的方法根据学习的时空特征以及特定于视频的“视觉记忆”来分配对象或背景标签。我们在三个基准（DAVIS，Freiburg-Berkeley运动分割数据集和SegTrack）上广泛评估我们的方法。此外，我们提供广泛的消融研究来调查培训数据的选择和每个组件在拟议框架中的影响。
+
+##### URL
+[http://arxiv.org/abs/1712.01127](http://arxiv.org/abs/1712.01127)
 

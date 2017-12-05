@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Towards understanding feedback from supermassive black holes using convolutional neural networks'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Stanislav Fort
@@ -15,4 +15,7 @@ Supermassive black holes at centers of clusters of galaxies strongly interact wi
 
 ##### Abstract (translated by Google)
 在星系团簇中心的超大质量黑洞通过AGN反馈强烈地与其宿主环境相互作用。这种活动的关键示踪剂是X射线腔 - 在组内X射线亮度较低的区域。我们提出了一种自动的方法来检测和表征嘈杂，低分辨率的X射线图像中的X射线腔体。我们模拟星系团，将空洞插入星系，产生逼真的低质量图像，与高红移的观测结果相媲美。然后，我们训练一个定制的卷积神经网络来生成一个集群中腔体存在的像素分析。然后使用ResNet架构来解码来自像素方式预测的腔的半径。我们在仿真数据上超越了目前基于视觉检测方法的精度，稳定性和速度。
+
+##### URL
+[http://arxiv.org/abs/1712.00523](http://arxiv.org/abs/1712.00523)
 

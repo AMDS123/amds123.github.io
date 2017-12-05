@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Robust 3D Action Recognition through Sampling Local Appearances and Global Distributions'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Mengyuan Liu, Hong Liu, Chen Chen
@@ -15,4 +15,7 @@ author: Mengyuan Liu, Hong Liu, Chen Chen
 
 ##### Abstract (translated by Google)
 三维动作识别在人机交互和智能监控方面有着广泛的应用。然而，认识到类似的行为仍然具有挑战性，因为以前的文献无法有效地从噪音深度数据中捕捉运动和形成线索。在本文中，我们提出了一种新的视觉单词袋（BoVW）模型，它抑制了噪声干扰并共同编码运动和形状线索。首先，通过为深度数据设计的背景建模方法去除背景杂波。然后，运动和形状线索共同用于生成强健和独特的时空兴趣点（STIPs）：基于运动的STIPs和基于形状的STIPs。在我们模型的第一层，提出了一个多尺度三维局部控制核（M3DLSK）描述符来描述基于运动的STIP周围的长方体的局部外观。在第二层中，提出了时空矢量（STV）描述符来描述基于形状的STIP的空间 - 时间分布。使用Bag-of-Visual-Words（BoVW）模型，运动和形状线索被组合以形成融合的动作表示。与普通的STIP检测和描述方法相比，我们的模型性能更好。彻底的实验验证了我们的模型在区分相似动作和鲁棒背景杂波，部分遮挡和胡椒噪声方面是有效的。
+
+##### URL
+[http://arxiv.org/abs/1712.01090](http://arxiv.org/abs/1712.01090)
 

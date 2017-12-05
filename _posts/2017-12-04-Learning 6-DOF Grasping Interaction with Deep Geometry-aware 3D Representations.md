@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Learning 6-DOF Grasping Interaction with Deep Geometry-aware 3D Representations'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Xinchen Yan, Jasmine Hsu, Mohi Khansari, Yunfei Bai, Arkanath Pathak, Abhinav Gupta, James Davidson, Honglak Lee
@@ -15,4 +15,7 @@ This paper focuses on the problem of learning 6-DOF grasping with a parallel jaw
 
 ##### Abstract (translated by Google)
 本文重点研究了用平行爪夹钳模拟学习6自由度的问题。我们基于三维几何知识处于相互作用的核心的假设，提出了基于几何意义的表示的概念。我们的主要思想是通过三维几何预测来约束和规范掌握交互学习。具体来说，我们通过两个步骤来制定深度几何意识的抓取模型的学习：首先，我们学习通过从生成的三维形状建模的RGBD输入重构场景（即3D占用网格）来建立心理几何感知表示。其次，我们学习用内部几何感知表示来预测抓握结果。学习结果预测模型被用于通过综合分析优化顺序地提出抓取解决方案。我们的贡献有四个方面：（1）据我们所知，我们首次提出了一种从RGBD输入学习六自由度抓网的方法; （2）通过丰富的感官和交互注释，从虚拟现实中的示范中建立一个抓取数据集。这个数据集包括101个日常对象，分布在7个类别，另外，我们提出了一个有效学习的数据增强策略; （3）我们证明了学习的几何感知表示可以使我们的数据集中的对象从基线CNN上获得10％的相对性能提升。 （4）我们进一步证明该模型推广到新颖的观点和对象实例。
+
+##### URL
+[http://arxiv.org/abs/1708.07303](http://arxiv.org/abs/1708.07303)
 

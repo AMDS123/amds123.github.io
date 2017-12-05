@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Automatic Recognition of Coal and Gangue based on Convolution Neural Network'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Huichao Hong, Lixin Zheng, Jianqing Zhu, Shuwan Pan, Kaiting Zhou
@@ -15,4 +15,7 @@ We designed a gangue sorting system,and built a convolutional neural network mod
 
 ##### Abstract (translated by Google)
 我们设计了一个煤矸石分拣系统，并建立了一个基于AlexNet的卷积神经网络模型。利用数据增强和传递学习来解决训练阶段卷积神经网络训练数据不足的问题。提出一种物体检测和区域裁剪算法，将训练图像数据调整到最佳尺寸。该算法与传统的神经网络和支持向量机算法相比，对煤和煤矸石的识别率较高，为煤矸石识别分离提供了重要参考。
+
+##### URL
+[http://arxiv.org/abs/1712.00720](http://arxiv.org/abs/1712.00720)
 

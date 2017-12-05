@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Chord Generation from Symbolic Melody Using BLSTM Networks'
-date:   2017-12-05 18:45:06
+date:   2017-12-05 18:48:03
 categories: SD
 tags: SD
 author: Hyungui Lim, Seungyeon Rhyu, Kyogu Lee
@@ -15,4 +15,7 @@ Generating a chord progression from a monophonic melody is a challenging problem
 
 ##### Abstract (translated by Google)
 从单音旋律生成和弦进程是一个具有挑战性的问题，因为和弦进行需要一系列同时播放的分层音符。本文提出了一种使用在铅表数据库上训练的双向长期短期记忆（BLSTM）网络从符号旋律中产生和弦序列的新颖方法。为此，从每个单音旋律的音符中的​​音符中提取由12个半音组成的一组特征向量。为了确保数据共享统一的密钥和持续时间特性，对向量的密钥和时间标记进行归一化。然后BLSTM网络从数据中学习并入时间依赖性以产生和弦进程。通过将所提出的方法与传统的基于HMM和DNN-HMM的方法进行比较来进行定量和定性评估。建议模型的性能分别比其他机型提高了23.8％和11.4％。用户研究进一步证实了由所提出的方法产生的和弦序列被听众所偏好。
+
+##### URL
+[http://arxiv.org/abs/1712.01011](http://arxiv.org/abs/1712.01011)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Raw Waveform-based Audio Classification Using Sample-level CNN Architectures'
-date:   2017-12-05 18:45:06
+date:   2017-12-05 18:48:03
 categories: SD
 tags: SD
 author: Jongpil Lee, Taejun Kim, Jiyoung Park, Juhan Nam
@@ -15,4 +15,7 @@ Music, speech, and acoustic scene sound are often handled separately in the audi
 
 ##### Abstract (translated by Google)
 音乐，语音和声场景声音由于其不同的信号特性而经常在音频领域单独处理。然而，随着图像领域的多样化图像分类模型迅速增长，有必要研究可扩展的分类模型在音频领域。在这项研究中，我们使用两种类型的采样级深度卷积神经网络来处理这个问题，这些网络采用原始波形作为输入并使用小粒度的滤波器。一个是由卷积和积层组成的基本模型。另一种是改进的模型，另外还有剩余连接，挤压和激励模块以及多级连接。我们展示了样本级模型达到了三种不同类型声音的最新性能水平。此外，我们沿着图层可视化过滤器，并比较学习过滤器的特性。
+
+##### URL
+[http://arxiv.org/abs/1712.00866](http://arxiv.org/abs/1712.00866)
 

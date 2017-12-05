@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Multiframe Motion Coupling for Video Super Resolution'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Jonas Geiping, Hendrik Dirks, Daniel Cremers, Michael Moeller
@@ -15,4 +15,7 @@ The idea of video super resolution is to use different view points of a single s
 
 ##### Abstract (translated by Google)
 视频超分辨率的想法是使用单个场景的不同视点来提高总体分辨率和质量。经典能量最小化方法首先建立当前帧与其所有邻居在某个半径的对应关系，然后使用这个时间信息进行增强。在本文中，我们提出了第一种变分超分辨率方法，通过在高分辨率图像帧本身之间结合运动信息来计算一批批优化过程中的几个超分辨率帧。结果，运动估计问题的数量在帧数上呈线性增长，与经典方法的二次增长相反，并且时间一致性自然得到强化。我们使用最小卷积正则化以及自动参数平衡方案来自动确定运动信息的可靠性，并且在本地重新调整正则化。我们证明，我们的方法可以得到最先进的结果，甚至可以和机器学习方法竞争。
+
+##### URL
+[http://arxiv.org/abs/1611.07767](http://arxiv.org/abs/1611.07767)
 

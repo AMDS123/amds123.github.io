@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Visual Explanation by High-Level Abduction: On Answer-Set Programming Driven Reasoning about Moving Objects'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Jakob Suchan, Mehul Bhatt, Przemys&#x142;aw Wa&#x142;&#x119;ga, Carl Schultz
@@ -15,4 +15,7 @@ We propose a hybrid architecture for systematically computing robust visual expl
 
 ##### Abstract (translated by Google)
 我们提出了一个混合体系结构，用于系统地计算包含假设形成，信念修正和视频数据的默认推理的强大的视觉解释。该体系结构由两个紧密集成的协同组件组成：（1）（功能）答案集基于程序设计的诱捕推理，以时空tracklets作为本地实体;和（2）用于基于对象跟踪和运动分析的检测的可视处理流水线。 </ p> <p>我们提出了正式框架，其作为答案集编程中的（声明性）方法的一般实现，以及基于两个不同视频数据集的示例应用和评估：由视觉社群开发的MOTChallenge基准最近开发的电影数据集。
+
+##### URL
+[http://arxiv.org/abs/1712.00840](http://arxiv.org/abs/1712.00840)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Feature Agglomeration Networks for Single Stage Face Detection'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Jialiang Zhang, Xiongwei Wu, Jianke Zhu, Steven C.H. Hoi
@@ -15,4 +15,7 @@ Recent years have witnessed promising results of face detection using deep learn
 
 ##### Abstract (translated by Google)
 近年来，使用深度学习的人脸检测已经取得了令人满意的结果，特别是对于基于区域的卷积神经网络（R-CNN）方法及其变体族。尽管取得了令人瞩目的进展，但在野外面部检测仍然是一个开放的研究挑战，尤其是在检测面部截然不同的尺寸和特征时。在本文中，我们提出了一种新的“特征聚集网络”（FAN）框架来构建一个新的单级人脸检测器，它不仅达到了最先进的性能，而且能够高效地运行。正如最近成功通过特征金字塔网络（FPN）引用通用对象检测的启发，我们框架的核心思想是利用单一卷积神经网络的固有多尺度特征来检测不同尺度通过将不同规模的高级语义特征地图作为上下文线索进行聚合，以边缘额外的计算代价，通过分层聚集方式来扩充底层特征地图。与现有的FPN方法不同，我们使用一个新的{\ it Agglomerative Connection}模块来构建我们的FAN体系结构，并进一步提出了一个有效训练FAN模型的分层丢失模型。我们在多个公共人脸检测基准上对所提出的FAN检测器进行评估，并在GPU上实现了具有实时检测速度的最新技术成果。
+
+##### URL
+[http://arxiv.org/abs/1712.00721](http://arxiv.org/abs/1712.00721)
 

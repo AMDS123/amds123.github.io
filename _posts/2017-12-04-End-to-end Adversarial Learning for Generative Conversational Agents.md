@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'End-to-end Adversarial Learning for Generative Conversational Agents'
-date:   2017-12-05 18:45:01
+date:   2017-12-05 18:47:54
 categories: CL
 tags: CL
 author: Oswaldo Ludwig
@@ -15,4 +15,7 @@ This paper presents a new adversarial learning method for generative conversatio
 
 ##### Abstract (translated by Google)
 除了新的GCA模型外，本文提出了一种新的生成性会话代理（GCA）的对抗学习方法。与之前关于对话生成的对抗性学习的研究类似，我们的方法假定GCA是一个生成器，其目的是欺骗一个将对话标记为人类生成或机器生成的鉴别器;然而，在我们的方法中，鉴别器执行令牌级分类，即它指示当前令牌是由人还是机器产生的。为此，鉴别器还接收上下文话语（对话历史）和直到当前令牌的不完整答案作为输入。这种新方法使反向传播的端到端培训成为可能。自我对话过程可以产生一组生成的对抗性更强的多样性数据。这种方法提高了与训练数据无关的问题的性能。人力和敌对评估的实验结果表明，敌对方法比通常的教师强迫训练产生显着的性能增益。
+
+##### URL
+[http://arxiv.org/abs/1711.10122](http://arxiv.org/abs/1711.10122)
 

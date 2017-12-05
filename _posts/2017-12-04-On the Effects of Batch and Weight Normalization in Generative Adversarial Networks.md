@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'On the Effects of Batch and Weight Normalization in Generative Adversarial Networks'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Sitao Xiang, Hao Li
@@ -15,4 +15,7 @@ Generative adversarial networks (GANs) are highly effective unsupervised learnin
 
 ##### Abstract (translated by Google)
 生成对抗网络（GAN）是非常有效的无监督学习框架，可以生成非常清晰的数据，甚至对于具有复杂，高度多模式分布的图像等数据。然而，已知GAN非常难以训练，遭遇诸如模式崩溃和令人不安的视觉伪影之类的问题。批量标准化（BN）技术已被引入到培训中。尽管BN在一开始就加速训练，但是我们的实验表明BN的使用可能不稳定，并且对训练模型的质量有负面影响。对国民阵和最近提出的其他改进GAN训练方案的评估受到GAN模型缺乏有效客观质量测量的阻碍。为了解决这些问题，我们首先引入了用于GAN训练的权重归一化（WN）方法，其显着提高了生成的样本的稳定性，效率和质量。为了进行有条理的评估，我们引入了测试集上的欧式重建误差平方作为一个新的客观量度，从速度，稳定性和生成样本的质量来评估训练性能。我们在常用数据集（CelebA，LSUN卧室和CIFAR-10）上使用标准DCGAN架构进行的实验表明，使用WN进行的训练对于GAN来说总体上优于BN，相比于重构的均方损失低10％，定性结果明显好于BN。我们进一步证明了用CelebA数据集训练的21层ResNet上的WN的稳定性。本文的代码可以在https://github.com/stormraiser/gan-weightnorm-resnet上找到
+
+##### URL
+[http://arxiv.org/abs/1704.03971](http://arxiv.org/abs/1704.03971)
 

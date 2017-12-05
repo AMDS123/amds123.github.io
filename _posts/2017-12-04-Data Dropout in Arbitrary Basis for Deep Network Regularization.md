@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Data Dropout in Arbitrary Basis for Deep Network Regularization'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Mostafa Rahmani, George Atia
@@ -15,4 +15,7 @@ An important problem in training deep networks with high capacity is to ensure t
 
 ##### Abstract (translated by Google)
 培养高容量深度网络的一个重要问题就是要保证训练好的网络能够很好地适应新的输入。压差是一种有效的正则化技术，用于提高网络泛化能力，在训练过程中，将给定数据的元素的随机子集和提取的特征设置为零。在本文中，我们提出了一种新的随机正则化技术，在这种技术中，我们不需要关闭神经元/数据元素就可以保留一部分随机数据。在所提出的方法中，传统的丢失被表示为特殊情况，随机数据丢失是在任意的基础上执行的。此外，我们提出了一个框架，有效地将所提出的技术应用于卷积神经网络。所提出的数值实验表明，所提出的技术产生显着的性能增益。所提出的方法被称为广义丢失，它提供了对丢失概念的深入认识，表明我们可以使用不同的基矩阵来获得不同的性能增益，并且开辟了一个新的研究问题，就如何选择最优的基矩阵来实现最大的性能获得。
+
+##### URL
+[http://arxiv.org/abs/1712.00891](http://arxiv.org/abs/1712.00891)
 

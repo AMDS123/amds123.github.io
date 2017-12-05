@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Sentiment Classification using Images and Label Embeddings'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Laura Graesser, Abhinav Gupta, Lakshay Sharma, Evelina Bakhturina
@@ -15,4 +15,7 @@ In this project we analysed how much semantic information images carry, and how 
 
 ##### Abstract (translated by Google)
 在这个项目中，我们分析了多少语义信息图像所携带的图像数据可以添加到与图像相关联的文本的情感分析中。为了更好地理解图像的贡献，我们比较了仅使用图像数据的模型，仅使用文本数据的模型以及组合这两种数据类型的模型。我们还分析了这种方法是否可以帮助情感分类器推广到未知的情绪。
+
+##### URL
+[http://arxiv.org/abs/1712.00725](http://arxiv.org/abs/1712.00725)
 

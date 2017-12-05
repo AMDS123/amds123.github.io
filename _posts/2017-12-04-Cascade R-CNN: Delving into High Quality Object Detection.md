@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Cascade R-CNN: Delving into High Quality Object Detection'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Zhaowei Cai, Nuno Vasconcelos
@@ -15,4 +15,7 @@ In object detection, an intersection over union (IoU) threshold is required to d
 
 ##### Abstract (translated by Google)
 在对象检测中，需要通过联合（IoU）阈值的交集来定义肯定和否定。用低IoU阈值进行训练的目标检测器，例如， 0.5，通常会产生嘈杂的检测结果。但是，随着IoU阈值的提高，检测性能会降低。造成这种情况的主要因素有两个：1）由于指数消失的正样本，训练过度拟合; 2）检测器最优的输入假设与输入假设的输入假设之间的推理时间不匹配。为了解决这些问题，提出了多级对象检测体系结构Cascade R-CNN。它由一系列随着IoU阈值增加而训练的检测器组成，依次对接近的假阳性有更多的选择性。探测器是逐步培训的，利用了探测器的输出是一个良好的分布，以培养下一个更高质量的探测器的观察。对不断改进的假设进行重采样可以保证所有检测器都有一组正确的等效大小的例子，减少了过度拟合的问题。在推理中应用相同的级联过程，使得各个阶段的假设与检测器质量之间更接近匹配。示出了级联R-CNN的简单实现超过具有挑战性的COCO数据集上的所有单模式对象检测器。实验还表明，级联R-CNN可广泛应用于各种检测器架构，获得与基线检测器强度无关的一致增益。代码将在https://github.com/zhaoweicai/cascade-rcnn上提供。
+
+##### URL
+[http://arxiv.org/abs/1712.00726](http://arxiv.org/abs/1712.00726)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Incorporating External Knowledge to Answer Open-Domain Visual Questions with Dynamic Memory Networks'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Guohao Li, Hang Su, Wenwu Zhu
@@ -15,4 +15,7 @@ Visual Question Answering (VQA) has attracted much attention since it offers ins
 
 ##### Abstract (translated by Google)
 视觉问答（VQA）引人关注，因为它提供了对图像的多模式分析与自然语言之间关系的深入了解。目前的大多数算法都不能回答开放领域的问题，这些问题需要在图像内容之外进行推理。为了解决这个问题，我们提出了一个新的框架，通过利用大量的外部知识和动态记忆网络，赋予模型在回答更复杂的问题上的能力。具体来说，问题连同相应的图像触发一个过程来检索外部知识库中的相关信息，通过保留实体 - 关系结构将其嵌入到连续向量空间中。之后，我们采用动态记忆网络来处理知识图形和图像中的大量事实，然后对这些事实进行推理以产生相应的答案。大量的实验表明，我们的模型不仅在视觉问题解答任务中达到了最高水平的表现，而且能够利用外部知识有效地回答开放领域的问题。
+
+##### URL
+[http://arxiv.org/abs/1712.00733](http://arxiv.org/abs/1712.00733)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Compressed Video Action Recognition'
-date:   2017-12-05 18:44:29
+date:   2017-12-05 18:47:33
 categories: CV
 tags: CV
 author: Chao-Yuan Wu, Manzil Zaheer, Hexiang Hu, R. Manmatha, Alexander J. Smola, Philipp Kr&#xe4;henb&#xfc;hl
@@ -15,4 +15,7 @@ Training robust deep video representations has proven to be much more challengin
 
 ##### Abstract (translated by Google)
 训练强壮的深度视频表示已经被证明比学习深度图像表示更困难，因此阻碍了视频动作识别等任务。这部分是由于原始视频流的巨大尺寸，所需的相关计算量以及高时间冗余。 “真实”和有趣的信号经常被淹没在太多不相关的数据中。由于视频压缩技术（如H.264，HEVC等）可以将多余的信息降低两个数量级，因此在这项工作中，我们建议直接在压缩视频上训练一个深度网络，没有冗余，而不是传统的高冗余RGB流。这种表示具有更高的信息密度，我们发现训练更容易。另外，压缩视频中的信号提供了免费的，尽管是嘈杂的运动信息。我们提出了新的技术来有效地使用它们。我们的方法比现有技术的3D-CNN模型快4.6倍，比ResNet-152快2.7倍，而且非常容易实现。在动作识别的任务上，我们的方法优于UCF-101，HMDB-51和Charades数据集上的所有其他方法。
+
+##### URL
+[http://arxiv.org/abs/1712.00636](http://arxiv.org/abs/1712.00636)
 

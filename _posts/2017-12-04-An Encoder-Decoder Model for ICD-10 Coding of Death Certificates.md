@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'An Encoder-Decoder Model for ICD-10 Coding of Death Certificates'
-date:   2017-12-05 18:45:01
+date:   2017-12-05 18:47:54
 categories: CL
 tags: CL
 author: Elena Tutubalina, Zulfat Miftahutdinov
@@ -15,4 +15,7 @@ Information extraction from textual documents such as hospital records and healt
 
 ##### Abstract (translated by Google)
 从医院记录和与健康有关的用户讨论等文本文件中提取信息已经成为人们关注的话题。医学概念编码的任务是将可变长度的文本映射到一些外部系统或本体的医学概念和相应的分类代码。在这项工作中，我们利用递归神经网络自动将ICD-10代码分配给用英文写成的死亡证书片段。我们开发直接针对任务的端到端神经架构，包括用于统计翻译的基本编码器 - 解码器架构。为了结合先前的知识，我们将文本和字典条目之间的余弦相似度向量连接到编码状态。应用于CLEF eHealth 2017挑战的标准基准测试，我们的模型在完整的测试集中获得了85.01％的F-measure，与所有官方参与者的平均得分为62.2％相比有了显着的改善。
+
+##### URL
+[http://arxiv.org/abs/1712.01213](http://arxiv.org/abs/1712.01213)
 
