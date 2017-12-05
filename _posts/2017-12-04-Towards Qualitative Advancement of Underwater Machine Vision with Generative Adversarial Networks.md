@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'Towards Qualitative Advancement of Underwater Machine Vision with Generative Adversarial Networks'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV
 author: Xingyu Chen, Junzhi Yu, Shihan Kong, Zhengxing Wu, Xi Fang, Li Wen
 ---
 

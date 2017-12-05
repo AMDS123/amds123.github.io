@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'Learning Neural Markers of Schizophrenia Disorder Using Recurrent Neural Networks'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV
 author: Jumana Dakka, Pouya Bashivan, Mina Gheiratmand, Irina Rish, Shantenu Jha, Russell Greiner
 ---
 

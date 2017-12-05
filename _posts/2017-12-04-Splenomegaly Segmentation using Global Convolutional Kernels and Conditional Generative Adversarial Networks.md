@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'Splenomegaly Segmentation using Global Convolutional Kernels and Conditional Generative Adversarial Networks'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV segmentation
 author: Yuankai Huo, Zhoubing Xu, Shunxing Bao, Camilo Bermudez, Andrew J. Plassard, Jiaqi Liu, Yuang Yao, Albert Assad, Richard G. Abramson, Bennett A. Landman
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'A smartphone application to measure the quality of pest control spraying machines via image analysis'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV
 author: Bruno B. Machado, Gabriel Spadon, Mauro S. Arruda, Wesley N. Goncalves, Andre C. P. L. F. Carvalho, Jose F. Rodrigues-Jr
 ---
 

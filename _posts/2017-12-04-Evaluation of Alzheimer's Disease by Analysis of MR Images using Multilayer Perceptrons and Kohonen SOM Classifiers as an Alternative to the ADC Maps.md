@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'Evaluation of Alzheimer's Disease by Analysis of MR Images using Multilayer Perceptrons and Kohonen SOM Classifiers as an Alternative to the ADC Maps'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV
 author: Wellington Pinheiro dos Santos, Ricardo Emmanuel de Souza, Pl&#xed;nio B. dos Santos Filho
 ---
 

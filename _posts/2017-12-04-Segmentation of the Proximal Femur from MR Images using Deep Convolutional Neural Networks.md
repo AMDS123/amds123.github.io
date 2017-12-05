@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'Segmentation of the Proximal Femur from MR Images using Deep Convolutional Neural Networks'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV segmentation
 author: Cem M. Deniz, Siyuan Xiang, Spencer Hallyburton, Arakua Welbeck, Stephen Honig, Kyunghyun Cho, Gregory Chang
 ---
 

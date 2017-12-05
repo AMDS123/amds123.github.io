@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'A Variational Approach to Shape-from-shading Under Natural Illumination'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV
 author: Yvain Qu&#xe9;au, Jean M&#xe9;lou, Fabien Castan, Daniel Cremers, Jean-Denis Durou
 ---
 

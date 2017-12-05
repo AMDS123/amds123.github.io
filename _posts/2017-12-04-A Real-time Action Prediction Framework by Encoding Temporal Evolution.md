@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'A Real-time Action Prediction Framework by Encoding Temporal Evolution'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV
 author: Fahimeh Rezazadegan, Sareh Shirazi, Larry S. Davis
 ---
 

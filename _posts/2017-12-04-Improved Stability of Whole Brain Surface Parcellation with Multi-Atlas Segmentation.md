@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'Improved Stability of Whole Brain Surface Parcellation with Multi-Atlas Segmentation'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV segmentation
 author: Yuankai Huo, Shunxing Bao, Prasanna Parvathaneni, Bennett A. Landman
 ---
 

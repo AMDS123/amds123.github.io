@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'A Generalized Motion Pattern and FCN based approach for retinal fluid detection and segmentation'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV detection segmentation
 author: Shivin Yadav, Karthik Gopinath, Jayanthi Sivaswamy
 ---
 

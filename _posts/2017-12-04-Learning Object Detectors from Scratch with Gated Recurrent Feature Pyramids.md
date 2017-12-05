@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  'Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids'
-date:   2017-12-05 18:47:33
-categories: CV
-tags: CV
+date:   2017-12-05 19:45:13
+categories: arXiv_CV
+tags: arXiv_CV
 author: Zhiqiang Shen, Honghui Shi, Rogerio Feris, Liangliang Cao, Shuicheng Yan, Ding Liu, Xinchao Wang, Xiangyang Xue, Thomas S. Huang
 ---
 
