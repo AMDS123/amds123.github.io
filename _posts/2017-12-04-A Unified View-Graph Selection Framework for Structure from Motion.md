@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'A Unified View-Graph Selection Framework for Structure from Motion'
-date:   2017-12-05 19:45:13
+title: 'A Unified View-Graph Selection Framework for Structure from Motion'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV
+tags: arXiv_CV
 author: Rajvi Shah, Visesh Chari, P J Narayanan
 ---
 

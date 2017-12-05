@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'A text-independent speaker verification model: A comparative analysis'
-date:   2017-12-05 19:45:36
+title: 'A text-independent speaker verification model: A comparative analysis'
+date: 2017-12-05 21:12:29
 categories: arXiv_SD
-arXiv_SD
+tags: arXiv_SD
 author: Rishi Charan, Manisha.A, Karthik.R, Rajesh Kumar M
 ---
 

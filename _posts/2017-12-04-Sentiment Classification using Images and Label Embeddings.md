@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Sentiment Classification using Images and Label Embeddings'
-date:   2017-12-05 19:45:13
+title: 'Sentiment Classification using Images and Label Embeddings'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'Sentiment Classification'
+tags: arXiv_CV 'Sentiment Classification'
 author: Laura Graesser, Abhinav Gupta, Lakshay Sharma, Evelina Bakhturina
 ---
 

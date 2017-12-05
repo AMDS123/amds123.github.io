@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Data Dropout in Arbitrary Basis for Deep Network Regularization'
-date:   2017-12-05 19:45:13
+title: 'Data Dropout in Arbitrary Basis for Deep Network Regularization'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'Regularization'
+tags: arXiv_CV 'Regularization'
 author: Mostafa Rahmani, George Atia
 ---
 

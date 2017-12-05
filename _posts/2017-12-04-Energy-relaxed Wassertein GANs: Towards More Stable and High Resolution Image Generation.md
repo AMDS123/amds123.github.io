@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Energy-relaxed Wassertein GANs: Towards More Stable and High Resolution Image Generation'
-date:   2017-12-05 19:45:13
+title: 'Energy-relaxed Wassertein GANs: Towards More Stable and High Resolution Image Generation'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'GAN'
+tags: arXiv_CV 'GAN'
 author: Jiqing Wu, Zhiwu Huang, Janine Thoma, Luc Van Gool
 ---
 

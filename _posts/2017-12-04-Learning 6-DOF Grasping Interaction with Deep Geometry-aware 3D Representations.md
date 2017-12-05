@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Learning 6-DOF Grasping Interaction with Deep Geometry-aware 3D Representations'
-date:   2017-12-05 19:45:13
+title: 'Learning 6-DOF Grasping Interaction with Deep Geometry-aware 3D Representations'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV
+tags: arXiv_CV
 author: Xinchen Yan, Jasmine Hsu, Mohi Khansari, Yunfei Bai, Arkanath Pathak, Abhinav Gupta, James Davidson, Honglak Lee
 ---
 

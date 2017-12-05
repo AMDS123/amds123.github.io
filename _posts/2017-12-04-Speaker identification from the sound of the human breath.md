@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Speaker identification from the sound of the human breath'
-date:   2017-12-05 19:45:36
+title: 'Speaker identification from the sound of the human breath'
+date: 2017-12-05 21:12:29
 categories: arXiv_SD
-arXiv_SD
+tags: arXiv_SD
 author: Wenbo Zhao, Yang Gao, Rita Singh
 ---
 

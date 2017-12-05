@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Synthetic Medical Images from Dual Generative Adversarial Networks'
-date:   2017-12-05 19:45:13
+title: 'Synthetic Medical Images from Dual Generative Adversarial Networks'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'GAN'
+tags: arXiv_CV 'GAN'
 author: John T. Guibas, Tejpal S. Virdi, Peter S. Li
 ---
 

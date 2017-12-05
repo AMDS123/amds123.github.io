@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  '3D Anisotropic Hybrid Network: Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes'
-date:   2017-12-05 19:45:13
+title: '3D Anisotropic Hybrid Network: Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'CNN'
+tags: arXiv_CV 'CNN'
 author: Siqi Liu, Daguang Xu, S. Kevin Zhou, Thomas Mertelmeier, Julia Wicklein, Anna Jerebko, Sasa Grbic, Olivier Pauly, Weidong Cai, Dorin Comaniciu
 ---
 

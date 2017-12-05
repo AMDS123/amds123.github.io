@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering'
-date:   2017-12-05 19:45:13
+title: 'TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'VQA' 'VQA' 'VQA'
+tags: arXiv_CV 'VQA' 'VQA' 'VQA'
 author: Yunseok Jang, Yale Song, Youngjae Yu, Youngjin Kim, Gunhee Kim
 ---
 

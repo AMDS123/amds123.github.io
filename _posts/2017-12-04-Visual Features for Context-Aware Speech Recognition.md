@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Visual Features for Context-Aware Speech Recognition'
-date:   2017-12-05 19:45:13
+title: 'Visual Features for Context-Aware Speech Recognition'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'Speech Recognition' 'Recognition'
+tags: arXiv_CV 'Speech Recognition' 'Recognition'
 author: Abhinav Gupta, Yajie Miao, Leonardo Neves, Florian Metze
 ---
 

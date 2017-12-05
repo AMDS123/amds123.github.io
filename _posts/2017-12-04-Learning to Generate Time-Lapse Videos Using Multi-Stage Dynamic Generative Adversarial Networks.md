@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks'
-date:   2017-12-05 19:45:13
+title: 'Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'GAN'
+tags: arXiv_CV 'GAN'
 author: Wei Xiong, Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo
 ---
 

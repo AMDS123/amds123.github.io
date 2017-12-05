@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'Multimodal Visual Concept Learning with Weakly Supervised Techniques'
-date:   2017-12-05 19:45:13
+title: 'Multimodal Visual Concept Learning with Weakly Supervised Techniques'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'Weakly Supervised'
+tags: arXiv_CV 'Weakly Supervised'
 author: Giorgos Bouritsas, Petros Koutras, Athanasia Zlatintsi, Petros Maragos
 ---
 

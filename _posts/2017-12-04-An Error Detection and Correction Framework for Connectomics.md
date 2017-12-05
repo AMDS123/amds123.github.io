@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  'An Error Detection and Correction Framework for Connectomics'
-date:   2017-12-05 19:45:13
+title: 'An Error Detection and Correction Framework for Connectomics'
+date: 2017-12-05 21:10:17
 categories: arXiv_CV
-arXiv_CV 'Detection'
+tags: arXiv_CV 'Detection'
 author: Jonathan Zung, Ignacio Tartavull, Kisuk Lee, H. Sebastian Seung
 ---
 

@@ -7,7 +7,7 @@
 
 # Site settings
 title: papers
-brief-intro: Front-end Dev Engineer
+brief-intro: AI Learner
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amds123.github.io" # the base hostname & protocol for your site
 
