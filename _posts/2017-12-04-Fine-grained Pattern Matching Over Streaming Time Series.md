@@ -3,7 +3,7 @@ layout: post
 title:  'Fine-grained Pattern Matching Over Streaming Time Series'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV
 author: Rong Kang, Chen Wang, Peng Wang, Yuting Ding, Jianmin Wang
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  'Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'CNN'
 author: Zhen-Hua Feng, Josef Kittler, Muhammad Awais, Patrik Huber, Xiao-Jun Wu
 ---
 

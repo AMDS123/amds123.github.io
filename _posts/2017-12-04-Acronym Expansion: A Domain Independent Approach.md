@@ -3,7 +3,7 @@ layout: post
 title:  'Acronym Expansion: A Domain Independent Approach'
 date:   2017-12-05 19:45:32
 categories: arXiv_CL
-tags: arXiv_CL
+arXiv_CL
 author: Aditya Thakker, Suhail Barot, Sudhir Bagul
 ---
 

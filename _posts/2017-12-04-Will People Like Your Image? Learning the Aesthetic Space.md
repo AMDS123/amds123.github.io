@@ -3,7 +3,7 @@ layout: post
 title:  'Will People Like Your Image? Learning the Aesthetic Space'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV
 author: Katharina Schwarz, Patrick Wieschollek, Hendrik P. A. Lensch
 ---
 

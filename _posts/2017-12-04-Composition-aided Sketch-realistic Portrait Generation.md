@@ -3,7 +3,7 @@ layout: post
 title:  'Composition-aided Sketch-realistic Portrait Generation'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'Portrait Generation' 'Image Generation'
 author: Fei Gao, Shengjie Shi, Jun Yu, Qingming Huang
 ---
 

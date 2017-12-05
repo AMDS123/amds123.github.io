@@ -3,7 +3,7 @@ layout: post
 title:  'Multiframe Motion Coupling for Video Super Resolution'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'Super Resolution'
 author: Jonas Geiping, Hendrik Dirks, Daniel Cremers, Michael Moeller
 ---
 

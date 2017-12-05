@@ -3,7 +3,7 @@ layout: post
 title:  'Dual-Path Convolutional Image-Text Embedding'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'CNN'
 author: Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Yi-Dong Shen
 ---
 

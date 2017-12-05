@@ -3,7 +3,7 @@ layout: post
 title:  'Shape Complementarity Analysis for Objects of Arbitrary Shape'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV
 author: Morad Behandish, Horea T. Ilies
 ---
 

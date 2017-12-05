@@ -3,7 +3,7 @@ layout: post
 title:  'Chord Generation from Symbolic Melody Using BLSTM Networks'
 date:   2017-12-05 19:45:36
 categories: arXiv_SD
-tags: arXiv_SD
+arXiv_SD 'RNN'
 author: Hyungui Lim, Seungyeon Rhyu, Kyogu Lee
 ---
 

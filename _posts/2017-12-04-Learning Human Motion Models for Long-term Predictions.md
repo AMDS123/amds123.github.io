@@ -3,7 +3,7 @@ layout: post
 title:  'Learning Human Motion Models for Long-term Predictions'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV
 author: Partha Ghosh, Jie Song, Emre Aksan, Otmar Hilliges
 ---
 

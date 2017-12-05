@@ -3,7 +3,7 @@ layout: post
 title:  'Objective Classes for Micro-Facial Expression Recognition'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'Recognition'
 author: Adrian K. Davison, Walied Merghani, Moi Hoon Yap
 ---
 

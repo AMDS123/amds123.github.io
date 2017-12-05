@@ -3,7 +3,7 @@ layout: post
 title:  'DeepRadiologyNet: Radiologist Level Pathology Detection in CT Head Images'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV detection
+arXiv_CV 'Detection'
 author: Jameson Merkow, Robert Lufkin, Kim Nguyen, Stefano Soatto, Zhuowen Tu, Andrea Vedaldi
 ---
 

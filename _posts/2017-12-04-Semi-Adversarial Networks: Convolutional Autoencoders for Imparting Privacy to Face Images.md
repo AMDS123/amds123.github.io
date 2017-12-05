@@ -3,7 +3,7 @@ layout: post
 title:  'Semi-Adversarial Networks: Convolutional Autoencoders for Imparting Privacy to Face Images'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'CNN'
 author: Vahid Mirjalili, Sebastian Raschka, Anoop Namboodiri, Arun Ross
 ---
 

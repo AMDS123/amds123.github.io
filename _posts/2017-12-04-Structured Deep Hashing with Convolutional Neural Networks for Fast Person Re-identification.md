@@ -3,7 +3,7 @@ layout: post
 title:  'Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'CNN'
 author: Lin Wu, Yang Wang
 ---
 

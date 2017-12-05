@@ -3,7 +3,7 @@ layout: post
 title:  'Wasserstein Introspective Neural Networks'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV
 author: Kwonjoon Lee, Weijian Xu, Fan Fan, Zhuowen Tu
 ---
 

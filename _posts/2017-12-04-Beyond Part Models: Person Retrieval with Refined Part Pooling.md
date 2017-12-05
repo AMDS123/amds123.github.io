@@ -3,7 +3,7 @@ layout: post
 title:  'Beyond Part Models: Person Retrieval with Refined Part Pooling'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV
 author: Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang
 ---
 

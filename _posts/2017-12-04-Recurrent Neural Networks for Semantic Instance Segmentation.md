@@ -3,7 +3,7 @@ layout: post
 title:  'Recurrent Neural Networks for Semantic Instance Segmentation'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV segmentation
+arXiv_CV 'Semantic Instance Segmentation' 'Segmentation' 'RNN'
 author: Amaia Salvador, Miriam Bellver, Manel Baradad, Ferran Marques, Jordi Torres, Xavier Giro-i-Nieto
 ---
 

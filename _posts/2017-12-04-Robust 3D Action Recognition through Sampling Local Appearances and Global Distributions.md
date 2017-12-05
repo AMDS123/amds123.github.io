@@ -3,7 +3,7 @@ layout: post
 title:  'Robust 3D Action Recognition through Sampling Local Appearances and Global Distributions'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV 'Action Recognition' 'Recognition'
 author: Mengyuan Liu, Hong Liu, Chen Chen
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  'Connecting Pixels to Privacy and Utility: Automatic Redaction of Private Information in Images'
 date:   2017-12-05 19:45:13
 categories: arXiv_CV
-tags: arXiv_CV
+arXiv_CV
 author: Tribhuvanesh Orekondy, Mario Fritz, Bernt Schiele
 ---
 
