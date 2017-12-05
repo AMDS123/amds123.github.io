@@ -3,7 +3,7 @@ layout: post
 title: 'English-Japanese Neural Machine Translation with Encoder-Decoder-Reconstructor'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Yukio Matsumura, Takayuki Sato, Mamoru Komachi
 ---
 

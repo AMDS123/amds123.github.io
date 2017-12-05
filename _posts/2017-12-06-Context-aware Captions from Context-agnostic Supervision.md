@@ -3,7 +3,7 @@ layout: post
 title: 'Context-aware Captions from Context-agnostic Supervision'
 date: 2017-12-06 02:46:07
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Image_Caption Caption
 author: Ramakrishna Vedantam, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik
 ---
 

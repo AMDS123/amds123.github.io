@@ -3,7 +3,7 @@ layout: post
 title: 'Improved Neural Machine Translation with a Syntax-Aware Encoder and Decoder'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Huadong Chen, Shujian Huang, David Chiang, Jiajun Chen
 ---
 

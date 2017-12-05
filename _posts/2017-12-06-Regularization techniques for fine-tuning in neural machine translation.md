@@ -3,7 +3,7 @@ layout: post
 title: 'Regularization techniques for fine-tuning in neural machine translation'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL Regularization
+tags: arXiv_CL Regularization NMT
 author: Antonio Valerio Miceli Barone, Barry Haddow, Ulrich Germann, Rico Sennrich
 ---
 

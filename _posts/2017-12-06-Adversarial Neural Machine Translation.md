@@ -3,7 +3,7 @@ layout: post
 title: 'Adversarial Neural Machine Translation'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL Adversarial
+tags: arXiv_CL Adversarial GAN CNN NMT
 author: Lijun Wu, Yingce Xia, Li Zhao, Fei Tian, Tao Qin, Jianhuang Lai, Tie-Yan Liu
 ---
 

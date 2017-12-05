@@ -3,7 +3,7 @@ layout: post
 title: 'Improving Neural Machine Translation through Phrase-based Forced Decoding'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Jingyi Zhang, Masao Utiyama, Eiichro Sumita, Graham Neubig, Satoshi Nakamura
 ---
 

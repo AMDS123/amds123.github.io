@@ -3,7 +3,7 @@ layout: post
 title: 'MR image reconstruction using the learned data distribution as prior'
 date: 2017-12-06 02:21:09
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Regularization
 author: Kerem C. Tezcan, Christian F. Baumgartner, Ender Konukoglu
 ---
 

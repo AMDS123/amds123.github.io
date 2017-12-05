@@ -3,7 +3,7 @@ layout: post
 title: 'CNN based Learning using Reflection and Retinex Models for Intrinsic Image Decomposition'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Deep_Learning
 author: Anil S. Baslamisli, Hoang-An Le, Theo Gevers
 ---
 

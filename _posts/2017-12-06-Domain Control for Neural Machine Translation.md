@@ -3,7 +3,7 @@ layout: post
 title: 'Domain Control for Neural Machine Translation'
 date: 2017-12-06 03:19:28
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Catherine Kobus, Josep Crego, Jean Senellart
 ---
 

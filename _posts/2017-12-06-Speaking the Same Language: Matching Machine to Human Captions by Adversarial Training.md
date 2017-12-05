@@ -3,7 +3,7 @@ layout: post
 title: 'Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training'
 date: 2017-12-06 02:46:07
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Caption
+tags: arXiv_CV Image_Caption Adversarial Caption
 author: Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz, Bernt Schiele
 ---
 

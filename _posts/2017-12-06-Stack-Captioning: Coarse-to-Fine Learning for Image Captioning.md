@@ -3,7 +3,7 @@ layout: post
 title: 'Stack-Captioning: Coarse-to-Fine Learning for Image Captioning'
 date: 2017-12-06 02:28:42
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
 author: Jiuxiang Gu, Jianfei Cai, Gang Wang, Tsuhan Chen
 ---
 

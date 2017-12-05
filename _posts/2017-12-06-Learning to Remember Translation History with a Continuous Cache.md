@@ -3,7 +3,7 @@ layout: post
 title: 'Learning to Remember Translation History with a Continuous Cache'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Zhaopeng Tu, Yang Liu, Shuming Shi, Tong Zhang
 ---
 

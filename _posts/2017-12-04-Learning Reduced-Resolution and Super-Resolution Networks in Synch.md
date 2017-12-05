@@ -3,7 +3,7 @@ layout: post
 title: 'Learning Reduced-Resolution and Super-Resolution Networks in Synch'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: arXiv_CV Super_Resolution
+tags: arXiv_CV Super_Resolution CNN
 author: Bolun Cai, Xiangmin Xu, Kailing Guo, Kui Jia, Dacheng Tao
 ---
 

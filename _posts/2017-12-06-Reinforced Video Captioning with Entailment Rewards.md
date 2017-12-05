@@ -3,7 +3,7 @@ layout: post
 title: 'Reinforced Video Captioning with Entailment Rewards'
 date: 2017-12-06 02:32:56
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption
+tags: arXiv_CV Video_Caption Reinforcement_Learning Caption
 author: Ramakanth Pasunuru, Mohit Bansal
 ---
 

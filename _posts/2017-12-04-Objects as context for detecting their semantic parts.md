@@ -3,7 +3,7 @@ layout: post
 title: 'Objects as context for detecting their semantic parts'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Detection
 author: Abel Gonzalez-Garcia, Davide Modolo, Vittorio Ferrari
 ---
 

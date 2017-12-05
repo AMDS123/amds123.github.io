@@ -3,7 +3,7 @@ layout: post
 title: 'Convolutional Image Captioning'
 date: 2017-12-06 02:28:42
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN
+tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Jyoti Aneja, Aditya Deshpande, Alexander Schwing
 ---
 

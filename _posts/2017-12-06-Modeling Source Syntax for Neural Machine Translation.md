@@ -3,7 +3,7 @@ layout: post
 title: 'Modeling Source Syntax for Neural Machine Translation'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT RNN
 author: Junhui Li, Deyi Xiong, Zhaopeng Tu, Muhua Zhu, Min Zhang, Guodong Zhou
 ---
 

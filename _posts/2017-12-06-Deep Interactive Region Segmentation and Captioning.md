@@ -3,7 +3,7 @@ layout: post
 title: 'Deep Interactive Region Segmentation and Captioning'
 date: 2017-12-06 02:32:56
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Caption
+tags: arXiv_CV Image_Caption Object_Detection Segmentation Caption CNN Deep_Learning Detection
 author: Ali Sharifi Boroujerdi, Maryam Khanian, Michael Breuss
 ---
 

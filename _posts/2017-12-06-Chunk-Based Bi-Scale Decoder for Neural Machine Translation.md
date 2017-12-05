@@ -3,7 +3,7 @@ layout: post
 title: 'Chunk-Based Bi-Scale Decoder for Neural Machine Translation'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT RNN
 author: Hao Zhou, Zhaopeng Tu, Shujian Huang, Xiaohua Liu, Hang Li, Jiajun Chen
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Rank of Experts: Detection Network Ensemble'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Object_Detection CNN Detection
 author: Seung-Hwan Bae, Youngwan Lee, Youngjoo Jo, Yuseok Bae, Joong-won Hwang
 ---
 

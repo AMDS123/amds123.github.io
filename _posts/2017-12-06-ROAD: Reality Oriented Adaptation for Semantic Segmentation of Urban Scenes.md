@@ -3,7 +3,7 @@ layout: post
 title: 'ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes'
 date: 2017-12-06 02:21:09
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Semantic_Segmentation
+tags: arXiv_CV Segmentation CNN Semantic_Segmentation
 author: Yuhua Chen, Wen Li, Luc Van Gool
 ---
 

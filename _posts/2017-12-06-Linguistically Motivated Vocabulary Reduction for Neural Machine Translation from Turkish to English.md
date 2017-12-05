@@ -3,7 +3,7 @@ layout: post
 title: 'Linguistically Motivated Vocabulary Reduction for Neural Machine Translation from Turkish to English'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Segmentation NMT
 author: Duygu Ataman, Matteo Negri, Marco Turchi, Marcello Federico
 ---
 

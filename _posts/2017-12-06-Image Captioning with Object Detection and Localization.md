@@ -3,7 +3,7 @@ layout: post
 title: 'Image Captioning with Object Detection and Localization'
 date: 2017-12-06 02:40:01
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Object_Detection Caption Detection
+tags: arXiv_CV Image_Caption Object_Detection Caption RNN Detection
 author: Zhongliang Yang, Yu-Jin Zhang, Sadaqat ur Rehman, Yongfeng Huang
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Machine Translation at Booking.com: Journey and Lessons Learned'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Pavel Levin, Nishikant Dhanuka, Maxim Khalilov
 ---
 

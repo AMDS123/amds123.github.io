@@ -3,7 +3,7 @@ layout: post
 title: 'Scene Graph Generation from Objects, Phrases and Region Captions'
 date: 2017-12-06 02:32:56
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Object_Detection Caption Detection
 author: Yikang Li, Wanli Ouyang, Bolei Zhou, Kun Wang, Xiaogang Wang
 ---
 

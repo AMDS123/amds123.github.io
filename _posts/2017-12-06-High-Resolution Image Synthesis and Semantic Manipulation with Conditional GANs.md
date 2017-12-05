@@ -3,7 +3,7 @@ layout: post
 title: 'High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs'
 date: 2017-12-06 02:21:09
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV Adversarial Segmentation GAN
 author: Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro
 ---
 

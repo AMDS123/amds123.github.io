@@ -3,7 +3,7 @@ layout: post
 title: 'Towards Decoding as Continuous Optimization in Neural Machine Translation'
 date: 2017-12-06 03:19:28
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Cong Duy Vu Hoang (University of Melbourne), Gholamreza Haffari (Monash University), Trevor Cohn (University of Melbourne)
 ---
 

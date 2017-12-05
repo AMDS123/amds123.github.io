@@ -3,7 +3,7 @@ layout: post
 title: 'Spatially-Adaptive Filter Units for Deep Neural Networks'
 date: 2017-12-06 02:21:09
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Segmentation CNN Semantic_Segmentation
 author: Domen Tabernik, Matej Kristan, Aleš Leonardis
 ---
 

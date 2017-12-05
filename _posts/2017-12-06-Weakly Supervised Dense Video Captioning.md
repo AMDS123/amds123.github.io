@@ -3,7 +3,7 @@ layout: post
 title: 'Weakly Supervised Dense Video Captioning'
 date: 2017-12-06 02:46:07
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Weakly_Supervised Caption
+tags: arXiv_CV Video_Caption Weakly_Supervised Caption CNN
 author: Zhiqiang Shen, Jianguo Li, Zhou Su, Minjun Li, Yurong Chen, Yu-Gang Jiang, Xiangyang Xue
 ---
 

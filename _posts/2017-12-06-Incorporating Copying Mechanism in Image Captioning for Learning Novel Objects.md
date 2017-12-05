@@ -3,7 +3,7 @@ layout: post
 title: 'Incorporating Copying Mechanism in Image Captioning for Learning Novel Objects'
 date: 2017-12-06 02:32:56
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption CNN RNN Recognition
 author: Ting Yao, Yingwei Pan, Yehao Li, Tao Mei
 ---
 

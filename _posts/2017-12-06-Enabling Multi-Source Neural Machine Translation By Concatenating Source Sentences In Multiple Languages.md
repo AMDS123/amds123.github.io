@@ -3,7 +3,7 @@ layout: post
 title: 'Enabling Multi-Source Neural Machine Translation By Concatenating Source Sentences In Multiple Languages'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL GAN NMT
 author: Raj Dabre, Fabien Cromieres, Sadao Kurohashi
 ---
 

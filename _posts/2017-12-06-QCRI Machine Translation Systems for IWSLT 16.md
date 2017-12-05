@@ -3,7 +3,7 @@ layout: post
 title: 'QCRI Machine Translation Systems for IWSLT 16'
 date: 2017-12-06 03:19:28
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Nadir Durrani, Fahim Dalvi, Hassan Sajjad, Stephan Vogel
 ---
 

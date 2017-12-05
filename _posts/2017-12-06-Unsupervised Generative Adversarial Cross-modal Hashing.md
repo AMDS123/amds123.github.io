@@ -3,7 +3,7 @@ layout: post
 title: 'Unsupervised Generative Adversarial Cross-modal Hashing'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV Adversarial
+tags: arXiv_CV Adversarial GAN
 author: Jian Zhang, Yuxin Peng, Mingkuan Yuan
 ---
 

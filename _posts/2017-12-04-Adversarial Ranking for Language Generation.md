@@ -3,7 +3,7 @@ layout: post
 title: 'Adversarial Ranking for Language Generation'
 date: 2017-12-05 21:12:15
 categories: arXiv_CL
-tags: arXiv_CL Adversarial
+tags: arXiv_CL Adversarial GAN
 author: Kevin Lin, Dianqi Li, Xiaodong He, Zhengyou Zhang, Ming-Ting Sun
 ---
 

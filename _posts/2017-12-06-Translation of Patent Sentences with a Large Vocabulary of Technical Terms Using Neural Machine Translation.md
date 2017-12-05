@@ -3,7 +3,7 @@ layout: post
 title: 'Translation of Patent Sentences with a Large Vocabulary of Technical Terms Using Neural Machine Translation'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Zi Long, Takehito Utsuro, Tomoharu Mitsuhashi, Mikio Yamamoto
 ---
 

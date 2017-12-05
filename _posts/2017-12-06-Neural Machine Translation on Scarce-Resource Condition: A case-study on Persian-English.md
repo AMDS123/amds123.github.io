@@ -3,7 +3,7 @@ layout: post
 title: 'Neural Machine Translation on Scarce-Resource Condition: A case-study on Persian-English'
 date: 2017-12-06 03:19:28
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Mohaddeseh Bastan, Shahram Khadivi, Mohammad Mehdi Homayounpour
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Predicting Visual Features from Text for Image and Video Caption Retrieval'
 date: 2017-12-06 02:32:56
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption
+tags: arXiv_CV Video_Caption Caption CNN
 author: Jianfeng Dong, Xirong Li, Cees G. M. Snoek
 ---
 

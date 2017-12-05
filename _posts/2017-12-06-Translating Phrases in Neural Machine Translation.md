@@ -3,7 +3,7 @@ layout: post
 title: 'Translating Phrases in Neural Machine Translation'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Xing Wang, Zhaopeng Tu, Deyi Xiong, Min Zhang
 ---
 

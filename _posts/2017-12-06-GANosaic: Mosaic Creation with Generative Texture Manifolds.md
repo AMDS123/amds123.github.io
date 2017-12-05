@@ -3,7 +3,7 @@ layout: post
 title: 'GANosaic: Mosaic Creation with Generative Texture Manifolds'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV Regularization Adversarial GAN CNN
 author: Nikolay Jetchev, Urs Bergmann, Calvin Seward
 ---
 

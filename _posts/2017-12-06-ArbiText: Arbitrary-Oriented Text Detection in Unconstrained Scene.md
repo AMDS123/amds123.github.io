@@ -3,7 +3,7 @@ layout: post
 title: 'ArbiText: Arbitrary-Oriented Text Detection in Unconstrained Scene'
 date: 2017-12-06 02:21:09
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Object_Detection Detection
 author: Daitao Xing, Zichen Li, Xin Chen, Yi Fang
 ---
 

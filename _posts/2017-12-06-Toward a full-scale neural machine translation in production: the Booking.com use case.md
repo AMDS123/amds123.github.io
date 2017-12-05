@@ -3,7 +3,7 @@ layout: post
 title: 'Toward a full-scale neural machine translation in production: the Booking.com use case'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Pavel Levin, Nishikant Dhanuka, Talaat Khalil, Fedor Kovalev, Maxim Khalilov
 ---
 

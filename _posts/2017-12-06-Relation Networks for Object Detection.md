@@ -3,7 +3,7 @@ layout: post
 title: 'Relation Networks for Object Detection'
 date: 2017-12-06 02:21:09
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Deep_Learning Detection Recognition
 author: Han Hu, Jiayuan Gu, Zheng Zhang, Jifeng Dai, Yichen Wei
 ---
 

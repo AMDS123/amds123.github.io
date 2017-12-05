@@ -3,7 +3,7 @@ layout: post
 title: 'Building a Neural Machine Translation System Using Only Synthetic Parallel Data'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Jaehong Park, Jongyoon Song, Sungroh Yoon
 ---
 

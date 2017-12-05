@@ -3,7 +3,7 @@ layout: post
 title: 'Label Efficient Learning of Transferable Representations across Domains and Tasks'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Adversarial Action_Recognition Recognition
 author: Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei
 ---
 

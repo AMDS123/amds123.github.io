@@ -3,7 +3,7 @@ layout: post
 title: 'The Helsinki Neural Machine Translation System'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Robert Östling, Yves Scherrer, Jörg Tiedemann, Gongbo Tang, Tommi Nieminen
 ---
 

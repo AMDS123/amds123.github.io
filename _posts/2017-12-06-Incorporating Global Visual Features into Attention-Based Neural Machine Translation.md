@@ -3,7 +3,7 @@ layout: post
 title: 'Incorporating Global Visual Features into Attention-Based Neural Machine Translation'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL CNN NMT
 author: Iacer Calixto, Qun Liu, Nick Campbell
 ---
 

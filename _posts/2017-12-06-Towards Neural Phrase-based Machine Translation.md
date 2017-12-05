@@ -3,7 +3,7 @@ layout: post
 title: 'Towards Neural Phrase-based Machine Translation'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Segmentation NMT
 author: Po-Sen Huang, Chong Wang, Sitao Huang, Dengyong Zhou, Li Deng
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Feature Agglomeration Networks for Single Stage Face Detection'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: arXiv_CV Face_Detection Detection
+tags: arXiv_CV Object_Detection Face_Detection CNN Deep_Learning Detection
 author: Jialiang Zhang, Xiongwei Wu, Jianke Zhu, Steven C.H. Hoi
 ---
 

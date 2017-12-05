@@ -3,7 +3,7 @@ layout: post
 title: 'The Achievement of Higher Flexibility in Multiple Choice-based Tests Using Image Classification Techniques'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV CNN
 author: Mahmoud Afifi, Khaled F. Hussain
 ---
 

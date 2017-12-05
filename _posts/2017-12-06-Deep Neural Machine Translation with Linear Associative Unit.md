@@ -3,7 +3,7 @@ layout: post
 title: 'Deep Neural Machine Translation with Linear Associative Unit'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT RNN
 author: Mingxuan Wang, Zhengdong Lu, Jie Zhou, Qun Liu
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: '3DContextNet: K-d Tree Guided Hierarchical Learning of Point Clouds Using Local Contextual Cues'
 date: 2017-12-06 02:21:09
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Segmentation Semantic_Segmentation
 author: Wei Zeng, Theo Gevers
 ---
 

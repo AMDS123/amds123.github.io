@@ -3,7 +3,7 @@ layout: post
 title: 'Towards String-to-Tree Neural Machine Translation'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Roee Aharoni, Yoav Goldberg
 ---
 

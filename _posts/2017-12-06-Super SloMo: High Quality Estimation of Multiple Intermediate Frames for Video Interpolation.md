@@ -3,7 +3,7 @@ layout: post
 title: 'Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV CNN
 author: Huaizu Jiang, Deqing Sun, Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz
 ---
 

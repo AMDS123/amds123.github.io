@@ -3,7 +3,7 @@ layout: post
 title: 'Analyzing Neural MT Search and Model Performance'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Jan Niehues, Eunah Cho, Thanh-Le Ha, Alex Waibel
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Semantic Photometric Bundle Adjustment on Natural Sequences'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Deep_Learning
 author: Rui Zhu, Chaoyang Wang, Chen-Hsuan Lin, Ziyan Wang, Simon Lucey
 ---
 

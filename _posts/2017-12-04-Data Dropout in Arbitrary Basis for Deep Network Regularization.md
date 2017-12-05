@@ -3,7 +3,7 @@ layout: post
 title: 'Data Dropout in Arbitrary Basis for Deep Network Regularization'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: arXiv_CV Regularization
+tags: arXiv_CV Regularization CNN
 author: Mostafa Rahmani, George Atia
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Evaluating Discourse Phenomena in Neural Machine Translation'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Rachel Bawden, Rico Sennrich, Alexandra Birch, Barry Haddow
 ---
 

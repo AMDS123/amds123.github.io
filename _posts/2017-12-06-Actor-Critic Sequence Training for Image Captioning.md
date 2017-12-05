@@ -3,7 +3,7 @@ layout: post
 title: 'Actor-Critic Sequence Training for Image Captioning'
 date: 2017-12-06 02:40:01
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
 author: Li Zhang, Flood Sung, Feng Liu, Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales
 ---
 

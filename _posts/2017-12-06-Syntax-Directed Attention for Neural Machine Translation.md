@@ -3,7 +3,7 @@ layout: post
 title: 'Syntax-Directed Attention for Neural Machine Translation'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Kehai Chen, Rui Wang, Masao Utiyama, Eiichiro Sumita, Tiejun Zhao
 ---
 

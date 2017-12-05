@@ -3,7 +3,7 @@ layout: post
 title: 'Punny Captions: Witty Wordplay in Image Descriptions'
 date: 2017-12-06 02:40:01
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Image_Caption Caption
 author: Arjun Chandrasekaran, Devi Parikh, Mohit Bansal
 ---
 

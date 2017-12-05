@@ -3,7 +3,7 @@ layout: post
 title: 'Enhanced Neural Machine Translation by Learning from Draft'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Aodong Li, Shiyue Zhang, Dong Wang, Thomas Fang Zheng
 ---
 

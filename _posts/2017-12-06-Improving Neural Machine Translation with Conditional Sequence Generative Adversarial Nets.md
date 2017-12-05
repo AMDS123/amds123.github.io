@@ -3,7 +3,7 @@ layout: post
 title: 'Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL Adversarial
+tags: arXiv_CL Adversarial GAN NMT RNN
 author: Zhen Yang, Wei Chen, Feng Wang, Bo Xu
 ---
 

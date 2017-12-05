@@ -3,7 +3,7 @@ layout: post
 title: 'Modeling Target-Side Inflection in Neural Machine Translation'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Aleš Tamchyna, Marion Weller-Di Marco, Alexander Fraser
 ---
 

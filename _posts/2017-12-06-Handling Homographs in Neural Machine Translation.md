@@ -3,7 +3,7 @@ layout: post
 title: 'Handling Homographs in Neural Machine Translation'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Frederick Liu, Han Lu, Graham Neubig
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'Attentive Semantic Video Generation using Captions'
 date: 2017-12-06 02:32:56
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Style_Transfer Caption Action_Recognition Recognition
 author: Tanya Marwah, Gaurav Mittal, Vineeth N. Balasubramanian
 ---
 

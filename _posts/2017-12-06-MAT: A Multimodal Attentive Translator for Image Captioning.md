@@ -3,7 +3,7 @@ layout: post
 title: 'MAT: A Multimodal Attentive Translator for Image Captioning'
 date: 2017-12-06 02:46:07
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Chang Liu, Fuchun Sun, Changhu Wang, Feng Wang, Alan Yuille
 ---
 

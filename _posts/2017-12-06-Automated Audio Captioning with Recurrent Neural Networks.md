@@ -3,7 +3,7 @@ layout: post
 title: 'Automated Audio Captioning with Recurrent Neural Networks'
 date: 2017-12-06 02:32:56
 categories: arXiv_CV
-tags: arXiv_CV Caption RNN
+tags: arXiv_CV Image_Caption Caption RNN
 author: Konstantinos Drossos, Sharath Adavanne, Tuomas Virtanen
 ---
 

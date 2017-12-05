@@ -3,7 +3,7 @@ layout: post
 title: 'Dynamic Oracle for Neural Machine Translation in Decoding Phase'
 date: 2017-12-06 02:49:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Zi-Yi Dou, Hao Zhou, Shu-Jian Huang, Xin-Yu Dai, Jia-Jun Chen
 ---
 

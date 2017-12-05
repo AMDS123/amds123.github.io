@@ -3,7 +3,7 @@ layout: post
 title: 'Memory-augmented Neural Machine Translation'
 date: 2017-12-06 02:59:39
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Yang Feng, Shiyue Zhang, Andi Zhang, Dong Wang, Andrew Abel
 ---
 

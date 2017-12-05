@@ -3,7 +3,7 @@ layout: post
 title: 'Deep image representations using caption generators'
 date: 2017-12-06 02:40:01
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Deep_Learning Recognition
 author: Konda Reddy Mopuri, Vishal B. Athreya, R. Venkatesh Babu
 ---
 

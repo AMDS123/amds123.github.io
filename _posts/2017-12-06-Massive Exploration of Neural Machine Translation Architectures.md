@@ -3,7 +3,7 @@ layout: post
 title: 'Massive Exploration of Neural Machine Translation Architectures'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le
 ---
 

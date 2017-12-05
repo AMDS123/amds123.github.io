@@ -3,7 +3,7 @@ layout: post
 title: 'InverseNet: Solving Inverse Problems with Splitting Networks'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Regularization Super_Resolution Deep_Learning
 author: Kai Fan, Qi Wei, Wenlin Wang, Amit Chakraborty, Katherine Heller
 ---
 

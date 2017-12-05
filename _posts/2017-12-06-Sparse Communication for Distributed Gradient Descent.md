@@ -3,7 +3,7 @@ layout: post
 title: 'Sparse Communication for Distributed Gradient Descent'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL Gradient_Descent
+tags: arXiv_CL NMT Gradient_Descent
 author: Alham Fikri Aji, Kenneth Heafield
 ---
 

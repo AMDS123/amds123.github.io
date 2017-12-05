@@ -3,7 +3,7 @@ layout: post
 title: 'Probabilistic Adaptive Computation Time'
 date: 2017-12-06 02:05:30
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV RNN Deep_Learning
 author: Michael Figurnov, Artem Sobolev, Dmitry Vetrov
 ---
 

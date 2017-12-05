@@ -3,7 +3,7 @@ layout: post
 title: 'Multilingual Multi-modal Embeddings for Natural Language Processing'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Iacer Calixto, Qun Liu, Nick Campbell
 ---
 

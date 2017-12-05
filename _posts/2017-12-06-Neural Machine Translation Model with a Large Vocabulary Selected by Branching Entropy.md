@@ -3,7 +3,7 @@ layout: post
 title: 'Neural Machine Translation Model with a Large Vocabulary Selected by Branching Entropy'
 date: 2017-12-06 03:09:44
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL NMT
 author: Zi Long, Ryuichiro Kimura, Takehito Utsuro, Tomoharu Mitsuhashi, Mikio Yamamoto
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 'FOIL it! Find One mismatch between Image and Language caption'
 date: 2017-12-06 02:40:01
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Caption Detection
 author: Ravi Shekhar, Sandro Pezzelle, Yauhen Klimovich, Aurelie Herbelot, Moin Nabi, Enver Sangineto, Raffaella Bernardi
 ---
 
