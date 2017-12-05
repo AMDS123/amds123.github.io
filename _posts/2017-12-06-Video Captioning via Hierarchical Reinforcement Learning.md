@@ -3,7 +3,7 @@ layout: post
 title: 'Video Captioning via Hierarchical Reinforcement Learning'
 date: 2017-12-06 02:28:42
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption
+tags: arXiv_CV Video_Caption Reinforcement_Learning Caption
 author: Xin Wang, Wenhu Chen, Jiawei Wu, Yuan-Fang Wang, William Yang Wang
 ---
 
