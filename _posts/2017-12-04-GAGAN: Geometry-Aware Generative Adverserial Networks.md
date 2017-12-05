@@ -3,7 +3,7 @@ layout: post
 title: 'GAGAN: Geometry-Aware Generative Adverserial Networks'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: [arXiv_CV,GAN]
+tags: arXiv_CV GAN
 author: Jean Kossaifi, Linh Tran, Yannis Panagakis, Maja Pantic
 ---
 

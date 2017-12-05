@@ -3,7 +3,7 @@ layout: post
 title: 'End-to-end Adversarial Learning for Generative Conversational Agents'
 date: 2017-12-05 21:12:15
 categories: arXiv_CL
-tags: [arXiv_CL]
+tags: arXiv_CL
 author: Oswaldo Ludwig
 ---
 

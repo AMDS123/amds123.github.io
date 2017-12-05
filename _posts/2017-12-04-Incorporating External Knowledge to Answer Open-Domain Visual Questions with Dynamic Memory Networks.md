@@ -3,7 +3,7 @@ layout: post
 title: 'Incorporating External Knowledge to Answer Open-Domain Visual Questions with Dynamic Memory Networks'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: [arXiv_CV,Dynamic Memory Network,Memory Networks,VQA]
+tags: arXiv_CV Dynamic_Memory_Network Memory_Networks VQA
 author: Guohao Li, Hang Su, Wenwu Zhu
 ---
 

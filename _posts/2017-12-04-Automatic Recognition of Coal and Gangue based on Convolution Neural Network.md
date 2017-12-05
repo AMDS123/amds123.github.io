@@ -3,7 +3,7 @@ layout: post
 title: 'Automatic Recognition of Coal and Gangue based on Convolution Neural Network'
 date: 2017-12-05 21:10:17
 categories: arXiv_CV
-tags: [arXiv_CV,GAN,CNN,Recognition]
+tags: arXiv_CV GAN CNN Recognition
 author: Huichao Hong, Lixin Zheng, Jianqing Zhu, Shuwan Pan, Kaiting Zhou
 ---
 
