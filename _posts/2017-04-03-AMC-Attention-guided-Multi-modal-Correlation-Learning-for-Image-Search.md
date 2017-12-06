@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AMC: Attention guided Multi-modal Correlation Learning for Image Search'
-date: 2017-12-06 07:49:13
+date: 2017-04-03 18:57:42
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Kan Chen, Trung Bui, Fang Chen, Zhaowen Wang, Ram Nevatia

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SentiCap: Generating Image Descriptions with Sentiments'
-date: 2017-12-06 09:05:29
+date: 2015-12-13 23:03:23
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Regularization Caption Recognition
 author: Alexander Mathews, Lexing Xie, Xuming He
