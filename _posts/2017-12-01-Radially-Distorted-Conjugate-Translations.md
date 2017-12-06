@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Radially-Distorted Conjugate Translations'
-date: 2017-12-06 02:21:09
+date: 2017-12-01 14:05:59
 categories: arXiv_CV
 tags: arXiv_CV
 author: James Pritts, Zuzana Kukelova, Viktor Larsson, Ondrej Chum

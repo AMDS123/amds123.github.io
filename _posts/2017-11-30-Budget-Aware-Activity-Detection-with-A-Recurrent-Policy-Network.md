@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Budget-Aware Activity Detection with A Recurrent Policy Network'
-date: 2017-12-06 02:05:30
+date: 2017-11-30 21:52:27
 categories: arXiv_CV
 tags: arXiv_CV Detection
 author: Behrooz Mahasseni, Xiaodong Yang, Pavlo Molchanov, Jan Kautz

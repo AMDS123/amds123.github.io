@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mesoscopic Mechanics'
-date: 2017-12-06 09:46:00
+date: 2003-07-29 20:30:02
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Artur Sowa

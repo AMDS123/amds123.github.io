@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VQA: Visual Question Answering'
-date: 2017-12-06 09:15:36
+date: 2016-10-27 03:50:19
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA
 author: Aishwarya Agrawal, Jiasen Lu, Stanislaw Antol, Margaret Mitchell, C. Lawrence Zitnick, Dhruv Batra, Devi Parikh
