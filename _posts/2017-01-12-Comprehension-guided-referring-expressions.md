@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Comprehension-guided referring expressions'
-date: 2017-12-06 07:54:26
+date: 2017-01-12 18:03:52
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Ruotian Luo, Gregory Shakhnarovich

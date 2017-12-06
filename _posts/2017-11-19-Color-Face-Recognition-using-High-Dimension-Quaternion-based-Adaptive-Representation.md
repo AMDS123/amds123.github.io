@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Color Face Recognition using High-Dimension Quaternion-based Adaptive Representation'
-date: 2017-12-06 10:01:55
+date: 2017-11-19 06:15:59
 categories: arXiv_CV
 tags: arXiv_CV Recognition
 author: Qingxiang Feng, Yicong Zhou

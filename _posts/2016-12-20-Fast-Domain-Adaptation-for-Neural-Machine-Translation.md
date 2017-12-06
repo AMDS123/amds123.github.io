@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fast Domain Adaptation for Neural Machine Translation'
-date: 2017-12-06 03:19:28
+date: 2016-12-20 22:07:51
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Markus Freitag, Yaser Al-Onaizan

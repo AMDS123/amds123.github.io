@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mining Associated Text and Images with Dual-Wing Harmoniums'
-date: 2017-12-06 09:25:33
+date: 2012-07-04 16:28:40
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Eric P. Xing, Rong Yan, Alexander G. Hauptmann
