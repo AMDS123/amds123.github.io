@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MAGIC detection of short-term variability of the high-peaked BL Lac object 1ES 0806+524"
+title: "MAGIC detection of short-term variability of the high-peaked BL Lac object 1ES 0806524"
 date: 2015-04-27 11:21:52
 categories: arXiv_CV
 tags: arXiv_CV Detection
