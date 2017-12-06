@@ -5,6 +5,7 @@ date: 2017-12-01 15:20:51
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Jian Zhang, Yuxin Peng, Mingkuan Yuan
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-04 18:23:19
 categories: arXiv_CV
 tags: arXiv_CV VQA
 author: Ishan Misra, Ross Girshick, Rob Fergus, Martial Hebert, Abhinav Gupta, Laurens van der Maaten
+mathjax: true
 ---
 
 * content

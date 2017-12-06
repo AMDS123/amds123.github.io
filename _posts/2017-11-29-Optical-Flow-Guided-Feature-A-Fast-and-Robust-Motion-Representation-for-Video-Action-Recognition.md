@@ -5,6 +5,7 @@ date: 2017-11-29 23:29:02
 categories: arXiv_CV
 tags: arXiv_CV Action_Recognition Recognition
 author: Shuyang Sun, Zhanghui Kuang, Wanli Ouyang, Lu Sheng, Wei Zhang
+mathjax: true
 ---
 
 * content

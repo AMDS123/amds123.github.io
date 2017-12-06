@@ -5,6 +5,7 @@ date: 2017-11-17 18:47:25
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption GAN Caption Recognition
 author: Keren Ye, Adriana Kovashka
+mathjax: true
 ---
 
 * content

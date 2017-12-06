@@ -5,6 +5,7 @@ date: 2017-08-23 05:08:48
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN Detection Recognition
 author: Konda Reddy Mopuri, Utsav Garg, R. Venkatesh Babu
+mathjax: true
 ---
 
 * content

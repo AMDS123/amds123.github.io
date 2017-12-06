@@ -5,6 +5,7 @@ date: 2017-12-03 01:35:37
 categories: arXiv_CV
 tags: arXiv_CV Review
 author: Daisuke Komura, Shumpei Ishikawa
+mathjax: true
 ---
 
 * content

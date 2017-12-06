@@ -5,6 +5,7 @@ date: 2017-06-24 08:24:44
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Review Caption
 author: Wenhu Chen, Aurelien Lucchi, Thomas Hofmann
+mathjax: true
 ---
 
 * content

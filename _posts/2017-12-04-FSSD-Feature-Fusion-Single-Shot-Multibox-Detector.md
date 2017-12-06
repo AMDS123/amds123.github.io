@@ -5,6 +5,7 @@ date: 2017-12-04 09:05:55
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Zuoxin Li, Fuqiang Zhou
+mathjax: true
 ---
 
 * content

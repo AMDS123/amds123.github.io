@@ -5,6 +5,7 @@ date: 2017-12-04 16:59:34
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning Detection Recognition
 author: Kunal Swami, Pranav P. Deshpande, Gaurav Khandelwal, Ajay Vijayvargiya
+mathjax: true
 ---
 
 * content

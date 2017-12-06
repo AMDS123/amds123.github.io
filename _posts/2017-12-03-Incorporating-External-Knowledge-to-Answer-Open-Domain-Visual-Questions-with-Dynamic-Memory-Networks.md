@@ -5,6 +5,7 @@ date: 2017-12-03 08:41:35
 categories: arXiv_CV
 tags: arXiv_CV Dynamic_Memory_Network Memory_Networks VQA
 author: Guohao Li, Hang Su, Wenwu Zhu
+mathjax: true
 ---
 
 * content

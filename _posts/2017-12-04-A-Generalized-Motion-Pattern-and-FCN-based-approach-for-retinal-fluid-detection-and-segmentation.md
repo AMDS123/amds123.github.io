@@ -5,6 +5,7 @@ date: 2017-12-04 13:49:57
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Detection
 author: Shivin Yadav, Karthik Gopinath, Jayanthi Sivaswamy
+mathjax: true
 ---
 
 * content

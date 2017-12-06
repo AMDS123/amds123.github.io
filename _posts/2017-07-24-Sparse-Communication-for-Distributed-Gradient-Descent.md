@@ -5,6 +5,7 @@ date: 2017-07-24 21:47:51
 categories: arXiv_CL
 tags: arXiv_CL NMT Gradient_Descent
 author: Alham Fikri Aji, Kenneth Heafield
+mathjax: true
 ---
 
 * content

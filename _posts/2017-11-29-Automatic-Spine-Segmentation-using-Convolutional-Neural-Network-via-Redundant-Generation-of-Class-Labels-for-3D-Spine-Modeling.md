@@ -5,6 +5,7 @@ date: 2017-11-29 16:19:07
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN
 author: Malinda Vania, Dawit Mureja, Deukhee Lee
+mathjax: true
 ---
 
 * content

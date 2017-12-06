@@ -5,6 +5,7 @@ date: 2016-03-31 23:17:46
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption Detection VQA Recognition
 author: Sheng-syun Shen, Hung-yi Lee
+mathjax: true
 ---
 
 * content

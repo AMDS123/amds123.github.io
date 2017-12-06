@@ -5,6 +5,7 @@ date: 2009-08-18 20:55:21
 categories: arXiv_CL
 tags: arXiv_CL Detection
 author: A. Datta (NMT, Nrao), S. Bhatnagar (NRAO), C.L. Carilli (NRAO)
+mathjax: true
 ---
 
 * content

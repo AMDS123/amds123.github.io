@@ -5,6 +5,7 @@ date: 2016-06-23 13:22:46
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Marcin Junczys-Dowmunt, Tomasz Dwojak, Rico Sennrich
+mathjax: true
 ---
 
 * content

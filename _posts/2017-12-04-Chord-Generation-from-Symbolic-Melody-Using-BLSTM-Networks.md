@@ -5,6 +5,7 @@ date: 2017-12-04 11:18:08
 categories: arXiv_SD
 tags: arXiv_SD RNN
 author: Hyungui Lim, Seungyeon Rhyu, Kyogu Lee
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-01 05:57:19
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Zhuotun Zhu, Yingda Xia, Wei Shen, Elliot K. Fishman, Alan L. Yuille
+mathjax: true
 ---
 
 * content

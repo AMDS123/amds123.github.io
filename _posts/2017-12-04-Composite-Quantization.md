@@ -5,6 +5,7 @@ date: 2017-12-04 08:48:44
 categories: arXiv_CV
 tags: arXiv_CV
 author: Jingdong Wang, Ting Zhang
+mathjax: true
 ---
 
 * content

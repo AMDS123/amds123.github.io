@@ -5,6 +5,7 @@ date: 2017-12-04 20:25:47
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Detection
 author: Hsiao-Yu Fish Tung, Hsiao-Wei Tung, Ersin Yumer, Katerina Fragkiadaki
+mathjax: true
 ---
 
 * content

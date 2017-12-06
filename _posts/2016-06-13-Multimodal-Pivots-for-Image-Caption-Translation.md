@@ -5,6 +5,7 @@ date: 2016-06-13 16:52:09
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN
 author: Julian Hitschler, Shigehiko Schamoni, Stefan Riezler
+mathjax: true
 ---
 
 * content

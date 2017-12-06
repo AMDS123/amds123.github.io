@@ -5,6 +5,7 @@ date: 2017-12-05 01:12:25
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Recognition
 author: Ayan Kumar Bhunia, Partha Pratim Roy, Umapada Pal
+mathjax: true
 ---
 
 * content

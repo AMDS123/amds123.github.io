@@ -5,6 +5,7 @@ date: 2017-12-04 17:45:55
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Carles Ventura, Jordi Pont-Tuset, Sergi Caelles, Kevis-Kokitsi Maninis, Luc Van Gool
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2016-11-24 04:36:42
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Luowei Zhou, Chenliang Xu, Parker Koch, Jason J. Corso
+mathjax: true
 ---
 
 * content

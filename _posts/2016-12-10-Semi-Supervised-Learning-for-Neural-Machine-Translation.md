@@ -5,6 +5,7 @@ date: 2016-12-10 20:02:52
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Yong Cheng, Wei Xu, Zhongjun He, Wei He, Hua Wu, Maosong Sun, Yang Liu
+mathjax: true
 ---
 
 * content

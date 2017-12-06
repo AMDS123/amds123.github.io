@@ -5,6 +5,7 @@ date: 2017-10-08 16:56:05
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Anoop Kunchukuttan, Pratik Mehta, Pushpak Bhattacharyya
+mathjax: true
 ---
 
 * content

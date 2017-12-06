@@ -5,6 +5,7 @@ date: 2017-12-03 07:24:45
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Zhaowei Cai, Nuno Vasconcelos
+mathjax: true
 ---
 
 * content

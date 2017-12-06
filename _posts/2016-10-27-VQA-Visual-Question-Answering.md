@@ -5,6 +5,7 @@ date: 2016-10-27 03:50:19
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA
 author: Aishwarya Agrawal, Jiasen Lu, Stanislaw Antol, Margaret Mitchell, C. Lawrence Zitnick, Dhruv Batra, Devi Parikh
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-09-02 15:34:44
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Shizhe Chen, Jia Chen, Qin Jin, Alexander Hauptmann
+mathjax: true
 ---
 
 * content

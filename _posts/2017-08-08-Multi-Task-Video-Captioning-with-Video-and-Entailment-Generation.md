@@ -5,6 +5,7 @@ date: 2017-08-08 17:08:58
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Ramakanth Pasunuru, Mohit Bansal
+mathjax: true
 ---
 
 * content

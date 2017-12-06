@@ -5,6 +5,7 @@ date: 2017-05-24 18:36:58
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Caption CNN RNN Deep_Learning
 author: Tao Zhou, Muhao Chen, Jie Yu, Demetri Terzopoulos
+mathjax: true
 ---
 
 * content

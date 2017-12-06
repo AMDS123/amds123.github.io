@@ -5,6 +5,7 @@ date: 2015-05-26 16:57:18
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Arturo Deza, Devi Parikh
+mathjax: true
 ---
 
 * content

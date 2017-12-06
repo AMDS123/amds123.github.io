@@ -5,6 +5,7 @@ date: 2017-12-05 14:06:44
 categories: arXiv_CV
 tags: arXiv_CV
 author: Morteza Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang
+mathjax: true
 ---
 
 * content

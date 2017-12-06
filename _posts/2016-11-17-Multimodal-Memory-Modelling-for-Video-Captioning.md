@@ -5,6 +5,7 @@ date: 2016-11-17 07:24:03
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN RNN Deep_Learning
 author: Junbo Wang, Wei Wang, Yan Huang, Liang Wang, Tieniu Tan
+mathjax: true
 ---
 
 * content

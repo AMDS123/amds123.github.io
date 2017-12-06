@@ -5,6 +5,7 @@ date: 2017-11-16 11:50:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption GAN Caption
 author: Tanmoy Mukherjee, Makoto Yamada, Timothy M. Hospedales
+mathjax: true
 ---
 
 * content

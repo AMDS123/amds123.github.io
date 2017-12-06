@@ -5,6 +5,7 @@ date: 2017-01-24 16:39:05
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption Deep_Learning Detection Recognition
 author: Sarah Loos, Geoffrey Irving, Christian Szegedy, Cezary Kaliszyk
+mathjax: true
 ---
 
 * content

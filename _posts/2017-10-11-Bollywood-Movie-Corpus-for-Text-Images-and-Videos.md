@@ -5,6 +5,7 @@ date: 2017-10-11 15:51:13
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Nishtha Madaan, Sameep Mehta, Mayank Saxena, Aditi Aggarwal, Taneea S Agrawaal, Vrinda Malhotra
+mathjax: true
 ---
 
 * content

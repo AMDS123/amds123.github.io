@@ -5,6 +5,7 @@ date: 2017-11-03 14:40:28
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN RNN
 author: Jianshu Zhang, Yixing Zhu, Jun Du, Lirong Dai
+mathjax: true
 ---
 
 * content

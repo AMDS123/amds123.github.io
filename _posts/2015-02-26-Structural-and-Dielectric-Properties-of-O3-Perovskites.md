@@ -5,6 +5,7 @@ date: 2015-02-26 13:31:38
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Kouros Khamoushi, Eero Arola
+mathjax: true
 ---
 
 * content

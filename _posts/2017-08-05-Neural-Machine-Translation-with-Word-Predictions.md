@@ -5,6 +5,7 @@ date: 2017-08-05 13:38:10
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Rongxiang Weng, Shujian Huang, Zaixiang Zheng, Xinyu Dai, Jiajun Chen
+mathjax: true
 ---
 
 * content

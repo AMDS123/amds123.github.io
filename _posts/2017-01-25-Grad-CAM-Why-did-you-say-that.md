@@ -5,6 +5,7 @@ date: 2017-01-25 16:33:29
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN VQA
 author: Ramprasaath R Selvaraju, Abhishek Das, Ramakrishna Vedantam, Michael Cogswell, Devi Parikh, Dhruv Batra
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-24 22:04:14
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Jyoti Aneja, Aditya Deshpande, Alexander Schwing
+mathjax: true
 ---
 
 * content

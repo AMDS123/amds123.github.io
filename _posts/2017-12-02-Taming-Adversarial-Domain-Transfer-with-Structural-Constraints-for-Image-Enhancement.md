@@ -5,6 +5,7 @@ date: 2017-12-02 12:37:34
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Image_Enhancement
 author: Elias Vansteenkiste, Patrick Kern
+mathjax: true
 ---
 
 * content

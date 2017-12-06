@@ -5,6 +5,7 @@ date: 2017-06-05 08:09:20
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN
 author: Jingkuan Song, Zhao Guo, Lianli Gao, Wu Liu, Dongxiang Zhang, Heng Tao Shen
+mathjax: true
 ---
 
 * content

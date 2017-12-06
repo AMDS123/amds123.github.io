@@ -5,6 +5,7 @@ date: 2017-10-29 09:18:51
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN Deep_Learning
 author: Qiuyuan Huang, Paul Smolensky, Xiaodong He, Li Deng, Dapeng Wu
+mathjax: true
 ---
 
 * content

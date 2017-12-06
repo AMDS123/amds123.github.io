@@ -5,6 +5,7 @@ date: 2014-08-11 06:24:08
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Larisa Vodolazhskaya
+mathjax: true
 ---
 
 * content

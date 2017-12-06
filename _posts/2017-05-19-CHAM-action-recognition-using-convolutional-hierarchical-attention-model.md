@@ -5,6 +5,7 @@ date: 2017-05-19 06:11:26
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Action_Recognition CNN RNN Recognition
 author: Shiyang Yan, Jeremy S. Smith, Wenjin Lu, Bailing Zhang
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-30 08:41:26
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Chenxing Xia, Hanling Zhang, Keqin Li
+mathjax: true
 ---
 
 * content

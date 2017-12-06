@@ -5,6 +5,7 @@ date: 2017-12-05 00:49:07
 categories: arXiv_CV
 tags: arXiv_CV Recognition
 author: Ot&#xe1;vio A. B. Penatti, Milton F. S. Santos
+mathjax: true
 ---
 
 * content

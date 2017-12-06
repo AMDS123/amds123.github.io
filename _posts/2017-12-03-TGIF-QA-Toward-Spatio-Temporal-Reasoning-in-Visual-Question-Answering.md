@@ -5,6 +5,7 @@ date: 2017-12-03 04:46:42
 categories: arXiv_CV
 tags: arXiv_CV RNN VQA
 author: Yunseok Jang, Yale Song, Youngjae Yu, Youngjin Kim, Gunhee Kim
+mathjax: true
 ---
 
 * content

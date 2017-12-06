@@ -5,6 +5,7 @@ date: 2017-07-04 13:57:04
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Jean-Benoit Delbrouck, Stéphane Dupont
+mathjax: true
 ---
 
 * content

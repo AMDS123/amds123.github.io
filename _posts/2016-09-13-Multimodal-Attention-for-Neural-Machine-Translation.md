@@ -5,6 +5,7 @@ date: 2016-09-13 18:46:03
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption NMT
 author: Ozan Caglayan, Loïc Barrault, Fethi Bougares
+mathjax: true
 ---
 
 * content

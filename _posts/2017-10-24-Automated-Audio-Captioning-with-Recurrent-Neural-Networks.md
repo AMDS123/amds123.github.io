@@ -5,6 +5,7 @@ date: 2017-10-24 11:36:08
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Konstantinos Drossos, Sharath Adavanne, Tuomas Virtanen
+mathjax: true
 ---
 
 * content

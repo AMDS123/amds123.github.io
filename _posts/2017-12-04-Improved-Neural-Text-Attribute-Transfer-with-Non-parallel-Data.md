@@ -5,6 +5,7 @@ date: 2017-12-04 23:20:56
 categories: arXiv_CL
 tags: arXiv_CL
 author: Igor Melnyk, Cicero Nogueira dos Santos, Kahini Wadhawan, Inkit Padhi, Abhishek Kumar
+mathjax: true
 ---
 
 * content

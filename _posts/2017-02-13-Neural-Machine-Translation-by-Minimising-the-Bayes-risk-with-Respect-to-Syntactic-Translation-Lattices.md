@@ -5,6 +5,7 @@ date: 2017-02-13 14:29:34
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Felix Stahlberg, Adrià de Gispert, Eva Hasler, Bill Byrne
+mathjax: true
 ---
 
 * content

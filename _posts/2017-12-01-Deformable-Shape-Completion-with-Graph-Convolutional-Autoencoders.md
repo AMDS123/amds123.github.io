@@ -5,6 +5,7 @@ date: 2017-12-01 10:34:19
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Or Litany, Alex Bronstein, Michael Bronstein, Ameesh Makadia
+mathjax: true
 ---
 
 * content

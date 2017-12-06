@@ -5,6 +5,7 @@ date: 2017-12-04 12:22:42
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Peihua Li, Jiangtao Xie, Qilong Wang, Zilin Gao
+mathjax: true
 ---
 
 * content

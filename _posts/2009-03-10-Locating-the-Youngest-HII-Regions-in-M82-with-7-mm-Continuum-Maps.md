@@ -5,6 +5,7 @@ date: 2009-03-10 21:44:52
 categories: arXiv_CL
 tags: arXiv_CL
 author: Chao-Wei Tsai (UCLA), Jean L. Turner (UCLA), Sara C. Beck (Tel Aviv), David S. Meier (NMT and NRAO), Paul T. P. Ho (ASIAA and CfA)
+mathjax: true
 ---
 
 * content

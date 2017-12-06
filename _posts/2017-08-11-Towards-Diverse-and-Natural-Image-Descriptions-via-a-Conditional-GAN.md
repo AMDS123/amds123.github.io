@@ -5,6 +5,7 @@ date: 2017-08-11 05:02:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial GAN Reinforcement_Learning Caption RNN
 author: Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin
+mathjax: true
 ---
 
 * content

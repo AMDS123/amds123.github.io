@@ -5,6 +5,7 @@ date: 2017-11-28 19:12:49
 categories: arXiv_CV
 tags: arXiv_CV
 author: Subhayan Mukherjee, Irene Cheng, Anup Basu
+mathjax: true
 ---
 
 * content

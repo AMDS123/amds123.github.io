@@ -5,6 +5,7 @@ date: 2015-07-13 15:47:13
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN Recognition
 author: Jasper Snoek, Oren Rippel, Kevin Swersky, Ryan Kiros, Nadathur Satish, Narayanan Sundaram, Md. Mostofa Ali Patwary, Prabhat, Ryan P. Adams
+mathjax: true
 ---
 
 * content

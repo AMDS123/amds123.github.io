@@ -5,6 +5,7 @@ date: 2017-12-04 09:17:53
 categories: arXiv_CV
 tags: arXiv_CV CNN Recognition
 author: Christoph Wick, Frank Puppe
+mathjax: true
 ---
 
 * content

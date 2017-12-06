@@ -5,6 +5,7 @@ date: 2015-04-30 04:22:06
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN RNN Deep_Learning
 author: Subhashini Venugopalan, Huijuan Xu, Jeff Donahue, Marcus Rohrbach, Raymond Mooney, Kate Saenko
+mathjax: true
 ---
 
 * content

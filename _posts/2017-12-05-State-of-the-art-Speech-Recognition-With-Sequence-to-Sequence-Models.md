@@ -5,6 +5,7 @@ date: 2017-12-05 17:24:05
 categories: arXiv_CL
 tags: arXiv_CL Speech_Recognition RNN Recognition
 author: Chung-Cheng Chiu, Tara N. Sainath, Yonghui Wu, Rohit Prabhavalkar, Patrick Nguyen, Zhifeng Chen, Anjuli Kannan, Ron J. Weiss, Kanishka Rao, Katya Gonina, Navdeep Jaitly, Bo Li, Jan Chorowski, Michiel Bacchiani
+mathjax: true
 ---
 
 * content

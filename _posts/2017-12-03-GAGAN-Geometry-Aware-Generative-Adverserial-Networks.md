@@ -5,6 +5,7 @@ date: 2017-12-03 00:12:41
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Jean Kossaifi, Linh Tran, Yannis Panagakis, Maja Pantic
+mathjax: true
 ---
 
 * content

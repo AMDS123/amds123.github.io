@@ -5,6 +5,7 @@ date: 2017-08-09 00:25:47
 categories: arXiv_CV
 tags: arXiv_CV Caption Detection
 author: Bryan A. Plummer, Arun Mallya, Christopher M. Cervantes, Julia Hockenmaier, Svetlana Lazebnik
+mathjax: true
 ---
 
 * content

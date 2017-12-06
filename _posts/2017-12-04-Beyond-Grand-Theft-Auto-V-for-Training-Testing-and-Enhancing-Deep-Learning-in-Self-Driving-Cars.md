@@ -5,6 +5,7 @@ date: 2017-12-04 22:41:46
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Mark Martinez, Chawin Sitawarin, Kevin Finch, Lennart Meincke, Alex Yablonski, Alain Kornhauser
+mathjax: true
 ---
 
 * content

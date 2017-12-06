@@ -5,6 +5,7 @@ date: 2016-12-17 11:36:06
 categories: arXiv_CV
 tags: arXiv_CV Caption Recognition
 author: Valentina Franzoni, Giulio Biondi, Alfredo Milani, Yuanxi Li
+mathjax: true
 ---
 
 * content

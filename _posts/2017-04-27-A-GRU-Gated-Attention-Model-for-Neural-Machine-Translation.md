@@ -5,6 +5,7 @@ date: 2017-04-27 04:25:41
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Biao Zhang, Deyi Xiong, Jinsong Su
+mathjax: true
 ---
 
 * content

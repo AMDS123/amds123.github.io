@@ -5,6 +5,7 @@ date: 2017-11-29 09:25:36
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Ziqiang Zheng, Zhibin Yu, Haiyong Zheng, Chao Wang, Nan Wang
+mathjax: true
 ---
 
 * content

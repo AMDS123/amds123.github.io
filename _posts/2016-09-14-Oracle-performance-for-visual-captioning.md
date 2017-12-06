@@ -5,6 +5,7 @@ date: 2016-09-14 16:55:29
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Li Yao, Nicolas Ballas, Kyunghyun Cho, John R. Smith, Yoshua Bengio
+mathjax: true
 ---
 
 * content

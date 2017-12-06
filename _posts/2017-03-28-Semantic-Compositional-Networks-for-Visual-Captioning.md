@@ -5,6 +5,7 @@ date: 2017-03-28 18:33:51
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Zhe Gan, Chuang Gan, Xiaodong He, Yunchen Pu, Kenneth Tran, Jianfeng Gao, Lawrence Carin, Li Deng
+mathjax: true
 ---
 
 * content

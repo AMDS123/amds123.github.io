@@ -5,6 +5,7 @@ date: 2017-11-29 03:31:14
 categories: arXiv_CV
 tags: arXiv_CV Survey
 author: Jinmi Lee, Wellington Pinheiro dos Santos
+mathjax: true
 ---
 
 * content

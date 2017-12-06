@@ -5,6 +5,7 @@ date: 2017-07-24 14:52:06
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Kazuma Hashimoto, Yoshimasa Tsuruoka
+mathjax: true
 ---
 
 * content

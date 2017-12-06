@@ -5,6 +5,7 @@ date: 2017-11-29 05:44:18
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Seong Tae Kim, Yong Man Ro
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-05-02 01:14:06
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Yun Chen, Yang Liu, Yong Cheng, Victor O.K. Li
+mathjax: true
 ---
 
 * content

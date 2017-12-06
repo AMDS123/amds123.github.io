@@ -5,6 +5,7 @@ date: 2015-10-14 22:03:40
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Jacob Devlin, Hao Cheng, Hao Fang, Saurabh Gupta, Li Deng, Xiaodong He, Geoffrey Zweig, Margaret Mitchell
+mathjax: true
 ---
 
 * content

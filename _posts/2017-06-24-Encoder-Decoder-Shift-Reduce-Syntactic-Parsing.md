@@ -5,6 +5,7 @@ date: 2017-06-24 04:08:11
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Jiangming Liu, Yue Zhang
+mathjax: true
 ---
 
 * content

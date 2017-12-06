@@ -5,6 +5,7 @@ date: 2017-12-05 02:55:21
 categories: arXiv_CV
 tags: arXiv_CV Regularization CNN
 author: Mostafa Rahmani, George Atia
+mathjax: true
 ---
 
 * content

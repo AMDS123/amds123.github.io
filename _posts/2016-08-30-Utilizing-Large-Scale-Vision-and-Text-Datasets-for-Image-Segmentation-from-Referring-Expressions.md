@@ -5,6 +5,7 @@ date: 2016-08-30 02:27:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Segmentation Caption
 author: Ronghang Hu, Marcus Rohrbach, Subhashini Venugopalan, Trevor Darrell
+mathjax: true
 ---
 
 * content

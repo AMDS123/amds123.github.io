@@ -5,6 +5,7 @@ date: 2017-12-05 17:13:48
 categories: arXiv_CL
 tags: arXiv_CL
 author: Svetlana Kiritchenko, Saif M. Mohammad
+mathjax: true
 ---
 
 * content

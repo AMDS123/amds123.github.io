@@ -5,6 +5,7 @@ date: 2017-12-01 21:15:40
 categories: arXiv_CV
 tags: arXiv_CV Review Segmentation CNN
 author: Cem M. Deniz, Siyuan Xiang, Spencer Hallyburton, Arakua Welbeck, Stephen Honig, Kyunghyun Cho, Gregory Chang
+mathjax: true
 ---
 
 * content

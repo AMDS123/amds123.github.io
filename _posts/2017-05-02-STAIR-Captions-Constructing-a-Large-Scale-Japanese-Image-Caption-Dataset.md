@@ -5,6 +5,7 @@ date: 2017-05-02 07:07:55
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Yuya Yoshikawa, Yutaro Shigeto, Akikazu Takeuchi
+mathjax: true
 ---
 
 * content

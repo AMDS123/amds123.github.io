@@ -5,6 +5,7 @@ date: 2016-03-30 05:48:05
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Andrew Shin, Masataka Yamaguchi, Katsunori Ohnishi, Tatsuya Harada
+mathjax: true
 ---
 
 * content

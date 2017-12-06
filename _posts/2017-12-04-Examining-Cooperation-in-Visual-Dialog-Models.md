@@ -5,6 +5,7 @@ date: 2017-12-04 20:16:52
 categories: arXiv_CL
 tags: arXiv_CL
 author: Mircea Mironenco, Dana Kianfar, Ke Tran, Evangelos Kanoulas, Efstratios Gavves
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-02 15:01:27
 categories: arXiv_CV
 tags: arXiv_CV Semantic_Instance_Segmentation Segmentation RNN
 author: Amaia Salvador, Miriam Bellver, Manel Baradad, Ferran Marques, Jordi Torres, Xavier Giro-i-Nieto
+mathjax: true
 ---
 
 * content

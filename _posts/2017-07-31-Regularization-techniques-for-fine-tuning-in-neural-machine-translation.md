@@ -5,6 +5,7 @@ date: 2017-07-31 15:31:12
 categories: arXiv_CL
 tags: arXiv_CL Regularization NMT
 author: Antonio Valerio Miceli Barone, Barry Haddow, Ulrich Germann, Rico Sennrich
+mathjax: true
 ---
 
 * content

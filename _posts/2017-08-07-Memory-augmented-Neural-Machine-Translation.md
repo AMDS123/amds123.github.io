@@ -5,6 +5,7 @@ date: 2017-08-07 06:47:23
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Yang Feng, Shiyue Zhang, Andi Zhang, Dong Wang, Andrew Abel
+mathjax: true
 ---
 
 * content

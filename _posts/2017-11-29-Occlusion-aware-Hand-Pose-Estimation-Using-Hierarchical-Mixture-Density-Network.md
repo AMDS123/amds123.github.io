@@ -5,6 +5,7 @@ date: 2017-11-29 14:25:18
 categories: arXiv_CV
 tags: arXiv_CV
 author: Qi Ye, Tae-Kyun Kim
+mathjax: true
 ---
 
 * content

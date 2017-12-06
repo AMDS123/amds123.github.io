@@ -5,6 +5,7 @@ date: 2017-09-19 21:49:59
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN Recognition
 author: Ruth Fong, Walter Scheirer, David Cox
+mathjax: true
 ---
 
 * content

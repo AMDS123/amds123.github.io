@@ -5,6 +5,7 @@ date: 2017-11-30 04:45:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Enhancement
 author: Song Yizhi, Xu Cheng, Ding Daoxin, Zhou Hang, Quan Tingwei, Li Shiwei
+mathjax: true
 ---
 
 * content

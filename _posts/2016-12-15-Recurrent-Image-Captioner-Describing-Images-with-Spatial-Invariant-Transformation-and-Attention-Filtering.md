@@ -5,6 +5,7 @@ date: 2016-12-15 07:19:46
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Hao Liu, Yang Yang, Fumin Shen, Lixin Duan, Heng Tao Shen
+mathjax: true
 ---
 
 * content

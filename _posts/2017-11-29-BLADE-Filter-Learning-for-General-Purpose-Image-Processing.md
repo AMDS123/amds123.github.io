@@ -5,6 +5,7 @@ date: 2017-11-29 06:38:41
 categories: arXiv_CV
 tags: arXiv_CV Super_Resolution
 author: Pascal Getreuer, Ignacio Garcia-Dorado, John Isidoro, Sungjoon Choi, Frank Ong, Peyman Milanfar
+mathjax: true
 ---
 
 * content

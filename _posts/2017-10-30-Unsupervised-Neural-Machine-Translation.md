@@ -5,6 +5,7 @@ date: 2017-10-30 16:17:34
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Mikel Artetxe, Gorka Labaka, Eneko Agirre, Kyunghyun Cho
+mathjax: true
 ---
 
 * content

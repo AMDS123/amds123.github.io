@@ -5,6 +5,7 @@ date: 2015-04-13 21:09:36
 categories: arXiv_CL
 tags: arXiv_CL
 author: Katherine Alatalo (1), Alison F. Crocker (2,3), Susanne Aalto (4), Timothy A. Davis (5,6), Kristina Nyland (7), Martin Bureau (8), Pierre-Alain Duc (9), Davor Krajnovic (10), Lisa M. Young (11) ((1) IPAC/Caltech, (2) U. Toledo, (3) Reed, (4) Chalmers, (5) ESO - Garching, (6) Hertfordshire, (7) ASTRON, (8) Oxford, (9) CEA/CNRS, (10) AIP - Potsdam, (11) NMT)
+mathjax: true
 ---
 
 * content

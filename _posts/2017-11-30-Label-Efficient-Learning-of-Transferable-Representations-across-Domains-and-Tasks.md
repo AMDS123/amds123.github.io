@@ -5,6 +5,7 @@ date: 2017-11-30 23:31:28
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Action_Recognition Recognition
 author: Zelun Luo, Yuliang Zou, Judy Hoffman, Li Fei-Fei
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-08-08 09:27:55
 categories: arXiv_CV
 tags: arXiv_CV Review Sentiment_Classification Caption RNN
 author: Edison Marrese-Taylor, Jorge A. Balazs, Yutaka Matsuo
+mathjax: true
 ---
 
 * content

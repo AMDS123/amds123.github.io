@@ -5,6 +5,7 @@ date: 2016-12-01 13:11:29
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN
 author: Xiang Long, Chuang Gan, Gerard de Melo
+mathjax: true
 ---
 
 * content

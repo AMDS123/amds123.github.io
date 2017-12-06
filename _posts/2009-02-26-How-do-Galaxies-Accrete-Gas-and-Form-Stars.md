@@ -5,6 +5,7 @@ date: 2009-02-26 22:30:52
 categories: arXiv_CL
 tags: arXiv_CL
 author: M.E. Putman (Columbia), P. Henning (UNM), A. Bolatto (U. Maryland), D. Keres (Harvard), D.J. Pisano (WVU/NRAO), J. Rosenberg (George Mason U.), F. Bigiel (UC-Berkeley), G. Bryan (Columbia), D. Calzetti (U. Mass), C. Carilli (NRAO), J. Charlton (PSU), H.-W. Chen (U. Chicago), J. Darling (U. Colorado), S. Gibson (W. Kentucky), N. Gnedin (FNAL), O. Gnedin (U. Michigan), F. Heitsch (U. Michigan), D. Hunter (Lowell), S. Kannappan (UNC), M. Krumholz (UC-Santa Cruz), A. Lazarian (U. Wisconsin), J. Lazio (NRL), A. Leroy (MPIA), F.J. Lockman (NRAO), M. Mac Low (AMNH), A. Maller (CUNY), G. Meurer (JHU), K. O'Neil (NRAO), J. Ostriker (Princeton), J.E.G. Peek (UCB), J.X. Prochaska (UC-Santa Cruz), R. Rand (UNM), B. Robertson (U. Chicago), D. Schiminovich (Columbia), J. Simon (Carnegie), S. Stanimirovic (UW-Madison),  et al. (9 additional authors not shown)
+mathjax: true
 ---
 
 * content

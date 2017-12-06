@@ -5,6 +5,7 @@ date: 2017-05-25 12:13:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Deep_Learning Recognition
 author: Konda Reddy Mopuri, Vishal B. Athreya, R. Venkatesh Babu
+mathjax: true
 ---
 
 * content

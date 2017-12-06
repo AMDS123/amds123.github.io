@@ -5,6 +5,7 @@ date: 2016-06-08 08:39:11
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Akiko Eriguchi, Kazuma Hashimoto, Yoshimasa Tsuruoka
+mathjax: true
 ---
 
 * content

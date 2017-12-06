@@ -5,6 +5,7 @@ date: 2017-11-30 22:46:14
 categories: arXiv_CV
 tags: arXiv_CV Adversarial
 author: Yanjun Li, Kiryung Lee, Yoram Bresler
+mathjax: true
 ---
 
 * content

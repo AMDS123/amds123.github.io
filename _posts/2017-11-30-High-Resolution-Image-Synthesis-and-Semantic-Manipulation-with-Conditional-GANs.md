@@ -5,6 +5,7 @@ date: 2017-11-30 18:57:21
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Segmentation GAN
 author: Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro
+mathjax: true
 ---
 
 * content

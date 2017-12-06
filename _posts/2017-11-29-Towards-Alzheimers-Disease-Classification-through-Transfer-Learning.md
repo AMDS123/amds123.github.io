@@ -5,6 +5,7 @@ date: 2017-11-29 21:40:36
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning Detection
 author: Marcia Hon, Naimul Khan
+mathjax: true
 ---
 
 * content

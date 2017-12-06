@@ -5,6 +5,7 @@ date: 2017-12-04 13:20:25
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN CNN
 author: Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt
+mathjax: true
 ---
 
 * content

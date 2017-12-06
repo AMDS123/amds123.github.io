@@ -5,6 +5,7 @@ date: 2017-12-02 04:34:28
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption CNN
 author: Yifan Sun, Liang Zheng, Yi Yang, Qi Tian, Shengjin Wang
+mathjax: true
 ---
 
 * content

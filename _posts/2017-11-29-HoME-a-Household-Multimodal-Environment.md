@@ -5,6 +5,7 @@ date: 2017-11-29 18:45:59
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning
 author: Simon Brodeur, Ethan Perez, Ankesh Anand, Florian Golemo, Luca Celotti, Florian Strub, Jean Rouat, Hugo Larochelle, Aaron Courville
+mathjax: true
 ---
 
 * content

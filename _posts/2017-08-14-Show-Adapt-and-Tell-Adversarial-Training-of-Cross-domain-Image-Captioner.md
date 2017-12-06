@@ -5,6 +5,7 @@ date: 2017-08-14 15:54:32
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial Caption
 author: Tseng-Hung Chen, Yuan-Hong Liao, Ching-Yao Chuang, Wan-Ting Hsu, Jianlong Fu, Min Sun
+mathjax: true
 ---
 
 * content

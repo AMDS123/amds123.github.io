@@ -5,6 +5,7 @@ date: 2015-11-21 04:58:46
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Takuya Narihira, Damian Borth, Stella X. Yu, Karl Ni, Trevor Darrell
+mathjax: true
 ---
 
 * content

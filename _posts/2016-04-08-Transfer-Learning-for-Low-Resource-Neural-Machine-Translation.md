@@ -5,6 +5,7 @@ date: 2016-04-08 00:16:35
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Barret Zoph, Deniz Yuret, Jonathan May, Kevin Knight
+mathjax: true
 ---
 
 * content

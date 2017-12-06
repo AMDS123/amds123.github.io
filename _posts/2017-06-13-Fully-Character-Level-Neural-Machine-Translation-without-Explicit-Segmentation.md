@@ -5,6 +5,7 @@ date: 2017-06-13 03:32:34
 categories: arXiv_CL
 tags: arXiv_CL Segmentation CNN NMT
 author: Jason Lee, Kyunghyun Cho, Thomas Hofmann
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2015-09-16 15:02:30
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Xu Jia, Efstratios Gavves, Basura Fernando, Tinne Tuytelaars
+mathjax: true
 ---
 
 * content

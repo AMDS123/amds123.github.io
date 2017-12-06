@@ -5,6 +5,7 @@ date: 2017-08-06 01:59:22
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN Recognition
 author: Ang Li, Allan Jabri, Armand Joulin, Laurens van der Maaten
+mathjax: true
 ---
 
 * content

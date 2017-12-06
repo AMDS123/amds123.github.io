@@ -5,6 +5,7 @@ date: 2016-10-27 17:50:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Review Caption RNN
 author: Zhilin Yang, Ye Yuan, Yuexin Wu, Ruslan Salakhutdinov, William W. Cohen
+mathjax: true
 ---
 
 * content

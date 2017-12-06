@@ -5,6 +5,7 @@ date: 2017-12-05 14:33:57
 categories: arXiv_CV
 tags: arXiv_CV Recognition
 author: Avirup Bhattacharyya, Rajkumar Saini, Partha Pratim Roy, Debi Prosad Dogra, Samarjit Kar
+mathjax: true
 ---
 
 * content

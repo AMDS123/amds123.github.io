@@ -5,6 +5,7 @@ date: 2017-04-12 18:55:03
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
 author: Zhou Ren, Xiaoyu Wang, Ning Zhang, Xutao Lv, Li-Jia Li
+mathjax: true
 ---
 
 * content

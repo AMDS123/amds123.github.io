@@ -5,6 +5,7 @@ date: 2017-11-29 15:27:22
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Recognition
 author: Wissam J. Baddar, Yong Man Ro
+mathjax: true
 ---
 
 * content

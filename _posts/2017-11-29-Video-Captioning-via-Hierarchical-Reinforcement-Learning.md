@@ -5,6 +5,7 @@ date: 2017-11-29 22:23:59
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Reinforcement_Learning Caption
 author: Xin Wang, Wenhu Chen, Jiawei Wu, Yuan-Fang Wang, William Yang Wang
+mathjax: true
 ---
 
 * content

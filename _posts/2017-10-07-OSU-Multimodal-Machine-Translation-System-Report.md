@@ -5,6 +5,7 @@ date: 2017-10-07 18:37:08
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Mingbo Ma, Dapeng Li, Kai Zhao, Liang Huang
+mathjax: true
 ---
 
 * content

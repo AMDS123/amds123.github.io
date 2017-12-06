@@ -5,6 +5,7 @@ date: 2017-08-21 20:33:43
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Melvin Johnson, Mike Schuster, Quoc V. Le, Maxim Krikun, Yonghui Wu, Zhifeng Chen, Nikhil Thorat, Fernanda Viégas, Martin Wattenberg, Greg Corrado, Macduff Hughes, Jeffrey Dean
+mathjax: true
 ---
 
 * content

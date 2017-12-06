@@ -5,6 +5,7 @@ date: 2017-12-04 09:27:14
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Zhiwu Huang, Bernhard Kratzwald, Danda Pani Paudel, Jiqing Wu, Luc Van Gool
+mathjax: true
 ---
 
 * content

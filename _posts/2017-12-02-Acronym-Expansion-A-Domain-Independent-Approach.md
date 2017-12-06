@@ -5,6 +5,7 @@ date: 2017-12-02 10:52:08
 categories: arXiv_CL
 tags: arXiv_CL
 author: Aditya Thakker, Suhail Barot, Sudhir Bagul
+mathjax: true
 ---
 
 * content

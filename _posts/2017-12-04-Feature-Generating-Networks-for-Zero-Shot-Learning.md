@@ -5,6 +5,7 @@ date: 2017-12-04 10:00:40
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Yongqin Xian, Tobias Lorenz, Bernt Schiele, Zeynep Akata
+mathjax: true
 ---
 
 * content

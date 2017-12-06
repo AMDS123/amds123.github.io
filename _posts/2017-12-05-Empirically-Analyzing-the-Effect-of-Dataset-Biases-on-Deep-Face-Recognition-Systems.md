@@ -5,6 +5,7 @@ date: 2017-12-05 13:52:42
 categories: arXiv_CV
 tags: arXiv_CV CNN Recognition
 author: Adam Kortylewski, Bernhard Egger, Andreas Schneider, Thomas Gerig, Andreas Forster, Thomas Vetter
+mathjax: true
 ---
 
 * content

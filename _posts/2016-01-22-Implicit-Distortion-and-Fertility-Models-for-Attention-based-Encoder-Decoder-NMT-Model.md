@@ -5,6 +5,7 @@ date: 2016-01-22 02:08:02
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption NMT Recognition
 author: Shi Feng, Shujie Liu, Mu Li, Ming Zhou
+mathjax: true
 ---
 
 * content

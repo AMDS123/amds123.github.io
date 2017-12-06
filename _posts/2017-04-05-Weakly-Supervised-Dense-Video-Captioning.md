@@ -5,6 +5,7 @@ date: 2017-04-05 16:06:09
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Weakly_Supervised Caption CNN
 author: Zhiqiang Shen, Jianguo Li, Zhou Su, Minjun Li, Yurong Chen, Yu-Gang Jiang, Xiangyang Xue
+mathjax: true
 ---
 
 * content

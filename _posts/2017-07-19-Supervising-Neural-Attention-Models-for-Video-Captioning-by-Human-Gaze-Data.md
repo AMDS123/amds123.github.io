@@ -5,6 +5,7 @@ date: 2017-07-19 11:44:36
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Youngjae Yu, Jongwook Choi, Yeonhwa Kim, Kyung Yoo, Sang-Hun Lee, Gunhee Kim
+mathjax: true
 ---
 
 * content

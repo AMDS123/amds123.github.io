@@ -5,6 +5,7 @@ date: 2016-06-02 11:13:04
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN
 author: Yu Liu, Jianlong Fu, Tao Mei, Chang Wen Chen
+mathjax: true
 ---
 
 * content

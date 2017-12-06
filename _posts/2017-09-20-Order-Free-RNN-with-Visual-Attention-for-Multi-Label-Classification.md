@@ -5,6 +5,7 @@ date: 2017-09-20 05:00:21
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Shang-Fu Chen, Yi-Chen Chen, Chih-Kuan Yeh, Yu-Chiang Frank Wang
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-03 19:10:56
 categories: arXiv_CV
 tags: arXiv_CV
 author: Yvain Qu&#xe9;au, Jean M&#xe9;lou, Fabien Castan, Daniel Cremers, Jean-Denis Durou
+mathjax: true
 ---
 
 * content

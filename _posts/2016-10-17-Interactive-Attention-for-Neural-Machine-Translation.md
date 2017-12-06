@@ -5,6 +5,7 @@ date: 2016-10-17 08:33:20
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Fandong Meng, Zhengdong Lu, Hang Li, Qun Liu
+mathjax: true
 ---
 
 * content

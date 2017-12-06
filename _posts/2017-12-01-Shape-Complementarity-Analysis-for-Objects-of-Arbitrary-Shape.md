@@ -5,6 +5,7 @@ date: 2017-12-01 09:07:14
 categories: arXiv_CV
 tags: arXiv_CV GAN
 author: Morad Behandish, Horea T. Ilies
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-02-28 07:54:22
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN Deep_Learning Recognition
 author: Hao Yang, Joey Tianyi Zhou, Jianfei Cai, Yew Soon Ong
+mathjax: true
 ---
 
 * content

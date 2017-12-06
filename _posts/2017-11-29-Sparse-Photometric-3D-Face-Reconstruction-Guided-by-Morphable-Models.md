@@ -5,6 +5,7 @@ date: 2017-11-29 14:24:58
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation
 author: Xuan Cao, Zhang Chen, Anpei Chen, Xin Chen, Cen Wang, Jingyi Yu
+mathjax: true
 ---
 
 * content

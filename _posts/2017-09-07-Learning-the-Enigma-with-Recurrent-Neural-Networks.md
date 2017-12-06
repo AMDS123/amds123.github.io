@@ -5,6 +5,7 @@ date: 2017-09-07 19:05:23
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption RNN Recognition
 author: Sam Greydanus
+mathjax: true
 ---
 
 * content

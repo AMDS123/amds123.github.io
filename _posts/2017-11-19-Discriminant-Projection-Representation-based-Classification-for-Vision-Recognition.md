@@ -5,6 +5,7 @@ date: 2017-11-19 06:25:17
 categories: arXiv_CV
 tags: arXiv_CV Recognition
 author: Qingxiang Feng, Yicong Zhou
+mathjax: true
 ---
 
 * content

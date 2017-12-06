@@ -5,6 +5,7 @@ date: 2016-06-07 02:28:19
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN
 author: Mingxuan Wang, Zhengdong Lu, Hang Li, Qun Liu
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-04 13:35:39
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Tribhuvanesh Orekondy, Mario Fritz, Bernt Schiele
+mathjax: true
 ---
 
 * content

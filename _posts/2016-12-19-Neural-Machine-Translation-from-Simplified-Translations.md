@@ -5,6 +5,7 @@ date: 2016-12-19 11:50:58
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Josep Crego, Jean Senellart
+mathjax: true
 ---
 
 * content

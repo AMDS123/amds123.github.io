@@ -5,6 +5,7 @@ date: 2017-12-04 17:39:51
 categories: arXiv_CL
 tags: arXiv_CL RNN
 author: Elena Tutubalina, Zulfat Miftahutdinov
+mathjax: true
 ---
 
 * content

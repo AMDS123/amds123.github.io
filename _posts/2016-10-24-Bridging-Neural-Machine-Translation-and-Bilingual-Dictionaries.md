@@ -5,6 +5,7 @@ date: 2016-10-24 03:39:22
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Jiajun Zhang, Chengqing Zong
+mathjax: true
 ---
 
 * content

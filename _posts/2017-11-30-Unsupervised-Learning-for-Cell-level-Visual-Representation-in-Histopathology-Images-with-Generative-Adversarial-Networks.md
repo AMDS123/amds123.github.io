@@ -5,6 +5,7 @@ date: 2017-11-30 10:53:56
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Segmentation GAN
 author: Bo Hu, Ye Tang, Eric I-Chao Chang, Yubo Fan, Maode Lai, Yan Xu
+mathjax: true
 ---
 
 * content

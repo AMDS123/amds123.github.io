@@ -5,6 +5,7 @@ date: 2017-11-29 14:25:13
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Danfei Xu, Dragomir Anguelov, Ashesh Jain
+mathjax: true
 ---
 
 * content

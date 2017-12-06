@@ -5,6 +5,7 @@ date: 2017-11-29 05:13:32
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Semantic_Segmentation
 author: Chunhui Liu, Aayush Bansal, Victor Fragoso, Deva Ramanan
+mathjax: true
 ---
 
 * content

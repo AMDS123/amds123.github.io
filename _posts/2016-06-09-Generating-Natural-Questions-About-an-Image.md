@@ -5,6 +5,7 @@ date: 2016-06-09 01:20:49
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA
 author: Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell, Xiaodong He, Lucy Vanderwende
+mathjax: true
 ---
 
 * content

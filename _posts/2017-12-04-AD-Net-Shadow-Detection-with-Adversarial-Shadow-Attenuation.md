@@ -5,6 +5,7 @@ date: 2017-12-04 21:14:32
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Object_Detection Detection
 author: Hieu Le, Tomas F. Yago Vicente, Vu Nguyen, Minh Hoai, Dimitris Samaras
+mathjax: true
 ---
 
 * content

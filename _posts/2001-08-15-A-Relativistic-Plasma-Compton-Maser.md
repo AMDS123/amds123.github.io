@@ -5,6 +5,7 @@ date: 2001-08-15 17:56:45
 categories: arXiv_CL
 tags: arXiv_CL
 author: James C. Weatherall (NMT)
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-16 02:38:37
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
 author: Steven J. Rennie, Etienne Marcheret, Youssef Mroueh, Jarret Ross, Vaibhava Goel
+mathjax: true
 ---
 
 * content

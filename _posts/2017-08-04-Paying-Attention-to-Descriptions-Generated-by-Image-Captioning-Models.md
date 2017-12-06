@@ -5,6 +5,7 @@ date: 2017-08-04 11:24:45
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Hamed R. Tavakoli, Rakshith Shetty, Ali Borji, Jorma Laaksonen
+mathjax: true
 ---
 
 * content

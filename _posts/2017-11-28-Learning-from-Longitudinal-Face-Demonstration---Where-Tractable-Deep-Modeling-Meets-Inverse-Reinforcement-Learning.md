@@ -5,6 +5,7 @@ date: 2017-11-28 19:24:20
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning CNN
 author: Chi Nhan Duong, Kha Gia Quach, Khoa Luu, T. Hoang Ngan Le, Marios Savvides
+mathjax: true
 ---
 
 * content

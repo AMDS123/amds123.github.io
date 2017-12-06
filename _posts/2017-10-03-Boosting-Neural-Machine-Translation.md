@@ -5,6 +5,7 @@ date: 2017-10-03 11:46:04
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Dakun Zhang, Jungi Kim, Josep Crego, Jean Senellart
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2015-06-04 19:45:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Anna Rohrbach, Marcus Rohrbach, Bernt Schiele
+mathjax: true
 ---
 
 * content

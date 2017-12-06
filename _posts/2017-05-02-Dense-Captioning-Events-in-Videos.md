@@ -5,6 +5,7 @@ date: 2017-05-02 01:21:58
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles
+mathjax: true
 ---
 
 * content

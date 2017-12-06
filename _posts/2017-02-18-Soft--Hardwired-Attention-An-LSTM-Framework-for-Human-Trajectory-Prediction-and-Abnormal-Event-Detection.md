@@ -5,6 +5,7 @@ date: 2017-02-18 01:08:18
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN Detection
 author: Tharindu Fernando, Simon Denman, Sridha Sridharan, Clinton Fookes
+mathjax: true
 ---
 
 * content

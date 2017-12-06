@@ -5,6 +5,7 @@ date: 2017-03-07 04:04:33
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption Deep_Learning Recognition
 author: Łukasz Kaiser, Samy Bengio
+mathjax: true
 ---
 
 * content

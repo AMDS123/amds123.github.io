@@ -5,6 +5,7 @@ date: 2017-09-05 09:10:59
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN
 author: Ravi Kiran Sarvadevabhatla, Isht Dwivedi, Abhijat Biswas, Sahil Manocha, R. Venkatesh Babu
+mathjax: true
 ---
 
 * content

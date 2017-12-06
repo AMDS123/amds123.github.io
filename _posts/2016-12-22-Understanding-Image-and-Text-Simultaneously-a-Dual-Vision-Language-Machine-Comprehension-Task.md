@@ -5,6 +5,7 @@ date: 2016-12-22 22:44:17
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Nan Ding, Sebastian Goodman, Fei Sha, Radu Soricut
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-30 14:55:16
 categories: arXiv_CV
 tags: arXiv_CV GAN
 author: Bernhard Kratzwald, Zhiwu Huang, Danda Pani Paudel, Luc Van Gool
+mathjax: true
 ---
 
 * content

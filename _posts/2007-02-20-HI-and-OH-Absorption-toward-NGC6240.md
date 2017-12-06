@@ -5,6 +5,7 @@ date: 2007-02-20 11:53:34
 categories: arXiv_CL
 tags: arXiv_CL
 author: Willem A. Baan (ASTRON), Yoshiaki Hagiwara (NAOJ), Peter Hofner (NMT)
+mathjax: true
 ---
 
 * content

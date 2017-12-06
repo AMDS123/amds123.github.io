@@ -5,6 +5,7 @@ date: 2016-11-15 11:47:42
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Thanh-Le Ha, Jan Niehues, Alexander Waibel
+mathjax: true
 ---
 
 * content

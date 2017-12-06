@@ -5,6 +5,7 @@ date: 2017-12-05 17:13:56
 categories: arXiv_CL
 tags: arXiv_CL CNN Deep_Learning Detection
 author: Yuan Yang, Pengtao Xie, Xin Gao, Carol Cheng, Christy Li, Hongbao Zhang, Eric Xing
+mathjax: true
 ---
 
 * content

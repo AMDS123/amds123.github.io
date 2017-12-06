@@ -5,6 +5,7 @@ date: 2017-11-29 06:47:04
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Super_Resolution GAN
 author: Yu Chen, Ying Tai, Xiaoming Liu, Chunhua Shen, Jian Yang
+mathjax: true
 ---
 
 * content

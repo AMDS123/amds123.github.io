@@ -5,6 +5,7 @@ date: 2017-12-05 15:55:27
 categories: arXiv_CL
 tags: arXiv_CL
 author: Kevin Shu, Andrew Ortegaray, Robert Berwick, Matilde Marcolli
+mathjax: true
 ---
 
 * content

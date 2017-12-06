@@ -5,6 +5,7 @@ date: 2017-04-13 17:47:03
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Caption Detection
 author: Xinlei Chen, Abhinav Gupta
+mathjax: true
 ---
 
 * content

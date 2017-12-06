@@ -5,6 +5,7 @@ date: 2017-12-03 08:32:47
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Kwonjoon Lee, Weijian Xu, Fan Fan, Zhuowen Tu
+mathjax: true
 ---
 
 * content

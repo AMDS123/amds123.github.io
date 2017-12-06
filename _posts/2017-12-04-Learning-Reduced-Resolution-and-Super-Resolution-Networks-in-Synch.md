@@ -5,6 +5,7 @@ date: 2017-12-04 06:46:41
 categories: arXiv_CV
 tags: arXiv_CV Super_Resolution CNN
 author: Bolun Cai, Xiangmin Xu, Kailing Guo, Kui Jia, Dacheng Tao
+mathjax: true
 ---
 
 * content

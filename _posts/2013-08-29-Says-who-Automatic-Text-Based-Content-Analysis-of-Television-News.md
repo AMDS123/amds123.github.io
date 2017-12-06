@@ -5,6 +5,7 @@ date: 2013-08-29 08:12:30
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Carlos Castillo, Gianmarco De Francisci Morales, Marcelo Mendoza, Nasir Khan
+mathjax: true
 ---
 
 * content

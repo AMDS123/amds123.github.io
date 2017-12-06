@@ -5,6 +5,7 @@ date: 2017-12-04 21:02:24
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Abhinav Moudgil, Vineet Gandhi
+mathjax: true
 ---
 
 * content

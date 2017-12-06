@@ -5,6 +5,7 @@ date: 2017-12-02 22:40:39
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Zizhao Zhang, Fuyong Xing, Hanzi Wang, Yan Yan, Ying Huang, Xiaoshuang Shi, Lin Yang
+mathjax: true
 ---
 
 * content

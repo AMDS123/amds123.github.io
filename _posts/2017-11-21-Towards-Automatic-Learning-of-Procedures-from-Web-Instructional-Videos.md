@@ -5,6 +5,7 @@ date: 2017-11-21 20:37:43
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Segmentation Caption
 author: Luowei Zhou, Chenliang Xu, Jason J. Corso
+mathjax: true
 ---
 
 * content

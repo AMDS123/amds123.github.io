@@ -5,6 +5,7 @@ date: 2016-09-28 15:56:15
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN Deep_Learning
 author: Yunchen Pu, Zhe Gan, Ricardo Henao, Xin Yuan, Chunyuan Li, Andrew Stevens, Lawrence Carin
+mathjax: true
 ---
 
 * content

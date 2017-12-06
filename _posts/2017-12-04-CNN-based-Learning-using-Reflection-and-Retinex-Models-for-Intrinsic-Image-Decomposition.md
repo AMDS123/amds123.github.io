@@ -5,6 +5,7 @@ date: 2017-12-04 13:16:33
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Anil S. Baslamisli, Hoang-An Le, Theo Gevers
+mathjax: true
 ---
 
 * content

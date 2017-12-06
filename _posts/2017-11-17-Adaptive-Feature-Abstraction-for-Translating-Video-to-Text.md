@@ -5,6 +5,7 @@ date: 2017-11-17 05:13:16
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN
 author: Yunchen Pu, Martin Renqiang Min, Zhe Gan, Lawrence Carin
+mathjax: true
 ---
 
 * content

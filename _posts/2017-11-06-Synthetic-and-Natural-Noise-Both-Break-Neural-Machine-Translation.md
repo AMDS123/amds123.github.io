@@ -5,6 +5,7 @@ date: 2017-11-06 20:59:58
 categories: arXiv_CL
 tags: arXiv_CL CNN NMT
 author: Yonatan Belinkov, Yonatan Bisk
+mathjax: true
 ---
 
 * content

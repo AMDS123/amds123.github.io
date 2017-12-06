@@ -5,6 +5,7 @@ date: 2017-11-29 12:46:08
 categories: arXiv_CV
 tags: arXiv_CV
 author: V. Estellers, F. R. Schmidt, D. Cremers
+mathjax: true
 ---
 
 * content

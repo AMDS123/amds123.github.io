@@ -5,6 +5,7 @@ date: 2016-11-07 18:48:13
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Harsh Agrawal, Arjun Chandrasekaran, Dhruv Batra, Devi Parikh, Mohit Bansal
+mathjax: true
 ---
 
 * content

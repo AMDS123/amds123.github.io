@@ -5,6 +5,7 @@ date: 2017-09-10 19:56:15
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Shashi Narayan, Nikos Papasarantopoulos, Shay B. Cohen, Mirella Lapata
+mathjax: true
 ---
 
 * content

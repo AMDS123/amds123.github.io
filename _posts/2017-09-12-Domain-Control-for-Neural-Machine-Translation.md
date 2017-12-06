@@ -5,6 +5,7 @@ date: 2017-09-12 12:01:40
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Catherine Kobus, Josep Crego, Jean Senellart
+mathjax: true
 ---
 
 * content

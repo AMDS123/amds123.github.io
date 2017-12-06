@@ -5,6 +5,7 @@ date: 2017-12-05 06:53:27
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Semantic_Segmentation
 author: Xiaohang Zhan, Ziwei Liu, Ping Luo, Xiaoou Tang, Chen Change Loy
+mathjax: true
 ---
 
 * content

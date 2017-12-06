@@ -5,6 +5,7 @@ date: 2017-12-03 06:37:15
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection GAN CNN Detection Recognition
 author: Huichao Hong, Lixin Zheng, Jianqing Zhu, Shuwan Pan, Kaiting Zhou
+mathjax: true
 ---
 
 * content

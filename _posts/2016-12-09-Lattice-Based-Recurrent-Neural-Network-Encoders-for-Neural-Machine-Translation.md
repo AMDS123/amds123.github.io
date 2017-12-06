@@ -5,6 +5,7 @@ date: 2016-12-09 13:03:42
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN
 author: Jinsong Su, Zhixing Tan, Deyi Xiong, Rongrong Ji, Xiaodong Shi, Yang Liu
+mathjax: true
 ---
 
 * content

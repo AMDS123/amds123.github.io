@@ -5,6 +5,7 @@ date: 2016-06-15 13:27:16
 categories: arXiv_CV
 tags: arXiv_CV GAN Caption
 author: Amrita Saha, Mitesh M. Khapra, Sarath Chandar, Janarthanan Rajendran, Kyunghyun Cho
+mathjax: true
 ---
 
 * content

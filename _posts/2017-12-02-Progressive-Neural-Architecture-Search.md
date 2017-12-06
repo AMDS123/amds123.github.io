@@ -5,6 +5,7 @@ date: 2017-12-02 06:23:16
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning
 author: Chenxi Liu, Barret Zoph, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy
+mathjax: true
 ---
 
 * content

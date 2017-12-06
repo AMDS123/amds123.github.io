@@ -5,6 +5,7 @@ date: 2017-08-01 13:46:32
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN Style_Transfer Caption
 author: Xiaodan Liang, Hao Zhang, Eric P. Xing
+mathjax: true
 ---
 
 * content

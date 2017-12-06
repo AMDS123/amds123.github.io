@@ -5,6 +5,7 @@ date: 2017-07-31 14:31:01
 categories: arXiv_CL
 tags: arXiv_CL Segmentation NMT
 author: Duygu Ataman, Matteo Negri, Marco Turchi, Marcello Federico
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-04-14 19:36:54
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Zi Long, Takehito Utsuro, Tomoharu Mitsuhashi, Mikio Yamamoto
+mathjax: true
 ---
 
 * content

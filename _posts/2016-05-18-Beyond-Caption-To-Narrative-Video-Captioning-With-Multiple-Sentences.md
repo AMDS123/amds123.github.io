@@ -5,6 +5,7 @@ date: 2016-05-18 05:00:12
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Video_Caption Caption
 author: Andrew Shin, Katsunori Ohnishi, Tatsuya Harada
+mathjax: true
 ---
 
 * content

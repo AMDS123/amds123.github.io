@@ -5,6 +5,7 @@ date: 2017-02-03 21:46:12
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Chenhui Chu, Raj Dabre, Sadao Kurohashi
+mathjax: true
 ---
 
 * content

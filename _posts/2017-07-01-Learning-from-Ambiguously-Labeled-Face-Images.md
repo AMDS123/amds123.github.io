@@ -5,6 +5,7 @@ date: 2017-07-01 05:35:22
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Ching-Hui Chen, Vishal M. Patel, Rama Chellappa
+mathjax: true
 ---
 
 * content

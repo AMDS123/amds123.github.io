@@ -5,6 +5,7 @@ date: 2017-12-03 18:06:22
 categories: arXiv_CV
 tags: arXiv_CV GAN
 author: Higor Neto Lima, Wellington Pinheiro dos Santos, Mêuser Jorge Silva Valença
+mathjax: true
 ---
 
 * content

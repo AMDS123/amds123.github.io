@@ -5,6 +5,7 @@ date: 2017-11-30 16:45:25
 categories: arXiv_CV
 tags: arXiv_CV Adversarial CNN
 author: Andreas Veit, Serge Belongie
+mathjax: true
 ---
 
 * content

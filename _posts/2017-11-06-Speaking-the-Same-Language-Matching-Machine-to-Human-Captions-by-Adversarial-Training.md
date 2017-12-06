@@ -5,6 +5,7 @@ date: 2017-11-06 15:43:47
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial Caption
 author: Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz, Bernt Schiele
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2016-12-15 13:46:58
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Recognition
 author: Cewu Lu, Hao Su, Yongyi Lu, Li Yi, Chikeung Tang, Leonidas Guibas
+mathjax: true
 ---
 
 * content

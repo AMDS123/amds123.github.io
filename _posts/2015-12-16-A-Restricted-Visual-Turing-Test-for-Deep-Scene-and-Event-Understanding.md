@@ -5,6 +5,7 @@ date: 2015-12-16 19:19:25
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption VQA
 author: Hang Qi, Tianfu Wu, Mun-Wai Lee, Song-Chun Zhu
+mathjax: true
 ---
 
 * content

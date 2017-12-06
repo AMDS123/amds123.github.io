@@ -5,6 +5,7 @@ date: 2017-11-30 10:14:39
 categories: arXiv_CV
 tags: arXiv_CV Super_Resolution CNN
 author: Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky
+mathjax: true
 ---
 
 * content

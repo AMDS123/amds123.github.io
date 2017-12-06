@@ -5,6 +5,7 @@ date: 2017-05-24 13:42:47
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Qing Sun, Stefan Lee, Dhruv Batra
+mathjax: true
 ---
 
 * content

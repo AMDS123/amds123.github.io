@@ -5,6 +5,7 @@ date: 2017-12-04 10:20:24
 categories: arXiv_CV
 tags: arXiv_CV
 author: Andreas Maier, Christopher Syben, Tobias W&#xfc;rfl, Stefan Steidl, Jang-Hwan Choi, Rebecca Fahrig
+mathjax: true
 ---
 
 * content

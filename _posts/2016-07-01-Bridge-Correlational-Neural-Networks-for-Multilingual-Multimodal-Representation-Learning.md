@@ -5,6 +5,7 @@ date: 2016-07-01 09:01:19
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Janarthanan Rajendran, Mitesh M. Khapra, Sarath Chandar, Balaraman Ravindran
+mathjax: true
 ---
 
 * content

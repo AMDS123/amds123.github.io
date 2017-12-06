@@ -5,6 +5,7 @@ date: 1997-06-18 18:40:00
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Fred Popowich, Davide Turcato, Olivier Laurens, Paul McFetridge, J. Devlan Nicholson, Patrick McGivern, Maricela Corzo Pena, Lisa Pidruchney, Scott MacDonald (Simon Fraser University, Burnaby, Canada; TCC Communications, Victoria, Canada)
+mathjax: true
 ---
 
 * content

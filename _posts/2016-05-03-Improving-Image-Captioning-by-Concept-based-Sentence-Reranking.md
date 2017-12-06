@@ -5,6 +5,7 @@ date: 2016-05-03 12:13:26
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN Detection
 author: Xirong Li, Qin Jin
+mathjax: true
 ---
 
 * content

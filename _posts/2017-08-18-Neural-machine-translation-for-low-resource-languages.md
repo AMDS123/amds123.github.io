@@ -5,6 +5,7 @@ date: 2017-08-18 18:16:23
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Robert Östling, Jörg Tiedemann
+mathjax: true
 ---
 
 * content

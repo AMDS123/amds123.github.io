@@ -5,6 +5,7 @@ date: 2015-05-17 22:14:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Jacob Devlin, Saurabh Gupta, Ross Girshick, Margaret Mitchell, C. Lawrence Zitnick
+mathjax: true
 ---
 
 * content

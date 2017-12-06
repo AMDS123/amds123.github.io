@@ -5,6 +5,7 @@ date: 2016-11-06 05:56:12
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Henrique Tomaz Amaral-Silva, Luiz Otavio Murta-Jr, Paulo Mazzoncini de Azevedo-Marques, Lauro Wichert-Ana, V. B. Surya Prasath, Colin Studholme
+mathjax: true
 ---
 
 * content

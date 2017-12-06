@@ -5,6 +5,7 @@ date: 2017-09-05 12:55:44
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN
 author: Jianfeng Dong, Xirong Li, Cees G. M. Snoek
+mathjax: true
 ---
 
 * content

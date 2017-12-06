@@ -5,6 +5,7 @@ date: 2015-09-20 08:25:52
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Minh-Thang Luong, Hieu Pham, Christopher D. Manning
+mathjax: true
 ---
 
 * content

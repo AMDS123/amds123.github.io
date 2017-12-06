@@ -5,6 +5,7 @@ date: 2017-12-01 09:18:04
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Thanh Hai Nguyen, Yann Chevaleyre, Edi Prifti, Nataliya Sokolovska, Jean-Daniel Zucker
+mathjax: true
 ---
 
 * content

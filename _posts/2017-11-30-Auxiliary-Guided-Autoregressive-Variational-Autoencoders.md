@@ -5,6 +5,7 @@ date: 2017-11-30 15:57:24
 categories: arXiv_CV
 tags: arXiv_CV
 author: Thomas Lucas, Jakob Verbeek
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-04 03:52:57
 categories: arXiv_CL
 tags: arXiv_CL Adversarial
 author: Oswaldo Ludwig
+mathjax: true
 ---
 
 * content

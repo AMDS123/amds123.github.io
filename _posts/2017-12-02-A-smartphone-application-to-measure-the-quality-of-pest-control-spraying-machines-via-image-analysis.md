@@ -5,6 +5,7 @@ date: 2017-12-02 10:03:16
 categories: arXiv_CV
 tags: arXiv_CV CNN Detection
 author: Bruno B. Machado, Gabriel Spadon, Mauro S. Arruda, Wesley N. Goncalves, Andre C. P. L. F. Carvalho, Jose F. Rodrigues-Jr
+mathjax: true
 ---
 
 * content

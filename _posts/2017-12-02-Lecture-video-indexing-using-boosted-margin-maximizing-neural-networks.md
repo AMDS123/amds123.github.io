@@ -5,6 +5,7 @@ date: 2017-12-02 09:08:05
 categories: arXiv_CV
 tags: arXiv_CV Video_Indexing CNN
 author: Di Ma, Xi Zhang, Xu Ouyang, Gady Agam
+mathjax: true
 ---
 
 * content

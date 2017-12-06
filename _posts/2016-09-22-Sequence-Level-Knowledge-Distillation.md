@@ -5,6 +5,7 @@ date: 2016-09-22 01:17:12
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Yoon Kim, Alexander M. Rush
+mathjax: true
 ---
 
 * content

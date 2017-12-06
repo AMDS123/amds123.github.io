@@ -5,6 +5,7 @@ date: 2017-12-03 22:58:22
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: David F. Fouhey, Abhinav Gupta, Andrew Zisserman
+mathjax: true
 ---
 
 * content

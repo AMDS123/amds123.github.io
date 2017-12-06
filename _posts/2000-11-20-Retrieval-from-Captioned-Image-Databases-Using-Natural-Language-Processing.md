@@ -5,6 +5,7 @@ date: 2000-11-20 15:36:09
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: David Elworthy
+mathjax: true
 ---
 
 * content

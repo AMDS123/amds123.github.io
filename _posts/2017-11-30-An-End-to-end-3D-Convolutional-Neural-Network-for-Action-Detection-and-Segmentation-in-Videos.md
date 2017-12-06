@@ -5,6 +5,7 @@ date: 2017-11-30 19:26:49
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Detection
 author: Rui Hou, Chen Chen, Mubarak Shah
+mathjax: true
 ---
 
 * content

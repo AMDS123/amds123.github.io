@@ -5,6 +5,7 @@ date: 2017-11-30 11:38:11
 categories: arXiv_CV
 tags: arXiv_CV
 author: Alessandro Artusi, Thomas Richter, Touradj Ebrahimi, Rafal K. Mantiuk
+mathjax: true
 ---
 
 * content

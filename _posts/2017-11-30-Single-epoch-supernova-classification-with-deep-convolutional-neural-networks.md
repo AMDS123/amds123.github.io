@@ -5,6 +5,7 @@ date: 2017-11-30 17:30:39
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Akisato Kimura, Ichiro Takahashi, Masaomi Tanaka, Naoki Yasuda, Naonori Ueda, Naoki Yoshida
+mathjax: true
 ---
 
 * content

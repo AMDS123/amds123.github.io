@@ -5,6 +5,7 @@ date: 2017-12-01 05:03:17
 categories: arXiv_CV
 tags: arXiv_CV Recognition
 author: N. Hussain, H. Ujir, I. Hipiny, J-L Minoi
+mathjax: true
 ---
 
 * content

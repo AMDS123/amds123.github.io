@@ -5,6 +5,7 @@ date: 2017-12-01 07:15:28
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation
 author: Zifeng Wu, Chunhua Shen, Anton van den Hengel
+mathjax: true
 ---
 
 * content

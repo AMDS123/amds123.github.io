@@ -5,6 +5,7 @@ date: 2017-08-21 21:28:07
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption Recognition
 author: Anuroop Sriram, Heewoo Jun, Sanjeev Satheesh, Adam Coates
+mathjax: true
 ---
 
 * content

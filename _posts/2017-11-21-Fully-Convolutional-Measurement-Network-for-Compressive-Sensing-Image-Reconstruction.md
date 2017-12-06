@@ -5,6 +5,7 @@ date: 2017-11-21 04:27:23
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Xuemei Xie, Jiang Du, Chenye Wang, Guangming Shi, Xun Xu, Yuxiang Wang
+mathjax: true
 ---
 
 * content

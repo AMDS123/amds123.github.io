@@ -5,6 +5,7 @@ date: 2017-02-13 09:59:05
 categories: arXiv_CL
 tags: arXiv_CL Segmentation NMT
 author: Rico Sennrich
+mathjax: true
 ---
 
 * content

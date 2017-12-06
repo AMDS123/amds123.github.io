@@ -5,6 +5,7 @@ date: 2014-02-19 00:01:55
 categories: arXiv_CL
 tags: arXiv_CL Survey
 author: Juergen Ott (NRAO), Axel Weiss (MPIfR), Lister Staveley-Smith (ICRAR), Christian Henkel (MPIfR), David S. Meier (NMT)
+mathjax: true
 ---
 
 * content

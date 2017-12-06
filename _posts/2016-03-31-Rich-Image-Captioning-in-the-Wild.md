@@ -5,6 +5,7 @@ date: 2016-03-31 01:45:31
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Recognition
 author: Kenneth Tran, Xiaodong He, Lei Zhang, Jian Sun, Cornelia Carapcea, Chris Thrasher, Chris Buehler, Chris Sienkiewicz
+mathjax: true
 ---
 
 * content

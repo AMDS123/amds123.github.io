@@ -5,6 +5,7 @@ date: 2016-03-23 11:30:24
 categories: arXiv_CV
 tags: arXiv_CV Caption Deep_Learning Detection
 author: Arnau Ramisa, Fei Yan, Francesc Moreno-Noguer, Krystian Mikolajczyk
+mathjax: true
 ---
 
 * content

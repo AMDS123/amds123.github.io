@@ -5,6 +5,7 @@ date: 2017-10-29 09:37:02
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Yvette Graham, George Awad, Alan Smeaton
+mathjax: true
 ---
 
 * content

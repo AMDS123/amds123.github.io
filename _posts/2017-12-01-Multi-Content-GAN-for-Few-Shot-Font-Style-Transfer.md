@@ -5,6 +5,7 @@ date: 2017-12-01 23:12:58
 categories: arXiv_CV
 tags: arXiv_CV GAN Style_Transfer
 author: Samaneh Azadi, Matthew Fisher, Vladimir Kim, Zhaowen Wang, Eli Shechtman, Trevor Darrell
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-05 06:56:20
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Inwan Yoo, David G. C. Hildebrand, Willie F. Tobin, Wei-Chung Allen Lee, Won-Ki Jeong
+mathjax: true
 ---
 
 * content

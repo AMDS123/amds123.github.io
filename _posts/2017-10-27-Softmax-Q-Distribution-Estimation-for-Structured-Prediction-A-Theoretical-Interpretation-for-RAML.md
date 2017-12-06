@@ -5,6 +5,7 @@ date: 2017-10-27 19:50:50
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Recognition
 author: Xuezhe Ma, Pengcheng Yin, Jingzhou Liu, Graham Neubig, Eduard Hovy
+mathjax: true
 ---
 
 * content

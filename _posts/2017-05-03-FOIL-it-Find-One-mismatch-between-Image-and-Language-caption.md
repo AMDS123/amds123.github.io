@@ -5,6 +5,7 @@ date: 2017-05-03 11:07:13
 categories: arXiv_CV
 tags: arXiv_CV Caption Detection
 author: Ravi Shekhar, Sandro Pezzelle, Yauhen Klimovich, Aurelie Herbelot, Moin Nabi, Enver Sangineto, Raffaella Bernardi
+mathjax: true
 ---
 
 * content

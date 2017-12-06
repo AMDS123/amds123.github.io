@@ -5,6 +5,7 @@ date: 2017-01-23 17:43:23
 categories: arXiv_CL
 tags: arXiv_CL CNN NMT
 author: Iacer Calixto, Qun Liu, Nick Campbell
+mathjax: true
 ---
 
 * content

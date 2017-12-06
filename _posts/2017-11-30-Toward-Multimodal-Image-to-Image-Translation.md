@@ -5,6 +5,7 @@ date: 2017-11-30 18:59:01
 categories: arXiv_CV
 tags: arXiv_CV
 author: Jun-Yan Zhu, Richard Zhang, Deepak Pathak, Trevor Darrell, Alexei A. Efros, Oliver Wang, Eli Shechtman
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-03-23 14:20:52
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA
 author: Jean-Benoit Delbrouck, Stephane Dupont
+mathjax: true
 ---
 
 * content

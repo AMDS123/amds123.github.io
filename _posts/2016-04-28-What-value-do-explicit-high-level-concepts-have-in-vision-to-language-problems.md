@@ -5,6 +5,7 @@ date: 2016-04-28 04:59:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN VQA
 author: Qi Wu, Chunhua Shen, Lingqiao Liu, Anthony Dick, Anton van den Hengel
+mathjax: true
 ---
 
 * content

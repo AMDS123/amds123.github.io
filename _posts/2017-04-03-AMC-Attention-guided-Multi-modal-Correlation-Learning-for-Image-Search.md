@@ -5,6 +5,7 @@ date: 2017-04-03 18:57:42
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Kan Chen, Trung Bui, Fang Chen, Zhaowen Wang, Ram Nevatia
+mathjax: true
 ---
 
 * content

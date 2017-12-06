@@ -5,6 +5,7 @@ date: 2017-11-29 08:52:17
 categories: arXiv_CV
 tags: arXiv_CV
 author: Xinqing Guo, Zhang Chen, Siyuan Li, Yang Yang, Jingyi Yu
+mathjax: true
 ---
 
 * content

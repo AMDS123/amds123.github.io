@@ -5,6 +5,7 @@ date: 2017-08-07 20:50:24
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Reinforcement_Learning Caption
 author: Ramakanth Pasunuru, Mohit Bansal
+mathjax: true
 ---
 
 * content

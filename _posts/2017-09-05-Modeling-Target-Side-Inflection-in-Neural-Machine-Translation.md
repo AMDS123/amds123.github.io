@@ -5,6 +5,7 @@ date: 2017-09-05 09:29:10
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Aleš Tamchyna, Marion Weller-Di Marco, Alexander Fraser
+mathjax: true
 ---
 
 * content

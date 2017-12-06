@@ -5,6 +5,7 @@ date: 2011-09-30 15:51:12
 categories: arXiv_CV
 tags: arXiv_CV Video_Indexing Caption Recognition
 author: Sankirti S., P. M. Kamade
+mathjax: true
 ---
 
 * content

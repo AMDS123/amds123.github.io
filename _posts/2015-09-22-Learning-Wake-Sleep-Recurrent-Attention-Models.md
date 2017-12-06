@@ -5,6 +5,7 @@ date: 2015-09-22 23:52:30
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN
 author: Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey
+mathjax: true
 ---
 
 * content

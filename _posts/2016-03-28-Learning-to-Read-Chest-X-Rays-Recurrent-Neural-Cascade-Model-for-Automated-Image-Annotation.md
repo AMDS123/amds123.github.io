@@ -5,6 +5,7 @@ date: 2016-03-28 19:02:07
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Regularization GAN Caption CNN RNN Deep_Learning
 author: Hoo-Chang Shin, Kirk Roberts, Le Lu, Dina Demner-Fushman, Jianhua Yao, Ronald M Summers
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-10-21 21:02:46
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Gaurav Mittal, Tanya Marwah, Vineeth N. Balasubramanian
+mathjax: true
 ---
 
 * content

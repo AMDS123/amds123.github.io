@@ -5,6 +5,7 @@ date: 2017-10-10 06:46:31
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Qiuyuan Huang, Paul Smolensky, Xiaodong He, Li Deng, Dapeng Wu
+mathjax: true
 ---
 
 * content

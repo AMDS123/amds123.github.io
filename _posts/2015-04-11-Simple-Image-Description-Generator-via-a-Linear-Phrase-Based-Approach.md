@@ -5,6 +5,7 @@ date: 2015-04-11 03:53:26
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN
 author: Remi Lebret, Pedro O. Pinheiro, Ronan Collobert
+mathjax: true
 ---
 
 * content

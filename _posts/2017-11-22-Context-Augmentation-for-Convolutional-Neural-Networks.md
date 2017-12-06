@@ -5,6 +5,7 @@ date: 2017-11-22 23:53:47
 categories: arXiv_CV
 tags: arXiv_CV CNN Recognition
 author: Aysegul Dundar, Ignacio Garcia-Dorado
+mathjax: true
 ---
 
 * content

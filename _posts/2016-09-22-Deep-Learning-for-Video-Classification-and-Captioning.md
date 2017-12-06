@@ -5,6 +5,7 @@ date: 2016-09-22 00:08:59
 categories: arXiv_CV
 tags: arXiv_CV Review Video_Caption Caption Deep_Learning
 author: Zuxuan Wu, Ting Yao, Yanwei Fu, Yu-Gang Jiang
+mathjax: true
 ---
 
 * content

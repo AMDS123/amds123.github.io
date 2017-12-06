@@ -5,6 +5,7 @@ date: 2017-08-04 17:03:56
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN Recognition
 author: Arun Mallya, Svetlana Lazebnik
+mathjax: true
 ---
 
 * content

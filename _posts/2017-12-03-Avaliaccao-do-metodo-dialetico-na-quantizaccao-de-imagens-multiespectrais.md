@@ -5,6 +5,7 @@ date: 2017-12-03 18:13:27
 categories: arXiv_CV
 tags: arXiv_CV GAN
 author: Wellington Pinheiro dos Santos, Francisco Marcos de Assis
+mathjax: true
 ---
 
 * content

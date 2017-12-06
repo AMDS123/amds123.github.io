@@ -5,6 +5,7 @@ date: 2017-08-20 09:24:46
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Robert Östling, Yves Scherrer, Jörg Tiedemann, Gongbo Tang, Tommi Nieminen
+mathjax: true
 ---
 
 * content

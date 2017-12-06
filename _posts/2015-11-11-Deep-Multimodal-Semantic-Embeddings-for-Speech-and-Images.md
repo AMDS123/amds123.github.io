@@ -5,6 +5,7 @@ date: 2015-11-11 21:30:10
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN
 author: David Harwath, James Glass
+mathjax: true
 ---
 
 * content

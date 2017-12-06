@@ -5,6 +5,7 @@ date: 2017-12-03 03:40:08
 categories: arXiv_CV
 tags: arXiv_CV Regularization
 author: Shengke Xue, Wenyuan Qiu, Fan Liu, Xinyu Jin
+mathjax: true
 ---
 
 * content

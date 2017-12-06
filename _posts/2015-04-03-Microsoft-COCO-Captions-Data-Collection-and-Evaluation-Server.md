@@ -5,6 +5,7 @@ date: 2015-04-03 20:21:16
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Xinlei Chen, Hao Fang, Tsung-Yi Lin, Ramakrishna Vedantam, Saurabh Gupta, Piotr Dollar, C. Lawrence Zitnick
+mathjax: true
 ---
 
 * content

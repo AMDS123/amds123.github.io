@@ -5,6 +5,7 @@ date: 2017-10-04 20:13:43
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Aodong Li, Shiyue Zhang, Dong Wang, Thomas Fang Zheng
+mathjax: true
 ---
 
 * content

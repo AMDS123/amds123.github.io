@@ -5,6 +5,7 @@ date: 2017-12-02 19:14:49
 categories: arXiv_CV
 tags: arXiv_CV CNN Detection
 author: Jameson Merkow, Robert Lufkin, Kim Nguyen, Stefano Soatto, Zhuowen Tu, Andrea Vedaldi
+mathjax: true
 ---
 
 * content

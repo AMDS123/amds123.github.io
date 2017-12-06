@@ -5,6 +5,7 @@ date: 2017-12-01 18:38:36
 categories: arXiv_CV
 tags: arXiv_CV
 author: Nikola Banić, Sven Lončarić
+mathjax: true
 ---
 
 * content

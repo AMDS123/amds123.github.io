@@ -5,6 +5,7 @@ date: 2017-11-30 21:05:15
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Huaizu Jiang, Deqing Sun, Varun Jampani, Ming-Hsuan Yang, Erik Learned-Miller, Jan Kautz
+mathjax: true
 ---
 
 * content

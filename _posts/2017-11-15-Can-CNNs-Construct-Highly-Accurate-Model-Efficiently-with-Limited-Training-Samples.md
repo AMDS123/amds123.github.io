@@ -5,6 +5,7 @@ date: 2017-11-15 00:06:54
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Yu Li, Hu Wang, Juanjuan Liu
+mathjax: true
 ---
 
 * content

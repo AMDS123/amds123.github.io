@@ -5,6 +5,7 @@ date: 2017-12-05 18:43:57
 categories: arXiv_CL
 tags: arXiv_CL
 author: Avirup Sil, Gourab Kundu, Radu Florian, Wael Hamza
+mathjax: true
 ---
 
 * content

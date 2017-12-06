@@ -5,6 +5,7 @@ date: 2016-10-05 02:46:39
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Philip Arthur, Graham Neubig, Satoshi Nakamura
+mathjax: true
 ---
 
 * content

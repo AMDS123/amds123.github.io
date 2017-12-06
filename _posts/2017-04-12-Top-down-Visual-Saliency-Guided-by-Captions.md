@@ -5,6 +5,7 @@ date: 2017-04-12 22:49:47
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Vasili Ramanishka, Abir Das, Jianming Zhang, Kate Saenko
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2015-11-16 19:43:19
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial Caption Deep_Learning
 author: Ferenc Huszár
+mathjax: true
 ---
 
 * content

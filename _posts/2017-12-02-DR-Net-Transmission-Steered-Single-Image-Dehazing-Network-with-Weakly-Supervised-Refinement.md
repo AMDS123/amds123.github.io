@@ -5,6 +5,7 @@ date: 2017-12-02 15:23:43
 categories: arXiv_CV
 tags: arXiv_CV Weakly_Supervised
 author: Chongyi Li, Jichang Guo, Fatih Porikli, Chunle Guo, Huzhu Fu, Xi Li
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2016-01-05 01:55:22
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Weakly_Supervised Caption
 author: Hongzhi Li, Joseph G. Ellis, Shih-Fu Chang
+mathjax: true
 ---
 
 * content

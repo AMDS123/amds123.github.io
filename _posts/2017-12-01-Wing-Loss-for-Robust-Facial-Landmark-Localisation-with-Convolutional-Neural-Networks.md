@@ -5,6 +5,7 @@ date: 2017-12-01 21:40:58
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Zhen-Hua Feng, Josef Kittler, Muhammad Awais, Patrik Huber, Xiao-Jun Wu
+mathjax: true
 ---
 
 * content

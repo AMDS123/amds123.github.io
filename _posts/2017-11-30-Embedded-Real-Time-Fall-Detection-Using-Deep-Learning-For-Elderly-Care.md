@@ -5,6 +5,7 @@ date: 2017-11-30 03:07:14
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning Detection
 author: Hyunwoo Lee, Jooyoung Kim, Dojun Yang, Joon-Ho Kim
+mathjax: true
 ---
 
 * content

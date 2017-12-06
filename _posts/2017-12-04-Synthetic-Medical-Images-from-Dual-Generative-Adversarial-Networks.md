@@ -5,6 +5,7 @@ date: 2017-12-04 05:01:18
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: John T. Guibas, Tejpal S. Virdi, Peter S. Li
+mathjax: true
 ---
 
 * content

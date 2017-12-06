@@ -5,6 +5,7 @@ date: 2017-11-17 09:58:20
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Detection
 author: Jiahong Wu, He Zheng, Bo Zhao, Yixin Li, Baoming Yan, Rui Liang, Wenjia Wang, Shipei Zhou, Guosen Lin, Yanwei Fu, Yizhou Wang, Yonggang Wang
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-05 03:11:07
 categories: arXiv_CL
 tags: arXiv_CL
 author: Willie Boag, Hassan Kan&#xe9;
+mathjax: true
 ---
 
 * content

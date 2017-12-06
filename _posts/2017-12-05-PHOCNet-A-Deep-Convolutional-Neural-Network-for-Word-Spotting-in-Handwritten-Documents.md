@@ -5,6 +5,7 @@ date: 2017-12-05 06:58:02
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Detection
 author: Sebastian Sudholt, Gernot A. Fink
+mathjax: true
 ---
 
 * content

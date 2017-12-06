@@ -5,6 +5,7 @@ date: 2017-12-04 14:19:44
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Shervin Minaee, Yao Wang
+mathjax: true
 ---
 
 * content

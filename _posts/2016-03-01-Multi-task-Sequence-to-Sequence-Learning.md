@@ -5,6 +5,7 @@ date: 2016-03-01 10:55:58
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser
+mathjax: true
 ---
 
 * content

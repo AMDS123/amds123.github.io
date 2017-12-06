@@ -5,6 +5,7 @@ date: 2017-06-06 06:59:15
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Jiasen Lu, Caiming Xiong, Devi Parikh, Richard Socher
+mathjax: true
 ---
 
 * content

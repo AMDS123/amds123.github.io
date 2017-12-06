@@ -5,6 +5,7 @@ date: 2017-11-28 19:28:27
 categories: arXiv_CV
 tags: arXiv_CV Review
 author: Fatmatulzehra Uslu, Anil Anthony Bharath
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2009-01-26 02:14:29
 categories: arXiv_CV
 tags: arXiv_CV Review Caption
 author: Qingzhao Tan, Prasenjit Mitra, C. Lee Giles
+mathjax: true
 ---
 
 * content

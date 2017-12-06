@@ -5,6 +5,7 @@ date: 2017-11-29 11:17:04
 categories: arXiv_CV
 tags: arXiv_CV
 author: Donna Xu, Ivor W. Tsang, Ying Zhang
+mathjax: true
 ---
 
 * content

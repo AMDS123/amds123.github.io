@@ -5,6 +5,7 @@ date: 2017-07-02 07:56:06
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Sangkuk Lee, Daesik Kim, Myunggi Lee, Jihye Hwang, Nojun Kwak
+mathjax: true
 ---
 
 * content

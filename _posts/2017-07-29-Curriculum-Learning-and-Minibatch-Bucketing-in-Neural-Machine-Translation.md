@@ -5,6 +5,7 @@ date: 2017-07-29 15:58:55
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Tom Kocmi, Ondrej Bojar
+mathjax: true
 ---
 
 * content

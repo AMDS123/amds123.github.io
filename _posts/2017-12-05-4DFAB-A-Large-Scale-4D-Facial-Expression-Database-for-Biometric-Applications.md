@@ -5,6 +5,7 @@ date: 2017-12-05 02:13:39
 categories: arXiv_CV
 tags: arXiv_CV Recognition
 author: Shiyang Cheng, Irene Kotsia, Maja Pantic, Stefanos Zafeiriou
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-01 18:18:42
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Segmentation Semantic_Segmentation Detection
 author: Zhishuai Zhang, Siyuan Qiao, Cihang Xie, Wei Shen, Bo Wang, Alan L. Yuille
+mathjax: true
 ---
 
 * content

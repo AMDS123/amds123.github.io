@@ -5,6 +5,7 @@ date: 2016-10-18 09:35:03
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Hendrik Heuer, Christof Monz, Arnold W.M. Smeulders
+mathjax: true
 ---
 
 * content

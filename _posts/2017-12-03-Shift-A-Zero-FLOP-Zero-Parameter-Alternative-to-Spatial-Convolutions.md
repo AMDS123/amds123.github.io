@@ -5,6 +5,7 @@ date: 2017-12-03 07:07:21
 categories: arXiv_CV
 tags: arXiv_CV Style_Transfer
 author: Bichen Wu, Alvin Wan, Xiangyu Yue, Peter Jin, Sicheng Zhao, Noah Golmant, Amir Gholaminejad, Joseph Gonzalez, Kurt Keutzer
+mathjax: true
 ---
 
 * content

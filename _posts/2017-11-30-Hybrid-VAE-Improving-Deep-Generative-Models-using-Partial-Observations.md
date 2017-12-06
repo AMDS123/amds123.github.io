@@ -5,6 +5,7 @@ date: 2017-11-30 18:37:37
 categories: arXiv_CV
 tags: arXiv_CV Regularization
 author: Sergey Tulyakov, Andrew Fitzgibbon, Sebastian Nowozin
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-08-30 11:27:02
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN
 author: Long Zhou, Jiajun Zhang, Chengqing Zong
+mathjax: true
 ---
 
 * content

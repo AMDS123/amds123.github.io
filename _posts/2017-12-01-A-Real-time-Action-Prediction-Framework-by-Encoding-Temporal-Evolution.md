@@ -5,6 +5,7 @@ date: 2017-12-01 20:56:15
 categories: arXiv_CV
 tags: arXiv_CV CNN RNN Recognition
 author: Fahimeh Rezazadegan, Sareh Shirazi, Larry S. Davis
+mathjax: true
 ---
 
 * content

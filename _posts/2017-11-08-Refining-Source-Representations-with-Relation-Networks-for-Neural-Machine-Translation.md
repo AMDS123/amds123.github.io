@@ -5,6 +5,7 @@ date: 2017-11-08 08:20:13
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN
 author: Wen Zhang, Jiawei Hu, Yang Feng, Qun Liu
+mathjax: true
 ---
 
 * content

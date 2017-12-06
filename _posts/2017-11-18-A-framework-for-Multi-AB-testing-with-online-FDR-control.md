@@ -5,6 +5,7 @@ date: 2017-11-18 07:25:12
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Fanny Yang, Aaditya Ramdas, Kevin Jamieson, Martin J. Wainwright
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2016-02-10 16:50:29
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption RNN Recognition
 author: Lionel Pigou, Aäron van den Oord, Sander Dieleman, Mieke Van Herreweghe, Joni Dambre
+mathjax: true
 ---
 
 * content

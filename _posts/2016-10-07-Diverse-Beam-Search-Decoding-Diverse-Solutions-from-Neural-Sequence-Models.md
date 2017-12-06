@@ -5,6 +5,7 @@ date: 2016-10-07 20:56:47
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA
 author: Ashwin K Vijayakumar, Michael Cogswell, Ramprasath R. Selvaraju, Qing Sun, Stefan Lee, David Crandall, Dhruv Batra
+mathjax: true
 ---
 
 * content

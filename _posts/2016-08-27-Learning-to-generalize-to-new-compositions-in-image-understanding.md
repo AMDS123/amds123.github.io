@@ -5,6 +5,7 @@ date: 2016-08-27 00:34:00
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Yuval Atzmon, Jonathan Berant, Vahid Kezami, Amir Globerson, Gal Chechik
+mathjax: true
 ---
 
 * content

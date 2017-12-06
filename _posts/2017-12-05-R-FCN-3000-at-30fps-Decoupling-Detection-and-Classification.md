@@ -5,6 +5,7 @@ date: 2017-12-05 18:30:19
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Bharat Singh, Hengduo Li, Abhishek Sharma, Larry S. Davis
+mathjax: true
 ---
 
 * content

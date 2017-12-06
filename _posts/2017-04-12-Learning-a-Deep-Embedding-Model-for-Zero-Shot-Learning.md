@@ -5,6 +5,7 @@ date: 2017-04-12 10:30:48
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Li Zhang, Tao Xiang, Shaogang Gong
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-01-07 16:27:44
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Mohaddeseh Bastan, Shahram Khadivi, Mohammad Mehdi Homayounpour
+mathjax: true
 ---
 
 * content

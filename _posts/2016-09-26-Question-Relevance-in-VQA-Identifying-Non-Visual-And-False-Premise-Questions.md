@@ -5,6 +5,7 @@ date: 2016-09-26 15:24:28
 categories: arXiv_CV
 tags: arXiv_CV Caption RNN VQA
 author: Arijit Ray, Gordon Christie, Mohit Bansal, Dhruv Batra, Devi Parikh
+mathjax: true
 ---
 
 * content

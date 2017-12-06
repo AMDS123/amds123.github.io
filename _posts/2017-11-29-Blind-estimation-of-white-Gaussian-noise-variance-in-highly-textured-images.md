@@ -5,6 +5,7 @@ date: 2017-11-29 11:43:26
 categories: arXiv_CV
 tags: arXiv_CV
 author: Mykola Ponomarenko, Nikolay Gapon, Viacheslav Voronin, Karen Egiazarian
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-30 21:25:33
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Seungkyun Hong, Seongchan Kim, Minsu Joh, Sa-kwang Song
+mathjax: true
 ---
 
 * content

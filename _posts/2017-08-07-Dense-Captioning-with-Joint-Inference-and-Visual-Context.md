@@ -5,6 +5,7 @@ date: 2017-08-07 23:17:34
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Linjie Yang, Kevin Tang, Jianchao Yang, Li-Jia Li
+mathjax: true
 ---
 
 * content

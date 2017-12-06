@@ -5,6 +5,7 @@ date: 2017-12-02 03:48:42
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Yuankai Huo, Shunxing Bao, Prasanna Parvathaneni, Bennett A. Landman
+mathjax: true
 ---
 
 * content

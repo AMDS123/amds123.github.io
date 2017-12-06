@@ -5,6 +5,7 @@ date: 2016-04-08 00:04:22
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Mohamed Elhoseiny, Scott Cohen, Walter Chang, Brian Price, Ahmed Elgammal
+mathjax: true
 ---
 
 * content

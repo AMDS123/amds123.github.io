@@ -5,6 +5,7 @@ date: 2017-12-01 06:04:05
 categories: arXiv_CV
 tags: arXiv_CV Regularization Super_Resolution Deep_Learning
 author: Kai Fan, Qi Wei, Wenlin Wang, Amit Chakraborty, Katherine Heller
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-29 10:08:46
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Hiba Chougrad, Hamid Zouaki, Omar Alheyane
+mathjax: true
 ---
 
 * content

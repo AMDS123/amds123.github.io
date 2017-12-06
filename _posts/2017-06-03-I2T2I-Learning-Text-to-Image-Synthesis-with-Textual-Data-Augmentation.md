@@ -5,6 +5,7 @@ date: 2017-06-03 22:46:46
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial GAN Caption RNN
 author: Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo
+mathjax: true
 ---
 
 * content

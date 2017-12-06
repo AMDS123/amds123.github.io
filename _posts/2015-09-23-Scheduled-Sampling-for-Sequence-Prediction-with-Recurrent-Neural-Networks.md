@@ -5,6 +5,7 @@ date: 2015-09-23 16:35:42
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer
+mathjax: true
 ---
 
 * content

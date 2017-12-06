@@ -5,6 +5,7 @@ date: 2016-10-09 09:20:08
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Luisa Bentivogli, Arianna Bisazza, Mauro Cettolo, Marcello Federico
+mathjax: true
 ---
 
 * content

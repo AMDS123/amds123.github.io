@@ -5,6 +5,7 @@ date: 2015-04-16 13:13:46
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Mainak Jas, Devi Parikh
+mathjax: true
 ---
 
 * content

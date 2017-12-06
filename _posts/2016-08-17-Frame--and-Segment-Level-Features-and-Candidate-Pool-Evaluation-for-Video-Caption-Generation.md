@@ -5,6 +5,7 @@ date: 2016-08-17 13:30:06
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Rakshith Shetty, Jorma Laaksonen
+mathjax: true
 ---
 
 * content

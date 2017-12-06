@@ -5,6 +5,7 @@ date: 2017-04-03 11:37:41
 categories: arXiv_CL
 tags: arXiv_CL GAN NMT
 author: Raj Dabre, Fabien Cromieres, Sadao Kurohashi
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2016-10-18 08:27:23
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Recognition
 author: Mihai Zanfir, Elisabeta Marinoiu, Cristian Sminchisescu
+mathjax: true
 ---
 
 * content

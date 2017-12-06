@@ -5,6 +5,7 @@ date: 2015-02-19 14:46:00
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Regularization Speech_Recognition Caption RNN Recognition
 author: Wojciech Zaremba, Ilya Sutskever, Oriol Vinyals
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-07-15 12:38:48
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Chris Hokamp
+mathjax: true
 ---
 
 * content

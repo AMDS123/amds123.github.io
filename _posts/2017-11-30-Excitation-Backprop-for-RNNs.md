@@ -5,6 +5,7 @@ date: 2017-11-30 19:23:46
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Action_Recognition RNN Recognition
 author: Sarah Adel Bargal, Andrea Zunino, Donghyun Kim, Jianming Zhang, Vittorio Murino, Stan Sclaroff
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-04 03:03:53
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Zhiqiang Shen, Honghui Shi, Rogerio Feris, Liangliang Cao, Shuicheng Yan, Ding Liu, Xinchao Wang, Xiangyang Xue, Thomas S. Huang
+mathjax: true
 ---
 
 * content

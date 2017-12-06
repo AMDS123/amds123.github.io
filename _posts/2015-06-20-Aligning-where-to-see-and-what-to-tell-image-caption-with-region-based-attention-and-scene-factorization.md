@@ -5,6 +5,7 @@ date: 2015-06-20 17:25:38
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Junqi Jin, Kun Fu, Runpeng Cui, Fei Sha, Changshui Zhang
+mathjax: true
 ---
 
 * content

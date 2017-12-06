@@ -5,6 +5,7 @@ date: 2017-12-01 10:35:13
 categories: arXiv_CV
 tags: arXiv_CV Regularization Adversarial GAN CNN
 author: Nikolay Jetchev, Urs Bergmann, Calvin Seward
+mathjax: true
 ---
 
 * content

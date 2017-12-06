@@ -5,6 +5,7 @@ date: 2017-12-04 10:06:43
 categories: arXiv_CV
 tags: arXiv_CV Regularization Super_Resolution
 author: Jonas Geiping, Hendrik Dirks, Daniel Cremers, Michael Moeller
+mathjax: true
 ---
 
 * content

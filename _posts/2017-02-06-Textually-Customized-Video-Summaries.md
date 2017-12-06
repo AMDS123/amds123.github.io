@@ -5,6 +5,7 @@ date: 2017-02-06 08:31:44
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Jinsoo Choi, Tae-Hyun Oh, In So Kweon
+mathjax: true
 ---
 
 * content

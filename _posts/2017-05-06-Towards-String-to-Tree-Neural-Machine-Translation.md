@@ -5,6 +5,7 @@ date: 2017-05-06 07:25:19
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Roee Aharoni, Yoav Goldberg
+mathjax: true
 ---
 
 * content

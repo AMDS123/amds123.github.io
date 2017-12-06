@@ -5,6 +5,7 @@ date: 2017-12-04 00:58:58
 categories: arXiv_SD
 tags: arXiv_SD CNN
 author: Jongpil Lee, Taejun Kim, Jiyoung Park, Juhan Nam
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-08-10 14:29:19
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Chang Liu, Fuchun Sun, Changhu Wang, Feng Wang, Alan Yuille
+mathjax: true
 ---
 
 * content

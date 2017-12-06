@@ -5,6 +5,7 @@ date: 2016-04-11 01:11:56
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Deep_Learning
 author: Junhua Mao, Jonathan Huang, Alexander Toshev, Oana Camburu, Alan Yuille, Kevin Murphy
+mathjax: true
 ---
 
 * content

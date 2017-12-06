@@ -5,6 +5,7 @@ date: 2017-12-04 16:19:05
 categories: arXiv_CV
 tags: arXiv_CV Adversarial CNN Recognition
 author: Vahid Mirjalili, Sebastian Raschka, Anoop Namboodiri, Arun Ross
+mathjax: true
 ---
 
 * content

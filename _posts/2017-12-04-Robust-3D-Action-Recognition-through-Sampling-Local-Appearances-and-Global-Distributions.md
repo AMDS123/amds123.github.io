@@ -5,6 +5,7 @@ date: 2017-12-04 14:31:42
 categories: arXiv_CV
 tags: arXiv_CV Action_Recognition Detection Recognition
 author: Mengyuan Liu, Hong Liu, Chen Chen
+mathjax: true
 ---
 
 * content

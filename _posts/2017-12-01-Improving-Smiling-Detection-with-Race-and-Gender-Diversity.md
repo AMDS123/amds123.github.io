@@ -5,6 +5,7 @@ date: 2017-12-01 05:00:16
 categories: arXiv_CV
 tags: arXiv_CV Face_Detection Deep_Learning Detection
 author: Hee Jung Ryu, Margaret Mitchell, Hartwig Adam
+mathjax: true
 ---
 
 * content

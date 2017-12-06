@@ -5,6 +5,7 @@ date: 2017-05-02 15:21:46
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN
 author: Junhui Li, Deyi Xiong, Zhaopeng Tu, Muhua Zhu, Min Zhang, Guodong Zhou
+mathjax: true
 ---
 
 * content

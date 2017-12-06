@@ -5,6 +5,7 @@ date: 2017-11-30 06:30:11
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Daitao Xing, Zichen Li, Xin Chen, Yi Fang
+mathjax: true
 ---
 
 * content

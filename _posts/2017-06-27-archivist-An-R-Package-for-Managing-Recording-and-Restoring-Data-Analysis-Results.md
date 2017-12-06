@@ -5,6 +5,7 @@ date: 2017-06-27 12:44:39
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Przemyslaw Biecek, Marcin Kosinski
+mathjax: true
 ---
 
 * content

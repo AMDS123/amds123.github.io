@@ -5,6 +5,7 @@ date: 2017-03-06 15:54:27
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Guillaume Klein, Yoon Kim, Yuntian Deng, Jean Senellart, Alexander M. Rush
+mathjax: true
 ---
 
 * content

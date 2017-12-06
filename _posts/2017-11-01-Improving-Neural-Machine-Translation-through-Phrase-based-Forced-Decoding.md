@@ -5,6 +5,7 @@ date: 2017-11-01 12:25:20
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Jingyi Zhang, Masao Utiyama, Eiichro Sumita, Graham Neubig, Satoshi Nakamura
+mathjax: true
 ---
 
 * content

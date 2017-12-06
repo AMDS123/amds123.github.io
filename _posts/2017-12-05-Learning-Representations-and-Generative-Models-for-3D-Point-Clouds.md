@@ -5,6 +5,7 @@ date: 2017-12-05 05:35:30
 categories: arXiv_CV
 tags: arXiv_CV GAN Recognition
 author: Panos Achlioptas, Olga Diamanti, Ioannis Mitliagkas, Leonidas Guibas
+mathjax: true
 ---
 
 * content

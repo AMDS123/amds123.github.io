@@ -5,6 +5,7 @@ date: 2017-12-05 10:19:34
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Jiren Jin, Richard G. Calland, Takeru Miyato, Brian K. Vogel, Hideki Nakayama
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-05 15:19:54
 categories: arXiv_CV
 tags: arXiv_CV Regularization Segmentation
 author: Chaolu Feng
+mathjax: true
 ---
 
 * content

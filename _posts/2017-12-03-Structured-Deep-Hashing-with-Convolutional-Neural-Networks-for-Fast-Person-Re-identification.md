@@ -5,6 +5,7 @@ date: 2017-12-03 02:41:08
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Lin Wu, Yang Wang
+mathjax: true
 ---
 
 * content

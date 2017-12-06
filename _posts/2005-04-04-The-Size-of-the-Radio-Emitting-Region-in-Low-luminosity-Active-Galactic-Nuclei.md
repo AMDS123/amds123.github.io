@@ -5,6 +5,7 @@ date: 2005-04-04 14:15:43
 categories: arXiv_CL
 tags: arXiv_CL
 author: James M. Anderson (1,2), James S. Ulvestad (1) ((1) NRAO, (2) NMT)
+mathjax: true
 ---
 
 * content

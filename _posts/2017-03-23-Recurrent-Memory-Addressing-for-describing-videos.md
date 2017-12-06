@@ -5,6 +5,7 @@ date: 2017-03-23 14:01:20
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Memory_Networks
 author: Arnav Kumar Jain, Abhinav Agarwalla, Kumar Krishna Agrawal, Pabitra Mitra
+mathjax: true
 ---
 
 * content

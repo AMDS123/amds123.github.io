@@ -5,6 +5,7 @@ date: 2017-08-10 23:24:23
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA
 author: Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang
+mathjax: true
 ---
 
 * content

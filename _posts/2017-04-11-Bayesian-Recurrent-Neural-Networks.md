@@ -5,6 +5,7 @@ date: 2017-04-11 17:25:08
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Meire Fortunato, Charles Blundell, Oriol Vinyals
+mathjax: true
 ---
 
 * content

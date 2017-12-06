@@ -5,6 +5,7 @@ date: 2017-08-07 03:46:48
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Xing Wang, Zhaopeng Tu, Deyi Xiong, Min Zhang
+mathjax: true
 ---
 
 * content

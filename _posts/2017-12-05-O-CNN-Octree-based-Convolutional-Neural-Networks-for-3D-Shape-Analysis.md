@@ -5,6 +5,7 @@ date: 2017-12-05 09:25:19
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN
 author: Peng-Shuai Wang, Yang Liu, Yu-Xiao Guo, Chun-Yu Sun, Xin Tong
+mathjax: true
 ---
 
 * content

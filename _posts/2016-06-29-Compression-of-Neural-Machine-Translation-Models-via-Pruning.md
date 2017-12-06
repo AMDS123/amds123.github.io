@@ -5,6 +5,7 @@ date: 2016-06-29 20:36:23
 categories: arXiv_CL
 tags: arXiv_CL NMT Deep_Learning
 author: Abigail See, Minh-Thang Luong, Christopher D. Manning
+mathjax: true
 ---
 
 * content

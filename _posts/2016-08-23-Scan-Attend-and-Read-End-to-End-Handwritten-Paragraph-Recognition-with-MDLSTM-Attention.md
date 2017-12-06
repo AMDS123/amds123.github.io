@@ -5,6 +5,7 @@ date: 2016-08-23 08:47:49
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Segmentation Speech_Recognition Caption RNN Recognition
 author: Théodore Bluche, Jérôme Louradour, Ronaldo Messina
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-24 07:04:04
 categories: arXiv_CV
 tags: arXiv_CV
 author: Danping Liao, Yuntao Qian, Yuan Yan Tang
+mathjax: true
 ---
 
 * content

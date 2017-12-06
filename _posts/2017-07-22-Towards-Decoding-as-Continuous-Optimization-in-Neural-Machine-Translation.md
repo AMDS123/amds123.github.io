@@ -5,6 +5,7 @@ date: 2017-07-22 16:35:43
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Cong Duy Vu Hoang (University of Melbourne), Gholamreza Haffari (Monash University), Trevor Cohn (University of Melbourne)
+mathjax: true
 ---
 
 * content

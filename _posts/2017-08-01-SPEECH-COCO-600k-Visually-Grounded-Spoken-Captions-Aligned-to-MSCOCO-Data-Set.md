@@ -5,6 +5,7 @@ date: 2017-08-01 19:14:27
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: William Havard, Laurent Besacier, Olivier Rosec
+mathjax: true
 ---
 
 * content

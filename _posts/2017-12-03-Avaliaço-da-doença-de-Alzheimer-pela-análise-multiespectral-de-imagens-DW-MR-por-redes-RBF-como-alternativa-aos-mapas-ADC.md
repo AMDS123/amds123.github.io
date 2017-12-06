@@ -5,6 +5,7 @@ date: 2017-12-03 19:02:00
 categories: arXiv_CV
 tags: arXiv_CV
 author: Wellington Pinheiro dos Santos, Ricardo Emmanuel de Souza, Ascendino Flávio Dias e Silva, Plínio Batista dos Santos Filho
+mathjax: true
 ---
 
 * content

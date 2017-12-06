@@ -5,6 +5,7 @@ date: 2017-12-01 16:09:26
 categories: arXiv_CV
 tags: arXiv_CV RNN Deep_Learning
 author: Michael Figurnov, Artem Sobolev, Dmitry Vetrov
+mathjax: true
 ---
 
 * content

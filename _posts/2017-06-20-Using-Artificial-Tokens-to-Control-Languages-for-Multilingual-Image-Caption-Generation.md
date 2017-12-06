@@ -5,6 +5,7 @@ date: 2017-06-20 05:50:49
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Satoshi Tsutsui, David Crandall
+mathjax: true
 ---
 
 * content

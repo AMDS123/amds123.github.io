@@ -5,6 +5,7 @@ date: 2017-12-05 12:40:20
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Rizlène Raoui-Outach (LISTIC), Cécile Million-Rousseau (LISTIC), Alexandre Benoit (LISTIC), Patrick Lambert (LISTIC)
+mathjax: true
 ---
 
 * content

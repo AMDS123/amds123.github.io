@@ -5,6 +5,7 @@ date: 1994-08-15 19:08:41
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Neil C. Rowe (Code CS/Rp, Department of Computer Science, Naval Postgraduate School, Monterey)
+mathjax: true
 ---
 
 * content

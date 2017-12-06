@@ -5,6 +5,7 @@ date: 2015-11-24 05:13:54
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption CNN Detection
 author: Justin Johnson, Andrej Karpathy, Li Fei-Fei
+mathjax: true
 ---
 
 * content

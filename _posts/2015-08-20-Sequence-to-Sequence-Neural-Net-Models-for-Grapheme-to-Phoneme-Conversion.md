@@ -5,6 +5,7 @@ date: 2015-08-20 06:27:07
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Kaisheng Yao, Geoffrey Zweig
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-04 18:23:01
 categories: arXiv_CV
 tags: arXiv_CV Detection
 author: Abel Gonzalez-Garcia, Davide Modolo, Vittorio Ferrari
+mathjax: true
 ---
 
 * content

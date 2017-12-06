@@ -5,6 +5,7 @@ date: 2016-12-13 08:32:56
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption GAN Caption CNN Detection
 author: Reza Fuad Rachmadi, Keiichi Uchimura, Gou Koutaki
+mathjax: true
 ---
 
 * content

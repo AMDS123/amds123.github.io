@@ -5,6 +5,7 @@ date: 2016-07-07 02:25:57
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Xiaoqing Li, Jiajun Zhang, Chengqing Zong
+mathjax: true
 ---
 
 * content

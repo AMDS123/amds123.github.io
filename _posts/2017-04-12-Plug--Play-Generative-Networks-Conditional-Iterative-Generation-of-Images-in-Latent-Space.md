@@ -5,6 +5,7 @@ date: 2017-04-12 06:39:52
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Anh Nguyen, Jeff Clune, Yoshua Bengio, Alexey Dosovitskiy, Jason Yosinski
+mathjax: true
 ---
 
 * content

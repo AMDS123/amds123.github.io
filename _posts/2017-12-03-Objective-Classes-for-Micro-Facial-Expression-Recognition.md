@@ -5,6 +5,7 @@ date: 2017-12-03 06:12:57
 categories: arXiv_CV
 tags: arXiv_CV Recognition
 author: Adrian K. Davison, Walied Merghani, Moi Hoon Yap
+mathjax: true
 ---
 
 * content

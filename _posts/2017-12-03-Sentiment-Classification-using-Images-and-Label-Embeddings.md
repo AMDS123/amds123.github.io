@@ -5,6 +5,7 @@ date: 2017-12-03 07:20:15
 categories: arXiv_CV
 tags: arXiv_CV Sentiment_Classification
 author: Laura Graesser, Abhinav Gupta, Lakshay Sharma, Evelina Bakhturina
+mathjax: true
 ---
 
 * content

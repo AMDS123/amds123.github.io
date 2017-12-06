@@ -5,6 +5,7 @@ date: 2017-05-03 11:53:33
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Fanyi Xiao, Leonid Sigal, Yong Jae Lee
+mathjax: true
 ---
 
 * content

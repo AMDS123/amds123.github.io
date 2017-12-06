@@ -5,6 +5,7 @@ date: 2017-12-05 09:39:18
 categories: arXiv_SD
 tags: arXiv_SD GAN Speech_Recognition Recognition
 author: Bo Li, Tara N. Sainath, Khe Chai Sim, Michiel Bacchiani, Eugene Weinstein, Patrick Nguyen, Zhifeng Chen, Yonghui Wu, Kanishka Rao
+mathjax: true
 ---
 
 * content

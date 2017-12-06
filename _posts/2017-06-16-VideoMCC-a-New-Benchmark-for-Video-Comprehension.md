@@ -5,6 +5,7 @@ date: 2017-06-16 19:50:46
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption GAN Caption
 author: Du Tran, Maksim Bolonkin, Manohar Paluri, Lorenzo Torresani
+mathjax: true
 ---
 
 * content

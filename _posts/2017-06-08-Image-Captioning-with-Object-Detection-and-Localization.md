@@ -5,6 +5,7 @@ date: 2017-06-08 02:23:33
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption RNN Detection
 author: Zhongliang Yang, Yu-Jin Zhang, Sadaqat ur Rehman, Yongfeng Huang
+mathjax: true
 ---
 
 * content

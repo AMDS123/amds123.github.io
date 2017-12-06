@@ -5,6 +5,7 @@ date: 2015-06-22 19:26:56
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler
+mathjax: true
 ---
 
 * content

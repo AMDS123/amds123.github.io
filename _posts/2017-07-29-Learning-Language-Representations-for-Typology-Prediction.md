@@ -5,6 +5,7 @@ date: 2017-07-29 23:38:25
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Chaitanya Malaviya, Graham Neubig, Patrick Littell
+mathjax: true
 ---
 
 * content

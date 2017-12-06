@@ -5,6 +5,7 @@ date: 2017-12-02 16:47:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Action_Recognition Recognition
 author: Chao-Yuan Wu, Manzil Zaheer, Hexiang Hu, R. Manmatha, Alexander J. Smola, Philipp Kr&#xe4;henb&#xfc;hl
+mathjax: true
 ---
 
 * content

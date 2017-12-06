@@ -5,6 +5,7 @@ date: 2017-11-22 01:12:00
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Wangli Hao, Zhaoxiang Zhang, He Guan, Guibo Zhu
+mathjax: true
 ---
 
 * content

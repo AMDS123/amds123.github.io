@@ -5,6 +5,7 @@ date: 2016-05-19 08:52:37
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Felix Stahlberg, Eva Hasler, Aurelien Waite, Bill Byrne
+mathjax: true
 ---
 
 * content

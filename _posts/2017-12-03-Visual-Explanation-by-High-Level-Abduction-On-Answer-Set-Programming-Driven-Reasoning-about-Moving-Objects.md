@@ -5,6 +5,7 @@ date: 2017-12-03 21:17:07
 categories: arXiv_CV
 tags: arXiv_CV Detection
 author: Jakob Suchan, Mehul Bhatt, Przemys&#x142;aw Wa&#x142;&#x119;ga, Carl Schultz
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-06-26 00:55:04
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Yukio Matsumura, Takayuki Sato, Mamoru Komachi
+mathjax: true
 ---
 
 * content

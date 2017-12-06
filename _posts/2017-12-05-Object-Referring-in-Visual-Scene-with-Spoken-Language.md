@@ -5,6 +5,7 @@ date: 2017-12-05 15:12:24
 categories: arXiv_CV
 tags: arXiv_CV
 author: Arun Balajee Vasudevan, Dengxin Dai, Luc Van Gool
+mathjax: true
 ---
 
 * content

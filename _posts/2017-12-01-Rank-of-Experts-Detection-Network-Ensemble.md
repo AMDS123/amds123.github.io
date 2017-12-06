@@ -5,6 +5,7 @@ date: 2017-12-01 04:27:20
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection CNN Detection
 author: Seung-Hwan Bae, Youngwan Lee, Youngjoo Jo, Yuseok Bae, Joong-won Hwang
+mathjax: true
 ---
 
 * content

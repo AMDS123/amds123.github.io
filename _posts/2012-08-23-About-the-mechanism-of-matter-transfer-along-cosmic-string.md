@@ -5,6 +5,7 @@ date: 2012-08-23 06:15:44
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: S. V. Talalov
+mathjax: true
 ---
 
 * content

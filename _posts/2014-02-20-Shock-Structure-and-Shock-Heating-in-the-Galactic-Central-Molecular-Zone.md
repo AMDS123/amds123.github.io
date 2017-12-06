@@ -5,6 +5,7 @@ date: 2014-02-20 16:45:45
 categories: arXiv_CL
 tags: arXiv_CL
 author: Juergen Ott (NRAO), Michael Burton (UNSW), Paul Jones (UNSW), David S. Meier (NMT)
+mathjax: true
 ---
 
 * content

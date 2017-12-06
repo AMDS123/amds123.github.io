@@ -5,6 +5,7 @@ date: 2017-11-23 15:18:04
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Michele Alberti, Manuel Bouillon, Rolf Ingold, Marcus Liwicki
+mathjax: true
 ---
 
 * content

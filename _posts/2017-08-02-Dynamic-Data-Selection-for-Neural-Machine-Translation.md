@@ -5,6 +5,7 @@ date: 2017-08-02 11:55:57
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Marlies van der Wees, Arianna Bisazza, Christof Monz
+mathjax: true
 ---
 
 * content

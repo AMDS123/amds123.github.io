@@ -5,6 +5,7 @@ date: 2017-05-25 20:49:15
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Herman Kamper, Shane Settle, Gregory Shakhnarovich, Karen Livescu
+mathjax: true
 ---
 
 * content

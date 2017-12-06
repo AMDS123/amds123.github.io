@@ -5,6 +5,7 @@ date: 2017-11-29 20:24:15
 categories: arXiv_CV
 tags: arXiv_CV
 author: Jamie R. Nuñez, Chris R. Anderton, Ryan S. Renslow
+mathjax: true
 ---
 
 * content

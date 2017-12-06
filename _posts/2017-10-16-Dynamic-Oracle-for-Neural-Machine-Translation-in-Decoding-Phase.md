@@ -5,6 +5,7 @@ date: 2017-10-16 21:30:25
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Zi-Yi Dou, Hao Zhou, Shu-Jian Huang, Xin-Yu Dai, Jia-Jun Chen
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-29 03:15:07
 categories: arXiv_CV
 tags: arXiv_CV RNN
 author: Xiang Bai, Mingkun Yang, Tengteng Huang, Zhiyong Dou, Rui Yu, Yongchao Xu
+mathjax: true
 ---
 
 * content

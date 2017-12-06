@@ -5,6 +5,7 @@ date: 2017-12-01 03:37:18
 categories: arXiv_CV
 tags: arXiv_CV
 author: Chaoyang Wang, Jose Miguel Buenaposada, Rui Zhu, Simon Lucey
+mathjax: true
 ---
 
 * content

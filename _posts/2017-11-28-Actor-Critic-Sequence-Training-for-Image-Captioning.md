@@ -5,6 +5,7 @@ date: 2017-11-28 01:32:37
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
 author: Li Zhang, Flood Sung, Feng Liu, Tao Xiang, Shaogang Gong, Yongxin Yang, Timothy M. Hospedales
+mathjax: true
 ---
 
 * content

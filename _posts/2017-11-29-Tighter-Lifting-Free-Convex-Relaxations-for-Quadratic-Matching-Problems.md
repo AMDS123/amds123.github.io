@@ -5,6 +5,7 @@ date: 2017-11-29 09:04:27
 categories: arXiv_CV
 tags: arXiv_CV
 author: Florian Bernard, Christian Theobalt, Michael Moeller
+mathjax: true
 ---
 
 * content

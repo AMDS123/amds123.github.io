@@ -5,6 +5,7 @@ date: 2016-06-23 00:50:19
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN
 author: Minh-Thang Luong, Christopher D. Manning
+mathjax: true
 ---
 
 * content

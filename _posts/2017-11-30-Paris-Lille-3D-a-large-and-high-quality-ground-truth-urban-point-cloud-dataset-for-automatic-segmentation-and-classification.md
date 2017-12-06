@@ -5,6 +5,7 @@ date: 2017-11-30 19:08:52
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Xavier Roynard, Jean-Emmanuel Deschaud, François Goulette
+mathjax: true
 ---
 
 * content

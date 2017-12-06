@@ -5,6 +5,7 @@ date: 2017-09-17 01:58:39
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Jaehong Park, Jongyoon Song, Sungroh Yoon
+mathjax: true
 ---
 
 * content

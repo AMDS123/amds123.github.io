@@ -5,6 +5,7 @@ date: 2017-07-11 18:02:08
 categories: arXiv_CV
 tags: arXiv_CV Caption Deep_Learning
 author: Ayush Jaiswal, Ekraam Sabir, Wael AbdAlmageed, Premkumar Natarajan
+mathjax: true
 ---
 
 * content

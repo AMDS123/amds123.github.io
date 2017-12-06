@@ -5,6 +5,7 @@ date: 2017-12-04 10:30:18
 categories: arXiv_CL
 tags: arXiv_CL GAN
 author: Girish Keshav Palshikar, Sachin Pawar, Saheb Chourasia, Nitin Ramrakhiyani
+mathjax: true
 ---
 
 * content

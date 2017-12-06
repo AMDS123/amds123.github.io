@@ -5,6 +5,7 @@ date: 2017-12-04 08:36:39
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Katharina Schwarz, Patrick Wieschollek, Hendrik P. A. Lensch
+mathjax: true
 ---
 
 * content

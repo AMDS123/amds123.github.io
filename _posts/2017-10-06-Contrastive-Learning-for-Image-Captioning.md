@@ -5,6 +5,7 @@ date: 2017-10-06 18:00:48
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Bo Dai, Dahua Lin
+mathjax: true
 ---
 
 * content

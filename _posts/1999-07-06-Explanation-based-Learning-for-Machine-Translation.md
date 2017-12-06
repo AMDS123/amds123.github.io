@@ -5,6 +5,7 @@ date: 1999-07-06 18:35:41
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Janine Toole, Fred Popowich, Devlan Nicholson, Davide Turcato, Paul McFetridge
+mathjax: true
 ---
 
 * content

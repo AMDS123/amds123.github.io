@@ -5,6 +5,7 @@ date: 2017-04-10 17:59:15
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Jonathan Krause, Justin Johnson, Ranjay Krishna, Li Fei-Fei
+mathjax: true
 ---
 
 * content

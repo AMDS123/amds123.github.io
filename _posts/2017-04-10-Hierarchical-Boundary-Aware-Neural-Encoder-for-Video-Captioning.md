@@ -5,6 +5,7 @@ date: 2017-04-10 13:36:08
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN
 author: Lorenzo Baraldi, Costantino Grana, Rita Cucchiara
+mathjax: true
 ---
 
 * content

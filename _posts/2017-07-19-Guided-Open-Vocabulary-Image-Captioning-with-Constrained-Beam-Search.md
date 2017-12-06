@@ -5,6 +5,7 @@ date: 2017-07-19 22:01:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Peter Anderson, Basura Fernando, Mark Johnson, Stephen Gould
+mathjax: true
 ---
 
 * content

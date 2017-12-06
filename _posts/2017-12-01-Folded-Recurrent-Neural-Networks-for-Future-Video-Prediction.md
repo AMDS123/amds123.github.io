@@ -5,6 +5,7 @@ date: 2017-12-01 13:31:56
 categories: arXiv_CV
 tags: arXiv_CV RNN
 author: Marc Oliu, Javier Selva, Sergio Escalera
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-29 04:50:31
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Zhenliang He, Wangmeng Zuo, Meina Kan, Shiguang Shan, Xilin Chen
+mathjax: true
 ---
 
 * content

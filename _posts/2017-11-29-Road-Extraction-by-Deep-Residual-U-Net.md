@@ -5,6 +5,7 @@ date: 2017-11-29 05:16:14
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation Deep_Learning
 author: Zhengxin Zhang, Qingjie Liu, Yunhong Wang
+mathjax: true
 ---
 
 * content

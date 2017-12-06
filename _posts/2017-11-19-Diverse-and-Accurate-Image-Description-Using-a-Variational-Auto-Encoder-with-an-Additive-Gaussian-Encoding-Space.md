@@ -5,6 +5,7 @@ date: 2017-11-19 20:12:43
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Liwei Wang, Alexander G. Schwing, Svetlana Lazebnik
+mathjax: true
 ---
 
 * content

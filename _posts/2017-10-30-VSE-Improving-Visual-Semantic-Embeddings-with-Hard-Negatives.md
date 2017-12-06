@@ -5,6 +5,7 @@ date: 2017-10-30 15:55:21
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2015-04-28 17:24:00
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Xiaodong He, Rupesh Srivastava, Jianfeng Gao, Li Deng
+mathjax: true
 ---
 
 * content

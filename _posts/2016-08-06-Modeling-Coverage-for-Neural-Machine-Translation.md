@@ -5,6 +5,7 @@ date: 2016-08-06 17:13:04
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Zhaopeng Tu, Zhengdong Lu, Yang Liu, Xiaohua Liu, Hang Li
+mathjax: true
 ---
 
 * content

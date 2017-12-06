@@ -5,6 +5,7 @@ date: 2017-04-14 19:20:10
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Detection
 author: Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf
+mathjax: true
 ---
 
 * content

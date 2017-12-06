@@ -5,6 +5,7 @@ date: 2016-04-27 23:40:55
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Video_Caption Caption Recognition
 author: Lisa Anne Hendricks, Subhashini Venugopalan, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Trevor Darrell
+mathjax: true
 ---
 
 * content

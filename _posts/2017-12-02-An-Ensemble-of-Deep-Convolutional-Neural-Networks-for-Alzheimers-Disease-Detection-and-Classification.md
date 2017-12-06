@@ -5,6 +5,7 @@ date: 2017-12-02 03:13:52
 categories: arXiv_CV
 tags: arXiv_CV CNN Detection
 author: Jyoti Islam, Yanqing Zhang
+mathjax: true
 ---
 
 * content

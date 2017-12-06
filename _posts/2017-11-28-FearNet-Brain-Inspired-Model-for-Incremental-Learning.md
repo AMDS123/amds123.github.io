@@ -5,6 +5,7 @@ date: 2017-11-28 21:26:15
 categories: arXiv_CV
 tags: arXiv_CV
 author: Ronald Kemker, Christopher Kanan
+mathjax: true
 ---
 
 * content

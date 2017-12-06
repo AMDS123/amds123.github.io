@@ -5,6 +5,7 @@ date: 2017-07-18 01:53:58
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Huadong Chen, Shujian Huang, David Chiang, Jiajun Chen
+mathjax: true
 ---
 
 * content

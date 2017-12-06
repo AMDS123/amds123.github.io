@@ -5,6 +5,7 @@ date: 2017-12-05 17:49:18
 categories: arXiv_CV
 tags: arXiv_CV
 author: Kexin Pei, Yinzhi Cao, Junfeng Yang, Suman Jana
+mathjax: true
 ---
 
 * content

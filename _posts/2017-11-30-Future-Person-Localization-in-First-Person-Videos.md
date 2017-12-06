@@ -5,6 +5,7 @@ date: 2017-11-30 04:16:03
 categories: arXiv_CV
 tags: arXiv_CV
 author: Takuma Yagi, Karttikeya Mangalam, Ryo Yonetani, Yoichi Sato
+mathjax: true
 ---
 
 * content

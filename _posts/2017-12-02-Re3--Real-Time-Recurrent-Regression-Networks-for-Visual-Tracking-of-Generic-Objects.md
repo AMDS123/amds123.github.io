@@ -5,6 +5,7 @@ date: 2017-12-02 01:50:47
 categories: arXiv_CV
 tags: arXiv_CV
 author: Daniel Gordon, Ali Farhadi, Dieter Fox
+mathjax: true
 ---
 
 * content

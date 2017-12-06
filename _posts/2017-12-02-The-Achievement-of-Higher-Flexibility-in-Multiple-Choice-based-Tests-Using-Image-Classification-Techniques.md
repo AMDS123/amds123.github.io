@@ -5,6 +5,7 @@ date: 2017-12-02 17:56:51
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Mahmoud Afifi, Khaled F. Hussain
+mathjax: true
 ---
 
 * content

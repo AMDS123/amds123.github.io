@@ -5,6 +5,7 @@ date: 2017-11-16 23:39:08
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption
 author: Chih-Yao Ma, Asim Kadav, Iain Melvin, Zsolt Kira, Ghassan AlRegib, Hans Peter Graf
+mathjax: true
 ---
 
 * content

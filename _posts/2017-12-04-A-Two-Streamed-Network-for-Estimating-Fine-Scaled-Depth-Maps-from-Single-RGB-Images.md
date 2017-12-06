@@ -5,6 +5,7 @@ date: 2017-12-04 01:52:43
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Jun Li, Reinhard Klein, Angela Yao
+mathjax: true
 ---
 
 * content

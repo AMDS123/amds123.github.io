@@ -5,6 +5,7 @@ date: 2014-11-20 19:50:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Xinlei Chen, C. Lawrence Zitnick
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-02 09:27:03
 categories: arXiv_CL
 tags: arXiv_CL Speech_Recognition Recognition
 author: Pin-Jung Chen, I-Hung Hsu, Yi-Yao Huang, Hung-Yi Lee
+mathjax: true
 ---
 
 * content

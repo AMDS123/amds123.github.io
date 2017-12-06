@@ -5,6 +5,7 @@ date: 2017-12-02 04:22:56
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Yong-Siang Shih, Kai-Yueh Chang, Hsuan-Tien Lin, Min Sun
+mathjax: true
 ---
 
 * content

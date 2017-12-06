@@ -5,6 +5,7 @@ date: 2015-11-26 22:21:44
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Mohak Sukhwani, C.V. Jawahar
+mathjax: true
 ---
 
 * content

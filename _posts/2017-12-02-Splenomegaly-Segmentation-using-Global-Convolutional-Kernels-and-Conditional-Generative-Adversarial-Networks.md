@@ -5,6 +5,7 @@ date: 2017-12-02 03:47:37
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Segmentation GAN CNN
 author: Yuankai Huo, Zhoubing Xu, Shunxing Bao, Camilo Bermudez, Andrew J. Plassard, Jiaqi Liu, Yuang Yao, Albert Assad, Richard G. Abramson, Bennett A. Landman
+mathjax: true
 ---
 
 * content

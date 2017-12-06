@@ -5,6 +5,7 @@ date: 2017-12-05 12:25:43
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation Deep_Learning
 author: A Hamida, A. Benoît (IPNL), P. Lambert (LISTIC), L Klein, C Amar, N. Audebert (ONERA), S. Lefèvre (VALORIA)
+mathjax: true
 ---
 
 * content

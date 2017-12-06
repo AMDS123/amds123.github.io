@@ -5,6 +5,7 @@ date: 2017-11-29 19:27:40
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Segmentation CNN Deep_Learning Detection
 author: Miriam Bellver, Kevis-Kokitsi Maninis, Jordi Pont-Tuset, Xavier Giro-i-Nieto, Jordi Torres, Luc Van Gool
+mathjax: true
 ---
 
 * content

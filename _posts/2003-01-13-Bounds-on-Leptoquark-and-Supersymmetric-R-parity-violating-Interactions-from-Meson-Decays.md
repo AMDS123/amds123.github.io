@@ -5,6 +5,7 @@ date: 2003-01-13 11:01:45
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Margarete Herz
+mathjax: true
 ---
 
 * content

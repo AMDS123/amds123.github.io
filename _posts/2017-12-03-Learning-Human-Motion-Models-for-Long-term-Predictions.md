@@ -5,6 +5,7 @@ date: 2017-12-03 11:51:17
 categories: arXiv_CV
 tags: arXiv_CV RNN
 author: Partha Ghosh, Jie Song, Emre Aksan, Otmar Hilliges
+mathjax: true
 ---
 
 * content

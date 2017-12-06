@@ -5,6 +5,7 @@ date: 2017-12-01 10:34:44
 categories: arXiv_CV
 tags: arXiv_CV Regularization
 author: Kerem C. Tezcan, Christian F. Baumgartner, Ender Konukoglu
+mathjax: true
 ---
 
 * content

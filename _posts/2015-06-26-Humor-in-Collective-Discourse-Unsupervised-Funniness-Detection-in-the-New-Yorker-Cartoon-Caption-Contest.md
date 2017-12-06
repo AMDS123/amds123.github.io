@@ -5,6 +5,7 @@ date: 2015-06-26 15:48:10
 categories: arXiv_CV
 tags: arXiv_CV Caption Detection
 author: Dragomir Radev, Amanda Stent, Joel Tetreault, Aasish Pappu, Aikaterini Iliakopoulou, Agustin Chanfreau, Paloma de Juan, Jordi Vallmitjana, Alejandro Jaimes, Rahul Jha, Bob Mankoff
+mathjax: true
 ---
 
 * content

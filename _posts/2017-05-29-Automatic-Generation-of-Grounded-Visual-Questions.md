@@ -5,6 +5,7 @@ date: 2017-05-29 12:54:35
 categories: arXiv_CV
 tags: arXiv_CV Caption VQA
 author: Shijie Zhang, Lizhen Qu, Shaodi You, Zhenglu Yang, Jiawan Zhang
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-29 16:48:28
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Calden Wloka, Iuliia Kotseruba, John K. Tsotsos
+mathjax: true
 ---
 
 * content

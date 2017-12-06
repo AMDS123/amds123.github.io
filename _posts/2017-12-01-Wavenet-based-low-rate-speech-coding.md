@@ -5,6 +5,7 @@ date: 2017-12-01 09:45:30
 categories: arXiv_SD
 tags: arXiv_SD Recognition
 author: W. Bastiaan Kleijn, Felicia S. C. Lim, Alejandro Luebs, Jan Skoglund, Florian Stimberg, Quan Wang, Thomas C. Walters
+mathjax: true
 ---
 
 * content

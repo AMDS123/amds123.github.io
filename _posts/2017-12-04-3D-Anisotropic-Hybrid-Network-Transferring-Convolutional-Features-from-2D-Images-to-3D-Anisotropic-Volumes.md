@@ -5,6 +5,7 @@ date: 2017-12-04 01:54:49
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN RNN Detection
 author: Siqi Liu, Daguang Xu, S. Kevin Zhou, Thomas Mertelmeier, Julia Wicklein, Anna Jerebko, Sasa Grbic, Olivier Pauly, Weidong Cai, Dorin Comaniciu
+mathjax: true
 ---
 
 * content

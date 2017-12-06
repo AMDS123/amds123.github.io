@@ -5,6 +5,7 @@ date: 2017-11-28 21:52:49
 categories: arXiv_CV
 tags: arXiv_CV Review CNN Deep_Learning
 author: Zhe Zhu, Michael Harowicz, Jun Zhang, Ashirbani Saha, Lars J. Grimm, E.Shelley Hwang, Maciej A. Mazurowski
+mathjax: true
 ---
 
 * content

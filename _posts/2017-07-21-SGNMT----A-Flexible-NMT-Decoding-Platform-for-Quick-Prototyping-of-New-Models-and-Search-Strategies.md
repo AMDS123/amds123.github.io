@@ -5,6 +5,7 @@ date: 2017-07-21 13:14:25
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Felix Stahlberg, Eva Hasler, Danielle Saunders, Bill Byrne
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-09-15 05:05:29
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Caption Detection
 author: Yikang Li, Wanli Ouyang, Bolei Zhou, Kun Wang, Xiaogang Wang
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-04-17 07:22:14
 categories: arXiv_CV
 tags: arXiv_CV Caption Detection
 author: Yuting Zhang, Luyao Yuan, Yijie Guo, Zhiyuan He, I-An Huang, Honglak Lee
+mathjax: true
 ---
 
 * content

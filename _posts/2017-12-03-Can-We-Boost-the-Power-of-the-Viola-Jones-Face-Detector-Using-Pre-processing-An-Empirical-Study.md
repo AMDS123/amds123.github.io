@@ -5,6 +5,7 @@ date: 2017-12-03 18:46:18
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Face_Detection Detection
 author: Mahmoud Afifi, Marwa Nasser, Mostafa Korashy, Katherine Rohde, Aly Abdelrahim
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2004-08-04 15:08:43
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: S. A. Mikhailov, N. A. Savostianova
+mathjax: true
 ---
 
 * content

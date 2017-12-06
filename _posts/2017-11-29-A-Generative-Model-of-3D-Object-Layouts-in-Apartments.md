@@ -5,6 +5,7 @@ date: 2017-11-29 16:21:32
 categories: arXiv_CV
 tags: arXiv_CV
 author: Paul Henderson, Vittorio Ferrari
+mathjax: true
 ---
 
 * content

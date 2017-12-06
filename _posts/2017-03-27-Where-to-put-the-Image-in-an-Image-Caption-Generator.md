@@ -5,6 +5,7 @@ date: 2017-03-27 15:13:49
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Marc Tanti (1), Albert Gatt (1), Kenneth P. Camilleri (1) ((1) University of Malta)
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-10-08 01:23:18
 categories: arXiv_CV
 tags: arXiv_CV GAN Caption CNN RNN Deep_Learning
 author: Ngoc Hieu Tran, Zachariah Levine, Lei Xin, Baozhen Shan, Ming Li
+mathjax: true
 ---
 
 * content

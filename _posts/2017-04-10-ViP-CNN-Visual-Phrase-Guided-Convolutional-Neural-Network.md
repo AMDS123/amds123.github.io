@@ -5,6 +5,7 @@ date: 2017-04-10 16:45:53
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption CNN Detection Recognition
 author: Yikang Li, Wanli Ouyang, Xiaogang Wang, Xiao'ou Tang
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-01 04:16:36
 categories: arXiv_CV
 tags: arXiv_CV
 author: Chang-Ryeol Lee, Kuk-Jin Yoon
+mathjax: true
 ---
 
 * content

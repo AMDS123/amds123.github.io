@@ -5,6 +5,7 @@ date: 2014-04-22 15:44:53
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Yu.M. Gavrilyuk, A.M. Gangapshev, V.V. Kazalov, V.V. Kuzminov, S.I. Panasenko, S.S. Ratkevich, D.A. Tekueva, S.P. Yakimenko
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-05-24 22:10:25
 categories: arXiv_CV
 tags: arXiv_CV Speech_Recognition Caption Recognition
 author: David Harwath, James R. Glass
+mathjax: true
 ---
 
 * content

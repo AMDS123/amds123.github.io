@@ -5,6 +5,7 @@ date: 2017-09-07 11:31:09
 categories: arXiv_CL
 tags: arXiv_CL Segmentation NMT
 author: Mihael Arcan, Paul Buitelaar
+mathjax: true
 ---
 
 * content

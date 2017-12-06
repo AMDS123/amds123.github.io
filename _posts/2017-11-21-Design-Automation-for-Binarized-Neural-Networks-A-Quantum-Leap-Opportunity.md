@@ -5,6 +5,7 @@ date: 2017-11-21 09:54:37
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Manuele Rusci, Lukas Cavigelli, Luca Benini
+mathjax: true
 ---
 
 * content

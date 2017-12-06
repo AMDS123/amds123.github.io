@@ -5,6 +5,7 @@ date: 2017-12-01 23:45:48
 categories: arXiv_CV
 tags: arXiv_CV
 author: Rong Kang, Chen Wang, Peng Wang, Yuting Ding, Jianmin Wang
+mathjax: true
 ---
 
 * content

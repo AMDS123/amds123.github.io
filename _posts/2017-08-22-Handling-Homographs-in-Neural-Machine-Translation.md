@@ -5,6 +5,7 @@ date: 2017-08-22 06:48:27
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Frederick Liu, Han Lu, Graham Neubig
+mathjax: true
 ---
 
 * content

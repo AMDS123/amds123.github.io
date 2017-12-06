@@ -5,6 +5,7 @@ date: 2017-12-05 11:48:51
 categories: arXiv_CL
 tags: arXiv_CL RNN
 author: Zhixing Tan, Mingxuan Wang, Jun Xie, Yidong Chen, Xiaodong Shi
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2016-09-08 17:36:13
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Object_Detection Caption Detection
 author: Kuo-Hao Zeng, Tseng-Hung Chen, Juan Carlos Niebles, Min Sun
+mathjax: true
 ---
 
 * content

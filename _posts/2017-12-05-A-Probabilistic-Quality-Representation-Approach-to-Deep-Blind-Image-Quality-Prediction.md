@@ -5,6 +5,7 @@ date: 2017-12-05 04:55:26
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Hui Zeng, Lei Zhang, Alan C. Bovik
+mathjax: true
 ---
 
 * content

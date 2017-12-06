@@ -5,6 +5,7 @@ date: 2016-04-06 02:24:35
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN
 author: Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, Wei Xu
+mathjax: true
 ---
 
 * content

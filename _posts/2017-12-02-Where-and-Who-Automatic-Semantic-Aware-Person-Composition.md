@@ -5,6 +5,7 @@ date: 2017-12-02 05:10:30
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Fuwen Tan, Crispin Bernier, Benjamin Cohen, Vicente Ordonez, Connelly Barnes
+mathjax: true
 ---
 
 * content

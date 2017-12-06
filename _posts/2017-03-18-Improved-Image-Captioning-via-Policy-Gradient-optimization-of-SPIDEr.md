@@ -5,6 +5,7 @@ date: 2017-03-18 09:24:38
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Siqi Liu, Zhenhai Zhu, Ning Ye, Sergio Guadarrama, Kevin Murphy
+mathjax: true
 ---
 
 * content

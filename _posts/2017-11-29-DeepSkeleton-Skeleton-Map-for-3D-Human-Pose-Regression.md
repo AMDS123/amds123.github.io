@@ -5,6 +5,7 @@ date: 2017-11-29 11:50:01
 categories: arXiv_CV
 tags: arXiv_CV Detection
 author: Qingfu Wan, Wei Zhang, Xiangyang Xue
+mathjax: true
 ---
 
 * content

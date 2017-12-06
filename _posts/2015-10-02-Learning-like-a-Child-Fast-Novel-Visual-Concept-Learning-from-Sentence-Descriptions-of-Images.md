@@ -5,6 +5,7 @@ date: 2015-10-02 02:36:05
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille
+mathjax: true
 ---
 
 * content

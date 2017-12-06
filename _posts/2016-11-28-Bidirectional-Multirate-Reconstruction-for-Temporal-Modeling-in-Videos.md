@@ -5,6 +5,7 @@ date: 2016-11-28 10:32:03
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Detection
 author: Linchao Zhu, Zhongwen Xu, Yi Yang
+mathjax: true
 ---
 
 * content

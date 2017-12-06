@@ -5,6 +5,7 @@ date: 2015-12-09 17:17:29
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Video_Caption Caption RNN
 author: Rakshith Shetty, Jorma Laaksonen
+mathjax: true
 ---
 
 * content

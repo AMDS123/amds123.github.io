@@ -5,6 +5,7 @@ date: 2015-11-06 22:08:37
 categories: arXiv_CV
 tags: arXiv_CV Weakly_Supervised Caption CNN
 author: Armand Joulin, Laurens van der Maaten, Allan Jabri, Nicolas Vasilache
+mathjax: true
 ---
 
 * content

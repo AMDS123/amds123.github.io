@@ -5,6 +5,7 @@ date: 2012-06-08 15:49:08
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: G. B. Taylor (UNM), The LWA Collaboration
+mathjax: true
 ---
 
 * content

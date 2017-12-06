@@ -5,6 +5,7 @@ date: 2017-08-02 12:33:50
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Jiuxiang Gu, Gang Wang, Jianfei Cai, Tsuhan Chen
+mathjax: true
 ---
 
 * content

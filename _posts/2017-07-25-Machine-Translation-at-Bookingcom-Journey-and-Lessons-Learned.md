@@ -5,6 +5,7 @@ date: 2017-07-25 10:51:19
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Pavel Levin, Nishikant Dhanuka, Maxim Khalilov
+mathjax: true
 ---
 
 * content

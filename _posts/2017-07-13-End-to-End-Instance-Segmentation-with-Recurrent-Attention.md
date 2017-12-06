@@ -5,6 +5,7 @@ date: 2017-07-13 00:53:33
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Segmentation Caption CNN Semantic_Segmentation RNN VQA
 author: Mengye Ren, Richard S. Zemel
+mathjax: true
 ---
 
 * content

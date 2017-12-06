@@ -5,6 +5,7 @@ date: 2017-03-21 20:34:59
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Denny Britz, Anna Goldie, Minh-Thang Luong, Quoc Le
+mathjax: true
 ---
 
 * content

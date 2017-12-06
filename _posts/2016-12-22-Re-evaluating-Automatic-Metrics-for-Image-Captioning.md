@@ -5,6 +5,7 @@ date: 2016-12-22 14:00:28
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Mert Kilickaya, Aykut Erdem, Nazli Ikizler-Cinbis, Erkut Erdem
+mathjax: true
 ---
 
 * content

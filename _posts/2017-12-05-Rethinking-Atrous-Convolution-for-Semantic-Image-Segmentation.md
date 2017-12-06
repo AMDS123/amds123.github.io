@@ -5,6 +5,7 @@ date: 2017-12-05 18:06:21
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN
 author: Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam
+mathjax: true
 ---
 
 * content

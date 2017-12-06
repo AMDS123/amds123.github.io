@@ -5,6 +5,7 @@ date: 2017-10-24 06:44:21
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN
 author: Thomas Wiatowski, Helmut Bölcskei
+mathjax: true
 ---
 
 * content

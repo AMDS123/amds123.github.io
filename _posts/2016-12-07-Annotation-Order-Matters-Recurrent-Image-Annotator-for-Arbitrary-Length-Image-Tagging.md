@@ -5,6 +5,7 @@ date: 2016-12-07 19:57:02
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Jiren Jin, Hideki Nakayama
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2016-06-15 03:26:53
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN RNN
 author: Yi Bin, Yang Yang, Zi Huang, Fumin Shen, Xing Xu, Heng Tao Shen
+mathjax: true
 ---
 
 * content

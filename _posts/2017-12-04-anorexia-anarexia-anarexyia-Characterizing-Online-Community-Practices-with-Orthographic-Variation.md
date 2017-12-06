@@ -5,6 +5,7 @@ date: 2017-12-04 23:27:11
 categories: arXiv_CL
 tags: arXiv_CL
 author: Ian Stewart, Stevie Chancellor, Munmun De Choudhury, Jacob Eisenstein
+mathjax: true
 ---
 
 * content

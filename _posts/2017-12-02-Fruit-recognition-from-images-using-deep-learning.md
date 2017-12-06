@@ -5,6 +5,7 @@ date: 2017-12-02 09:48:37
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning Recognition
 author: Horea Mure&#x15f;an, Mihai Oltean
+mathjax: true
 ---
 
 * content

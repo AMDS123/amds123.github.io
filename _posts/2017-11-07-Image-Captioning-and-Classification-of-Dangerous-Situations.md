@@ -5,6 +5,7 @@ date: 2017-11-07 16:02:09
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Deep_Learning Detection
 author: Octavio Arriaga, Paul Plöger, Matias Valdenegro-Toro
+mathjax: true
 ---
 
 * content

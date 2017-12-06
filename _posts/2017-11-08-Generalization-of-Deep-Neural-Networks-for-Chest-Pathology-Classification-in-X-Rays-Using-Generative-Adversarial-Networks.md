@@ -5,6 +5,7 @@ date: 2017-11-08 14:26:01
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN CNN
 author: Hojjat Salehinejad, Shahrokh Valaee, Tim Dowdell, Errol Colak, Joseph Barfett
+mathjax: true
 ---
 
 * content

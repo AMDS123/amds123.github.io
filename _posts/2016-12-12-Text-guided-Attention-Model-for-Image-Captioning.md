@@ -5,6 +5,7 @@ date: 2016-12-12 06:52:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Jonghwan Mun, Minsu Cho, Bohyung Han
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-02 03:28:46
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Wei Xiong, Wenhan Luo, Lin Ma, Wei Liu, Jiebo Luo
+mathjax: true
 ---
 
 * content

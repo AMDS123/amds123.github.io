@@ -5,6 +5,7 @@ date: 2017-10-17 14:27:36
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Matīss Rikters, Ondřej Bojar
+mathjax: true
 ---
 
 * content

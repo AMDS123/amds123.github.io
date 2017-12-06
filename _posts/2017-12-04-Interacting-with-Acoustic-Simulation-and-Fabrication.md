@@ -5,6 +5,7 @@ date: 2017-12-04 17:14:39
 categories: arXiv_CV
 tags: arXiv_CV
 author: Dingzeyu Li
+mathjax: true
 ---
 
 * content

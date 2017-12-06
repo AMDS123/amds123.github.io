@@ -5,6 +5,7 @@ date: 2017-12-02 00:21:58
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Yannick Hold-Geoffroy, Kalyan Sunkavalli, Jonathan Eisenmann, Matt Fisher, Emiliano Gambaretto, Sunil Hadap, Jean-Fran&#xe7;ois Lalonde
+mathjax: true
 ---
 
 * content

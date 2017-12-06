@@ -5,6 +5,7 @@ date: 2017-10-21 21:12:41
 categories: arXiv_CV
 tags: arXiv_CV Style_Transfer Caption Action_Recognition Recognition
 author: Tanya Marwah, Gaurav Mittal, Vineeth N. Balasubramanian
+mathjax: true
 ---
 
 * content

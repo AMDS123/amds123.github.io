@@ -5,6 +5,7 @@ date: 2017-03-06 04:56:19
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Jack Hessel, Lillian Lee, David Mimno
+mathjax: true
 ---
 
 * content

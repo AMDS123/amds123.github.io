@@ -5,6 +5,7 @@ date: 2017-07-31 23:29:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Ramakrishna Vedantam, Samy Bengio, Kevin Murphy, Devi Parikh, Gal Chechik
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-04 00:30:58
 categories: arXiv_CV
 tags: arXiv_CV Drone Deep_Learning Detection
 author: Yueru Chen, Pranav Aggarwal, Jongmoo Choi, C.-C. Jay Kuo
+mathjax: true
 ---
 
 * content

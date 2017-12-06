@@ -5,6 +5,7 @@ date: 2017-03-21 23:48:00
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Reinforcement_Learning Caption CNN VQA
 author: Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra
+mathjax: true
 ---
 
 * content

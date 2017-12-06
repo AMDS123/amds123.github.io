@@ -5,6 +5,7 @@ date: 2017-04-25 23:30:43
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Memory_Networks
 author: Cesc Chunseong Park, Byeongchang Kim, Gunhee Kim
+mathjax: true
 ---
 
 * content

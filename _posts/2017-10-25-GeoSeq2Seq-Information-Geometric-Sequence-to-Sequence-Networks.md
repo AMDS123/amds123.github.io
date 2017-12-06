@@ -5,6 +5,7 @@ date: 2017-10-25 17:52:14
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN
 author: Alessandro Bay, Biswa Sengupta
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-01 17:58:42
 categories: arXiv_CV
 tags: arXiv_CV
 author: Debanshu Ratha, Avik Bhattacharya, Alejandro C. Frery
+mathjax: true
 ---
 
 * content

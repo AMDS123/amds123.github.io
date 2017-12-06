@@ -5,6 +5,7 @@ date: 2017-12-05 18:42:13
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Shubham Tulsiani, Saurabh Gupta, David Fouhey, Alexei A. Efros, Jitendra Malik
+mathjax: true
 ---
 
 * content

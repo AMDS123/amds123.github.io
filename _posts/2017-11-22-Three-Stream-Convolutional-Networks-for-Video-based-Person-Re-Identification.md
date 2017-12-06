@@ -5,6 +5,7 @@ date: 2017-11-22 15:05:58
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Zeng Yu, Tianrui Li, Ning Yu, Xun Gong, Ke Chen, Yi Pan
+mathjax: true
 ---
 
 * content

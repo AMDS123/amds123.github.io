@@ -5,6 +5,7 @@ date: 2017-04-26 17:22:53
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Arjun Chandrasekaran, Devi Parikh, Mohit Bansal
+mathjax: true
 ---
 
 * content

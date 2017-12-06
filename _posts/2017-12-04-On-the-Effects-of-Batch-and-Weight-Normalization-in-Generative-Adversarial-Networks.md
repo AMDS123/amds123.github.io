@@ -5,6 +5,7 @@ date: 2017-12-04 01:56:42
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN
 author: Sitao Xiang, Hao Li
+mathjax: true
 ---
 
 * content

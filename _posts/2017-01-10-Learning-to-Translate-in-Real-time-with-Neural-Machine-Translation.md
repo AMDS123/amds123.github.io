@@ -5,6 +5,7 @@ date: 2017-01-10 21:07:56
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Jiatao Gu, Graham Neubig, Kyunghyun Cho, Victor O.K. Li
+mathjax: true
 ---
 
 * content

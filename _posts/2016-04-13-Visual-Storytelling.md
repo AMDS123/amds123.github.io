@@ -5,6 +5,7 @@ date: 2016-04-13 20:27:43
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Ting-Hao (Kenneth)Huang, Francis Ferraro, Nasrin Mostafazadeh, Ishan Misra, Aishwarya Agrawal, Jacob Devlin, Ross Girshick, Xiaodong He, Pushmeet Kohli, Dhruv Batra, C. Lawrence Zitnick, Devi Parikh, Lucy Vanderwende, Michel Galley, Margaret Mitchell
+mathjax: true
 ---
 
 * content

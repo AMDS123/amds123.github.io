@@ -5,6 +5,7 @@ date: 2016-09-15 13:15:01
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Mercedes García-Martínez, Loïc Barrault, Fethi Bougares
+mathjax: true
 ---
 
 * content

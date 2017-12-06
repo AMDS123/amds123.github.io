@@ -5,6 +5,7 @@ date: 2016-11-05 13:12:29
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Ting Yao, Yingwei Pan, Yehao Li, Zhaofan Qiu, Tao Mei
+mathjax: true
 ---
 
 * content

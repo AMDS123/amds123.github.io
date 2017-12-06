@@ -5,6 +5,7 @@ date: 2017-06-29 13:02:46
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Michael Denkowski, Graham Neubig
+mathjax: true
 ---
 
 * content

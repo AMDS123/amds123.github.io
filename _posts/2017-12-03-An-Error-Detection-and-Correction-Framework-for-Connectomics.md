@@ -5,6 +5,7 @@ date: 2017-12-03 21:46:45
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Detection
 author: Jonathan Zung, Ignacio Tartavull, Kisuk Lee, H. Sebastian Seung
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-08-09 08:52:25
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Weakly_Supervised Caption VQA
 author: Yining Li, Chen Huang, Xiaoou Tang, Chen-Change Loy
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-22 02:40:11
 categories: arXiv_CV
 tags: arXiv_CV CNN RNN
 author: Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Yi-Dong Shen
+mathjax: true
 ---
 
 * content

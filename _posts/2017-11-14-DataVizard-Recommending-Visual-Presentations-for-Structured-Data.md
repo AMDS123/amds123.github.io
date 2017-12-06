@@ -5,6 +5,7 @@ date: 2017-11-14 06:43:30
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Survey
 author: Rema Ananthanarayanan, Pranay Kr. Lohia, Srikanta Bedathur
+mathjax: true
 ---
 
 * content

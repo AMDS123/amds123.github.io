@@ -5,6 +5,7 @@ date: 2003-07-29 20:30:02
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Artur Sowa
+mathjax: true
 ---
 
 * content

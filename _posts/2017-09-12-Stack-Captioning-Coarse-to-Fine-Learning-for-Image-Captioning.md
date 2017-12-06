@@ -5,6 +5,7 @@ date: 2017-09-12 10:04:21
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
 author: Jiuxiang Gu, Jianfei Cai, Gang Wang, Tsuhan Chen
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-02 14:14:50
 categories: arXiv_CL
 tags: arXiv_CL
 author: Kang Min Yoo, Youhyun Shin, Sang-goo Lee
+mathjax: true
 ---
 
 * content

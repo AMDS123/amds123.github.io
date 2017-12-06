@@ -5,6 +5,7 @@ date: 2016-08-29 15:10:34
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Haitao Mi, Baskaran Sankaran, Zhiguo Wang, Abe Ittycheriah
+mathjax: true
 ---
 
 * content

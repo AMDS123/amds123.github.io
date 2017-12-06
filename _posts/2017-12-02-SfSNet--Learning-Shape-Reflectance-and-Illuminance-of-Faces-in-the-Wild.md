@@ -5,6 +5,7 @@ date: 2017-12-02 04:08:22
 categories: arXiv_CV
 tags: arXiv_CV
 author: Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David Jacobs
+mathjax: true
 ---
 
 * content

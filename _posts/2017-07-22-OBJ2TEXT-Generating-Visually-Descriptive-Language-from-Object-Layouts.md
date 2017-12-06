@@ -5,6 +5,7 @@ date: 2017-07-22 04:17:42
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption RNN Detection
 author: Xuwang Yin, Vicente Ordonez
+mathjax: true
 ---
 
 * content

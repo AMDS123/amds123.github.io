@@ -5,6 +5,7 @@ date: 2017-11-29 17:14:50
 categories: arXiv_CV
 tags: arXiv_CV
 author: Arash Akbarinia, Raquel Gil Rodríguez, C. Alejandro Parraga
+mathjax: true
 ---
 
 * content

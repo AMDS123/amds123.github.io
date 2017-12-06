@@ -5,6 +5,7 @@ date: 2017-06-14 01:00:18
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Markus Freitag, Yaser Al-Onaizan
+mathjax: true
 ---
 
 * content

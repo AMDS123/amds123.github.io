@@ -5,6 +5,7 @@ date: 2017-12-01 00:07:47
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Yj Dong, JG Li
+mathjax: true
 ---
 
 * content

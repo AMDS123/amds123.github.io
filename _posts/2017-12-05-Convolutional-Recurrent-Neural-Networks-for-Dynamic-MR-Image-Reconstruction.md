@@ -5,6 +5,7 @@ date: 2017-12-05 16:49:07
 categories: arXiv_CV
 tags: arXiv_CV CNN RNN Deep_Learning
 author: Chen Qin, Jo Schlemper, Jose Caballero, Anthony Price, Joseph V. Hajnal, Daniel Rueckert
+mathjax: true
 ---
 
 * content

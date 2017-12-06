@@ -5,6 +5,7 @@ date: 2017-12-05 01:02:33
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Lingyu Duan, Yihang Lou, Shiqi Wang, Wen Gao, Yong Rui
+mathjax: true
 ---
 
 * content

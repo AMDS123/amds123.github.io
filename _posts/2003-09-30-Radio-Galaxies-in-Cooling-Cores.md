@@ -5,6 +5,7 @@ date: 2003-09-30 23:09:53
 categories: arXiv_CL
 tags: arXiv_CL
 author: Jean A. Eilek (NMT)
+mathjax: true
 ---
 
 * content

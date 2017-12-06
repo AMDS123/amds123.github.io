@@ -5,6 +5,7 @@ date: 2017-11-09 07:54:54
 categories: arXiv_CV
 tags: arXiv_CV
 author: Ibrahim Abdelkader, Yasser El-Sonbaty, Mohamed El-Habrouk
+mathjax: true
 ---
 
 * content

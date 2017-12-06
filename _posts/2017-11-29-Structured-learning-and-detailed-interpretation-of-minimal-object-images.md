@@ -5,6 +5,7 @@ date: 2017-11-29 23:26:52
 categories: arXiv_CV
 tags: arXiv_CV
 author: Guy Ben-Yosef, Liav Assif, Shimon Ullamn
+mathjax: true
 ---
 
 * content

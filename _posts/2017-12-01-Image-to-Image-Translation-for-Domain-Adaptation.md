@@ -5,6 +5,7 @@ date: 2017-12-01 20:15:20
 categories: arXiv_CV
 tags: arXiv_CV Segmentation
 author: Zak Murez, Soheil Kolouri, David Kriegman, Ravi Ramamoorthi, Kyungnam Kim
+mathjax: true
 ---
 
 * content

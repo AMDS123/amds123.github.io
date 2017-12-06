@@ -5,6 +5,7 @@ date: 2017-11-29 21:20:51
 categories: arXiv_CL
 tags: arXiv_CL
 author: Thomas Kollar, Stefanie Tellex, Matthew Walter, Albert Huang, Abraham Bachrach, Sachi Hemachandra, Emma Brunskill, Ashis Banerjee, Deb Roy, Seth Teller, Nicholas Roy
+mathjax: true
 ---
 
 * content

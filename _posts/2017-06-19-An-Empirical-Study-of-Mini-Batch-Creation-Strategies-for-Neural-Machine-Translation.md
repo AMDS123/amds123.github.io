@@ -5,6 +5,7 @@ date: 2017-06-19 02:38:01
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Makoto Morishita, Yusuke Oda, Graham Neubig, Koichiro Yoshino, Katsuhito Sudoh, Satoshi Nakamura
+mathjax: true
 ---
 
 * content

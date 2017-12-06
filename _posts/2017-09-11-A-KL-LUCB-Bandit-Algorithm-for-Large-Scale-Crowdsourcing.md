@@ -5,6 +5,7 @@ date: 2017-09-11 20:14:59
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Bob Mankoff, Robert Nowak, Ervin Tanczos
+mathjax: true
 ---
 
 * content

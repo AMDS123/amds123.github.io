@@ -5,6 +5,7 @@ date: 2015-08-27 23:03:17
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Kenji Hata, Sherman Leung, Ranjay Krishna, Michael S. Bernstein, Li Fei-Fei
+mathjax: true
 ---
 
 * content

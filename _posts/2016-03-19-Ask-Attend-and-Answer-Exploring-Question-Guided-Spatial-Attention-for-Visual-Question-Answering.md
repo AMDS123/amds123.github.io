@@ -5,6 +5,7 @@ date: 2016-03-19 03:06:58
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN Memory_Networks VQA
 author: Huijuan Xu, Kate Saenko
+mathjax: true
 ---
 
 * content

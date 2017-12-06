@@ -5,6 +5,7 @@ date: 2016-06-10 14:45:08
 categories: arXiv_CL
 tags: arXiv_CL Segmentation NMT
 author: Rico Sennrich, Barry Haddow, Alexandra Birch
+mathjax: true
 ---
 
 * content

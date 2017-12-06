@@ -5,6 +5,7 @@ date: 2017-12-01 15:48:50
 categories: arXiv_CV
 tags: arXiv_CV VQA Recognition
 author: Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi
+mathjax: true
 ---
 
 * content

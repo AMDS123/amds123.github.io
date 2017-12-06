@@ -5,6 +5,7 @@ date: 2012-07-04 16:28:40
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Eric P. Xing, Rong Yan, Alexander G. Hauptmann
+mathjax: true
 ---
 
 * content

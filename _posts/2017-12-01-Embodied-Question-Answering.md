@@ -5,6 +5,7 @@ date: 2017-12-01 16:55:05
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning
 author: Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra
+mathjax: true
 ---
 
 * content

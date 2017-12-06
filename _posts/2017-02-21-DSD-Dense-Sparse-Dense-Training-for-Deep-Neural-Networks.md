@@ -5,6 +5,7 @@ date: 2017-02-21 20:51:05
 categories: arXiv_CV
 tags: arXiv_CV Speech_Recognition Caption RNN Recognition
 author: Song Han, Jeff Pool, Sharan Narang, Huizi Mao, Enhao Gong, Shijian Tang, Erich Elsen, Peter Vajda, Manohar Paluri, John Tran, Bryan Catanzaro, William J. Dally
+mathjax: true
 ---
 
 * content

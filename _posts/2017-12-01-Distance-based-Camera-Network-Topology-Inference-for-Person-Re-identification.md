@@ -5,6 +5,7 @@ date: 2017-12-01 02:21:58
 categories: arXiv_CV
 tags: arXiv_CV
 author: Yeong-Jun Cho, Kuk-Jin Yoon
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-12-01 16:50:26
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Recognition
 author: Pavel Tokmakov, Cordelia Schmid, Karteek Alahari
+mathjax: true
 ---
 
 * content

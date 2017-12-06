@@ -5,6 +5,7 @@ date: 2017-05-03 14:39:56
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN
 author: Hao Zhou, Zhaopeng Tu, Shujian Huang, Xiaohua Liu, Hang Li, Jiajun Chen
+mathjax: true
 ---
 
 * content

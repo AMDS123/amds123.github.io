@@ -5,6 +5,7 @@ date: 2017-12-01 16:52:04
 categories: arXiv_CV
 tags: arXiv_CV Face_Detection CNN Detection
 author: Mengwei Xu, Xuanzhe Liu, Yunxin Liu, Felix Xiaozhu Lin
+mathjax: true
 ---
 
 * content

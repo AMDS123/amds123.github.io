@@ -5,6 +5,7 @@ date: 2017-12-05 06:06:32
 categories: arXiv_CV
 tags: arXiv_CV
 author: Zhou Yin, Wei-Shi Zheng, Ancong Wu, Hong-Xing Yu, Hai Wang, Jianhuang Lai
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-11-29 09:12:50
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN CNN
 author: Ziqiang Zheng, Haiyong Zheng, Zhibin Yu, Zhaorui Gu, Bing Zheng
+mathjax: true
 ---
 
 * content

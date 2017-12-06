@@ -5,6 +5,7 @@ date: 2016-06-23 22:04:08
 categories: arXiv_CV
 tags: arXiv_CV Review Caption Deep_Learning
 author: Roberto Camacho Barranco (1), Laura M. Rodriguez (1), Rebecca Urbina (1), M. Shahriar Hossain (1) ((1) The University of Texas at El Paso)
+mathjax: true
 ---
 
 * content

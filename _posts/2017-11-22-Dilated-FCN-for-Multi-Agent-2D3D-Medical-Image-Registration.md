@@ -5,6 +5,7 @@ date: 2017-11-22 03:22:17
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Shun Miao, Sebastien Piat, Peter Fischer, Ahmet Tuysuzoglu, Philip Mewes, Tommaso Mansi, Rui Liao
+mathjax: true
 ---
 
 * content

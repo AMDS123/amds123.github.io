@@ -5,6 +5,7 @@ date: 2017-11-26 17:18:46
 categories: arXiv_CV
 tags: arXiv_CV
 author: Swalpa Kumar Roy, Bhabatosh Chanda, Bidyut B. Chaudhuri, Soumitro Banerjee, Dipak Kumar Ghosh, Shiv Ram Dubey
+mathjax: true
 ---
 
 * content

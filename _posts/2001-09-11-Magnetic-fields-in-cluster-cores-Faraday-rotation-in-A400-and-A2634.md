@@ -5,6 +5,7 @@ date: 2001-09-11 13:57:55
 categories: arXiv_CL
 tags: arXiv_CL
 author: Jean A. Eilek (NMT), Frazer N. Owen (NRAO)
+mathjax: true
 ---
 
 * content

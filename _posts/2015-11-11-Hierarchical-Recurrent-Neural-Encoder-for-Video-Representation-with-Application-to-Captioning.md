@@ -5,6 +5,7 @@ date: 2015-11-11 12:38:14
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN Deep_Learning
 author: Pingbo Pan, Zhongwen Xu, Yi Yang, Fei Wu, Yueting Zhuang
+mathjax: true
 ---
 
 * content

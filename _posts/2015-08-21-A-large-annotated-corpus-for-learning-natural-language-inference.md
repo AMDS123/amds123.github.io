@@ -5,6 +5,7 @@ date: 2015-08-21 16:17:01
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Samuel R. Bowman, Gabor Angeli, Christopher Potts, Christopher D. Manning
+mathjax: true
 ---
 
 * content

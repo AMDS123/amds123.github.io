@@ -5,6 +5,7 @@ date: 2016-09-26 04:08:19
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Caption Semantic_Segmentation
 author: Gordon Christie, Ankit Laddha, Aishwarya Agrawal, Stanislaw Antol, Yash Goyal, Kevin Kochersberger, Dhruv Batra
+mathjax: true
 ---
 
 * content

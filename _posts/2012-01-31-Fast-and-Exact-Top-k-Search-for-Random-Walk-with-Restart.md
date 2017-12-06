@@ -5,6 +5,7 @@ date: 2012-01-31 15:09:50
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption
 author: Yasuhiro Fujiwara, Makoto Nakatsuji, Makoto Onizuka, Masaru Kitsuregawa
+mathjax: true
 ---
 
 * content

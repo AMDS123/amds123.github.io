@@ -5,6 +5,7 @@ date: 2017-12-04 19:01:11
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation Deep_Learning
 author: Lingni Ma, J&#xf6;rg St&#xfc;ckler, Christian Kerl, Daniel Cremers
+mathjax: true
 ---
 
 * content

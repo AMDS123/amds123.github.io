@@ -5,6 +5,7 @@ date: 2016-09-26 19:14:12
 categories: arXiv_CV
 tags: arXiv_CV Caption
 author: Atousa Torabi, Niket Tandon, Leonid Sigal
+mathjax: true
 ---
 
 * content

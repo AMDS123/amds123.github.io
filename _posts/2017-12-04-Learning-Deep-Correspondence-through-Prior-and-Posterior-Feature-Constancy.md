@@ -5,6 +5,7 @@ date: 2017-12-04 12:35:38
 categories: arXiv_CV
 tags: arXiv_CV
 author: Zhengfa Liang, Yiliu Feng, Yulan Guo, Hengzhu Liu, Linbo Qiao, Wei Chen, Li Zhou, Jianfeng Zhang
+mathjax: true
 ---
 
 * content

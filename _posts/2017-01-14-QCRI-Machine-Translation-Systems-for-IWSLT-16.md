@@ -5,6 +5,7 @@ date: 2017-01-14 14:18:54
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Nadir Durrani, Fahim Dalvi, Hassan Sajjad, Stephan Vogel
+mathjax: true
 ---
 
 * content

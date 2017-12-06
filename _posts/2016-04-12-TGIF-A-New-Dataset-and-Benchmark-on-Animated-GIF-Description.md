@@ -5,6 +5,7 @@ date: 2016-04-12 01:47:19
 categories: arXiv_CV
 tags: arXiv_CV Caption RNN
 author: Yuncheng Li, Yale Song, Liangliang Cao, Joel Tetreault, Larry Goldberg, Alejandro Jaimes, Jiebo Luo
+mathjax: true
 ---
 
 * content

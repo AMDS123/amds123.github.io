@@ -5,6 +5,7 @@ date: 2017-11-04 12:04:01
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN
 author: Marcella Cornia, Lorenzo Baraldi, Giuseppe Serra, Rita Cucchiara
+mathjax: true
 ---
 
 * content

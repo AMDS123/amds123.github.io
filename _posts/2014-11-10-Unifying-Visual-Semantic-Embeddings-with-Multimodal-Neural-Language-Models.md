@@ -5,6 +5,7 @@ date: 2014-11-10 19:09:41
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Caption CNN RNN Detection
 author: Ryan Kiros, Ruslan Salakhutdinov, Richard S. Zemel
+mathjax: true
 ---
 
 * content

@@ -5,6 +5,7 @@ date: 2017-08-30 22:26:48
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Siyuan Jiang, Ameer Armaly, Collin McMillan
+mathjax: true
 ---
 
 * content

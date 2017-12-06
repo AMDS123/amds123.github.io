@@ -5,6 +5,7 @@ date: 2017-12-01 21:21:35
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning Detection
 author: Onur Ozdemir, Benjamin Woodward, Andrew A. Berlin
+mathjax: true
 ---
 
 * content

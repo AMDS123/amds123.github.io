@@ -5,6 +5,7 @@ date: 2017-11-03 03:15:44
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Yining Wang, Yang Zhao, Jiajun Zhang, Chengqing Zong, Zhengshan Xue
+mathjax: true
 ---
 
 * content

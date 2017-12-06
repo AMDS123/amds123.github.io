@@ -5,6 +5,7 @@ date: 2017-12-02 00:05:16
 categories: arXiv_CV
 tags: arXiv_CV CNN
 author: Stanislav Fort
+mathjax: true
 ---
 
 * content

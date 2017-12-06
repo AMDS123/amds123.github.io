@@ -5,6 +5,7 @@ date: 2017-11-29 11:46:56
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption CNN
 author: Eva Mohedano, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor
+mathjax: true
 ---
 
 * content

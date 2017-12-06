@@ -5,6 +5,7 @@ date: 2017-12-03 05:54:40
 categories: arXiv_CV
 tags: arXiv_CV GAN
 author: Wellington Pinheiro dos Santos, Ricardo Emmanuel de Souza, Pl&#xed;nio B. dos Santos Filho
+mathjax: true
 ---
 
 * content

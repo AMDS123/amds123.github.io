@@ -5,6 +5,7 @@ date: 2002-04-08 07:42:35
 categories: arXiv_CL
 tags: arXiv_CL
 author: J. A. Eilek, P. N. Arendt Jr, T. H. Hankins, J. C. Weatherall (NMT)
+mathjax: true
 ---
 
 * content

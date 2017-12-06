@@ -5,6 +5,7 @@ date: 2017-12-04 15:23:45
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Moos Hueting, Pradyumna Reddy, Vladimir Kim, Ersin Yumer, Nathan Carr, Niloy Mitra
+mathjax: true
 ---
 
 * content

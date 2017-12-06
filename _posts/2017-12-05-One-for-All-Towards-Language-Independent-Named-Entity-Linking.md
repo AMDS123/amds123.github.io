@@ -5,6 +5,7 @@ date: 2017-12-05 18:21:24
 categories: arXiv_CL
 tags: arXiv_CL GAN
 author: Avirup Sil, Radu Florian
+mathjax: true
 ---
 
 * content
