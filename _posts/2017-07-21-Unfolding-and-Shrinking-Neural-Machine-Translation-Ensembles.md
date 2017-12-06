@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Unfolding and Shrinking Neural Machine Translation Ensembles'
-date: 2017-12-06 03:09:44
+date: 2017-07-21 13:04:22
 categories: arXiv_CL
 tags: arXiv_CL NMT
 author: Felix Stahlberg, Bill Byrne
