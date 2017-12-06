@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Effect of Negators, Modals, and Degree Adverbs on Sentiment Composition'
-date: 2017-12-06 09:57:20
+date: 2017-12-05 18:17:43
 categories: arXiv_CL
 tags: arXiv_CL
 author: Svetlana Kiritchenko, Saif M. Mohammad

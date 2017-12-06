@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Multi-Level Recurrent Residual Networks for Action Recognition'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 14:37:23
 categories: arXiv_CV
 tags: arXiv_CV Action_Recognition CNN RNN Recognition
 author: Zhenxing Zheng, Gaoyun An, Qiuqi Ruan

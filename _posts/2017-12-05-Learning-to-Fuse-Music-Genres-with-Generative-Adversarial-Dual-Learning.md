@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Learning to Fuse Music Genres with Generative Adversarial Dual Learning'
-date: 2017-12-06 10:01:07
+date: 2017-12-05 02:53:27
 categories: arXiv_SD
 tags: arXiv_SD Adversarial GAN
 author: Zhiqian Chen, Chih-Wei Wu, Yen-Cheng Lu, Alexander Lerch, Chang-Tien Lu

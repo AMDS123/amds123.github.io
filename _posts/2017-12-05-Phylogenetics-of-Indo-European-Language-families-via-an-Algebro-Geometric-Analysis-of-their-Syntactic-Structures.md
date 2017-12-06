@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Phylogenetics of Indo-European Language families via an Algebro-Geometric Analysis of their Syntactic Structures'
-date: 2017-12-06 09:57:20
+date: 2017-12-05 15:55:27
 categories: arXiv_CL
 tags: arXiv_CL
 author: Kevin Shu, Andrew Ortegaray, Robert Berwick, Matilde Marcolli

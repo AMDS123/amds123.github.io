@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sequence Mining and Pattern Analysis in Drilling Reports with Deep Natural Language Processing'
-date: 2017-12-06 09:57:20
+date: 2017-12-05 04:49:58
 categories: arXiv_CL
 tags: arXiv_CL
 author: J&#xfa;lio Hoffimann, Youli Mao, Avinash Wesley, Aimee Taylor

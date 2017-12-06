@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leaf Identification Using a Deep Convolutional Neural Network'
-date: 2017-12-05 21:10:17
+date: 2017-12-04 09:17:53
 categories: arXiv_CV
 tags: arXiv_CV CNN Recognition
 author: Christoph Wick, Frank Puppe

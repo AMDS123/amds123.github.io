@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 08:49:06
 categories: arXiv_CV
 tags: arXiv_CV RNN
 author: Haoshu Fang, Yuanlu Xu, Wenguan Wang, Xiaobai Liu, Song-Chun Zhu

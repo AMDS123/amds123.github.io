@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Learning to detect chest radiographs containing lung nodules using visual attention networks'
-date: 2017-12-05 21:10:17
+date: 2017-12-04 10:44:32
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning CNN Detection
 author: Emanuele Pesce, Petros-Pavlos Ypsilantis, Samuel Withey, Robert Bakewell, Vicky Goh, Giovanni Montana

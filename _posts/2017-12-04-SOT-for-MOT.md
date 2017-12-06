@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOT for MOT'
-date: 2017-12-05 21:10:17
+date: 2017-12-04 13:22:31
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Deep_Learning Detection
 author: Qizheng He, Jianan Wu, Gang Yu, Chi Zhang

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Probabilistic Quality Representation Approach to Deep Blind Image Quality Prediction'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 04:55:26
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning
 author: Hui Zeng, Lei Zhang, Alan C. Bovik

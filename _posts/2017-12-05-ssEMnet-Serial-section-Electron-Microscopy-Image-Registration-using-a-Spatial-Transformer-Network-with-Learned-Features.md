@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ssEMnet: Serial-section Electron Microscopy Image Registration using a Spatial Transformer Network with Learned Features'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 06:56:20
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning
 author: Inwan Yoo, David G. C. Hildebrand, Willie F. Tobin, Wei-Chung Allen Lee, Won-Ki Jeong

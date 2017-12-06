@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AWE-CM Vectors: Augmenting Word Embeddings with a Clinical Metathesaurus'
-date: 2017-12-06 09:57:20
+date: 2017-12-05 03:11:07
 categories: arXiv_CL
 tags: arXiv_CL
 author: Willie Boag, Hassan Kan&#xe9;

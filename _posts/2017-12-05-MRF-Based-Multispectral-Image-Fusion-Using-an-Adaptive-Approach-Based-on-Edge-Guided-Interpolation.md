@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MRF-Based Multispectral Image Fusion Using an Adaptive Approach Based on Edge-Guided Interpolation'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 13:31:21
 categories: arXiv_CV
 tags: arXiv_CV
 author: Mohammad Reza Khosravi, Mohammad Sharif-Yazd, Mohammad Kazem Moghimi, Ahmad Keshavarz, Habib Rostami, Suleiman Mansouri

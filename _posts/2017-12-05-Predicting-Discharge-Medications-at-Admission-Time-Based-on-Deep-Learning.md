@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Predicting Discharge Medications at Admission Time Based on Deep Learning'
-date: 2017-12-06 09:57:20
+date: 2017-12-05 17:13:56
 categories: arXiv_CL
 tags: arXiv_CL CNN Deep_Learning Detection
 author: Yuan Yang, Pengtao Xie, Xin Gao, Carol Cheng, Christy Li, Hongbao Zhang, Eric Xing

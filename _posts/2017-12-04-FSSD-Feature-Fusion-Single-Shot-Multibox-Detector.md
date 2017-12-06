@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FSSD: Feature Fusion Single Shot Multibox Detector'
-date: 2017-12-05 21:10:17
+date: 2017-12-04 09:05:55
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection
 author: Zuoxin Li, Fuqiang Zhou

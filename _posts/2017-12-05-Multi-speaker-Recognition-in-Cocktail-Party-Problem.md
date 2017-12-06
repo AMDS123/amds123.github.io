@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Multi-speaker Recognition in Cocktail Party Problem'
-date: 2017-12-06 10:01:07
+date: 2017-12-05 16:28:51
 categories: arXiv_SD
 tags: arXiv_SD Recognition
 author: Yiqian Wang, Wensheng Sun

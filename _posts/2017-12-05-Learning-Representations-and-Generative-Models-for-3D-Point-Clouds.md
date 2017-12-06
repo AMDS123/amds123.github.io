@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Learning Representations and Generative Models for 3D Point Clouds'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 05:35:30
 categories: arXiv_CV
 tags: arXiv_CV GAN Recognition
 author: Panos Achlioptas, Olga Diamanti, Ioannis Mitliagkas, Leonidas Guibas

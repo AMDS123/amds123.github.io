@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deep Semantic Role Labeling with Self-Attention'
-date: 2017-12-06 09:57:20
+date: 2017-12-05 11:48:51
 categories: arXiv_CL
 tags: arXiv_CL RNN
 author: Zhixing Tan, Mingxuan Wang, Jun Xie, Yidong Chen, Xiaodong Shi

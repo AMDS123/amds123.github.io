@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automatic detection and decoding of honey bee waggle dances'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 02:06:23
 categories: arXiv_CV
 tags: arXiv_CV Detection
 author: Fernando Wario, Benjamin Wild, Ra&#xfa;l Rojas, Tim Landgraf

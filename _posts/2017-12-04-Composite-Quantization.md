@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Composite Quantization'
-date: 2017-12-05 21:10:17
+date: 2017-12-04 08:48:44
 categories: arXiv_CV
 tags: arXiv_CV
 author: Jingdong Wang, Ting Zhang

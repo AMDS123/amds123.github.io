@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rethinking Atrous Convolution for Semantic Image Segmentation'
-date: 2017-12-06 09:54:14
+date: 2017-12-05 18:06:21
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN
 author: Liang-Chieh Chen, George Papandreou, Florian Schroff, Hartwig Adam

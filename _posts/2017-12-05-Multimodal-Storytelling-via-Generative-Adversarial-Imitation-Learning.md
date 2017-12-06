@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Multimodal Storytelling via Generative Adversarial Imitation Learning'
-date: 2017-12-06 09:57:20
+date: 2017-12-05 02:51:35
 categories: arXiv_CL
 tags: arXiv_CL Adversarial GAN
 author: Zhiqian Chen, Xuchao Zhang, Arnold P. Boedihardjo, Jing Dai, Chang-Tien Lu
