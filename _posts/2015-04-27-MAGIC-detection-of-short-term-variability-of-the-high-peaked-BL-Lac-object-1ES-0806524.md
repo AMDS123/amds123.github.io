@@ -4,7 +4,7 @@ title: "MAGIC detection of short-term variability of the high-peaked BL Lac obje
 date: 2015-04-27 11:21:52
 categories: arXiv_CV
 tags: arXiv_CV Detection
-author: MAGIC Collaboration: J. Aleksić (1), S. Ansoldi (2), L. A. Antonelli (3), P. Antoranz (4), A. Babic (5), P. Bangale (6), J. A. Barrio (7), J. Becerra González (8,\,25), W. Bednarek (9), E. Bernardini (10), B. Biasuzzi (2), A. Biland (11), O. Blanch (1), S. Bonnefoy (7), G. Bonnoli (3), F. Borracci (6), T. Bretz (12, 26), E. Carmona (13), A. Carosi (3), P. Colin (6), E. Colombo (8), J. L. Contreras (7), J. Cortina (1), S. Covino (3), P. Da Vela (4), F. Dazzi (6), A. De Angelis (2), G. De Caneva (10), B. De Lotto (2), E. de O. na Wilhelmi (14), C. Delgado Mendez (13), F. Di Pierro (3), D. Dominis Prester (5), D. Dorner (12), M. Doro (15), S. Einecke (16), D. Eisenacher (12), D. Elsaesser (12), A. Fernández-Barral (1), D. Fidalgo (7), M. V. Fonseca (7), L. Font (17), K. Frantzen (16),  et al. (111 additional authors not shown)
+author: 
 mathjax: true
 ---
 
