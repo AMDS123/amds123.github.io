@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The something something video database for learning and evaluating visual common sense"
+title: "The 'something something' video database for learning and evaluating visual common sense"
 date: 2017-06-15 21:15:13
 categories: arXiv_CV
 tags: arXiv_CV Caption
