@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Incorporating Global Visual Features into Attention-Based Neural Machine Translation'
+title: "Incorporating Global Visual Features into Attention-Based Neural Machine Translation"
 date: 2017-01-23 17:43:23
 categories: arXiv_CL
 tags: arXiv_CL CNN NMT

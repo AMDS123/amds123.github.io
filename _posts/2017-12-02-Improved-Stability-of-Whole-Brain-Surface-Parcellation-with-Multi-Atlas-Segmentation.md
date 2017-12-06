@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improved Stability of Whole Brain Surface Parcellation with Multi-Atlas Segmentation'
+title: "Improved Stability of Whole Brain Surface Parcellation with Multi-Atlas Segmentation"
 date: 2017-12-02 03:48:42
 categories: arXiv_CV
 tags: arXiv_CV Segmentation

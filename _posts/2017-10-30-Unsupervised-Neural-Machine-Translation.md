@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unsupervised Neural Machine Translation'
+title: "Unsupervised Neural Machine Translation"
 date: 2017-10-30 16:17:34
 categories: arXiv_CL
 tags: arXiv_CL NMT

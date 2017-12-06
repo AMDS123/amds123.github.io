@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Can CNNs Construct Highly Accurate Model Efficiently with Limited Training Samples?'
+title: "Can CNNs Construct Highly Accurate Model Efficiently with Limited Training Samples?"
 date: 2017-11-15 00:06:54
 categories: arXiv_CV
 tags: arXiv_CV CNN

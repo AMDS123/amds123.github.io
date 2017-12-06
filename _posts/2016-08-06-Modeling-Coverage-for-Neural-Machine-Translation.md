@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Modeling Coverage for Neural Machine Translation'
+title: "Modeling Coverage for Neural Machine Translation"
 date: 2016-08-06 17:13:04
 categories: arXiv_CL
 tags: arXiv_CL NMT

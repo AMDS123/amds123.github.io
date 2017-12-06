@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Triagem virtual de imagens de imuno-histoquímica usando redes neurais artificiais e espectro de padrões'
+title: "Triagem virtual de imagens de imuno-histoquímica usando redes neurais artificiais e espectro de padrões"
 date: 2017-12-03 18:06:22
 categories: arXiv_CV
 tags: arXiv_CV GAN

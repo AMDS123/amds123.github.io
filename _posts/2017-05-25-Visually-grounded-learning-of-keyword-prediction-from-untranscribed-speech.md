@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Visually grounded learning of keyword prediction from untranscribed speech'
+title: "Visually grounded learning of keyword prediction from untranscribed speech"
 date: 2017-05-25 20:49:15
 categories: arXiv_CV
 tags: arXiv_CV Caption

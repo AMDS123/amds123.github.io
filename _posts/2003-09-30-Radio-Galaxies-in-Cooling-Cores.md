@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Radio Galaxies in Cooling Cores'
+title: "Radio Galaxies in Cooling Cores"
 date: 2003-09-30 23:09:53
 categories: arXiv_CL
 tags: arXiv_CL

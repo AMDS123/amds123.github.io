@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards an Understanding of Our World by GANing Videos in the Wild'
+title: "Towards an Understanding of Our World by GANing Videos in the Wild"
 date: 2017-11-30 14:55:16
 categories: arXiv_CV
 tags: arXiv_CV GAN

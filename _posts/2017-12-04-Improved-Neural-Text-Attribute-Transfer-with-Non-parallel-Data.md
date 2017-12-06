@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improved Neural Text Attribute Transfer with Non-parallel Data'
+title: "Improved Neural Text Attribute Transfer with Non-parallel Data"
 date: 2017-12-04 23:20:56
 categories: arXiv_CL
 tags: arXiv_CL

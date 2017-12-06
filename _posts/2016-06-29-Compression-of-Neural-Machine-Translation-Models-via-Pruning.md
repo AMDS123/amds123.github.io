@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compression of Neural Machine Translation Models via Pruning'
+title: "Compression of Neural Machine Translation Models via Pruning"
 date: 2016-06-29 20:36:23
 categories: arXiv_CL
 tags: arXiv_CL NMT Deep_Learning

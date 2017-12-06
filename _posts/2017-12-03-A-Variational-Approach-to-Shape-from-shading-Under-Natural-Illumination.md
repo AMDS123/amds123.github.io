@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Variational Approach to Shape-from-shading Under Natural Illumination'
+title: "A Variational Approach to Shape-from-shading Under Natural Illumination"
 date: 2017-12-03 19:10:56
 categories: arXiv_CV
 tags: arXiv_CV

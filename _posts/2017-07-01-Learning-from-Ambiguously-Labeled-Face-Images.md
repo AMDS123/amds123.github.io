@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning from Ambiguously Labeled Face Images'
+title: "Learning from Ambiguously Labeled Face Images"
 date: 2017-07-01 05:35:22
 categories: arXiv_CV
 tags: arXiv_CV Caption

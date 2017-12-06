@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection'
+title: "Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection"
 date: 2017-02-18 01:08:18
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN Detection

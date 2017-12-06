@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beam Search Strategies for Neural Machine Translation'
+title: "Beam Search Strategies for Neural Machine Translation"
 date: 2017-06-14 01:00:18
 categories: arXiv_CL
 tags: arXiv_CL NMT

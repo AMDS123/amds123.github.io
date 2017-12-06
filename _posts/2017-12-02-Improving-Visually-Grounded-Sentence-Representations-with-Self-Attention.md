@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improving Visually Grounded Sentence Representations with Self-Attention'
+title: "Improving Visually Grounded Sentence Representations with Self-Attention"
 date: 2017-12-02 14:14:50
 categories: arXiv_CL
 tags: arXiv_CL

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SPICE: Semantic Propositional Image Caption Evaluation'
+title: "SPICE: Semantic Propositional Image Caption Evaluation"
 date: 2016-07-29 14:26:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

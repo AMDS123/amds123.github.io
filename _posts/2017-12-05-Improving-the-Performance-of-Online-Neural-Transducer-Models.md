@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improving the Performance of Online Neural Transducer Models'
+title: "Improving the Performance of Online Neural Transducer Models"
 date: 2017-12-05 18:34:56
 categories: arXiv_CL
 tags: arXiv_CL

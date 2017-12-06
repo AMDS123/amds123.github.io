@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Signatures for Licence Plate Re-identification'
+title: "Neural Signatures for Licence Plate Re-identification"
 date: 2017-12-01 11:36:15
 categories: arXiv_CV
 tags: arXiv_CV CNN Recognition

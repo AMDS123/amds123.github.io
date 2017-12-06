@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Neural-Symbolic Approach to Natural Language Tasks'
+title: "A Neural-Symbolic Approach to Natural Language Tasks"
 date: 2017-10-29 09:18:51
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN Deep_Learning

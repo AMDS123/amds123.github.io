@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Embedded Real-Time Fall Detection Using Deep Learning For Elderly Care'
+title: "Embedded Real-Time Fall Detection Using Deep Learning For Elderly Care"
 date: 2017-11-30 03:07:14
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning Detection

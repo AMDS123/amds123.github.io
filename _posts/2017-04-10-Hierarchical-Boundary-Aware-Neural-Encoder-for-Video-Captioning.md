@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hierarchical Boundary-Aware Neural Encoder for Video Captioning'
+title: "Hierarchical Boundary-Aware Neural Encoder for Video Captioning"
 date: 2017-04-10 13:36:08
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLADE: Filter Learning for General Purpose Image Processing'
+title: "BLADE: Filter Learning for General Purpose Image Processing"
 date: 2017-11-29 06:38:41
 categories: arXiv_CV
 tags: arXiv_CV Super_Resolution

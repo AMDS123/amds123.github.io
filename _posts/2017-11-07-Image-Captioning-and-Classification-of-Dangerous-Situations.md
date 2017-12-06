@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image Captioning and Classification of Dangerous Situations'
+title: "Image Captioning and Classification of Dangerous Situations"
 date: 2017-11-07 16:02:09
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Deep_Learning Detection

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guided Alignment Training for Topic-Aware Neural Machine Translation'
+title: "Guided Alignment Training for Topic-Aware Neural Machine Translation"
 date: 2016-07-06 14:13:12
 categories: arXiv_CL
 tags: arXiv_CL NMT

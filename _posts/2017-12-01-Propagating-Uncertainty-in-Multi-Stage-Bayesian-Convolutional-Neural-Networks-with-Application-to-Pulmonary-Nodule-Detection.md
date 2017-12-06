@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Propagating Uncertainty in Multi-Stage Bayesian Convolutional Neural Networks with Application to Pulmonary Nodule Detection'
+title: "Propagating Uncertainty in Multi-Stage Bayesian Convolutional Neural Networks with Application to Pulmonary Nodule Detection"
 date: 2017-12-01 21:21:35
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning Detection

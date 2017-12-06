@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets'
+title: "Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets"
 date: 2017-11-08 14:27:29
 categories: arXiv_CL
 tags: arXiv_CL Adversarial GAN NMT RNN

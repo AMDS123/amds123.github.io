@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Decoding as Continuous Optimization in Neural Machine Translation'
+title: "Towards Decoding as Continuous Optimization in Neural Machine Translation"
 date: 2017-07-22 16:35:43
 categories: arXiv_CL
 tags: arXiv_CL NMT

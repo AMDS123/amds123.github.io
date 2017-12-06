@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ADVISE: Symbolism and External Knowledge for Decoding Advertisements'
+title: "ADVISE: Symbolism and External Knowledge for Decoding Advertisements"
 date: 2017-11-17 18:47:25
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption GAN Caption Recognition

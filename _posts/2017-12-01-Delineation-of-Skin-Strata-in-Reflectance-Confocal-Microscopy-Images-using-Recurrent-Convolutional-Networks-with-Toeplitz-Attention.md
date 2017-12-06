@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Delineation of Skin Strata in Reflectance Confocal Microscopy Images using Recurrent Convolutional Networks with Toeplitz Attention'
+title: "Delineation of Skin Strata in Reflectance Confocal Microscopy Images using Recurrent Convolutional Networks with Toeplitz Attention"
 date: 2017-12-01 04:59:25
 categories: arXiv_CV
 tags: arXiv_CV CNN

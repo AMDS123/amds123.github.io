@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enabling Multi-Source Neural Machine Translation By Concatenating Source Sentences In Multiple Languages'
+title: "Enabling Multi-Source Neural Machine Translation By Concatenating Source Sentences In Multiple Languages"
 date: 2017-04-03 11:37:41
 categories: arXiv_CL
 tags: arXiv_CL GAN NMT

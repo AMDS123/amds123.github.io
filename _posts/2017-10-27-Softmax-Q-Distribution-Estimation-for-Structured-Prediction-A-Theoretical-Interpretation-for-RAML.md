@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Softmax Q-Distribution Estimation for Structured Prediction: A Theoretical Interpretation for RAML'
+title: "Softmax Q-Distribution Estimation for Structured Prediction: A Theoretical Interpretation for RAML"
 date: 2017-10-27 19:50:50
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shape Complementarity Analysis for Objects of Arbitrary Shape'
+title: "Shape Complementarity Analysis for Objects of Arbitrary Shape"
 date: 2017-12-01 09:07:14
 categories: arXiv_CV
 tags: arXiv_CV GAN

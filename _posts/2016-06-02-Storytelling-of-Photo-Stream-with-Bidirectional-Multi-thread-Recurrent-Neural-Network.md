@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Storytelling of Photo Stream with Bidirectional Multi-thread Recurrent Neural Network'
+title: "Storytelling of Photo Stream with Bidirectional Multi-thread Recurrent Neural Network"
 date: 2016-06-02 11:13:04
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN

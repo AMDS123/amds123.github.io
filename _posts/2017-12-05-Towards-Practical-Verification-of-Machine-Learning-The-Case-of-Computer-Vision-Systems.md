@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Practical Verification of Machine Learning: The Case of Computer Vision Systems'
+title: "Towards Practical Verification of Machine Learning: The Case of Computer Vision Systems"
 date: 2017-12-05 17:49:18
 categories: arXiv_CV
 tags: arXiv_CV

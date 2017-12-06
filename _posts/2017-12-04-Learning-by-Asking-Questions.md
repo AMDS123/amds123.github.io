@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning by Asking Questions'
+title: "Learning by Asking Questions"
 date: 2017-12-04 18:23:19
 categories: arXiv_CV
 tags: arXiv_CV VQA

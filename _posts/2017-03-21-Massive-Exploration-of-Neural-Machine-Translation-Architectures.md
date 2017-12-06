@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Massive Exploration of Neural Machine Translation Architectures'
+title: "Massive Exploration of Neural Machine Translation Architectures"
 date: 2017-03-21 20:34:59
 categories: arXiv_CL
 tags: arXiv_CL NMT

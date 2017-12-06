@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning What and Where to Draw'
+title: "Learning What and Where to Draw"
 date: 2016-10-08 00:27:57
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN Caption

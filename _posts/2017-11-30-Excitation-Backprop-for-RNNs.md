@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Excitation Backprop for RNNs'
+title: "Excitation Backprop for RNNs"
 date: 2017-11-30 19:23:46
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Action_Recognition RNN Recognition

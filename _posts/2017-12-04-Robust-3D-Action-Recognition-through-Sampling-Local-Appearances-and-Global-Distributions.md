@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Robust 3D Action Recognition through Sampling Local Appearances and Global Distributions'
+title: "Robust 3D Action Recognition through Sampling Local Appearances and Global Distributions"
 date: 2017-12-04 14:31:42
 categories: arXiv_CV
 tags: arXiv_CV Action_Recognition Detection Recognition

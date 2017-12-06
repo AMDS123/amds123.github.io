@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automatic Recognition of Coal and Gangue based on Convolution Neural Network'
+title: "Automatic Recognition of Coal and Gangue based on Convolution Neural Network"
 date: 2017-12-03 06:37:15
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection GAN CNN Detection Recognition

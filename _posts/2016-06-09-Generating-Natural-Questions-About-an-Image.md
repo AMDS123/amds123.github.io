@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Generating Natural Questions About an Image'
+title: "Generating Natural Questions About an Image"
 date: 2016-06-09 01:20:49
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA

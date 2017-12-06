@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '4DFAB: A Large Scale 4D Facial Expression Database for Biometric Applications'
+title: "4DFAB: A Large Scale 4D Facial Expression Database for Biometric Applications"
 date: 2017-12-05 02:13:39
 categories: arXiv_CV
 tags: arXiv_CV Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discriminative Bimodal Networks for Visual Localization and Detection with Natural Language Queries'
+title: "Discriminative Bimodal Networks for Visual Localization and Detection with Natural Language Queries"
 date: 2017-04-17 07:22:14
 categories: arXiv_CV
 tags: arXiv_CV Caption Detection

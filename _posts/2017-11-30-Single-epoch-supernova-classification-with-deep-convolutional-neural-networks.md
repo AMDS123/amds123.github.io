@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Single-epoch supernova classification with deep convolutional neural networks'
+title: "Single-epoch supernova classification with deep convolutional neural networks"
 date: 2017-11-30 17:30:39
 categories: arXiv_CV
 tags: arXiv_CV CNN

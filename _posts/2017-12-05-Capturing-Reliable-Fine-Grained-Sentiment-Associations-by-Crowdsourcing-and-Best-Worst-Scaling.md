@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling'
+title: "Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling"
 date: 2017-12-05 16:28:37
 categories: arXiv_CL
 tags: arXiv_CL Detection

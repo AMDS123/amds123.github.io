@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Translating Videos to Natural Language Using Deep Recurrent Neural Networks'
+title: "Translating Videos to Natural Language Using Deep Recurrent Neural Networks"
 date: 2015-04-30 04:22:06
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN RNN Deep_Learning

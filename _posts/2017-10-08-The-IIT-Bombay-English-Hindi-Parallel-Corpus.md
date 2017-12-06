@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The IIT Bombay English-Hindi Parallel Corpus'
+title: "The IIT Bombay English-Hindi Parallel Corpus"
 date: 2017-10-08 16:56:05
 categories: arXiv_CL
 tags: arXiv_CL NMT

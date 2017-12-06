@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Generalized Motion Pattern and FCN based approach for retinal fluid detection and segmentation'
+title: "A Generalized Motion Pattern and FCN based approach for retinal fluid detection and segmentation"
 date: 2017-12-04 13:49:57
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Detection

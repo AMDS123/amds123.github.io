@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joint Embedding and Classification for SAR Target Recognition'
+title: "Joint Embedding and Classification for SAR Target Recognition"
 date: 2017-12-05 07:45:18
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning Recognition

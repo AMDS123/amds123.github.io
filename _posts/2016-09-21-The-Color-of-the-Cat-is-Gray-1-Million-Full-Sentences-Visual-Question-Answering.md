@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Color of the Cat is Gray: 1 Million Full-Sentences Visual Question Answering'
+title: "The Color of the Cat is Gray: 1 Million Full-Sentences Visual Question Answering"
 date: 2016-09-21 18:12:04
 categories: arXiv_CV
 tags: arXiv_CV Caption VQA

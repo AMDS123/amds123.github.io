@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interacting with Acoustic Simulation and Fabrication'
+title: "Interacting with Acoustic Simulation and Fabrication"
 date: 2017-12-04 17:14:39
 categories: arXiv_CV
 tags: arXiv_CV

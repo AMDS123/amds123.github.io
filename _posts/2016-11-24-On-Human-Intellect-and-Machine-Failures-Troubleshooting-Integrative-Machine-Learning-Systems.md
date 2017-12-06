@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On Human Intellect and Machine Failures: Troubleshooting Integrative Machine Learning Systems'
+title: "On Human Intellect and Machine Failures: Troubleshooting Integrative Machine Learning Systems"
 date: 2016-11-24 21:08:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

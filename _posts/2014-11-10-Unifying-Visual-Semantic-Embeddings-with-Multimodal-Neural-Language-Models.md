@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models'
+title: "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models"
 date: 2014-11-10 19:09:41
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Caption CNN RNN Detection

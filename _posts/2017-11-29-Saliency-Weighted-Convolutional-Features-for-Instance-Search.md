@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saliency Weighted Convolutional Features for Instance Search'
+title: "Saliency Weighted Convolutional Features for Instance Search"
 date: 2017-11-29 11:46:56
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption CNN

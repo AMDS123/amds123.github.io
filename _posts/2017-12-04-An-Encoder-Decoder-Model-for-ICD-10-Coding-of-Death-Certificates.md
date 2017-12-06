@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Encoder-Decoder Model for ICD-10 Coding of Death Certificates'
+title: "An Encoder-Decoder Model for ICD-10 Coding of Death Certificates"
 date: 2017-12-04 17:39:51
 categories: arXiv_CL
 tags: arXiv_CL RNN

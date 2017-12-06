@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taming Adversarial Domain Transfer with Structural Constraints for Image Enhancement'
+title: "Taming Adversarial Domain Transfer with Structural Constraints for Image Enhancement"
 date: 2017-12-02 12:37:34
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Image_Enhancement

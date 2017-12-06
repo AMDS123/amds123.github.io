@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Visual Storytelling'
+title: "Visual Storytelling"
 date: 2016-04-13 20:27:43
 categories: arXiv_CV
 tags: arXiv_CV Caption

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects'
+title: "Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects"
 date: 2017-12-02 01:50:47
 categories: arXiv_CV
 tags: arXiv_CV

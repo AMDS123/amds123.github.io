@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tensor Product Generation Networks'
+title: "Tensor Product Generation Networks"
 date: 2017-10-10 06:46:31
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation'
+title: "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
 date: 2016-10-08 19:10:41
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

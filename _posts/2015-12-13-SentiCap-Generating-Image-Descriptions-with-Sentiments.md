@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SentiCap: Generating Image Descriptions with Sentiments'
+title: "SentiCap: Generating Image Descriptions with Sentiments"
 date: 2015-12-13 23:03:23
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Regularization Caption Recognition

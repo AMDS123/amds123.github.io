@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database'
+title: "Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database"
 date: 2017-11-28 20:06:10
 categories: arXiv_CV
 tags: arXiv_CV GAN

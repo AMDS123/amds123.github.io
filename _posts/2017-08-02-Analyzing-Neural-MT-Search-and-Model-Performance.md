@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Analyzing Neural MT Search and Model Performance'
+title: "Analyzing Neural MT Search and Model Performance"
 date: 2017-08-02 00:48:35
 categories: arXiv_CL
 tags: arXiv_CL NMT

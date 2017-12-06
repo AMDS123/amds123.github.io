@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner'
+title: "Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner"
 date: 2017-08-14 15:54:32
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial Caption

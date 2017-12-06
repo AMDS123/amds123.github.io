@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Relation Networks for Object Detection'
+title: "Relation Networks for Object Detection"
 date: 2017-11-30 18:47:41
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Deep_Learning Detection Recognition

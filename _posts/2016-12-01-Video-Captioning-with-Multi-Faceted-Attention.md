@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Video Captioning with Multi-Faceted Attention'
+title: "Video Captioning with Multi-Faceted Attention"
 date: 2016-12-01 13:11:29
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN

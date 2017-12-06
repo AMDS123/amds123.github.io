@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition'
+title: "MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition"
 date: 2016-07-27 19:18:16
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Recognition

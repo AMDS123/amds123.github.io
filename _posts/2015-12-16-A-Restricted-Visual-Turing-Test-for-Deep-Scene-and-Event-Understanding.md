@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Restricted Visual Turing Test for Deep Scene and Event Understanding'
+title: "A Restricted Visual Turing Test for Deep Scene and Event Understanding"
 date: 2015-12-16 19:19:25
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption VQA

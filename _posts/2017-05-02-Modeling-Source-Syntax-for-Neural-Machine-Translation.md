@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Modeling Source Syntax for Neural Machine Translation'
+title: "Modeling Source Syntax for Neural Machine Translation"
 date: 2017-05-02 15:21:46
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Variational Autoencoder for Deep Learning of Images, Labels and Captions'
+title: "Variational Autoencoder for Deep Learning of Images, Labels and Captions"
 date: 2016-09-28 15:56:15
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN Deep_Learning

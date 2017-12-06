@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '3D Anisotropic Hybrid Network: Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes'
+title: "3D Anisotropic Hybrid Network: Transferring Convolutional Features from 2D Images to 3D Anisotropic Volumes"
 date: 2017-12-04 01:54:49
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN RNN Detection

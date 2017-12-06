@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space'
+title: "Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space"
 date: 2017-11-19 20:12:43
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

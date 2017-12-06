@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene'
+title: "Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene"
 date: 2017-12-05 18:42:13
 categories: arXiv_CV
 tags: arXiv_CV CNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compressed Video Action Recognition'
+title: "Compressed Video Action Recognition"
 date: 2017-12-02 16:47:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Action_Recognition Recognition

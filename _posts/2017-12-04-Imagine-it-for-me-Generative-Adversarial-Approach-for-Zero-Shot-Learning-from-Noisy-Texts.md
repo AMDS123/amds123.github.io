@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Imagine it for me: Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts'
+title: "Imagine it for me: Generative Adversarial Approach for Zero-Shot Learning from Noisy Texts"
 date: 2017-12-04 21:40:10
 categories: arXiv_CV
 tags: arXiv_CV Regularization Adversarial GAN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guiding Long-Short Term Memory for Image Caption Generation'
+title: "Guiding Long-Short Term Memory for Image Caption Generation"
 date: 2015-09-16 15:02:30
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Convolutional Neural Networks for Breast Cancer Screening: Transfer Learning with Exponential Decay'
+title: "Convolutional Neural Networks for Breast Cancer Screening: Transfer Learning with Exponential Decay"
 date: 2017-11-29 10:08:46
 categories: arXiv_CV
 tags: arXiv_CV CNN

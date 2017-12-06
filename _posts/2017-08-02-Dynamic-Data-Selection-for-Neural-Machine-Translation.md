@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dynamic Data Selection for Neural Machine Translation'
+title: "Dynamic Data Selection for Neural Machine Translation"
 date: 2017-08-02 11:55:57
 categories: arXiv_CL
 tags: arXiv_CL NMT

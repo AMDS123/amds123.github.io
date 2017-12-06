@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acronym Expansion: A Domain Independent Approach'
+title: "Acronym Expansion: A Domain Independent Approach"
 date: 2017-12-02 10:52:08
 categories: arXiv_CL
 tags: arXiv_CL

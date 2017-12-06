@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SentenceRacer: A Game with a Purpose for Image Sentence Annotation'
+title: "SentenceRacer: A Game with a Purpose for Image Sentence Annotation"
 date: 2015-08-27 23:03:17
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

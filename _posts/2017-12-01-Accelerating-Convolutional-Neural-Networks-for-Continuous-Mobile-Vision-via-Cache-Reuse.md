@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Accelerating Convolutional Neural Networks for Continuous Mobile Vision via Cache Reuse'
+title: "Accelerating Convolutional Neural Networks for Continuous Mobile Vision via Cache Reuse"
 date: 2017-12-01 16:52:04
 categories: arXiv_CV
 tags: arXiv_CV Face_Detection CNN Detection

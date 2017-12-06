@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A fast nonconvex Compressed Sensing algorithm for highly low-sampled MR images reconstruction'
+title: "A fast nonconvex Compressed Sensing algorithm for highly low-sampled MR images reconstruction"
 date: 2017-11-29 19:39:08
 categories: arXiv_CV
 tags: arXiv_CV

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Why my photos look sideways or upside down? Detecting Canonical Orientation of Images using Convolutional Neural Networks'
+title: "Why my photos look sideways or upside down? Detecting Canonical Orientation of Images using Convolutional Neural Networks"
 date: 2017-12-04 16:59:34
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning Detection Recognition

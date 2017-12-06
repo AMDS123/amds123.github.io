@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep image representations using caption generators'
+title: "Deep image representations using caption generators"
 date: 2017-05-25 12:13:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Deep_Learning Recognition

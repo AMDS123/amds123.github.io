@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Attention-Based Models for Text-Dependent Speaker Verification'
+title: "Attention-Based Models for Text-Dependent Speaker Verification"
 date: 2017-10-31 15:48:14
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption RNN Recognition

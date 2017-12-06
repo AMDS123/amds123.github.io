@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A+D-Net: Shadow Detection with Adversarial Shadow Attenuation'
+title: "A+D-Net: Shadow Detection with Adversarial Shadow Attenuation"
 date: 2017-12-04 21:14:32
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Object_Detection Detection

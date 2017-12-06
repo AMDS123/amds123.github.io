@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improved Neural Machine Translation with a Syntax-Aware Encoder and Decoder'
+title: "Improved Neural Machine Translation with a Syntax-Aware Encoder and Decoder"
 date: 2017-07-18 01:53:58
 categories: arXiv_CL
 tags: arXiv_CL NMT

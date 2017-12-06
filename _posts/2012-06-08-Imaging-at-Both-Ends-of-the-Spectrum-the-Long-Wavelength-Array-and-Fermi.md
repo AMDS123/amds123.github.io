@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Imaging at Both Ends of the Spectrum: the Long Wavelength Array and Fermi'
+title: "Imaging at Both Ends of the Spectrum: the Long Wavelength Array and Fermi"
 date: 2012-06-08 15:49:08
 categories: arXiv_CL
 tags: arXiv_CL NMT

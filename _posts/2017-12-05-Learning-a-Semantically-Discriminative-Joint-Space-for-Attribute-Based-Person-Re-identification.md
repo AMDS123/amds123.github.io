@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning a Semantically Discriminative Joint Space for Attribute Based Person Re-identification'
+title: "Learning a Semantically Discriminative Joint Space for Attribute Based Person Re-identification"
 date: 2017-12-05 06:06:32
 categories: arXiv_CV
 tags: arXiv_CV

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shock Structure and Shock Heating in the Galactic Central Molecular Zone'
+title: "Shock Structure and Shock Heating in the Galactic Central Molecular Zone"
 date: 2014-02-20 16:45:45
 categories: arXiv_CL
 tags: arXiv_CL

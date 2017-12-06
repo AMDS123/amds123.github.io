@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SketchParse : Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks'
+title: "SketchParse : Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks"
 date: 2017-09-05 09:10:59
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN

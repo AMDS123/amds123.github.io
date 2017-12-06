@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation'
+title: "Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation"
 date: 2016-12-09 13:03:42
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

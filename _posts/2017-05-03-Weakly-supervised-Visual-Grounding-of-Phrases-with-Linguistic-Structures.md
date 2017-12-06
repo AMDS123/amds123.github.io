@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weakly-supervised Visual Grounding of Phrases with Linguistic Structures'
+title: "Weakly-supervised Visual Grounding of Phrases with Linguistic Structures"
 date: 2017-05-03 11:53:33
 categories: arXiv_CV
 tags: arXiv_CV Caption

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Semi-supervised Framework for Image Captioning'
+title: "A Semi-supervised Framework for Image Captioning"
 date: 2017-06-24 08:24:44
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Review Caption

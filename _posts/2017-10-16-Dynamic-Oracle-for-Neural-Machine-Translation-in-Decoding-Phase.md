@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dynamic Oracle for Neural Machine Translation in Decoding Phase'
+title: "Dynamic Oracle for Neural Machine Translation in Decoding Phase"
 date: 2017-10-16 21:30:25
 categories: arXiv_CL
 tags: arXiv_CL NMT

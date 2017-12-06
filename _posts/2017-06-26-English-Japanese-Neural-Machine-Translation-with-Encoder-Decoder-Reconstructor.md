@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'English-Japanese Neural Machine Translation with Encoder-Decoder-Reconstructor'
+title: "English-Japanese Neural Machine Translation with Encoder-Decoder-Reconstructor"
 date: 2017-06-26 00:55:04
 categories: arXiv_CL
 tags: arXiv_CL NMT

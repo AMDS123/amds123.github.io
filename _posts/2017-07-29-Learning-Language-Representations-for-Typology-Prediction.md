@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Language Representations for Typology Prediction'
+title: "Learning Language Representations for Typology Prediction"
 date: 2017-07-29 23:38:25
 categories: arXiv_CL
 tags: arXiv_CL NMT

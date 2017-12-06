@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MR image reconstruction using the learned data distribution as prior'
+title: "MR image reconstruction using the learned data distribution as prior"
 date: 2017-12-01 10:34:44
 categories: arXiv_CV
 tags: arXiv_CV Regularization

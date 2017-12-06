@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Language-Visual Embedding for Movie Understanding with Natural-Language'
+title: "Learning Language-Visual Embedding for Movie Understanding with Natural-Language"
 date: 2016-09-26 19:14:12
 categories: arXiv_CV
 tags: arXiv_CV Caption

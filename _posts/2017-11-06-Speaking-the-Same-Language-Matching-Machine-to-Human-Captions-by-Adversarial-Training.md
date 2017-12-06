@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training'
+title: "Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training"
 date: 2017-11-06 15:43:47
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial Caption

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Areas of Attention for Image Captioning'
+title: "Areas of Attention for Image Captioning"
 date: 2017-08-25 14:36:01
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption CNN RNN Detection

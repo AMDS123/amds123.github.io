@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DSD: Dense-Sparse-Dense Training for Deep Neural Networks'
+title: "DSD: Dense-Sparse-Dense Training for Deep Neural Networks"
 date: 2017-02-21 20:51:05
 categories: arXiv_CV
 tags: arXiv_CV Speech_Recognition Caption RNN Recognition

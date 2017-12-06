@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Resolving Language and Vision Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes'
+title: "Resolving Language and Vision Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes"
 date: 2016-09-26 04:08:19
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Caption Semantic_Segmentation

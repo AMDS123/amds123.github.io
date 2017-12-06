@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sort Story: Sorting Jumbled Images and Captions into Stories'
+title: "Sort Story: Sorting Jumbled Images and Captions into Stories"
 date: 2016-11-07 18:48:13
 categories: arXiv_CV
 tags: arXiv_CV Caption

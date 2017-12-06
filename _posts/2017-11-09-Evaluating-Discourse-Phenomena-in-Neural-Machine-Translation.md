@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evaluating Discourse Phenomena in Neural Machine Translation'
+title: "Evaluating Discourse Phenomena in Neural Machine Translation"
 date: 2017-11-09 23:25:01
 categories: arXiv_CL
 tags: arXiv_CL NMT

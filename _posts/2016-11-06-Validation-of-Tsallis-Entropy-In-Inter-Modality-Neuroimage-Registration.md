@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Validation of Tsallis Entropy In Inter-Modality Neuroimage Registration'
+title: "Validation of Tsallis Entropy In Inter-Modality Neuroimage Registration"
 date: 2016-11-06 05:56:12
 categories: arXiv_CL
 tags: arXiv_CL NMT

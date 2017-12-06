@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ArbiText: Arbitrary-Oriented Text Detection in Unconstrained Scene'
+title: "ArbiText: Arbitrary-Oriented Text Detection in Unconstrained Scene"
 date: 2017-11-30 06:30:11
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection

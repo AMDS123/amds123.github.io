@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improved Image Captioning via Policy Gradient optimization of SPIDEr'
+title: "Improved Image Captioning via Policy Gradient optimization of SPIDEr"
 date: 2017-03-18 09:24:38
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

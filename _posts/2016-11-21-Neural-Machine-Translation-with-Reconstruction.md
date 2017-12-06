@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Machine Translation with Reconstruction'
+title: "Neural Machine Translation with Reconstruction"
 date: 2016-11-21 09:47:22
 categories: arXiv_CL
 tags: arXiv_CL NMT

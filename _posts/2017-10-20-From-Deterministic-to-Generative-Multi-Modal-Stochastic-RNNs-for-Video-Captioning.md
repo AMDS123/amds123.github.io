@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From Deterministic to Generative: Multi-Modal Stochastic RNNs for Video Captioning'
+title: "From Deterministic to Generative: Multi-Modal Stochastic RNNs for Video Captioning"
 date: 2017-10-20 09:27:14
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN

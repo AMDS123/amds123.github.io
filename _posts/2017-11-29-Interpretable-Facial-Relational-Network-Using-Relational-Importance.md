@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interpretable Facial Relational Network Using Relational Importance'
+title: "Interpretable Facial Relational Network Using Relational Importance"
 date: 2017-11-29 05:44:18
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enhanced Neural Machine Translation by Learning from Draft'
+title: "Enhanced Neural Machine Translation by Learning from Draft"
 date: 2017-10-04 20:13:43
 categories: arXiv_CL
 tags: arXiv_CL NMT

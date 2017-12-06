@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks'
+title: "Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks"
 date: 2016-04-06 02:24:35
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN

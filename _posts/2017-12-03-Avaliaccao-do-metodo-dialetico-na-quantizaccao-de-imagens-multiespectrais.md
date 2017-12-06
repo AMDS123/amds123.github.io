@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avalia\c{c}\~ao do m\'etodo dial\'etico na quantiza\c{c}\~ao de imagens multiespectrais'
+title: "Avalia\c{c}\~ao do m\'etodo dial\'etico na quantiza\c{c}\~ao de imagens multiespectrais"
 date: 2017-12-03 18:13:27
 categories: arXiv_CV
 tags: arXiv_CV GAN

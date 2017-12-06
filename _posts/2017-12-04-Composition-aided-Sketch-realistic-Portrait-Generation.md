@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Composition-aided Sketch-realistic Portrait Generation'
+title: "Composition-aided Sketch-realistic Portrait Generation"
 date: 2017-12-04 04:24:19
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Portrait_Generation GAN Image_Generation

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fraternal Dropout'
+title: "Fraternal Dropout"
 date: 2017-11-16 16:40:34
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Regularization Caption RNN

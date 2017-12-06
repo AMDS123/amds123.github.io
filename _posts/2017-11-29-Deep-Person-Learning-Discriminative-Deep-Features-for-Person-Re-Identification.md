@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep-Person: Learning Discriminative Deep Features for Person Re-Identification'
+title: "Deep-Person: Learning Discriminative Deep Features for Person Re-Identification"
 date: 2017-11-29 03:15:07
 categories: arXiv_CV
 tags: arXiv_CV RNN

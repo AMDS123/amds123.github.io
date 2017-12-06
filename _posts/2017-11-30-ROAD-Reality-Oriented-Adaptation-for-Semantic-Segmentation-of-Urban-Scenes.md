@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes'
+title: "ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes"
 date: 2017-11-30 18:22:30
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Semantic_Segmentation

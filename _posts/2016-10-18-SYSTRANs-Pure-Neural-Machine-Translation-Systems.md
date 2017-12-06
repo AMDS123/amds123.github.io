@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SYSTRAN's Pure Neural Machine Translation Systems'
+title: "SYSTRAN's Pure Neural Machine Translation Systems"
 date: 2016-10-18 11:32:42
 categories: arXiv_CL
 tags: arXiv_CL NMT

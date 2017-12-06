@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fully Character-Level Neural Machine Translation without Explicit Segmentation'
+title: "Fully Character-Level Neural Machine Translation without Explicit Segmentation"
 date: 2017-06-13 03:32:34
 categories: arXiv_CL
 tags: arXiv_CL Segmentation CNN NMT

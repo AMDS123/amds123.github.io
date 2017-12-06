@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spatial Pyramid Convolutional Neural Network for Social Event Detection in Static Image'
+title: "Spatial Pyramid Convolutional Neural Network for Social Event Detection in Static Image"
 date: 2016-12-13 08:32:56
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption GAN Caption CNN Detection

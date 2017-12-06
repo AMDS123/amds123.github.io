@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Understanding Image and Text Simultaneously: a Dual Vision-Language Machine Comprehension Task'
+title: "Understanding Image and Text Simultaneously: a Dual Vision-Language Machine Comprehension Task"
 date: 2016-12-22 22:44:17
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

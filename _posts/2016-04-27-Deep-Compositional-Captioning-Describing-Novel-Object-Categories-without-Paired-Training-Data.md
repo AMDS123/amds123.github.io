@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data'
+title: "Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data"
 date: 2016-04-27 23:40:55
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Video_Caption Caption Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Eyes: Binocular Depth-from-Focus on Focal Stack Pairs'
+title: "Deep Eyes: Binocular Depth-from-Focus on Focal Stack Pairs"
 date: 2017-11-29 08:52:17
 categories: arXiv_CV
 tags: arXiv_CV

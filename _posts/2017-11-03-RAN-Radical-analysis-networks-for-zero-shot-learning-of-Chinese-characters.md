@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RAN: Radical analysis networks for zero-shot learning of Chinese characters'
+title: "RAN: Radical analysis networks for zero-shot learning of Chinese characters"
 date: 2017-11-03 14:40:28
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN RNN

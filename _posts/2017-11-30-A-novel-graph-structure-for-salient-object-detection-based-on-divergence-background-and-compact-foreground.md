@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A novel graph structure for salient object detection based on divergence background and compact foreground'
+title: "A novel graph structure for salient object detection based on divergence background and compact foreground"
 date: 2017-11-30 08:41:26
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection

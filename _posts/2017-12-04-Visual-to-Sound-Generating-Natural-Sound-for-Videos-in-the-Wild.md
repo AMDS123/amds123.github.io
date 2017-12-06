@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Visual to Sound: Generating Natural Sound for Videos in the Wild'
+title: "Visual to Sound: Generating Natural Sound for Videos in the Wild"
 date: 2017-12-04 22:24:29
 categories: arXiv_CV
 tags: arXiv_CV

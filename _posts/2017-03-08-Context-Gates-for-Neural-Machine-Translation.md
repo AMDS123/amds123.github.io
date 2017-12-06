@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Context Gates for Neural Machine Translation'
+title: "Context Gates for Neural Machine Translation"
 date: 2017-03-08 07:14:27
 categories: arXiv_CL
 tags: arXiv_CL NMT

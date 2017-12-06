@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improving Neural Machine Translation through Phrase-based Forced Decoding'
+title: "Improving Neural Machine Translation through Phrase-based Forced Decoding"
 date: 2017-11-01 12:25:20
 categories: arXiv_CL
 tags: arXiv_CL NMT

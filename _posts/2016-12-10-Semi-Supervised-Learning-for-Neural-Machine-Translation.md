@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Semi-Supervised Learning for Neural Machine Translation'
+title: "Semi-Supervised Learning for Neural Machine Translation"
 date: 2016-12-10 20:02:52
 categories: arXiv_CL
 tags: arXiv_CL NMT

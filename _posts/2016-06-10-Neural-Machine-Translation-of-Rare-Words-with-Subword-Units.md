@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Machine Translation of Rare Words with Subword Units'
+title: "Neural Machine Translation of Rare Words with Subword Units"
 date: 2016-06-10 14:45:08
 categories: arXiv_CL
 tags: arXiv_CL Segmentation NMT

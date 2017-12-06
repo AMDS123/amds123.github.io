@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evidence of boosted 13CO/12CO ratio in early-type galaxies in dense environments'
+title: "Evidence of boosted 13CO/12CO ratio in early-type galaxies in dense environments"
 date: 2015-04-13 21:09:36
 categories: arXiv_CL
 tags: arXiv_CL

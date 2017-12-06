@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'First result of the experimental search for the 2K-capture of Xe-124 with the copper proportional counter'
+title: "First result of the experimental search for the 2K-capture of Xe-124 with the copper proportional counter"
 date: 2014-04-22 15:44:53
 categories: arXiv_CV
 tags: arXiv_CV Caption

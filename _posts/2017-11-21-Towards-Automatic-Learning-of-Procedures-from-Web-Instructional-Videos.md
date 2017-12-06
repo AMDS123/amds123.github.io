@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Automatic Learning of Procedures from Web Instructional Videos'
+title: "Towards Automatic Learning of Procedures from Web Instructional Videos"
 date: 2017-11-21 20:37:43
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Segmentation Caption

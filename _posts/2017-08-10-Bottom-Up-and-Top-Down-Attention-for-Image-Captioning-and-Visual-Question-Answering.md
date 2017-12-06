@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering'
+title: "Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering"
 date: 2017-08-10 23:24:23
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA

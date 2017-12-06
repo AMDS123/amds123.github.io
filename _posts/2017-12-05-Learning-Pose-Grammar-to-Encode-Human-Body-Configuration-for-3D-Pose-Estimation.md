@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation'
+title: "Learning Pose Grammar to Encode Human Body Configuration for 3D Pose Estimation"
 date: 2017-12-05 08:49:06
 categories: arXiv_CV
 tags: arXiv_CV RNN

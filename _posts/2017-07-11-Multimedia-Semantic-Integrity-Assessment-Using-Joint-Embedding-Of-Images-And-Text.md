@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multimedia Semantic Integrity Assessment Using Joint Embedding Of Images And Text'
+title: "Multimedia Semantic Integrity Assessment Using Joint Embedding Of Images And Text"
 date: 2017-07-11 18:02:08
 categories: arXiv_CV
 tags: arXiv_CV Caption Deep_Learning

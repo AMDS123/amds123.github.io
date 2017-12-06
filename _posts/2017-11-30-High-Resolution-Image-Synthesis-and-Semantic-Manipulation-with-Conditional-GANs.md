@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs'
+title: "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs"
 date: 2017-11-30 18:57:21
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Segmentation GAN

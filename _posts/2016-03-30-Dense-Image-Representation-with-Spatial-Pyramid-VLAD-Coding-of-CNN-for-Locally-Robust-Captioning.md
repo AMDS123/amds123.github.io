@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dense Image Representation with Spatial Pyramid VLAD Coding of CNN for Locally Robust Captioning'
+title: "Dense Image Representation with Spatial Pyramid VLAD Coding of CNN for Locally Robust Captioning"
 date: 2016-03-30 05:48:05
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN

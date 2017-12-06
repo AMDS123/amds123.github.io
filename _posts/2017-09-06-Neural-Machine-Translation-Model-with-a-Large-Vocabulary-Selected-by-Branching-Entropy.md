@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Machine Translation Model with a Large Vocabulary Selected by Branching Entropy'
+title: "Neural Machine Translation Model with a Large Vocabulary Selected by Branching Entropy"
 date: 2017-09-06 04:06:07
 categories: arXiv_CL
 tags: arXiv_CL NMT

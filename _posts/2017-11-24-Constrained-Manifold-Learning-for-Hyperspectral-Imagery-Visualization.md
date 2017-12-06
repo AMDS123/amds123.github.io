@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Constrained Manifold Learning for Hyperspectral Imagery Visualization'
+title: "Constrained Manifold Learning for Hyperspectral Imagery Visualization"
 date: 2017-11-24 07:04:04
 categories: arXiv_CV
 tags: arXiv_CV

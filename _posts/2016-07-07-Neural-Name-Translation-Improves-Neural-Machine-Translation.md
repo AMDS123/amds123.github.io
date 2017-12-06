@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Name Translation Improves Neural Machine Translation'
+title: "Neural Name Translation Improves Neural Machine Translation"
 date: 2016-07-07 02:25:57
 categories: arXiv_CL
 tags: arXiv_CL NMT

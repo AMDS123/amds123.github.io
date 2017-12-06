@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Teacher-Student Framework for Zero-Resource Neural Machine Translation'
+title: "A Teacher-Student Framework for Zero-Resource Neural Machine Translation"
 date: 2017-05-02 01:14:06
 categories: arXiv_CL
 tags: arXiv_CL NMT

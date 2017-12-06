@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '#anorexia, #anarexia, #anarexyia: Characterizing Online Community Practices with Orthographic Variation'
+title: "#anorexia, #anarexia, #anarexyia: Characterizing Online Community Practices with Orthographic Variation"
 date: 2017-12-04 23:27:11
 categories: arXiv_CL
 tags: arXiv_CL

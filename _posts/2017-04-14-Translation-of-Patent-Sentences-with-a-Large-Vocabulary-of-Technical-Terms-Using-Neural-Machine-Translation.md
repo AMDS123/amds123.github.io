@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Translation of Patent Sentences with a Large Vocabulary of Technical Terms Using Neural Machine Translation'
+title: "Translation of Patent Sentences with a Large Vocabulary of Technical Terms Using Neural Machine Translation"
 date: 2017-04-14 19:36:54
 categories: arXiv_CL
 tags: arXiv_CL NMT

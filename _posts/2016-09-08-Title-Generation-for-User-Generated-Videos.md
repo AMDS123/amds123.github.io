@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Title Generation for User Generated Videos'
+title: "Title Generation for User Generated Videos"
 date: 2016-09-08 17:36:13
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Object_Detection Caption Detection

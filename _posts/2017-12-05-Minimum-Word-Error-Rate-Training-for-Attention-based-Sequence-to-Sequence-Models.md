@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Minimum Word Error Rate Training for Attention-based Sequence-to-Sequence Models'
+title: "Minimum Word Error Rate Training for Attention-based Sequence-to-Sequence Models"
 date: 2017-12-05 18:52:18
 categories: arXiv_CL
 tags: arXiv_CL Speech_Recognition Recognition

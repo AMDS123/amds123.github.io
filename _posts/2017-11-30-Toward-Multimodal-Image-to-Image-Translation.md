@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toward Multimodal Image-to-Image Translation'
+title: "Toward Multimodal Image-to-Image Translation"
 date: 2017-11-30 18:59:01
 categories: arXiv_CV
 tags: arXiv_CV

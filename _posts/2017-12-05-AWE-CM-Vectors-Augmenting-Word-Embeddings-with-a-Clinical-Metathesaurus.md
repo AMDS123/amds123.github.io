@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AWE-CM Vectors: Augmenting Word Embeddings with a Clinical Metathesaurus'
+title: "AWE-CM Vectors: Augmenting Word Embeddings with a Clinical Metathesaurus"
 date: 2017-12-05 03:11:07
 categories: arXiv_CL
 tags: arXiv_CL

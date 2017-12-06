@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Actor-Critic Algorithm for Sequence Prediction'
+title: "An Actor-Critic Algorithm for Sequence Prediction"
 date: 2017-03-03 15:43:52
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning Caption

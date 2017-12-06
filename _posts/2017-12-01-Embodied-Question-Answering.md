@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Embodied Question Answering'
+title: "Embodied Question Answering"
 date: 2017-12-01 16:55:05
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning

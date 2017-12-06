@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rethinking Atrous Convolution for Semantic Image Segmentation'
+title: "Rethinking Atrous Convolution for Semantic Image Segmentation"
 date: 2017-12-05 18:06:21
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN

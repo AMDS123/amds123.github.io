@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Natural Language Object Retrieval'
+title: "Natural Language Object Retrieval"
 date: 2016-04-11 03:36:58
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

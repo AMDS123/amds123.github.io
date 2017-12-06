@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Look-ahead Attention for Generation in Neural Machine Translation'
+title: "Look-ahead Attention for Generation in Neural Machine Translation"
 date: 2017-08-30 11:27:02
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

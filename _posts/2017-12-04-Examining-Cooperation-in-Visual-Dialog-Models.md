@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Examining Cooperation in Visual Dialog Models'
+title: "Examining Cooperation in Visual Dialog Models"
 date: 2017-12-04 20:16:52
 categories: arXiv_CL
 tags: arXiv_CL

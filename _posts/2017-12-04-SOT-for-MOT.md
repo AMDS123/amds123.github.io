@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SOT for MOT'
+title: "SOT for MOT"
 date: 2017-12-04 13:22:31
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Deep_Learning Detection

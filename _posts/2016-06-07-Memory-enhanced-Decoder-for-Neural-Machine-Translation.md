@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Memory-enhanced Decoder for Neural Machine Translation'
+title: "Memory-enhanced Decoder for Neural Machine Translation"
 date: 2016-06-07 02:28:19
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

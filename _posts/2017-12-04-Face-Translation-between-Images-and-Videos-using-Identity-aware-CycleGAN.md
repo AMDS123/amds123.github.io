@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Face Translation between Images and Videos using Identity-aware CycleGAN'
+title: "Face Translation between Images and Videos using Identity-aware CycleGAN"
 date: 2017-12-04 09:27:14
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

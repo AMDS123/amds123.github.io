@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Generative Semantic Manipulation with Contrasting GAN'
+title: "Generative Semantic Manipulation with Contrasting GAN"
 date: 2017-08-01 13:46:32
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN Style_Transfer Caption

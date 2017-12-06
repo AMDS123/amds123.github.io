@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OSU Multimodal Machine Translation System Report'
+title: "OSU Multimodal Machine Translation System Report"
 date: 2017-10-07 18:37:08
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

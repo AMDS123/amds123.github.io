@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Correlational Encoder Decoder Architecture for Pivot Based Sequence Generation'
+title: "A Correlational Encoder Decoder Architecture for Pivot Based Sequence Generation"
 date: 2016-06-15 13:27:16
 categories: arXiv_CV
 tags: arXiv_CV GAN Caption

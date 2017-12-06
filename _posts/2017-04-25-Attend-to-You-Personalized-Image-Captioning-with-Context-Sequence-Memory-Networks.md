@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Attend to You: Personalized Image Captioning with Context Sequence Memory Networks'
+title: "Attend to You: Personalized Image Captioning with Context Sequence Memory Networks"
 date: 2017-04-25 23:30:43
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Memory_Networks

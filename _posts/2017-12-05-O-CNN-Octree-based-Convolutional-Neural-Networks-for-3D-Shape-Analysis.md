@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis'
+title: "O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis"
 date: 2017-12-05 09:25:19
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Properties on n-dimensional convolution for image deconvolution'
+title: "Properties on n-dimensional convolution for image deconvolution"
 date: 2017-11-30 04:45:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Enhancement

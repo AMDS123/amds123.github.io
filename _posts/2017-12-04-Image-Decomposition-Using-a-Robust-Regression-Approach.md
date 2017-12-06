@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image Decomposition Using a Robust Regression Approach'
+title: "Image Decomposition Using a Robust Regression Approach"
 date: 2017-12-04 14:19:44
 categories: arXiv_CV
 tags: arXiv_CV Segmentation

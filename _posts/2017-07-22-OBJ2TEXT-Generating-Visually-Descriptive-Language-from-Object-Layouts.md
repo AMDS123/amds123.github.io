@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OBJ2TEXT: Generating Visually Descriptive Language from Object Layouts'
+title: "OBJ2TEXT: Generating Visually Descriptive Language from Object Layouts"
 date: 2017-07-22 04:17:42
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption RNN Detection

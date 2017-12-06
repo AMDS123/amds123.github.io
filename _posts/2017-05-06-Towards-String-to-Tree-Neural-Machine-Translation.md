@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards String-to-Tree Neural Machine Translation'
+title: "Towards String-to-Tree Neural Machine Translation"
 date: 2017-05-06 07:25:19
 categories: arXiv_CL
 tags: arXiv_CL NMT

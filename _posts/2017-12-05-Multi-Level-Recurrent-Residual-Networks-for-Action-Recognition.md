@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multi-Level Recurrent Residual Networks for Action Recognition'
+title: "Multi-Level Recurrent Residual Networks for Action Recognition"
 date: 2017-12-05 14:37:23
 categories: arXiv_CV
 tags: arXiv_CV Action_Recognition CNN RNN Recognition

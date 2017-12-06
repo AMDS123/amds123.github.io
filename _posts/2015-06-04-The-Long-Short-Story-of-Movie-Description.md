@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Long-Short Story of Movie Description'
+title: "The Long-Short Story of Movie Description"
 date: 2015-06-04 19:45:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

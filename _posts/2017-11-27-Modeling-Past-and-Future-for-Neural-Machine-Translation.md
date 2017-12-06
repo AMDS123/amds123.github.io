@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Modeling Past and Future for Neural Machine Translation'
+title: "Modeling Past and Future for Neural Machine Translation"
 date: 2017-11-27 01:42:00
 categories: arXiv_CL
 tags: arXiv_CL NMT

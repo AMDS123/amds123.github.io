@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Attention-Based Models for Speech Recognition'
+title: "Attention-Based Models for Speech Recognition"
 date: 2015-06-24 19:10:33
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption Recognition

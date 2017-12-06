@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Visual Features from Large Weakly Supervised Data'
+title: "Learning Visual Features from Large Weakly Supervised Data"
 date: 2015-11-06 22:08:37
 categories: arXiv_CV
 tags: arXiv_CV Weakly_Supervised Caption CNN

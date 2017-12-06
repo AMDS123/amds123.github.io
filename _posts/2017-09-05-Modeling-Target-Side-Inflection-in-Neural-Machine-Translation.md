@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Modeling Target-Side Inflection in Neural Machine Translation'
+title: "Modeling Target-Side Inflection in Neural Machine Translation"
 date: 2017-09-05 09:29:10
 categories: arXiv_CL
 tags: arXiv_CL NMT

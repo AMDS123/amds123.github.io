@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Road Extraction by Deep Residual U-Net'
+title: "Road Extraction by Deep Residual U-Net"
 date: 2017-11-29 05:16:14
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recurrent Memory Addressing for describing videos'
+title: "Recurrent Memory Addressing for describing videos"
 date: 2017-03-23 14:01:20
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Memory_Networks

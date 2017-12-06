@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Implicit Distortion and Fertility Models for Attention-based Encoder-Decoder NMT Model'
+title: "Implicit Distortion and Fertility Models for Attention-based Encoder-Decoder NMT Model"
 date: 2016-01-22 02:08:02
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption NMT Recognition

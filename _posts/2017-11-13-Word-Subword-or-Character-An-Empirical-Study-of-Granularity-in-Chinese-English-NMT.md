@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Word, Subword or Character? An Empirical Study of Granularity in Chinese-English NMT'
+title: "Word, Subword or Character? An Empirical Study of Granularity in Chinese-English NMT"
 date: 2017-11-13 07:42:56
 categories: arXiv_CL
 tags: arXiv_CL NMT

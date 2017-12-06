@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Linguistically Motivated Vocabulary Reduction for Neural Machine Translation from Turkish to English'
+title: "Linguistically Motivated Vocabulary Reduction for Neural Machine Translation from Turkish to English"
 date: 2017-07-31 14:31:01
 categories: arXiv_CL
 tags: arXiv_CL Segmentation NMT

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning a Recurrent Visual Representation for Image Caption Generation'
+title: "Learning a Recurrent Visual Representation for Image Caption Generation"
 date: 2014-11-20 19:50:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

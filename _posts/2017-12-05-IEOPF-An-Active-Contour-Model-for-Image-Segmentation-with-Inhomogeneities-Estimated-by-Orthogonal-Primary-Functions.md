@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IEOPF: An Active Contour Model for Image Segmentation with Inhomogeneities Estimated by Orthogonal Primary Functions'
+title: "IEOPF: An Active Contour Model for Image Segmentation with Inhomogeneities Estimated by Orthogonal Primary Functions"
 date: 2017-12-05 15:19:54
 categories: arXiv_CV
 tags: arXiv_CV Regularization Segmentation

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image to Image Translation for Domain Adaptation'
+title: "Image to Image Translation for Domain Adaptation"
 date: 2017-12-01 20:15:20
 categories: arXiv_CV
 tags: arXiv_CV Segmentation

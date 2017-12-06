@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rank of Experts: Detection Network Ensemble'
+title: "Rank of Experts: Detection Network Ensemble"
 date: 2017-12-01 04:27:20
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection CNN Detection

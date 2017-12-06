@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Captioning with Multimodal Recurrent Neural Networks'
+title: "Deep Captioning with Multimodal Recurrent Neural Networks"
 date: 2015-06-11 15:26:58
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN

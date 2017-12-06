@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'High Dynamic Range Imaging Technology'
+title: "High Dynamic Range Imaging Technology"
 date: 2017-11-30 11:38:11
 categories: arXiv_CV
 tags: arXiv_CV

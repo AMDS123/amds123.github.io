@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Video OCR for Video Indexing'
+title: "Video OCR for Video Indexing"
 date: 2011-09-30 15:51:12
 categories: arXiv_CV
 tags: arXiv_CV Video_Indexing Caption Recognition

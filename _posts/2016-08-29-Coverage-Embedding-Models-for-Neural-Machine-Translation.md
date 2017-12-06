@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coverage Embedding Models for Neural Machine Translation'
+title: "Coverage Embedding Models for Neural Machine Translation"
 date: 2016-08-29 15:10:34
 categories: arXiv_CL
 tags: arXiv_CL NMT

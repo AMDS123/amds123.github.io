@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'About the mechanism of matter transfer along cosmic string'
+title: "About the mechanism of matter transfer along cosmic string"
 date: 2012-08-23 06:15:44
 categories: arXiv_CV
 tags: arXiv_CV Caption

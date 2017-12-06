@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CNN based Learning using Reflection and Retinex Models for Intrinsic Image Decomposition'
+title: "CNN based Learning using Reflection and Retinex Models for Intrinsic Image Decomposition"
 date: 2017-12-04 13:16:33
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bidirectional Long-Short Term Memory for Video Description'
+title: "Bidirectional Long-Short Term Memory for Video Description"
 date: 2016-06-15 03:26:53
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest'
+title: "Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest"
 date: 2015-06-26 15:48:10
 categories: arXiv_CV
 tags: arXiv_CV Caption Detection

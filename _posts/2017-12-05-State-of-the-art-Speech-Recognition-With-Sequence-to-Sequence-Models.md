@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'State-of-the-art Speech Recognition With Sequence-to-Sequence Models'
+title: "State-of-the-art Speech Recognition With Sequence-to-Sequence Models"
 date: 2017-12-05 17:24:05
 categories: arXiv_CL
 tags: arXiv_CL Speech_Recognition RNN Recognition

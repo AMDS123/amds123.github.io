@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images'
+title: "Learning like a Child: Fast Novel Visual Concept Learning from Sentence Descriptions of Images"
 date: 2015-10-02 02:36:05
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

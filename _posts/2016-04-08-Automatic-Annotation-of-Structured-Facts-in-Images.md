@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automatic Annotation of Structured Facts in Images'
+title: "Automatic Annotation of Structured Facts in Images"
 date: 2016-04-08 00:04:22
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

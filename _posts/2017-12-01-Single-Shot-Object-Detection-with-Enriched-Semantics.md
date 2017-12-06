@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Single-Shot Object Detection with Enriched Semantics'
+title: "Single-Shot Object Detection with Enriched Semantics"
 date: 2017-12-01 18:18:42
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Segmentation Semantic_Segmentation Detection

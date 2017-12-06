@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'On the Effects of Batch and Weight Normalization in Generative Adversarial Networks'
+title: "On the Effects of Batch and Weight Normalization in Generative Adversarial Networks"
 date: 2017-12-04 01:56:42
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

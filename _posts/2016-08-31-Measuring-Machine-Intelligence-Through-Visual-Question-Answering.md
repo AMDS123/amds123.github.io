@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Measuring Machine Intelligence Through Visual Question Answering'
+title: "Measuring Machine Intelligence Through Visual Question Answering"
 date: 2016-08-31 02:56:00
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA

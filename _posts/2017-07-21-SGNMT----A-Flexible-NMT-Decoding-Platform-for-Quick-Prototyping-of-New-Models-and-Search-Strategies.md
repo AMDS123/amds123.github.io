@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SGNMT -- A Flexible NMT Decoding Platform for Quick Prototyping of New Models and Search Strategies'
+title: "SGNMT -- A Flexible NMT Decoding Platform for Quick Prototyping of New Models and Search Strategies"
 date: 2017-07-21 13:14:25
 categories: arXiv_CL
 tags: arXiv_CL NMT

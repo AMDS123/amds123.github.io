@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Attend and Interact: Higher-Order Object Interactions for Video Understanding'
+title: "Attend and Interact: Higher-Order Object Interactions for Video Understanding"
 date: 2017-11-16 22:14:52
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Action_Recognition Detection Recognition

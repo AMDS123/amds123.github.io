@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft COCO Captions: Data Collection and Evaluation Server'
+title: "Microsoft COCO Captions: Data Collection and Evaluation Server"
 date: 2015-04-03 20:21:16
 categories: arXiv_CV
 tags: arXiv_CV Caption

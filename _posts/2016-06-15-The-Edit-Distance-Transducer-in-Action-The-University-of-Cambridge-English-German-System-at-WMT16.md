@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Edit Distance Transducer in Action: The University of Cambridge English-German System at WMT16'
+title: "The Edit Distance Transducer in Action: The University of Cambridge English-German System at WMT16"
 date: 2016-06-15 20:08:01
 categories: arXiv_CL
 tags: arXiv_CL NMT

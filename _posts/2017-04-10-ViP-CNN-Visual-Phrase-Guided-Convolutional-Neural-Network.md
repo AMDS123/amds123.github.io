@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ViP-CNN: Visual Phrase Guided Convolutional Neural Network'
+title: "ViP-CNN: Visual Phrase Guided Convolutional Neural Network"
 date: 2017-04-10 16:45:53
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption CNN Detection Recognition

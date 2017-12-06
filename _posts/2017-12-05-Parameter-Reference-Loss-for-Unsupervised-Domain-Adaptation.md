@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parameter Reference Loss for Unsupervised Domain Adaptation'
+title: "Parameter Reference Loss for Unsupervised Domain Adaptation"
 date: 2017-12-05 10:19:34
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Generation and Comprehension of Unambiguous Object Descriptions'
+title: "Generation and Comprehension of Unambiguous Object Descriptions"
 date: 2016-04-11 01:11:56
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Deep_Learning

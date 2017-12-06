@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seeing with Humans: Gaze-Assisted Neural Image Captioning'
+title: "Seeing with Humans: Gaze-Assisted Neural Image Captioning"
 date: 2016-08-18 08:13:22
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grad-CAM: Why did you say that?'
+title: "Grad-CAM: Why did you say that?"
 date: 2017-01-25 16:33:29
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN VQA

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Context Augmentation for Convolutional Neural Networks'
+title: "Context Augmentation for Convolutional Neural Networks"
 date: 2017-11-22 23:53:47
 categories: arXiv_CV
 tags: arXiv_CV CNN Recognition

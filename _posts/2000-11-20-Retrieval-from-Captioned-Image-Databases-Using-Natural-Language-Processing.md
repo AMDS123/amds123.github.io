@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Retrieval from Captioned Image Databases Using Natural Language Processing'
+title: "Retrieval from Captioned Image Databases Using Natural Language Processing"
 date: 2000-11-20 15:36:09
 categories: arXiv_CV
 tags: arXiv_CV Caption

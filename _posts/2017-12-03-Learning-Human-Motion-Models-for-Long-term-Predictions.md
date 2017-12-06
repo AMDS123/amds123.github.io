@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Human Motion Models for Long-term Predictions'
+title: "Learning Human Motion Models for Long-term Predictions"
 date: 2017-12-03 11:51:17
 categories: arXiv_CV
 tags: arXiv_CV RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions'
+title: "Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions"
 date: 2017-12-03 07:07:21
 categories: arXiv_CV
 tags: arXiv_CV Style_Transfer

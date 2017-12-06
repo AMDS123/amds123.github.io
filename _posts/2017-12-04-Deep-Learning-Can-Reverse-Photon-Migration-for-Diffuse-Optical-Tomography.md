@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Learning Can Reverse Photon Migration for Diffuse Optical Tomography'
+title: "Deep Learning Can Reverse Photon Migration for Diffuse Optical Tomography"
 date: 2017-12-04 05:47:10
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

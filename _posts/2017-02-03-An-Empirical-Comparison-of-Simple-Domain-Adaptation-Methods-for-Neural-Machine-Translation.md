@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Empirical Comparison of Simple Domain Adaptation Methods for Neural Machine Translation'
+title: "An Empirical Comparison of Simple Domain Adaptation Methods for Neural Machine Translation"
 date: 2017-02-03 21:46:12
 categories: arXiv_CL
 tags: arXiv_CL NMT

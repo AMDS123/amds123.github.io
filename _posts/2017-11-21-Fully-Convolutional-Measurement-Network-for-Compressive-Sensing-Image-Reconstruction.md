@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fully-Convolutional Measurement Network for Compressive Sensing Image Reconstruction'
+title: "Fully-Convolutional Measurement Network for Compressive Sensing Image Reconstruction"
 date: 2017-11-21 04:27:23
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

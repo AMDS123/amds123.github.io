@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Effectively Searching Maps in Web Documents'
+title: "Effectively Searching Maps in Web Documents"
 date: 2009-01-26 02:14:29
 categories: arXiv_CV
 tags: arXiv_CV Review Caption

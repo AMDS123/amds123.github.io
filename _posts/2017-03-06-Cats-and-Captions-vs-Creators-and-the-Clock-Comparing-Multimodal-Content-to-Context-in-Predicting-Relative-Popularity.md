@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cats and Captions vs. Creators and the Clock: Comparing Multimodal Content to Context in Predicting Relative Popularity'
+title: "Cats and Captions vs. Creators and the Clock: Comparing Multimodal Content to Context in Predicting Relative Popularity"
 date: 2017-03-06 04:56:19
 categories: arXiv_CV
 tags: arXiv_CV Caption

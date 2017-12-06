@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models'
+title: "Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models"
 date: 2016-06-23 00:50:19
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

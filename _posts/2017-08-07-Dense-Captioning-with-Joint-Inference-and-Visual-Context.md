@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dense Captioning with Joint Inference and Visual Context'
+title: "Dense Captioning with Joint Inference and Visual Context"
 date: 2017-08-07 23:17:34
 categories: arXiv_CV
 tags: arXiv_CV Caption

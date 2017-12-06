@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Transfer Learning with Binary Neural Networks'
+title: "Transfer Learning with Binary Neural Networks"
 date: 2017-11-29 10:28:02
 categories: arXiv_CV
 tags: arXiv_CV

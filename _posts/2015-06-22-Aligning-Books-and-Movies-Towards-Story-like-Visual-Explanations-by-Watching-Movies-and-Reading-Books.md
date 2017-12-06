@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books'
+title: "Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books"
 date: 2015-06-22 19:26:56
 categories: arXiv_CV
 tags: arXiv_CV Caption

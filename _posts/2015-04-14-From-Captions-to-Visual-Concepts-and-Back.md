@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From Captions to Visual Concepts and Back'
+title: "From Captions to Visual Concepts and Back"
 date: 2015-04-14 18:05:07
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption Detection

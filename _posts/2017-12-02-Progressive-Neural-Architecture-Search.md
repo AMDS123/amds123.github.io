@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Progressive Neural Architecture Search'
+title: "Progressive Neural Architecture Search"
 date: 2017-12-02 06:23:16
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning

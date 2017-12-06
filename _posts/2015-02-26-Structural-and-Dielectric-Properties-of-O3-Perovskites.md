@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Structural and Dielectric Properties of O3 Perovskites'
+title: "Structural and Dielectric Properties of O3 Perovskites"
 date: 2015-02-26 13:31:38
 categories: arXiv_CL
 tags: arXiv_CL NMT

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Memory-augmented Neural Machine Translation'
+title: "Memory-augmented Neural Machine Translation"
 date: 2017-08-07 06:47:23
 categories: arXiv_CL
 tags: arXiv_CL NMT

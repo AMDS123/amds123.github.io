@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation'
+title: "Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation"
 date: 2017-11-30 21:05:15
 categories: arXiv_CV
 tags: arXiv_CV CNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Detection of Signals from Cosmic Reionization using Radio Interferometric Signal Processing'
+title: "Detection of Signals from Cosmic Reionization using Radio Interferometric Signal Processing"
 date: 2009-08-18 20:55:21
 categories: arXiv_CL
 tags: arXiv_CL Detection

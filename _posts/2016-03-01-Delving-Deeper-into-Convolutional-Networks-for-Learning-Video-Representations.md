@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Delving Deeper into Convolutional Networks for Learning Video Representations'
+title: "Delving Deeper into Convolutional Networks for Learning Video Representations"
 date: 2016-03-01 18:54:11
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Action_Recognition CNN Recognition

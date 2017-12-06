@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Text-guided Attention Model for Image Captioning'
+title: "Text-guided Attention Model for Image Captioning"
 date: 2016-12-12 06:52:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

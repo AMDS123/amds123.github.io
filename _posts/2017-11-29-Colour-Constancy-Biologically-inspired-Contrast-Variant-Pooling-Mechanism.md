@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Colour Constancy: Biologically-inspired Contrast Variant Pooling Mechanism'
+title: "Colour Constancy: Biologically-inspired Contrast Variant Pooling Mechanism"
 date: 2017-11-29 17:14:50
 categories: arXiv_CV
 tags: arXiv_CV

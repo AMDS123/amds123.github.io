@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fusing Audio, Textual and Visual Features for Sentiment Analysis of News Videos'
+title: "Fusing Audio, Textual and Visual Features for Sentiment Analysis of News Videos"
 date: 2016-04-09 22:00:27
 categories: arXiv_CV
 tags: arXiv_CV Caption Recognition

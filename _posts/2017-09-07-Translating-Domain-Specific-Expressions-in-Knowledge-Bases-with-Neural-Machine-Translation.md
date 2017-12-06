@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Translating Domain-Specific Expressions in Knowledge Bases with Neural Machine Translation'
+title: "Translating Domain-Specific Expressions in Knowledge Bases with Neural Machine Translation"
 date: 2017-09-07 11:31:09
 categories: arXiv_CL
 tags: arXiv_CL Segmentation NMT

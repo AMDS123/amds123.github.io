@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PHOCNet: A Deep Convolutional Neural Network for Word Spotting in Handwritten Documents'
+title: "PHOCNet: A Deep Convolutional Neural Network for Word Spotting in Handwritten Documents"
 date: 2017-12-05 06:58:02
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Detection

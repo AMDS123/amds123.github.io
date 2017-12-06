@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation'
+title: "Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation"
 date: 2016-03-28 19:02:07
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Regularization GAN Caption CNN RNN Deep_Learning

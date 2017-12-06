@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ssEMnet: Serial-section Electron Microscopy Image Registration using a Spatial Transformer Network with Learned Features'
+title: "ssEMnet: Serial-section Electron Microscopy Image Registration using a Spatial Transformer Network with Learned Features"
 date: 2017-12-05 06:56:20
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

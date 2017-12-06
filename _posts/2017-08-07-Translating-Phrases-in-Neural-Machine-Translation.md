@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Translating Phrases in Neural Machine Translation'
+title: "Translating Phrases in Neural Machine Translation"
 date: 2017-08-07 03:46:48
 categories: arXiv_CL
 tags: arXiv_CL NMT

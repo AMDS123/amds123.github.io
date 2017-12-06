@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Perceptual Measure for Deep Single Image Camera Calibration'
+title: "A Perceptual Measure for Deep Single Image Camera Calibration"
 date: 2017-12-02 00:21:58
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How do Galaxies Accrete Gas and Form Stars?'
+title: "How do Galaxies Accrete Gas and Form Stars?"
 date: 2009-02-26 22:30:52
 categories: arXiv_CL
 tags: arXiv_CL

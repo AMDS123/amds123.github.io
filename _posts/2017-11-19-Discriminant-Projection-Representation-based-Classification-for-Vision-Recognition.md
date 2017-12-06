@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discriminant Projection Representation-based Classification for Vision Recognition'
+title: "Discriminant Projection Representation-based Classification for Vision Recognition"
 date: 2017-11-19 06:25:17
 categories: arXiv_CV
 tags: arXiv_CV Recognition

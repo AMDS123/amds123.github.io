@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Addressing the Rare Word Problem in Neural Machine Translation'
+title: "Addressing the Rare Word Problem in Neural Machine Translation"
 date: 2015-05-30 19:57:28
 categories: arXiv_CL
 tags: arXiv_CL NMT

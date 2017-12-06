@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Memory-augmented Chinese-Uyghur Neural Machine Translation'
+title: "Memory-augmented Chinese-Uyghur Neural Machine Translation"
 date: 2017-06-27 06:33:52
 categories: arXiv_CL
 tags: arXiv_CL GAN NMT

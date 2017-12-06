@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reconstruction of vertical and L-shaped ancient Egyptian sundials and methods for measuring time'
+title: "Reconstruction of vertical and L-shaped ancient Egyptian sundials and methods for measuring time"
 date: 2014-08-11 06:24:08
 categories: arXiv_CV
 tags: arXiv_CV Caption

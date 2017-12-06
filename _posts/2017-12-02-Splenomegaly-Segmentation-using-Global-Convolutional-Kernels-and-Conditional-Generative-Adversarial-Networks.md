@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Splenomegaly Segmentation using Global Convolutional Kernels and Conditional Generative Adversarial Networks'
+title: "Splenomegaly Segmentation using Global Convolutional Kernels and Conditional Generative Adversarial Networks"
 date: 2017-12-02 03:47:37
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Segmentation GAN CNN

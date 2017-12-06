@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Says who? Automatic Text-Based Content Analysis of Television News'
+title: "Says who? Automatic Text-Based Content Analysis of Television News"
 date: 2013-08-29 08:12:30
 categories: arXiv_CV
 tags: arXiv_CV Caption

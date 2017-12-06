@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Relativistic-Plasma Compton Maser'
+title: "A Relativistic-Plasma Compton Maser"
 date: 2001-08-15 17:56:45
 categories: arXiv_CL
 tags: arXiv_CL

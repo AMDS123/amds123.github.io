@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Punny Captions: Witty Wordplay in Image Descriptions'
+title: "Punny Captions: Witty Wordplay in Image Descriptions"
 date: 2017-04-26 17:22:53
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

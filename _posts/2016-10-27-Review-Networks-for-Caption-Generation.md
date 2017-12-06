@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Review Networks for Caption Generation'
+title: "Review Networks for Caption Generation"
 date: 2016-10-27 17:50:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Review Caption RNN

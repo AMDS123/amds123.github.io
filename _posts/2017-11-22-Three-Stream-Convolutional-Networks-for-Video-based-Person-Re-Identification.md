@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Three-Stream Convolutional Networks for Video-based Person Re-Identification'
+title: "Three-Stream Convolutional Networks for Video-based Person Re-Identification"
 date: 2017-11-22 15:05:58
 categories: arXiv_CV
 tags: arXiv_CV CNN

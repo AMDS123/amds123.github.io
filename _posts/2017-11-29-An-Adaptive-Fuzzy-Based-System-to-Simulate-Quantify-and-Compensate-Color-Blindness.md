@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Adaptive Fuzzy-Based System to Simulate, Quantify and Compensate Color Blindness'
+title: "An Adaptive Fuzzy-Based System to Simulate, Quantify and Compensate Color Blindness"
 date: 2017-11-29 03:31:14
 categories: arXiv_CV
 tags: arXiv_CV Survey

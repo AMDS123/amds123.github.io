@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data'
+title: "Optimizing colormaps with consideration for color vision deficiency to enable accurate interpretation of scientific data"
 date: 2017-11-29 20:24:15
 categories: arXiv_CV
 tags: arXiv_CV

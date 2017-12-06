@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dual-Path Convolutional Image-Text Embedding'
+title: "Dual-Path Convolutional Image-Text Embedding"
 date: 2017-11-22 02:40:11
 categories: arXiv_CV
 tags: arXiv_CV CNN RNN

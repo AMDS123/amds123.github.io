@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wavenet based low rate speech coding'
+title: "Wavenet based low rate speech coding"
 date: 2017-12-01 09:45:30
 categories: arXiv_SD
 tags: arXiv_SD Recognition

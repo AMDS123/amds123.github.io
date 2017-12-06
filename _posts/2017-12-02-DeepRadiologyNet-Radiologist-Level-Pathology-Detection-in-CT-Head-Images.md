@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DeepRadiologyNet: Radiologist Level Pathology Detection in CT Head Images'
+title: "DeepRadiologyNet: Radiologist Level Pathology Detection in CT Head Images"
 date: 2017-12-02 19:14:49
 categories: arXiv_CV
 tags: arXiv_CV CNN Detection

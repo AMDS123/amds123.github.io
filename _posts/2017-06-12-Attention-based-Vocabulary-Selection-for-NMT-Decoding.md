@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Attention-based Vocabulary Selection for NMT Decoding'
+title: "Attention-based Vocabulary Selection for NMT Decoding"
 date: 2017-06-12 19:51:00
 categories: arXiv_CL
 tags: arXiv_CL NMT

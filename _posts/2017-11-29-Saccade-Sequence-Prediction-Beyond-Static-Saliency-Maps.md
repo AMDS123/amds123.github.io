@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saccade Sequence Prediction: Beyond Static Saliency Maps'
+title: "Saccade Sequence Prediction: Beyond Static Saliency Maps"
 date: 2017-11-29 16:48:28
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beyond Holistic Object Recognition: Enriching Image Understanding with Part States'
+title: "Beyond Holistic Object Recognition: Enriching Image Understanding with Part States"
 date: 2016-12-15 13:46:58
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Recognition

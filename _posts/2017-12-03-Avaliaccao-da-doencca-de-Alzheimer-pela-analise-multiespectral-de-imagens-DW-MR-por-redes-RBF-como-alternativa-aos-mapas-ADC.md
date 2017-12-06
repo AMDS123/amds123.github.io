@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avalia\c{c}\~ao da doen\c{c}a de Alzheimer pela an\'alise multiespectral de imagens DW-MR por redes RBF como alternativa aos mapas ADC'
+title: "Avalia\c{c}\~ao da doen\c{c}a de Alzheimer pela an\'alise multiespectral de imagens DW-MR por redes RBF como alternativa aos mapas ADC"
 date: 2017-12-03 19:02:00
 categories: arXiv_CV
 tags: arXiv_CV

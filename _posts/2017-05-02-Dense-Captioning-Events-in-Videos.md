@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dense-Captioning Events in Videos'
+title: "Dense-Captioning Events in Videos"
 date: 2017-05-02 01:21:58
 categories: arXiv_CV
 tags: arXiv_CV Caption

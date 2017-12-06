@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grounded Objects and Interactions for Video Captioning'
+title: "Grounded Objects and Interactions for Video Captioning"
 date: 2017-11-16 23:39:08
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption

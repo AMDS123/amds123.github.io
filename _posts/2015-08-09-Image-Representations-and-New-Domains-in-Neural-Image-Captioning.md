@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image Representations and New Domains in Neural Image Captioning'
+title: "Image Representations and New Domains in Neural Image Captioning"
 date: 2015-08-09 22:52:10
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN

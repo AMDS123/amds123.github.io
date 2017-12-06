@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A 3D Coarse-to-Fine Framework for Automatic Pancreas Segmentation'
+title: "A 3D Coarse-to-Fine Framework for Automatic Pancreas Segmentation"
 date: 2017-12-01 05:57:19
 categories: arXiv_CV
 tags: arXiv_CV Segmentation

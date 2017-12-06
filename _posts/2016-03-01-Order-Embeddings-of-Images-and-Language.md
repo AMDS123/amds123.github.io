@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Order-Embeddings of Images and Language'
+title: "Order-Embeddings of Images and Language"
 date: 2016-03-01 08:23:50
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

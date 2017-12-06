@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automatically Generating Commit Messages from Diffs using Neural Machine Translation'
+title: "Automatically Generating Commit Messages from Diffs using Neural Machine Translation"
 date: 2017-08-30 22:26:48
 categories: arXiv_CL
 tags: arXiv_CL NMT

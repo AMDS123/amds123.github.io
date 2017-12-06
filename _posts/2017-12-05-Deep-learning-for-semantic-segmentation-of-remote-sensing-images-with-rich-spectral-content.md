@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep learning for semantic segmentation of remote sensing images with rich spectral content'
+title: "Deep learning for semantic segmentation of remote sensing images with rich spectral content"
 date: 2017-12-05 12:25:43
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation Deep_Learning

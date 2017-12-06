@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural versus Phrase-Based Machine Translation Quality: a Case Study'
+title: "Neural versus Phrase-Based Machine Translation Quality: a Case Study"
 date: 2016-10-09 09:20:08
 categories: arXiv_CL
 tags: arXiv_CL NMT

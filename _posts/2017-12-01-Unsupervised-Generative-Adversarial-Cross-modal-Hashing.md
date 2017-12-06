@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unsupervised Generative Adversarial Cross-modal Hashing'
+title: "Unsupervised Generative Adversarial Cross-modal Hashing"
 date: 2017-12-01 15:20:51
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

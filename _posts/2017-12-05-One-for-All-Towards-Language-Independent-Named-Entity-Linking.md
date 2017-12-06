@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One for All: Towards Language Independent Named Entity Linking'
+title: "One for All: Towards Language Independent Named Entity Linking"
 date: 2017-12-05 18:21:24
 categories: arXiv_CL
 tags: arXiv_CL GAN

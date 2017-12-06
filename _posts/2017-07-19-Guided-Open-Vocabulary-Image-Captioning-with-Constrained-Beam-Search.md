@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guided Open Vocabulary Image Captioning with Constrained Beam Search'
+title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
 date: 2017-07-19 22:01:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

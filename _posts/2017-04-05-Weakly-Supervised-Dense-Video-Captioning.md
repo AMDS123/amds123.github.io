@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weakly Supervised Dense Video Captioning'
+title: "Weakly Supervised Dense Video Captioning"
 date: 2017-04-05 16:06:09
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Weakly_Supervised Caption CNN

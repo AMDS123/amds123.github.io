@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A framework for Multi-A/B testing with online FDR control'
+title: "A framework for Multi-A/B testing with online FDR control"
 date: 2017-11-18 07:25:12
 categories: arXiv_CV
 tags: arXiv_CV Caption

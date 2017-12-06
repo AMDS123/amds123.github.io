@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mining Associated Text and Images with Dual-Wing Harmoniums'
+title: "Mining Associated Text and Images with Dual-Wing Harmoniums"
 date: 2012-07-04 16:28:40
 categories: arXiv_CV
 tags: arXiv_CV Caption

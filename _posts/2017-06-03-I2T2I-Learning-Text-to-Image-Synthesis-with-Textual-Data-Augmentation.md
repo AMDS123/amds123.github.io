@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation'
+title: "I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation"
 date: 2017-06-03 22:46:46
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial GAN Caption RNN

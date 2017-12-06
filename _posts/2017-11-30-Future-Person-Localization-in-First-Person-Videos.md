@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Future Person Localization in First-Person Videos'
+title: "Future Person Localization in First-Person Videos"
 date: 2017-11-30 04:16:03
 categories: arXiv_CV
 tags: arXiv_CV

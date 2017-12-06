@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'End-to-end Adversarial Learning for Generative Conversational Agents'
+title: "End-to-end Adversarial Learning for Generative Conversational Agents"
 date: 2017-12-04 03:52:57
 categories: arXiv_CL
 tags: arXiv_CL Adversarial

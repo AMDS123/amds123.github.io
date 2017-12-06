@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Iterative Deep Learning for Network Topology Extraction'
+title: "Iterative Deep Learning for Network Topology Extraction"
 date: 2017-12-04 17:45:55
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

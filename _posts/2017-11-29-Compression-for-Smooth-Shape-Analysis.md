@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compression for Smooth Shape Analysis'
+title: "Compression for Smooth Shape Analysis"
 date: 2017-11-29 12:46:08
 categories: arXiv_CV
 tags: arXiv_CV

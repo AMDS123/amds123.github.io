@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Reduced-Resolution and Super-Resolution Networks in Synch'
+title: "Learning Reduced-Resolution and Super-Resolution Networks in Synch"
 date: 2017-12-04 06:46:41
 categories: arXiv_CV
 tags: arXiv_CV Super_Resolution CNN

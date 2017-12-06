@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zone-based Keyword Spotting in Bangla and Devanagari Documents'
+title: "Zone-based Keyword Spotting in Bangla and Devanagari Documents"
 date: 2017-12-05 01:12:25
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Recognition

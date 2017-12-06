@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning'
+title: "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning"
 date: 2017-06-06 06:59:15
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

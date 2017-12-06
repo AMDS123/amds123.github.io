@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Using Human Brain Activity to Guide Machine Learning'
+title: "Using Human Brain Activity to Guide Machine Learning"
 date: 2017-09-19 21:49:59
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN Recognition

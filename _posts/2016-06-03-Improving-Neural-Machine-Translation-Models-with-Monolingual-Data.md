@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improving Neural Machine Translation Models with Monolingual Data'
+title: "Improving Neural Machine Translation Models with Monolingual Data"
 date: 2016-06-03 15:09:54
 categories: arXiv_CL
 tags: arXiv_CL NMT

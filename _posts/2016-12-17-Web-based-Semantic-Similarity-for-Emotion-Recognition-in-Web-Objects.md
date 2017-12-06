@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Web-based Semantic Similarity for Emotion Recognition in Web Objects'
+title: "Web-based Semantic Similarity for Emotion Recognition in Web Objects"
 date: 2016-12-17 11:36:06
 categories: arXiv_CV
 tags: arXiv_CV Caption Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lecture video indexing using boosted margin maximizing neural networks'
+title: "Lecture video indexing using boosted margin maximizing neural networks"
 date: 2017-12-02 09:08:05
 categories: arXiv_CV
 tags: arXiv_CV Video_Indexing CNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks'
+title: "Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks"
 date: 2017-12-01 09:18:04
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

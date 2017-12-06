@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Closer Look at Spatiotemporal Convolutions for Action Recognition'
+title: "A Closer Look at Spatiotemporal Convolutions for Action Recognition"
 date: 2017-11-30 06:28:20
 categories: arXiv_CV
 tags: arXiv_CV Action_Recognition CNN Recognition

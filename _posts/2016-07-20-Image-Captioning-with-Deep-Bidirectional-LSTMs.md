@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image Captioning with Deep Bidirectional LSTMs'
+title: "Image Captioning with Deep Bidirectional LSTMs"
 date: 2016-07-20 14:19:37
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption CNN RNN Detection

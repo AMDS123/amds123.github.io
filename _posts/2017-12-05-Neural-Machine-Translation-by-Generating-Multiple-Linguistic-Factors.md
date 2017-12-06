@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Machine Translation by Generating Multiple Linguistic Factors'
+title: "Neural Machine Translation by Generating Multiple Linguistic Factors"
 date: 2017-12-05 18:53:49
 categories: arXiv_CL
 tags: arXiv_CL NMT

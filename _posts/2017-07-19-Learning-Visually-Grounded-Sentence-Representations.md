@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Visually Grounded Sentence Representations'
+title: "Learning Visually Grounded Sentence Representations"
 date: 2017-07-19 23:12:57
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

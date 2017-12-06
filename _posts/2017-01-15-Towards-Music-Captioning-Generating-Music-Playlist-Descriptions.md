@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Music Captioning: Generating Music Playlist Descriptions'
+title: "Towards Music Captioning: Generating Music Playlist Descriptions"
 date: 2017-01-15 05:23:51
 categories: arXiv_CV
 tags: arXiv_CV Caption

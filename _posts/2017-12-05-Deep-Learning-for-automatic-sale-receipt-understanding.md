@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Learning for automatic sale receipt understanding'
+title: "Deep Learning for automatic sale receipt understanding"
 date: 2017-12-05 12:40:20
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mapping Images to Sentiment Adjective Noun Pairs with Factorized Neural Nets'
+title: "Mapping Images to Sentiment Adjective Noun Pairs with Factorized Neural Nets"
 date: 2015-11-21 04:58:46
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

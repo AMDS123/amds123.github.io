@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Speaker identification from the sound of the human breath'
+title: "Speaker identification from the sound of the human breath"
 date: 2017-12-04 17:30:42
 categories: arXiv_SD
 tags: arXiv_SD Recognition

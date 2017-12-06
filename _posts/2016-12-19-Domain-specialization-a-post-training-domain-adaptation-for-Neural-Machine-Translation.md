@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Domain specialization: a post-training domain adaptation for Neural Machine Translation'
+title: "Domain specialization: a post-training domain adaptation for Neural Machine Translation"
 date: 2016-12-19 11:52:08
 categories: arXiv_CL
 tags: arXiv_CL NMT

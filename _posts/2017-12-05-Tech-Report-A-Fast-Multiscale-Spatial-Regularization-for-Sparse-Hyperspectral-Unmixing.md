@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tech Report: A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing'
+title: "Tech Report: A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing"
 date: 2017-12-05 17:24:54
 categories: arXiv_CV
 tags: arXiv_CV Regularization

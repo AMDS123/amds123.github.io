@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VideoMCC: a New Benchmark for Video Comprehension'
+title: "VideoMCC: a New Benchmark for Video Comprehension"
 date: 2017-06-16 19:50:46
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption GAN Caption

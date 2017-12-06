@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Regularization techniques for fine-tuning in neural machine translation'
+title: "Regularization techniques for fine-tuning in neural machine translation"
 date: 2017-07-31 15:31:12
 categories: arXiv_CL
 tags: arXiv_CL Regularization NMT

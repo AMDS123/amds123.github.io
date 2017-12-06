@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Network Guided Proof Search'
+title: "Deep Network Guided Proof Search"
 date: 2017-01-24 16:39:05
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption Deep_Learning Detection Recognition

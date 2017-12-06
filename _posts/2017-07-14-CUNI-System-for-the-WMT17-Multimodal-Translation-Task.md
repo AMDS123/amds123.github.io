@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CUNI System for the WMT17 Multimodal Translation Task'
+title: "CUNI System for the WMT17 Multimodal Translation Task"
 date: 2017-07-14 15:58:47
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

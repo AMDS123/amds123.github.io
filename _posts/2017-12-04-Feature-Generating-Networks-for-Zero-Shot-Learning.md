@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Feature Generating Networks for Zero-Shot Learning'
+title: "Feature Generating Networks for Zero-Shot Learning"
 date: 2017-12-04 10:00:40
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

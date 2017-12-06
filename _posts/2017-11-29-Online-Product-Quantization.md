@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Online Product Quantization'
+title: "Online Product Quantization"
 date: 2017-11-29 11:17:04
 categories: arXiv_CV
 tags: arXiv_CV

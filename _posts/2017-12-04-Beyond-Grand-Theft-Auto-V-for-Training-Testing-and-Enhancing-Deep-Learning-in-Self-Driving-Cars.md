@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars'
+title: "Beyond Grand Theft Auto V for Training, Testing and Enhancing Deep Learning in Self Driving Cars"
 date: 2017-12-04 22:41:46
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

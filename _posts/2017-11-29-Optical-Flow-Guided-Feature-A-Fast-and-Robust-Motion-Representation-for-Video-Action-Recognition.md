@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition'
+title: "Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition"
 date: 2017-11-29 23:29:02
 categories: arXiv_CV
 tags: arXiv_CV Action_Recognition Recognition

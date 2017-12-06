@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unsupervised Classification of PolSAR Data Using a Scattering Similarity Measure Derived from a Geodesic Distance'
+title: "Unsupervised Classification of PolSAR Data Using a Scattering Similarity Measure Derived from a Geodesic Distance"
 date: 2017-12-01 17:58:42
 categories: arXiv_CV
 tags: arXiv_CV

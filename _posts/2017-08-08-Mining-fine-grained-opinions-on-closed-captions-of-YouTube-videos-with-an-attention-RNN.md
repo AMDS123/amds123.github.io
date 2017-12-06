@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mining fine-grained opinions on closed captions of YouTube videos with an attention-RNN'
+title: "Mining fine-grained opinions on closed captions of YouTube videos with an attention-RNN"
 date: 2017-08-08 09:27:55
 categories: arXiv_CV
 tags: arXiv_CV Review Sentiment_Classification Caption RNN

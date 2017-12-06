@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Convolutional Networks with Adaptive Computation Graphs'
+title: "Convolutional Networks with Adaptive Computation Graphs"
 date: 2017-11-30 16:45:25
 categories: arXiv_CV
 tags: arXiv_CV Adversarial CNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sequence to Sequence -- Video to Text'
+title: "Sequence to Sequence -- Video to Text"
 date: 2015-10-19 18:01:06
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Video_Caption Caption RNN

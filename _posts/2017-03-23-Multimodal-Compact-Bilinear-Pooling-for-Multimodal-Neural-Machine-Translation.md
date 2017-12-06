@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multimodal Compact Bilinear Pooling for Multimodal Neural Machine Translation'
+title: "Multimodal Compact Bilinear Pooling for Multimodal Neural Machine Translation"
 date: 2017-03-23 14:20:52
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption VQA

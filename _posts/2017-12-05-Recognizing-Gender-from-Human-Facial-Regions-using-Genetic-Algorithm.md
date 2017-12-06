@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recognizing Gender from Human Facial Regions using Genetic Algorithm'
+title: "Recognizing Gender from Human Facial Regions using Genetic Algorithm"
 date: 2017-12-05 14:33:57
 categories: arXiv_CV
 tags: arXiv_CV Recognition

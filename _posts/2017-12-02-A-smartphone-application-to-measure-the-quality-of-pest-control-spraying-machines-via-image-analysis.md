@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A smartphone application to measure the quality of pest control spraying machines via image analysis'
+title: "A smartphone application to measure the quality of pest control spraying machines via image analysis"
 date: 2017-12-02 10:03:16
 categories: arXiv_CV
 tags: arXiv_CV CNN Detection

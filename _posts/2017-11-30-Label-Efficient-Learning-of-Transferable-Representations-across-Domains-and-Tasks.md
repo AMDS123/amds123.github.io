@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Label Efficient Learning of Transferable Representations across Domains and Tasks'
+title: "Label Efficient Learning of Transferable Representations across Domains and Tasks"
 date: 2017-11-30 23:31:28
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Action_Recognition Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Extractive Summarization with Side Information'
+title: "Neural Extractive Summarization with Side Information"
 date: 2017-09-10 19:56:15
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Magnetic fields in cluster cores: Faraday rotation in A400 and A2634'
+title: "Magnetic fields in cluster cores: Faraday rotation in A400 and A2634"
 date: 2001-09-11 13:57:55
 categories: arXiv_CL
 tags: arXiv_CL

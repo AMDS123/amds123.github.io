@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fine-grained Pattern Matching Over Streaming Time Series'
+title: "Fine-grained Pattern Matching Over Streaming Time Series"
 date: 2017-12-01 23:45:48
 categories: arXiv_CV
 tags: arXiv_CV

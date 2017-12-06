@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Domain Control for Neural Machine Translation'
+title: "Domain Control for Neural Machine Translation"
 date: 2017-09-12 12:01:40
 categories: arXiv_CL
 tags: arXiv_CL NMT

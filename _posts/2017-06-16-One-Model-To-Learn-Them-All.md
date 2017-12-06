@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One Model To Learn Them All'
+title: "One Model To Learn Them All"
 date: 2017-06-16 03:10:03
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption CNN Deep_Learning Recognition

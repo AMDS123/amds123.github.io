@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks'
+title: "AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks"
 date: 2017-11-28 18:59:50
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

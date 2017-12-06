@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Visual N-Grams from Web Data'
+title: "Learning Visual N-Grams from Web Data"
 date: 2017-08-06 01:59:22
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN Recognition

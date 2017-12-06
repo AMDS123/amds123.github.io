@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Empirical Study of Language CNN for Image Captioning'
+title: "An Empirical Study of Language CNN for Image Captioning"
 date: 2017-08-02 12:33:50
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revisiting Graph Construction for Fast Image Segmentation'
+title: "Revisiting Graph Construction for Fast Image Segmentation"
 date: 2017-12-02 22:40:39
 categories: arXiv_CV
 tags: arXiv_CV Segmentation

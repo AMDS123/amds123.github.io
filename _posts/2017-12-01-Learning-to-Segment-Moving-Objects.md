@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning to Segment Moving Objects'
+title: "Learning to Segment Moving Objects"
 date: 2017-12-01 16:50:26
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Recognition

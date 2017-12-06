@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Size of the Radio-Emitting Region in Low-luminosity Active Galactic Nuclei'
+title: "The Size of the Radio-Emitting Region in Low-luminosity Active Galactic Nuclei"
 date: 2005-04-04 14:15:43
 categories: arXiv_CL
 tags: arXiv_CL

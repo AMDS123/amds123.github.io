@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Depth from Monocular Videos using Direct Methods'
+title: "Learning Depth from Monocular Videos using Direct Methods"
 date: 2017-12-01 03:37:18
 categories: arXiv_CV
 tags: arXiv_CV

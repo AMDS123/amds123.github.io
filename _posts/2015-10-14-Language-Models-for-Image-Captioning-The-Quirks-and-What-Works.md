@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Language Models for Image Captioning: The Quirks and What Works'
+title: "Language Models for Image Captioning: The Quirks and What Works"
 date: 2015-10-14 22:03:40
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Domain Adaptation for Neural Networks by Parameter Augmentation'
+title: "Domain Adaptation for Neural Networks by Parameter Augmentation"
 date: 2016-07-01 21:24:21
 categories: arXiv_CV
 tags: arXiv_CV Caption RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Do Convolutional Neural Networks act as Compositional Nearest Neighbors?'
+title: "Do Convolutional Neural Networks act as Compositional Nearest Neighbors?"
 date: 2017-11-29 05:13:32
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Semantic_Segmentation

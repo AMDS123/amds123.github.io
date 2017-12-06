@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bollywood Movie Corpus for Text, Images and Videos'
+title: "Bollywood Movie Corpus for Text, Images and Videos"
 date: 2017-10-11 15:51:13
 categories: arXiv_CV
 tags: arXiv_CV Caption

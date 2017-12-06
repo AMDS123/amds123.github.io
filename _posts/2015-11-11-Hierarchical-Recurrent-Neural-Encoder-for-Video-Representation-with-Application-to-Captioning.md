@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning'
+title: "Hierarchical Recurrent Neural Encoder for Video Representation with Application to Captioning"
 date: 2015-11-11 12:38:14
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN Deep_Learning

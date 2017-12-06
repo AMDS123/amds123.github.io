@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction'
+title: "Learning Spatio-temporal Features with Partial Expression Sequences for on-the-Fly Prediction"
 date: 2017-11-29 15:27:22
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Recognition

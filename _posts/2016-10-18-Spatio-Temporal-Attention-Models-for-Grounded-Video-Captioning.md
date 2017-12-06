@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spatio-Temporal Attention Models for Grounded Video Captioning'
+title: "Spatio-Temporal Attention Models for Grounded Video Captioning"
 date: 2016-10-18 08:27:23
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Recognition

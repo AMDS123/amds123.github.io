@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping'
+title: "A2-RL: Aesthetics Aware Reinforcement Learning for Image Cropping"
 date: 2017-12-04 03:49:31
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning

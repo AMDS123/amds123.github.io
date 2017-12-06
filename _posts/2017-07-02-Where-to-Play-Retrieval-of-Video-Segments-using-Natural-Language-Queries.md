@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Where to Play: Retrieval of Video Segments using Natural-Language Queries'
+title: "Where to Play: Retrieval of Video Segments using Natural-Language Queries"
 date: 2017-07-02 07:56:06
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

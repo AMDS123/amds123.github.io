@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Transfer Learning for Low-Resource Neural Machine Translation'
+title: "Transfer Learning for Low-Resource Neural Machine Translation"
 date: 2016-04-08 00:16:35
 categories: arXiv_CL
 tags: arXiv_CL NMT

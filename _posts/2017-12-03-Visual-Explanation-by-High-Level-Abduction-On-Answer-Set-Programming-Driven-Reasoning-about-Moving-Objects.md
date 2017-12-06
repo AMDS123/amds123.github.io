@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Visual Explanation by High-Level Abduction: On Answer-Set Programming Driven Reasoning about Moving Objects'
+title: "Visual Explanation by High-Level Abduction: On Answer-Set Programming Driven Reasoning about Moving Objects"
 date: 2017-12-03 21:17:07
 categories: arXiv_CV
 tags: arXiv_CV Detection

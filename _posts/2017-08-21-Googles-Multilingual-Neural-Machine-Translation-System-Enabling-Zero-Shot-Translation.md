@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation'
+title: "Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation"
 date: 2017-08-21 20:33:43
 categories: arXiv_CL
 tags: arXiv_CL NMT

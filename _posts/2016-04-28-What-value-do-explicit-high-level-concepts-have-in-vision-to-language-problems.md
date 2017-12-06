@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What value do explicit high level concepts have in vision to language problems?'
+title: "What value do explicit high level concepts have in vision to language problems?"
 date: 2016-04-28 04:59:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN VQA

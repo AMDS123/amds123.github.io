@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Video Captioning with Transferred Semantic Attributes'
+title: "Video Captioning with Transferred Semantic Attributes"
 date: 2016-11-23 07:59:59
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption CNN RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation'
+title: "Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translation"
 date: 2016-07-23 13:14:17
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

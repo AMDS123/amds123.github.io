@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A GRU-Gated Attention Model for Neural Machine Translation'
+title: "A GRU-Gated Attention Model for Neural Machine Translation"
 date: 2017-04-27 04:25:41
 categories: arXiv_CL
 tags: arXiv_CL NMT

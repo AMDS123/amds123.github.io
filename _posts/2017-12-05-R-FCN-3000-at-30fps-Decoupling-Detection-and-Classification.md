@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'R-FCN-3000 at 30fps: Decoupling Detection and Classification'
+title: "R-FCN-3000 at 30fps: Decoupling Detection and Classification"
 date: 2017-12-05 18:30:19
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection

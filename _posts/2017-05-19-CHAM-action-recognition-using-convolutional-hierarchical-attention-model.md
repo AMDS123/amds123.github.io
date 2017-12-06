@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CHAM: action recognition using convolutional hierarchical attention model'
+title: "CHAM: action recognition using convolutional hierarchical attention model"
 date: 2017-05-19 06:11:26
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Action_Recognition CNN RNN Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Phylogenetics of Indo-European Language families via an Algebro-Geometric Analysis of their Syntactic Structures'
+title: "Phylogenetics of Indo-European Language families via an Algebro-Geometric Analysis of their Syntactic Structures"
 date: 2017-12-05 15:55:27
 categories: arXiv_CL
 tags: arXiv_CL

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TennisVid2Text: Fine-grained Descriptions for Domain Specific Videos'
+title: "TennisVid2Text: Fine-grained Descriptions for Domain Specific Videos"
 date: 2015-11-26 22:21:44
 categories: arXiv_CV
 tags: arXiv_CV Caption

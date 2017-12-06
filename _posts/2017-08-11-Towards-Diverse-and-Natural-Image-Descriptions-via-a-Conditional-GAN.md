@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Diverse and Natural Image Descriptions via a Conditional GAN'
+title: "Towards Diverse and Natural Image Descriptions via a Conditional GAN"
 date: 2017-08-11 05:02:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial GAN Reinforcement_Learning Caption RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Local Jet Pattern: A Robust Descriptor for Texture Classification'
+title: "Local Jet Pattern: A Robust Descriptor for Texture Classification"
 date: 2017-11-26 17:18:46
 categories: arXiv_CV
 tags: arXiv_CV

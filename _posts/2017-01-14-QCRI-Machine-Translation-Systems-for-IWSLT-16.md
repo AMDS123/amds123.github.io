@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'QCRI Machine Translation Systems for IWSLT 16'
+title: "QCRI Machine Translation Systems for IWSLT 16"
 date: 2017-01-14 14:18:54
 categories: arXiv_CL
 tags: arXiv_CL NMT

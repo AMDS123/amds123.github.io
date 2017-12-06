@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Temporal Attention Model for Neural Machine Translation'
+title: "Temporal Attention Model for Neural Machine Translation"
 date: 2016-08-09 19:42:14
 categories: arXiv_CL
 tags: arXiv_CL NMT

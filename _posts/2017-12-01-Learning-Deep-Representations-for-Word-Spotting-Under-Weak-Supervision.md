@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Deep Representations for Word Spotting Under Weak Supervision'
+title: "Learning Deep Representations for Word Spotting Under Weak Supervision"
 date: 2017-12-01 09:41:13
 categories: arXiv_CV
 tags: arXiv_CV CNN

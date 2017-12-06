@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANosaic: Mosaic Creation with Generative Texture Manifolds'
+title: "GANosaic: Mosaic Creation with Generative Texture Manifolds"
 date: 2017-12-01 10:35:13
 categories: arXiv_CV
 tags: arXiv_CV Regularization Adversarial GAN CNN

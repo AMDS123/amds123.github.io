@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems'
+title: "Tighter Lifting-Free Convex Relaxations for Quadratic Matching Problems"
 date: 2017-11-29 09:04:27
 categories: arXiv_CV
 tags: arXiv_CV

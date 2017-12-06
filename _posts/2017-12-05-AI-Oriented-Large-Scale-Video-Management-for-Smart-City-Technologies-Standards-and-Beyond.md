@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AI Oriented Large-Scale Video Management for Smart City: Technologies, Standards and Beyond'
+title: "AI Oriented Large-Scale Video Management for Smart City: Technologies, Standards and Beyond"
 date: 2017-12-05 01:02:33
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

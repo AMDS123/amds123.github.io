@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automatic Spine Segmentation using Convolutional Neural Network via Redundant Generation of Class Labels for 3D Spine Modeling'
+title: "Automatic Spine Segmentation using Convolutional Neural Network via Redundant Generation of Class Labels for 3D Spine Modeling"
 date: 2017-11-29 16:19:07
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN

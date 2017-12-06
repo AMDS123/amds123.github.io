@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Event Specific Multimodal Pattern Mining with Image-Caption Pairs'
+title: "Event Specific Multimodal Pattern Mining with Image-Caption Pairs"
 date: 2016-01-05 01:55:22
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Weakly_Supervised Caption

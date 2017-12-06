@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Improving Interpretability of Deep Neural Networks with Semantic Information'
+title: "Improving Interpretability of Deep Neural Networks with Semantic Information"
 date: 2017-03-30 11:48:31
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Action_Recognition Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning to detect chest radiographs containing lung nodules using visual attention networks'
+title: "Learning to detect chest radiographs containing lung nodules using visual attention networks"
 date: 2017-12-04 10:44:32
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning CNN Detection

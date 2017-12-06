@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Wake-Sleep Recurrent Attention Models'
+title: "Learning Wake-Sleep Recurrent Attention Models"
 date: 2015-09-22 23:52:30
 categories: arXiv_CV
 tags: arXiv_CV Caption CNN

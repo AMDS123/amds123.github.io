@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization'
+title: "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"
 date: 2017-03-21 23:48:00
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Reinforcement_Learning Caption CNN VQA

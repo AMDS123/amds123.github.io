@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Contrastive Learning for Image Captioning'
+title: "Contrastive Learning for Image Captioning"
 date: 2017-10-06 18:00:48
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

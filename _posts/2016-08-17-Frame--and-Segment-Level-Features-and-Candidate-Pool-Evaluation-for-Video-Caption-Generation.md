@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frame- and Segment-Level Features and Candidate Pool Evaluation for Video Caption Generation'
+title: "Frame- and Segment-Level Features and Candidate Pool Evaluation for Video Caption Generation"
 date: 2016-08-17 13:30:06
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption

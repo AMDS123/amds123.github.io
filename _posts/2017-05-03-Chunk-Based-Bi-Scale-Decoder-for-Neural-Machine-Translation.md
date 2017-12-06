@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chunk-Based Bi-Scale Decoder for Neural Machine Translation'
+title: "Chunk-Based Bi-Scale Decoder for Neural Machine Translation"
 date: 2017-05-03 14:39:56
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

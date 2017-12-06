@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THUMT: An Open Source Toolkit for Neural Machine Translation'
+title: "THUMT: An Open Source Toolkit for Neural Machine Translation"
 date: 2017-06-20 13:29:16
 categories: arXiv_CL
 tags: arXiv_CL NMT

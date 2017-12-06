@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syntax-Directed Attention for Neural Machine Translation'
+title: "Syntax-Directed Attention for Neural Machine Translation"
 date: 2017-11-12 03:35:48
 categories: arXiv_CL
 tags: arXiv_CL NMT

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Re-evaluating Automatic Metrics for Image Captioning'
+title: "Re-evaluating Automatic Metrics for Image Captioning"
 date: 2016-12-22 14:00:28
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

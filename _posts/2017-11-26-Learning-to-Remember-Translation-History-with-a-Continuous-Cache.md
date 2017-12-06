@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning to Remember Translation History with a Continuous Cache'
+title: "Learning to Remember Translation History with a Continuous Cache"
 date: 2017-11-26 10:44:55
 categories: arXiv_CL
 tags: arXiv_CL NMT

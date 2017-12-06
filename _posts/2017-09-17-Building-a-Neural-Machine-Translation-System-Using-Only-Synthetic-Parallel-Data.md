@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Building a Neural Machine Translation System Using Only Synthetic Parallel Data'
+title: "Building a Neural Machine Translation System Using Only Synthetic Parallel Data"
 date: 2017-09-17 01:58:39
 categories: arXiv_CL
 tags: arXiv_CL NMT

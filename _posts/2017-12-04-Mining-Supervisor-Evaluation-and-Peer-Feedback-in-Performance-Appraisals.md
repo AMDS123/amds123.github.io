@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mining Supervisor Evaluation and Peer Feedback in Performance Appraisals'
+title: "Mining Supervisor Evaluation and Peer Feedback in Performance Appraisals"
 date: 2017-12-04 10:30:18
 categories: arXiv_CL
 tags: arXiv_CL GAN

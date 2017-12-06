@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks'
+title: "Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks"
 date: 2017-11-30 10:53:56
 categories: arXiv_CV
 tags: arXiv_CV Adversarial Segmentation GAN

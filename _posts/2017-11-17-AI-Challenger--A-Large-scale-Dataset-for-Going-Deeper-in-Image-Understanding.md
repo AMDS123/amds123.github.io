@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AI Challenger : A Large-scale Dataset for Going Deeper in Image Understanding'
+title: "AI Challenger : A Large-scale Dataset for Going Deeper in Image Understanding"
 date: 2017-11-17 09:58:20
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Detection

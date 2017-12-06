@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recurrent Neural Networks for Semantic Instance Segmentation'
+title: "Recurrent Neural Networks for Semantic Instance Segmentation"
 date: 2017-12-02 15:01:27
 categories: arXiv_CV
 tags: arXiv_CV Semantic_Instance_Segmentation Segmentation RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Is a Picture Worth Ten Thousand Words in a Review Dataset?'
+title: "Is a Picture Worth Ten Thousand Words in a Review Dataset?"
 date: 2016-06-23 22:04:08
 categories: arXiv_CV
 tags: arXiv_CV Review Caption Deep_Learning

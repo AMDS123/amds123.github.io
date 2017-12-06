@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Captioning Images with Diverse Objects'
+title: "Captioning Images with Diverse Objects"
 date: 2017-07-20 18:06:27
 categories: arXiv_CV
 tags: arXiv_CV Caption Recognition

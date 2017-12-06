@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Word-Like Units from Joint Audio-Visual Analysis'
+title: "Learning Word-Like Units from Joint Audio-Visual Analysis"
 date: 2017-05-24 22:10:25
 categories: arXiv_CV
 tags: arXiv_CV Speech_Recognition Caption Recognition

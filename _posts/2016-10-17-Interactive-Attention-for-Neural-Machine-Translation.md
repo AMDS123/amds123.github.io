@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Interactive Attention for Neural Machine Translation'
+title: "Interactive Attention for Neural Machine Translation"
 date: 2016-10-17 08:33:20
 categories: arXiv_CL
 tags: arXiv_CL NMT

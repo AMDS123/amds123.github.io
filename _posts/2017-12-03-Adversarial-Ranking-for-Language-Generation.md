@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adversarial Ranking for Language Generation'
+title: "Adversarial Ranking for Language Generation"
 date: 2017-12-03 01:58:50
 categories: arXiv_CL
 tags: arXiv_CL Adversarial GAN

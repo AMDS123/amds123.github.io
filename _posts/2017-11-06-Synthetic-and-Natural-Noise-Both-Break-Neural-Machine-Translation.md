@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Synthetic and Natural Noise Both Break Neural Machine Translation'
+title: "Synthetic and Natural Noise Both Break Neural Machine Translation"
 date: 2017-11-06 20:59:58
 categories: arXiv_CL
 tags: arXiv_CL CNN NMT

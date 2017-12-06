@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What is the Role of Recurrent Neural Networks in an Image Caption Generator?'
+title: "What is the Role of Recurrent Neural Networks in an Image Caption Generator?"
 date: 2017-08-25 15:40:00
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

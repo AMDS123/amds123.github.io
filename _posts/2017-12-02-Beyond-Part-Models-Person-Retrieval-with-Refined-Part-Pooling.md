@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beyond Part Models: Person Retrieval with Refined Part Pooling'
+title: "Beyond Part Models: Person Retrieval with Refined Part Pooling"
 date: 2017-12-02 04:34:28
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption CNN

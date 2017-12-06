@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Learning for identifying radiogenomic associations in breast cancer'
+title: "Deep Learning for identifying radiogenomic associations in breast cancer"
 date: 2017-11-29 20:41:05
 categories: arXiv_CV
 tags: arXiv_CV Review Deep_Learning

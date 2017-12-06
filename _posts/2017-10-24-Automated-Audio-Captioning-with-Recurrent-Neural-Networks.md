@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automated Audio Captioning with Recurrent Neural Networks'
+title: "Automated Audio Captioning with Recurrent Neural Networks"
 date: 2017-10-24 11:36:08
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

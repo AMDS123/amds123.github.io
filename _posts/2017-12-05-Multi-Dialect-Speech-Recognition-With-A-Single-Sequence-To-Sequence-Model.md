@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multi-Dialect Speech Recognition With A Single Sequence-To-Sequence Model'
+title: "Multi-Dialect Speech Recognition With A Single Sequence-To-Sequence Model"
 date: 2017-12-05 09:39:18
 categories: arXiv_SD
 tags: arXiv_SD GAN Speech_Recognition Recognition

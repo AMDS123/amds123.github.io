@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Neural Machine Translation with Partially Aligned Corpora'
+title: "Towards Neural Machine Translation with Partially Aligned Corpora"
 date: 2017-11-03 03:15:44
 categories: arXiv_CL
 tags: arXiv_CL NMT

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oracle performance for visual captioning'
+title: "Oracle performance for visual captioning"
 date: 2016-09-14 16:55:29
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption

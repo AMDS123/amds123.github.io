@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COCO-Stuff: Thing and Stuff Classes in Context'
+title: "COCO-Stuff: Thing and Stuff Classes in Context"
 date: 2017-03-08 12:36:04
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Segmentation Caption Semantic_Segmentation Detection

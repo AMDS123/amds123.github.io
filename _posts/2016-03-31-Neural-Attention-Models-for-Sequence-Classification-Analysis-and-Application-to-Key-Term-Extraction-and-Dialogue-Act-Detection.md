@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Attention Models for Sequence Classification: Analysis and Application to Key Term Extraction and Dialogue Act Detection'
+title: "Neural Attention Models for Sequence Classification: Analysis and Application to Key Term Extraction and Dialogue Act Detection"
 date: 2016-03-31 23:17:46
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption Detection VQA Recognition

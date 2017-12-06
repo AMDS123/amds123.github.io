@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dual Learning for Machine Translation'
+title: "Dual Learning for Machine Translation"
 date: 2016-11-01 10:38:29
 categories: arXiv_CL
 tags: arXiv_CL Reinforcement_Learning NMT

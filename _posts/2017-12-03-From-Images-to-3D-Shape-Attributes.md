@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From Images to 3D Shape Attributes'
+title: "From Images to 3D Shape Attributes"
 date: 2017-12-03 22:58:22
 categories: arXiv_CV
 tags: arXiv_CV CNN

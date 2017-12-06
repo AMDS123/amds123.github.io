@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Folded Recurrent Neural Networks for Future Video Prediction'
+title: "Folded Recurrent Neural Networks for Future Video Prediction"
 date: 2017-12-01 13:31:56
 categories: arXiv_CV
 tags: arXiv_CV RNN

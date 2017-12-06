@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compatibility Family Learning for Item Recommendation and Generation'
+title: "Compatibility Family Learning for Item Recommendation and Generation"
 date: 2017-12-02 04:22:56
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

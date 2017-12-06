@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real-time Semantic Image Segmentation via Spatial Sparsity'
+title: "Real-time Semantic Image Segmentation via Spatial Sparsity"
 date: 2017-12-01 07:15:28
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation

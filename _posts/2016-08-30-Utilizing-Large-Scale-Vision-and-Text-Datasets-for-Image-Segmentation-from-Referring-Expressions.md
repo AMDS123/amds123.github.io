@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Utilizing Large Scale Vision and Text Datasets for Image Segmentation from Referring Expressions'
+title: "Utilizing Large Scale Vision and Text Datasets for Image Segmentation from Referring Expressions"
 date: 2016-08-30 02:27:41
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Segmentation Caption

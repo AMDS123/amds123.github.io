@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Context-aware Captions from Context-agnostic Supervision'
+title: "Context-aware Captions from Context-agnostic Supervision"
 date: 2017-07-31 23:29:36
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

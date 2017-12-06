@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Open Evaluation Tool for Layout Analysis of Document Images'
+title: "Open Evaluation Tool for Layout Analysis of Document Images"
 date: 2017-11-23 15:18:04
 categories: arXiv_CV
 tags: arXiv_CV Segmentation

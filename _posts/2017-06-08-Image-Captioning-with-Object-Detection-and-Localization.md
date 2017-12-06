@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image Captioning with Object Detection and Localization'
+title: "Image Captioning with Object Detection and Localization"
 date: 2017-06-08 02:23:33
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption RNN Detection

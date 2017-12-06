@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Learning for Video Classification and Captioning'
+title: "Deep Learning for Video Classification and Captioning"
 date: 2016-09-22 00:08:59
 categories: arXiv_CV
 tags: arXiv_CV Review Video_Caption Caption Deep_Learning

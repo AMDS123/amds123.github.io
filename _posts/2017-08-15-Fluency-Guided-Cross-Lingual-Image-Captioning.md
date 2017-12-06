@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fluency-Guided Cross-Lingual Image Captioning'
+title: "Fluency-Guided Cross-Lingual Image Captioning"
 date: 2017-08-15 03:46:31
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Video Captioning via Hierarchical Reinforcement Learning'
+title: "Video Captioning via Hierarchical Reinforcement Learning"
 date: 2017-11-29 22:23:59
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Reinforcement_Learning Caption

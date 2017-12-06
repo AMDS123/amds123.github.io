@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Highlighting objects of interest in an image by integrating saliency and depth'
+title: "Highlighting objects of interest in an image by integrating saliency and depth"
 date: 2017-11-28 19:12:49
 categories: arXiv_CV
 tags: arXiv_CV

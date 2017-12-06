@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement'
+title: "DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement"
 date: 2017-12-02 15:23:43
 categories: arXiv_CV
 tags: arXiv_CV Weakly_Supervised

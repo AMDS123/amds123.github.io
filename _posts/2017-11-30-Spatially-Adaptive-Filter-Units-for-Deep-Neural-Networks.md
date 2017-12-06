@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spatially-Adaptive Filter Units for Deep Neural Networks'
+title: "Spatially-Adaptive Filter Units for Deep Neural Networks"
 date: 2017-11-30 15:49:13
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Semantic_Segmentation

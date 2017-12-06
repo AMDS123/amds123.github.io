@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Incorporating Copying Mechanism in Image Captioning for Learning Novel Objects'
+title: "Incorporating Copying Mechanism in Image Captioning for Learning Novel Objects"
 date: 2017-08-17 13:51:39
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN Recognition

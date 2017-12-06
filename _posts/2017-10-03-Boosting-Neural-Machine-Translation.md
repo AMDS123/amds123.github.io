@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Boosting Neural Machine Translation'
+title: "Boosting Neural Machine Translation"
 date: 2017-10-03 11:46:04
 categories: arXiv_CL
 tags: arXiv_CL NMT

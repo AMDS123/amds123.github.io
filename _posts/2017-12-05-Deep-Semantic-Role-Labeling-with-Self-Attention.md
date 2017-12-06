@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Semantic Role Labeling with Self-Attention'
+title: "Deep Semantic Role Labeling with Self-Attention"
 date: 2017-12-05 11:48:51
 categories: arXiv_CL
 tags: arXiv_CL RNN

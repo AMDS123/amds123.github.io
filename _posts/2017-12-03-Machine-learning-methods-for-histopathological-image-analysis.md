@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Machine learning methods for histopathological image analysis'
+title: "Machine learning methods for histopathological image analysis"
 date: 2017-12-03 01:35:37
 categories: arXiv_CV
 tags: arXiv_CV Review

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Probabilistic Quality Representation Approach to Deep Blind Image Quality Prediction'
+title: "A Probabilistic Quality Representation Approach to Deep Blind Image Quality Prediction"
 date: 2017-12-05 04:55:26
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning'
+title: "Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning"
 date: 2017-11-28 19:24:20
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning CNN

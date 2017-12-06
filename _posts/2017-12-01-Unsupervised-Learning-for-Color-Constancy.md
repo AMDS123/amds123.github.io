@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unsupervised Learning for Color Constancy'
+title: "Unsupervised Learning for Color Constancy"
 date: 2017-12-01 18:38:36
 categories: arXiv_CV
 tags: arXiv_CV

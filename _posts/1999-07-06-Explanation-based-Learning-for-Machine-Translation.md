@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Explanation-based Learning for Machine Translation'
+title: "Explanation-based Learning for Machine Translation"
 date: 1999-07-06 18:35:41
 categories: arXiv_CV
 tags: arXiv_CV Caption

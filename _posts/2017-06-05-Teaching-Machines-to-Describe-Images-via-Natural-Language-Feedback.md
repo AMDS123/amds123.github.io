@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teaching Machines to Describe Images via Natural Language Feedback'
+title: "Teaching Machines to Describe Images via Natural Language Feedback"
 date: 2017-06-05 16:47:40
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

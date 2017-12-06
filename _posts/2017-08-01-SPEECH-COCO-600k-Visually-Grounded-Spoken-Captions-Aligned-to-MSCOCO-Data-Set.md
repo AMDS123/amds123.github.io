@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SPEECH-COCO: 600k Visually Grounded Spoken Captions Aligned to MSCOCO Data Set'
+title: "SPEECH-COCO: 600k Visually Grounded Spoken Captions Aligned to MSCOCO Data Set"
 date: 2017-08-01 19:14:27
 categories: arXiv_CV
 tags: arXiv_CV Caption

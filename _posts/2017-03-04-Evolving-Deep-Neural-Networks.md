@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evolving Deep Neural Networks'
+title: "Evolving Deep Neural Networks"
 date: 2017-03-04 23:13:05
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption Deep_Learning Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multilingual Multi-modal Embeddings for Natural Language Processing'
+title: "Multilingual Multi-modal Embeddings for Natural Language Processing"
 date: 2017-02-03 18:19:47
 categories: arXiv_CL
 tags: arXiv_CL NMT

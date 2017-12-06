@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A large annotated corpus for learning natural language inference'
+title: "A large annotated corpus for learning natural language inference"
 date: 2015-08-21 16:17:01
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

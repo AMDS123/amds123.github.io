@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues'
+title: "Phrase Localization and Visual Relationship Detection with Comprehensive Image-Language Cues"
 date: 2017-08-09 00:25:47
 categories: arXiv_CV
 tags: arXiv_CV Caption Detection

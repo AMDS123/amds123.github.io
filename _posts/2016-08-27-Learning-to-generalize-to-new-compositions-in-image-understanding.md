@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning to generalize to new compositions in image understanding'
+title: "Learning to generalize to new compositions in image understanding"
 date: 2016-08-27 00:34:00
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

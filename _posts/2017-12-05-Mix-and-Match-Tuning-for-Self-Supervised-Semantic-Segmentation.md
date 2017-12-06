@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mix-and-Match Tuning for Self-Supervised Semantic Segmentation'
+title: "Mix-and-Match Tuning for Self-Supervised Semantic Segmentation"
 date: 2017-12-05 06:53:27
 categories: arXiv_CV
 tags: arXiv_CV Segmentation CNN Semantic_Segmentation

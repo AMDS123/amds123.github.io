@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Lexicalist Approach to the Translation of Colloquial Text'
+title: "A Lexicalist Approach to the Translation of Colloquial Text"
 date: 1997-06-18 18:40:00
 categories: arXiv_CV
 tags: arXiv_CV Caption

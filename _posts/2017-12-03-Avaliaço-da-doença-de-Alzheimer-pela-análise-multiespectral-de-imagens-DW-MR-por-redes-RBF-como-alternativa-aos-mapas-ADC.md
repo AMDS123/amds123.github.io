@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avaliação da doença de Alzheimer pela análise multiespectral de imagens DW-MR por redes RBF como alternativa aos mapas ADC'
+title: "Avaliação da doença de Alzheimer pela análise multiespectral de imagens DW-MR por redes RBF como alternativa aos mapas ADC"
 date: 2017-12-03 19:02:00
 categories: arXiv_CV
 tags: arXiv_CV

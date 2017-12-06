@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stack-Captioning: Coarse-to-Fine Learning for Image Captioning'
+title: "Stack-Captioning: Coarse-to-Fine Learning for Image Captioning"
 date: 2017-09-12 10:04:21
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Reinforcement_Learning Caption

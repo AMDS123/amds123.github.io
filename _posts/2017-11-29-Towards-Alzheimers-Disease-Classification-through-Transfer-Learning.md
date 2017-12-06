@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Alzheimer's Disease Classification through Transfer Learning'
+title: "Towards Alzheimer's Disease Classification through Transfer Learning"
 date: 2017-11-29 21:40:36
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning Detection

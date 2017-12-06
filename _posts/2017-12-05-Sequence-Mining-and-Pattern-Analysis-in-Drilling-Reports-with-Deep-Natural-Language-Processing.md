@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sequence Mining and Pattern Analysis in Drilling Reports with Deep Natural Language Processing'
+title: "Sequence Mining and Pattern Analysis in Drilling Reports with Deep Natural Language Processing"
 date: 2017-12-05 04:49:58
 categories: arXiv_CL
 tags: arXiv_CL

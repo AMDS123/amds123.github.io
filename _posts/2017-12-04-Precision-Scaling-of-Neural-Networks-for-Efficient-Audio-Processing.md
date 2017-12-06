@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Precision Scaling of Neural Networks for Efficient Audio Processing'
+title: "Precision Scaling of Neural Networks for Efficient Audio Processing"
 date: 2017-12-04 20:39:05
 categories: arXiv_SD
 tags: arXiv_SD Detection

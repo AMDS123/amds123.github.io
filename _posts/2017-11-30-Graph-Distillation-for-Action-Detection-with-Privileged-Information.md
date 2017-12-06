@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Graph Distillation for Action Detection with Privileged Information'
+title: "Graph Distillation for Action Detection with Privileged Information"
 date: 2017-11-30 22:40:59
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Detection

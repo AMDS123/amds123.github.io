@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Generating Visual Explanations'
+title: "Generating Visual Explanations"
 date: 2016-03-28 19:54:12
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning Caption Recognition

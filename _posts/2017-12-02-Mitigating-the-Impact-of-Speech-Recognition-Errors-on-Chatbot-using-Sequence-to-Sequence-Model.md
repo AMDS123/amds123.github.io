@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mitigating the Impact of Speech Recognition Errors on Chatbot using Sequence-to-Sequence Model'
+title: "Mitigating the Impact of Speech Recognition Errors on Chatbot using Sequence-to-Sequence Model"
 date: 2017-12-02 09:27:03
 categories: arXiv_CL
 tags: arXiv_CL Speech_Recognition Recognition

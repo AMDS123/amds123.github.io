@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Boosting Image Captioning with Attributes'
+title: "Boosting Image Captioning with Attributes"
 date: 2016-11-05 13:12:29
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN

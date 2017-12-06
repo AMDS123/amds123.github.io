@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sparse Photometric 3D Face Reconstruction Guided by Morphable Models'
+title: "Sparse Photometric 3D Face Reconstruction Guided by Morphable Models"
 date: 2017-11-29 14:24:58
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Semantic_Segmentation

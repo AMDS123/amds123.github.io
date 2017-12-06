@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Real-time Action Prediction Framework by Encoding Temporal Evolution'
+title: "A Real-time Action Prediction Framework by Encoding Temporal Evolution"
 date: 2017-12-01 20:56:15
 categories: arXiv_CV
 tags: arXiv_CV CNN RNN Recognition

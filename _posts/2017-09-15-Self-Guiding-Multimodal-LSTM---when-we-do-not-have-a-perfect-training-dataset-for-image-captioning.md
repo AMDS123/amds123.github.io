@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Self-Guiding Multimodal LSTM - when we do not have a perfect training dataset for image captioning'
+title: "Self-Guiding Multimodal LSTM - when we do not have a perfect training dataset for image captioning"
 date: 2017-09-15 02:53:16
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

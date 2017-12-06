@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification'
+title: "Structured Deep Hashing with Convolutional Neural Networks for Fast Person Re-identification"
 date: 2017-12-03 02:41:08
 categories: arXiv_CV
 tags: arXiv_CV CNN Deep_Learning

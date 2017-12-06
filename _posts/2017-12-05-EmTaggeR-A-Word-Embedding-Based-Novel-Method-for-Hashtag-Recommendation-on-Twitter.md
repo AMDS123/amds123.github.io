@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EmTaggeR: A Word Embedding Based Novel Method for Hashtag Recommendation on Twitter'
+title: "EmTaggeR: A Word Embedding Based Novel Method for Hashtag Recommendation on Twitter"
 date: 2017-12-05 10:29:14
 categories: arXiv_CL
 tags: arXiv_CL

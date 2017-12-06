@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning 6-DOF Grasping Interaction with Deep Geometry-aware 3D Representations'
+title: "Learning 6-DOF Grasping Interaction with Deep Geometry-aware 3D Representations"
 date: 2017-12-04 18:57:26
 categories: arXiv_CV
 tags: arXiv_CV

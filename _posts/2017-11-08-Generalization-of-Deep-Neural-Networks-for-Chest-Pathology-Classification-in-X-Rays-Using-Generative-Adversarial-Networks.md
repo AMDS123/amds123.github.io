@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Generalization of Deep Neural Networks for Chest Pathology Classification in X-Rays Using Generative Adversarial Networks'
+title: "Generalization of Deep Neural Networks for Chest Pathology Classification in X-Rays Using Generative Adversarial Networks"
 date: 2017-11-08 14:26:01
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN CNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Segmentation of the Proximal Femur from MR Images using Deep Convolutional Neural Networks'
+title: "Segmentation of the Proximal Femur from MR Images using Deep Convolutional Neural Networks"
 date: 2017-12-01 21:15:40
 categories: arXiv_CV
 tags: arXiv_CV Review Segmentation CNN

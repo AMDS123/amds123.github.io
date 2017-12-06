@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pre-Translation for Neural Machine Translation'
+title: "Pre-Translation for Neural Machine Translation"
 date: 2016-10-17 18:14:24
 categories: arXiv_CL
 tags: arXiv_CL NMT

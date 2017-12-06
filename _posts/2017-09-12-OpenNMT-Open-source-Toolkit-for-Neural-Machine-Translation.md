@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OpenNMT: Open-source Toolkit for Neural Machine Translation'
+title: "OpenNMT: Open-source Toolkit for Neural Machine Translation"
 date: 2017-09-12 12:58:07
 categories: arXiv_CL
 tags: arXiv_CL NMT

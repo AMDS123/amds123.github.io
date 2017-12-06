@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks'
+title: "Learning to Generate Time-Lapse Videos Using Multi-Stage Dynamic Generative Adversarial Networks"
 date: 2017-12-02 03:28:46
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

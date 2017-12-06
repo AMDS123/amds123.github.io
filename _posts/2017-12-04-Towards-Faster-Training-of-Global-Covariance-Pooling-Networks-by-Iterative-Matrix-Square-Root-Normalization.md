@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization'
+title: "Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization"
 date: 2017-12-04 12:22:42
 categories: arXiv_CV
 tags: arXiv_CV CNN

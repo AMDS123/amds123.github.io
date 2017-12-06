@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sharp Models on Dull Hardware: Fast and Accurate Neural Machine Translation Decoding on the CPU'
+title: "Sharp Models on Dull Hardware: Fast and Accurate Neural Machine Translation Decoding on the CPU"
 date: 2017-05-04 19:50:35
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

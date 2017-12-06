@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One Sentence One Model for Neural Machine Translation'
+title: "One Sentence One Model for Neural Machine Translation"
 date: 2016-09-21 10:28:57
 categories: arXiv_CL
 tags: arXiv_CL NMT

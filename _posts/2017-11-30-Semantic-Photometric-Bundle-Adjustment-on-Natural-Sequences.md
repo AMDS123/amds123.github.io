@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Semantic Photometric Bundle Adjustment on Natural Sequences'
+title: "Semantic Photometric Bundle Adjustment on Natural Sequences"
 date: 2017-11-30 22:45:59
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

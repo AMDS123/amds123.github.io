@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Generating captions without looking beyond objects'
+title: "Generating captions without looking beyond objects"
 date: 2016-10-18 09:35:03
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

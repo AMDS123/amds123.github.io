@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A KL-LUCB Bandit Algorithm for Large-Scale Crowdsourcing'
+title: "A KL-LUCB Bandit Algorithm for Large-Scale Crowdsourcing"
 date: 2017-09-11 20:14:59
 categories: arXiv_CV
 tags: arXiv_CV Caption

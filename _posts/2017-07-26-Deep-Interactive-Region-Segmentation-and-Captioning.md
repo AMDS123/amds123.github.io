@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Interactive Region Segmentation and Captioning'
+title: "Deep Interactive Region Segmentation and Captioning"
 date: 2017-07-26 10:40:33
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Segmentation Caption CNN Deep_Learning Detection

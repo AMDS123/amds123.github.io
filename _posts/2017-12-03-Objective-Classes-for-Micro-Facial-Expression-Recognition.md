@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Objective Classes for Micro-Facial Expression Recognition'
+title: "Objective Classes for Micro-Facial Expression Recognition"
 date: 2017-12-03 06:12:57
 categories: arXiv_CV
 tags: arXiv_CV Recognition

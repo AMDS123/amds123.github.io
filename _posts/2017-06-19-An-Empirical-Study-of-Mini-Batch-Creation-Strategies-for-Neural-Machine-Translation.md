@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'An Empirical Study of Mini-Batch Creation Strategies for Neural Machine Translation'
+title: "An Empirical Study of Mini-Batch Creation Strategies for Neural Machine Translation"
 date: 2017-06-19 02:38:01
 categories: arXiv_CL
 tags: arXiv_CL NMT

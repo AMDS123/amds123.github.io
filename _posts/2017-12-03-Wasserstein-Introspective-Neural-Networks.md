@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wasserstein Introspective Neural Networks'
+title: "Wasserstein Introspective Neural Networks"
 date: 2017-12-03 08:32:47
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN

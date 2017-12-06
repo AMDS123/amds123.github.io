@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Achievement of Higher Flexibility in Multiple Choice-based Tests Using Image Classification Techniques'
+title: "The Achievement of Higher Flexibility in Multiple Choice-based Tests Using Image Classification Techniques"
 date: 2017-12-02 17:56:51
 categories: arXiv_CV
 tags: arXiv_CV CNN

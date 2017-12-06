@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models'
+title: "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models"
 date: 2016-09-19 20:20:42
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Object_Detection Caption Detection

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Helsinki Neural Machine Translation System'
+title: "The Helsinki Neural Machine Translation System"
 date: 2017-08-20 09:24:46
 categories: arXiv_CL
 tags: arXiv_CL NMT

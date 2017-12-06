@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Design Automation for Binarized Neural Networks: A Quantum Leap Opportunity?'
+title: "Design Automation for Binarized Neural Networks: A Quantum Leap Opportunity?"
 date: 2017-11-21 09:54:37
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

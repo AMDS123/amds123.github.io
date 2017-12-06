@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning'
+title: "SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning"
 date: 2017-04-12 05:48:44
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN

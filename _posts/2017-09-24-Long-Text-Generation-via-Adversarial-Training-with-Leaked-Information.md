@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Long Text Generation via Adversarial Training with Leaked Information'
+title: "Long Text Generation via Adversarial Training with Leaked Information"
 date: 2017-09-24 13:35:08
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Adversarial GAN Reinforcement_Learning Caption

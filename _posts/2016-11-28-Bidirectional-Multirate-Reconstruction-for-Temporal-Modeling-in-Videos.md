@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bidirectional Multirate Reconstruction for Temporal Modeling in Videos'
+title: "Bidirectional Multirate Reconstruction for Temporal Modeling in Videos"
 date: 2016-11-28 10:32:03
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption Detection

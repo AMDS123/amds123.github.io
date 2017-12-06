@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Machine Translation with Supervised Attention'
+title: "Neural Machine Translation with Supervised Attention"
 date: 2016-09-14 09:31:40
 categories: arXiv_CL
 tags: arXiv_CL NMT

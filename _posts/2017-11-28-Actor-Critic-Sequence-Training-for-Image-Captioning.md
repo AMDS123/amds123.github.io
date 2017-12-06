@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Actor-Critic Sequence Training for Image Captioning'
+title: "Actor-Critic Sequence Training for Image Captioning"
 date: 2017-11-28 01:32:37
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Reinforcement_Learning Caption

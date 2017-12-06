@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HI and OH Absorption toward NGC6240'
+title: "HI and OH Absorption toward NGC6240"
 date: 2007-02-20 11:53:34
 categories: arXiv_CL
 tags: arXiv_CL

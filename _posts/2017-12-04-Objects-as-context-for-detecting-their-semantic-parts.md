@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Objects as context for detecting their semantic parts'
+title: "Objects as context for detecting their semantic parts"
 date: 2017-12-04 18:23:01
 categories: arXiv_CV
 tags: arXiv_CV Detection

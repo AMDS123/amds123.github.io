@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joint Learning of Distributed Representations for Images and Texts'
+title: "Joint Learning of Distributed Representations for Images and Texts"
 date: 2015-04-28 17:24:00
 categories: arXiv_CV
 tags: arXiv_CV Caption

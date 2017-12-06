@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mesoscopic Mechanics'
+title: "Mesoscopic Mechanics"
 date: 2003-07-29 20:30:02
 categories: arXiv_CL
 tags: arXiv_CL NMT

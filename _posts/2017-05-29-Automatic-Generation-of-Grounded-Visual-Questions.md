@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automatic Generation of Grounded Visual Questions'
+title: "Automatic Generation of Grounded Visual Questions"
 date: 2017-05-29 12:54:35
 categories: arXiv_CV
 tags: arXiv_CV Caption VQA

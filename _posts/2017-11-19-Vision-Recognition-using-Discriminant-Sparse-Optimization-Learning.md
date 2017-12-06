@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vision Recognition using Discriminant Sparse Optimization Learning'
+title: "Vision Recognition using Discriminant Sparse Optimization Learning"
 date: 2017-11-19 13:39:49
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning Recognition

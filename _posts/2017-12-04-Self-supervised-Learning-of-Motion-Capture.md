@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Self-supervised Learning of Motion Capture'
+title: "Self-supervised Learning of Motion Capture"
 date: 2017-12-04 20:25:47
 categories: arXiv_CV
 tags: arXiv_CV Segmentation Detection

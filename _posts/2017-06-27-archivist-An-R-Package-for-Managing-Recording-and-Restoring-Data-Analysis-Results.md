@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'archivist: An R Package for Managing, Recording and Restoring Data Analysis Results'
+title: "archivist: An R Package for Managing, Recording and Restoring Data Analysis Results"
 date: 2017-06-27 12:44:39
 categories: arXiv_CV
 tags: arXiv_CV Caption

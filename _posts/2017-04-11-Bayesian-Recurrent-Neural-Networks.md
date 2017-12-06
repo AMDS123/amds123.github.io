@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bayesian Recurrent Neural Networks'
+title: "Bayesian Recurrent Neural Networks"
 date: 2017-04-11 17:25:08
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

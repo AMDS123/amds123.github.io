@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Machine Translation on Scarce-Resource Condition: A case-study on Persian-English'
+title: "Neural Machine Translation on Scarce-Resource Condition: A case-study on Persian-English"
 date: 2017-01-07 16:27:44
 categories: arXiv_CL
 tags: arXiv_CL NMT

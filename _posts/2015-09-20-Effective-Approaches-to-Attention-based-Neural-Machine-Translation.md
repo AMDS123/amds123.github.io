@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Effective Approaches to Attention-based Neural Machine Translation'
+title: "Effective Approaches to Attention-based Neural Machine Translation"
 date: 2015-09-20 08:25:52
 categories: arXiv_CL
 tags: arXiv_CL NMT

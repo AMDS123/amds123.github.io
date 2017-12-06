@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Statistical versus symbolic parsing for captioned-information retrieval'
+title: "Statistical versus symbolic parsing for captioned-information retrieval"
 date: 1994-08-15 19:08:41
 categories: arXiv_CV
 tags: arXiv_CV Caption

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction'
+title: "A Mathematical Theory of Deep Convolutional Neural Networks for Feature Extraction"
 date: 2017-10-24 06:44:21
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image2Mesh: A Learning Framework for Single Image 3D Reconstruction'
+title: "Image2Mesh: A Learning Framework for Single Image 3D Reconstruction"
 date: 2017-11-29 03:57:32
 categories: arXiv_CV
 tags: arXiv_CV Deep_Learning

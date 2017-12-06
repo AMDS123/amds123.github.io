@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scalable Bayesian Optimization Using Deep Neural Networks'
+title: "Scalable Bayesian Optimization Using Deep Neural Networks"
 date: 2015-07-13 15:47:13
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN Recognition

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GeoSeq2Seq: Information Geometric Sequence-to-Sequence Networks'
+title: "GeoSeq2Seq: Information Geometric Sequence-to-Sequence Networks"
 date: 2017-10-25 17:52:14
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

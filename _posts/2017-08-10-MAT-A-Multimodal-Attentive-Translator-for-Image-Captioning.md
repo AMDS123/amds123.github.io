@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MAT: A Multimodal Attentive Translator for Image Captioning'
+title: "MAT: A Multimodal Attentive Translator for Image Captioning"
 date: 2017-08-10 14:29:19
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption CNN RNN

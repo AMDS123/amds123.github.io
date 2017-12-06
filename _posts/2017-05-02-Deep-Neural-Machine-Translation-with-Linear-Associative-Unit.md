@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deep Neural Machine Translation with Linear Associative Unit'
+title: "Deep Neural Machine Translation with Linear Associative Unit"
 date: 2017-05-02 08:58:17
 categories: arXiv_CL
 tags: arXiv_CL NMT RNN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning to Fuse Music Genres with Generative Adversarial Dual Learning'
+title: "Learning to Fuse Music Genres with Generative Adversarial Dual Learning"
 date: 2017-12-05 02:53:27
 categories: arXiv_SD
 tags: arXiv_SD Adversarial GAN

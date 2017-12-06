@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stronger Baselines for Trustable Results in Neural Machine Translation'
+title: "Stronger Baselines for Trustable Results in Neural Machine Translation"
 date: 2017-06-29 13:02:46
 categories: arXiv_CL
 tags: arXiv_CL NMT

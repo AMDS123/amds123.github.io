@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The radio-loud plasma in pulsars'
+title: "The radio-loud plasma in pulsars"
 date: 2002-04-08 07:42:35
 categories: arXiv_CL
 tags: arXiv_CL

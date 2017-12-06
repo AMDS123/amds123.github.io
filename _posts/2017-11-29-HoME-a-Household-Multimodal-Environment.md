@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HoME: a Household Multimodal Environment'
+title: "HoME: a Household Multimodal Environment"
 date: 2017-11-29 18:45:59
 categories: arXiv_CV
 tags: arXiv_CV Reinforcement_Learning

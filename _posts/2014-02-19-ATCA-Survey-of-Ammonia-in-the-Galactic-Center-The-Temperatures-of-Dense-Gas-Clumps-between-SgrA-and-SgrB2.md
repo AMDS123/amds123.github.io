@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ATCA Survey of Ammonia in the Galactic Center: The Temperatures of Dense Gas Clumps between SgrA* and SgrB2'
+title: "ATCA Survey of Ammonia in the Galactic Center: The Temperatures of Dense Gas Clumps between SgrA* and SgrB2"
 date: 2014-02-19 00:01:55
 categories: arXiv_CL
 tags: arXiv_CL Survey

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Budget-Aware Activity Detection with A Recurrent Policy Network'
+title: "Budget-Aware Activity Detection with A Recurrent Policy Network"
 date: 2017-11-30 21:52:27
 categories: arXiv_CV
 tags: arXiv_CV Detection

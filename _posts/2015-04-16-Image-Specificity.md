@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Image Specificity'
+title: "Image Specificity"
 date: 2015-04-16 13:13:46
 categories: arXiv_CV
 tags: arXiv_CV Caption

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Curriculum Learning and Minibatch Bucketing in Neural Machine Translation'
+title: "Curriculum Learning and Minibatch Bucketing in Neural Machine Translation"
 date: 2017-07-29 15:58:55
 categories: arXiv_CL
 tags: arXiv_CL NMT

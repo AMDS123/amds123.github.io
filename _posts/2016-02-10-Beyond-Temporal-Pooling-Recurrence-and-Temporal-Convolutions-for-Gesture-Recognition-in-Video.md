@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beyond Temporal Pooling: Recurrence and Temporal Convolutions for Gesture Recognition in Video'
+title: "Beyond Temporal Pooling: Recurrence and Temporal Convolutions for Gesture Recognition in Video"
 date: 2016-02-10 16:50:29
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Speech_Recognition Caption RNN Recognition

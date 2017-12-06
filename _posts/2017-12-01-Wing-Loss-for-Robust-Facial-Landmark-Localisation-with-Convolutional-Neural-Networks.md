@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks'
+title: "Wing Loss for Robust Facial Landmark Localisation with Convolutional Neural Networks"
 date: 2017-12-01 21:40:58
 categories: arXiv_CV
 tags: arXiv_CV CNN

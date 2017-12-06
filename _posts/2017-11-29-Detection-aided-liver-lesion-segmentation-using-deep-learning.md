@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Detection-aided liver lesion segmentation using deep learning'
+title: "Detection-aided liver lesion segmentation using deep learning"
 date: 2017-11-29 19:27:40
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Segmentation CNN Deep_Learning Detection

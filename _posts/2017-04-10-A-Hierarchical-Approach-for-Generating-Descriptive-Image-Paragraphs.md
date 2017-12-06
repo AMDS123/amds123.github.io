@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Hierarchical Approach for Generating Descriptive Image Paragraphs'
+title: "A Hierarchical Approach for Generating Descriptive Image Paragraphs"
 date: 2017-04-10 17:59:15
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

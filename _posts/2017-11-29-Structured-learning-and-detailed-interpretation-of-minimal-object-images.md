@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Structured learning and detailed interpretation of minimal object images'
+title: "Structured learning and detailed interpretation of minimal object images"
 date: 2017-11-29 23:26:52
 categories: arXiv_CV
 tags: arXiv_CV

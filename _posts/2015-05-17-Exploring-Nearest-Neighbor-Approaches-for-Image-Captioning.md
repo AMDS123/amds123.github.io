@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exploring Nearest Neighbor Approaches for Image Captioning'
+title: "Exploring Nearest Neighbor Approaches for Image Captioning"
 date: 2015-05-17 22:14:27
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

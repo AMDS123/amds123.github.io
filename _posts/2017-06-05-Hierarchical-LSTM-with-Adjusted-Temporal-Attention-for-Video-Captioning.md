@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning'
+title: "Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning"
 date: 2017-06-05 08:09:20
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption RNN

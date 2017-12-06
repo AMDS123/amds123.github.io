@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spoken Language Translation for Polish'
+title: "Spoken Language Translation for Polish"
 date: 2015-11-24 16:28:16
 categories: arXiv_CV
 tags: arXiv_CV Speech_Recognition Caption RNN Recognition

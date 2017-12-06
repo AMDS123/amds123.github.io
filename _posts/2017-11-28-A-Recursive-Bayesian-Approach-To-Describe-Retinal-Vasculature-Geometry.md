@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Recursive Bayesian Approach To Describe Retinal Vasculature Geometry'
+title: "A Recursive Bayesian Approach To Describe Retinal Vasculature Geometry"
 date: 2017-11-28 19:28:27
 categories: arXiv_CV
 tags: arXiv_CV Review

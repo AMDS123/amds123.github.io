@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dilated FCN for Multi-Agent 2D/3D Medical Image Registration'
+title: "Dilated FCN for Multi-Agent 2D/3D Medical Image Registration"
 date: 2017-11-22 03:22:17
 categories: arXiv_CV
 tags: arXiv_CV CNN

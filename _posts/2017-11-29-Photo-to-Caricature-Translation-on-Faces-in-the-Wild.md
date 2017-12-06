@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Photo-to-Caricature Translation on Faces in the Wild'
+title: "Photo-to-Caricature Translation on Faces in the Wild"
 date: 2017-11-29 09:12:50
 categories: arXiv_CV
 tags: arXiv_CV Adversarial GAN CNN

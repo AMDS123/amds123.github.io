@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural System Combination for Machine Translation'
+title: "Neural System Combination for Machine Translation"
 date: 2017-04-21 04:36:55
 categories: arXiv_CL
 tags: arXiv_CL NMT

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evaluation of Automatic Video Captioning Using Direct Assessment'
+title: "Evaluation of Automatic Video Captioning Using Direct Assessment"
 date: 2017-10-29 09:37:02
 categories: arXiv_CV
 tags: arXiv_CV Video_Caption Caption

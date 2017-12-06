@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids'
+title: "Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids"
 date: 2017-12-04 03:03:53
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection

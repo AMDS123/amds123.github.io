@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Order-Free RNN with Visual Attention for Multi-Label Classification'
+title: "Order-Free RNN with Visual Attention for Multi-Label Classification"
 date: 2017-09-20 05:00:21
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption RNN

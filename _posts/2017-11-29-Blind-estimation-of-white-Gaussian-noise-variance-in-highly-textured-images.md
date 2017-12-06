@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blind estimation of white Gaussian noise variance in highly textured images'
+title: "Blind estimation of white Gaussian noise variance in highly textured images"
 date: 2017-11-29 11:43:26
 categories: arXiv_CV
 tags: arXiv_CV

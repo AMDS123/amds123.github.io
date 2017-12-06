@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adversarial Neural Machine Translation'
+title: "Adversarial Neural Machine Translation"
 date: 2017-06-24 03:29:54
 categories: arXiv_CL
 tags: arXiv_CL Adversarial GAN CNN NMT

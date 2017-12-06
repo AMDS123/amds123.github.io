@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation'
+title: "PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation"
 date: 2017-11-29 14:25:13
 categories: arXiv_CV
 tags: arXiv_CV Object_Detection Detection

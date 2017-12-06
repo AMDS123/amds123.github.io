@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neural Machine Translation by Minimising the Bayes-risk with Respect to Syntactic Translation Lattices'
+title: "Neural Machine Translation by Minimising the Bayes-risk with Respect to Syntactic Translation Lattices"
 date: 2017-02-13 14:29:34
 categories: arXiv_CL
 tags: arXiv_CL NMT

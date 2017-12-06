@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space'
+title: "Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space"
 date: 2017-04-12 06:39:52
 categories: arXiv_CV
 tags: arXiv_CV Image_Caption Caption

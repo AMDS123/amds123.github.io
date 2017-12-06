@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TGIF: A New Dataset and Benchmark on Animated GIF Description'
+title: "TGIF: A New Dataset and Benchmark on Animated GIF Description"
 date: 2016-04-12 01:47:19
 categories: arXiv_CV
 tags: arXiv_CV Caption RNN

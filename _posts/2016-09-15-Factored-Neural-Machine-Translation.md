@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Factored Neural Machine Translation'
+title: "Factored Neural Machine Translation"
 date: 2016-09-15 13:15:01
 categories: arXiv_CL
 tags: arXiv_CL NMT

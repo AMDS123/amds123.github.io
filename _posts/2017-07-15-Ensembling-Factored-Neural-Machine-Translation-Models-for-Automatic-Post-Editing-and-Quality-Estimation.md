@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ensembling Factored Neural Machine Translation Models for Automatic Post-Editing and Quality Estimation'
+title: "Ensembling Factored Neural Machine Translation Models for Automatic Post-Editing and Quality Estimation"
 date: 2017-07-15 12:38:48
 categories: arXiv_CL
 tags: arXiv_CL NMT

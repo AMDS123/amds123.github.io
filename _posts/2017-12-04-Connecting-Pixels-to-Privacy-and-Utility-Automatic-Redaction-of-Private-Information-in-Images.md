@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Connecting Pixels to Privacy and Utility: Automatic Redaction of Private Information in Images'
+title: "Connecting Pixels to Privacy and Utility: Automatic Redaction of Private Information in Images"
 date: 2017-12-04 13:35:39
 categories: arXiv_CV
 tags: arXiv_CV Segmentation

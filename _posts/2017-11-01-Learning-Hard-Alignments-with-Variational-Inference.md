@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Learning Hard Alignments with Variational Inference'
+title: "Learning Hard Alignments with Variational Inference"
 date: 2017-11-01 19:08:18
 categories: arXiv_CV
 tags: arXiv_CV Speech_Recognition Caption Recognition

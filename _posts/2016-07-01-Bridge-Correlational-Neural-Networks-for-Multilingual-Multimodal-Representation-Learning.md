@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning'
+title: "Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning"
 date: 2016-07-01 09:01:19
 categories: arXiv_CV
 tags: arXiv_CV Caption

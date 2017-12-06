@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reasoning About Pragmatics with Neural Listeners and Speakers'
+title: "Reasoning About Pragmatics with Neural Listeners and Speakers"
 date: 2016-09-26 13:48:20
 categories: arXiv_CV
 tags: arXiv_CV Caption
