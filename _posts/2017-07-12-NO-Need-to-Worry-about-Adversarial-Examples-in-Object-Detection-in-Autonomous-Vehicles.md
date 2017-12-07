@@ -3,7 +3,7 @@ layout: post
 title: "NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles"
 date: 2017-07-12 00:09:50
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Object_Detection Detection
+tags: arXiv_CV Adversarial Object_Detection Classification Detection
 author: Jiajun Lu, Hussein Sibai, Evan Fabry, David Forsyth
 mathjax: true
 ---

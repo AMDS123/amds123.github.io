@@ -3,7 +3,7 @@ layout: post
 title: "Online Generative-Discriminative Model for Object Detection in Video: An Unsupervised Learning Framework"
 date: 2017-08-21 06:17:02
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Dapeng Luo, Zhipeng Zeng, Longsheng Wei, Chen Luo, Jun Chen, Nong Sang
 mathjax: true
 ---

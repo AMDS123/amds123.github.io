@@ -3,7 +3,7 @@ layout: post
 title: "PVANET: Deep but Lightweight Neural Networks for Real-time Object Detection"
 date: 2016-09-30 07:17:13
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Kye-Hyeon Kim, Sanghoon Hong, Byungseok Roh, Yeongjae Cheon, Minje Park
 mathjax: true
 ---

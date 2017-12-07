@@ -3,7 +3,7 @@ layout: post
 title: "Feature Evaluation of Deep Convolutional Neural Networks for Object Recognition and Detection"
 date: 2015-09-25 08:26:53
 categories: arXiv_CV
-tags: arXiv_CV CNN Detection Recognition
+tags: arXiv_CV CNN Classification Detection Recognition
 author: Hirokatsu Kataoka, Kenji Iwata, Yutaka Satoh
 mathjax: true
 ---

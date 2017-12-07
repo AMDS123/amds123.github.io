@@ -3,7 +3,7 @@ layout: post
 title: "Wide-Residual-Inception Networks for Real-time Object Detection"
 date: 2017-07-17 07:56:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Youngwan Lee, Byeonghak Yim, Huien Kim, Eunsoo Park, Xuenan Cui, Taekang Woo, Hakil Kim
 mathjax: true
 ---

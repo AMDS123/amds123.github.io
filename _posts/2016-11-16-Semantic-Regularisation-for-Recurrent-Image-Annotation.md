@@ -3,7 +3,7 @@ layout: post
 title: "Semantic Regularisation for Recurrent Image Annotation"
 date: 2016-11-16 22:39:59
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN
+tags: arXiv_CV Image_Caption Caption RNN Classification
 author: Feng Liu, Tao Xiang, Timothy M. Hospedales, Wankou Yang, Changyin Sun
 mathjax: true
 ---

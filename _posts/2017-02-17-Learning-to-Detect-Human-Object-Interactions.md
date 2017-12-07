@@ -3,7 +3,7 @@ layout: post
 title: "Learning to Detect Human-Object Interactions"
 date: 2017-02-17 17:21:30
 categories: arXiv_CV
-tags: arXiv_CV CNN Detection
+tags: arXiv_CV CNN Classification Detection
 author: Yu-Wei Chao, Yunfan Liu, Xieyang Liu, Huayi Zeng, Jia Deng
 mathjax: true
 ---

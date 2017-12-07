@@ -3,7 +3,7 @@ layout: post
 title: "Learning Rich Features from RGB-D Images for Object Detection and Segmentation"
 date: 2014-07-22 05:31:32
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation CNN Detection
+tags: arXiv_CV Object_Detection Segmentation CNN Classification Detection
 author: Saurabh Gupta, Ross Girshick, Pablo Arbeláez, Jitendra Malik
 mathjax: true
 ---

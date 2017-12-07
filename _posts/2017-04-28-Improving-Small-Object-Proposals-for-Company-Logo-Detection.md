@@ -3,7 +3,7 @@ layout: post
 title: "Improving Small Object Proposals for Company Logo Detection"
 date: 2017-04-28 11:30:10
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Christian Eggert, Dan Zecha, Stephan Brehm, Rainer Lienhart
 mathjax: true
 ---

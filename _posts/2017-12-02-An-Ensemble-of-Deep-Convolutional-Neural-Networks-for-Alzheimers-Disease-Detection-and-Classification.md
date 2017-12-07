@@ -3,7 +3,7 @@ layout: post
 title: "An Ensemble of Deep Convolutional Neural Networks for Alzheimer's Disease Detection and Classification"
 date: 2017-12-02 03:13:52
 categories: arXiv_CV
-tags: arXiv_CV CNN Detection
+tags: arXiv_CV CNN Classification Detection
 author: Jyoti Islam, Yanqing Zhang
 mathjax: true
 ---

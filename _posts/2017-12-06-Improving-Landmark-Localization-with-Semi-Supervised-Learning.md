@@ -3,7 +3,7 @@ layout: post
 title: "Improving Landmark Localization with Semi-Supervised Learning"
 date: 2017-12-06 00:04:05
 categories: arXiv_CV
-tags: arXiv_CV Regularization Object_Detection Detection
+tags: arXiv_CV Regularization Object_Detection Classification Detection
 author: Sina Honari, Pavlo Molchanov, Stephen Tyree, Pascal Vincent, Christopher Pal, Jan Kautz
 mathjax: true
 ---

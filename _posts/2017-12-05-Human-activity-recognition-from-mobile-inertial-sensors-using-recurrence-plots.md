@@ -3,7 +3,7 @@ layout: post
 title: "Human activity recognition from mobile inertial sensors using recurrence plots"
 date: 2017-12-05 00:49:07
 categories: arXiv_CV
-tags: arXiv_CV Recognition
+tags: arXiv_CV Classification Recognition
 author: Ot&#xe1;vio A. B. Penatti, Milton F. S. Santos
 mathjax: true
 ---

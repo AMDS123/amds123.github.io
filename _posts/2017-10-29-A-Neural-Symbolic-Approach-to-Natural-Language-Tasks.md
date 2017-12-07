@@ -3,7 +3,7 @@ layout: post
 title: "A Neural-Symbolic Approach to Natural Language Tasks"
 date: 2017-10-29 09:18:51
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN Deep_Learning
+tags: arXiv_CV Image_Caption Caption RNN Classification Deep_Learning
 author: Qiuyuan Huang, Paul Smolensky, Xiaodong He, Li Deng, Dapeng Wu
 mathjax: true
 ---

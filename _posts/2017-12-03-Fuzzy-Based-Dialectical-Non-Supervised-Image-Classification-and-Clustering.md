@@ -3,7 +3,7 @@ layout: post
 title: "Fuzzy-Based Dialectical Non-Supervised Image Classification and Clustering"
 date: 2017-12-03 17:56:15
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV GAN Image_Classification Classification
 author: Wellington Pinheiro dos Santos, Francisco Marcos de Assis, Ricardo Emmanuel de Souza, Priscilla B. Mendes, Henrique S. S. Monteiro, Havana Diogo Alves
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "LCDet: Low-Complexity Fully-Convolutional Neural Networks for Object Detection in Embedded Systems"
 date: 2017-05-16 21:05:49
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection CNN Detection
+tags: arXiv_CV Object_Detection Face_Detection CNN Image_Classification Classification Detection
 author: Subarna Tripathi, Gokce Dane, Byeongkeun Kang, Vasudev Bhaskaran, Truong Nguyen
 mathjax: true
 ---

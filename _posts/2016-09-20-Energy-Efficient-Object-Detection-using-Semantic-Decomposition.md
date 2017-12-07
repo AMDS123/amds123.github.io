@@ -3,7 +3,7 @@ layout: post
 title: "Energy-Efficient Object Detection using Semantic Decomposition"
 date: 2016-09-20 14:38:32
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Priyadarshini Panda, Swagath Venkataramani, Abhronil Sengupta, Anand Raghunathan, Kaushik Roy
 mathjax: true
 ---

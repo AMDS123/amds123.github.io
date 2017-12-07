@@ -3,7 +3,7 @@ layout: post
 title: "Joint Embedding and Classification for SAR Target Recognition"
 date: 2017-12-05 07:45:18
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning Recognition
+tags: arXiv_CV Classification Deep_Learning Recognition
 author: Jiayun Wang, Patrick Virtue, Stella X. Yu
 mathjax: true
 ---

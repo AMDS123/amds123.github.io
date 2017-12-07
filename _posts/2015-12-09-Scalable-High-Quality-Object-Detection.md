@@ -3,7 +3,7 @@ layout: post
 title: "Scalable, High-Quality Object Detection"
 date: 2015-12-09 03:41:42
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Christian Szegedy, Scott Reed, Dumitru Erhan, Dragomir Anguelov, Sergey Ioffe
 mathjax: true
 ---

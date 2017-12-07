@@ -3,7 +3,7 @@ layout: post
 title: "Graph Distillation for Action Detection with Privileged Information"
 date: 2017-11-30 22:40:59
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Detection
+tags: arXiv_CV Video_Caption Classification Detection
 author: Zelun Luo, Lu Jiang, Jun-Ting Hsieh, Juan Carlos Niebles, Li Fei-Fei
 mathjax: true
 ---

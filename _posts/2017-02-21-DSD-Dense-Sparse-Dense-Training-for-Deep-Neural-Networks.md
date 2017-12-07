@@ -3,7 +3,7 @@ layout: post
 title: "DSD: Dense-Sparse-Dense Training for Deep Neural Networks"
 date: 2017-02-21 20:51:05
 categories: arXiv_CV
-tags: arXiv_CV Speech_Recognition Caption RNN Recognition
+tags: arXiv_CV Speech_Recognition Caption Image_Classification RNN Classification Recognition
 author: Song Han, Jeff Pool, Sharan Narang, Huizi Mao, Enhao Gong, Shijian Tang, Erich Elsen, Peter Vajda, Manohar Paluri, John Tran, Bryan Catanzaro, William J. Dally
 mathjax: true
 ---

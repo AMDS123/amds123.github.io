@@ -3,7 +3,7 @@ layout: post
 title: "Dialectical Multispectral Classification of Diffusion-Weighted Magnetic Resonance Images as an Alternative to Apparent Diffusion Coefficients Maps to Perform Anatomical Analysis"
 date: 2017-12-03 18:23:33
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Classification
 author: Wellington Pinheiro dos Santos, Francisco Marcos de Assis, Ricardo Emmanuel de Souza, Plínio Batista dos Santos Filho, Fernando Buarque de Lima Neto
 mathjax: true
 ---

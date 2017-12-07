@@ -3,7 +3,7 @@ layout: post
 title: "Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection"
 date: 2017-03-09 01:19:53
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Yu Xiang, Wongun Choi, Yuanqing Lin, Silvio Savarese
 mathjax: true
 ---

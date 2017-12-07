@@ -3,7 +3,7 @@ layout: post
 title: "Seq-NMS for Video Object Detection"
 date: 2016-08-22 23:16:49
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection Recognition
+tags: arXiv_CV Object_Detection Classification Detection Recognition
 author: Wei Han, Pooya Khorrami, Tom Le Paine, Prajit Ramachandran, Mohammad Babaeizadeh, Honghui Shi, Jianan Li, Shuicheng Yan, Thomas S. Huang
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Joint 3D Proposal Generation and Object Detection from View Aggregation"
 date: 2017-12-06 17:20:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Jason Ku, Melissa Mozifian, Jungwook Lee, Ali Harakeh, Steven Waslander
 mathjax: true
 ---

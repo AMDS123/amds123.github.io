@@ -3,7 +3,7 @@ layout: post
 title: "Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training"
 date: 2017-12-05 19:48:11
 categories: arXiv_CV
-tags: arXiv_CV Speech_Recognition Recognition
+tags: arXiv_CV Speech_Recognition Image_Classification Classification Recognition
 author: Yujun Lin, Song Han, Huizi Mao, Yu Wang, William J. Dally
 mathjax: true
 ---

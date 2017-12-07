@@ -3,7 +3,7 @@ layout: post
 title: "The 'something something' video database for learning and evaluating visual common sense"
 date: 2017-06-15 21:15:13
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Caption Classification
 author: Raghav Goyal, Samira Ebrahimi Kahou, Vincent Michalski, Joanna Materzyńska, Susanne Westphal, Heuna Kim, Valentin Haenel, Ingo Fruend, Peter Yianilos, Moritz Mueller-Freitag, Florian Hoppe, Christian Thurau, Ingo Bax, Roland Memisevic
 mathjax: true
 ---

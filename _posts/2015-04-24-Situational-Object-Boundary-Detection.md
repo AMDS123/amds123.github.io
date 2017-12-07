@@ -3,7 +3,7 @@ layout: post
 title: "Situational Object Boundary Detection"
 date: 2015-04-24 09:15:33
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Object_Detection Segmentation Classification Detection
 author: Jasper Uijlings, Vittorio Ferrari
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Precision Scaling of Neural Networks for Efficient Audio Processing"
 date: 2017-12-04 20:39:05
 categories: arXiv_SD
-tags: arXiv_SD Detection
+tags: arXiv_SD Classification Detection
 author: Jong Hwan Ko, Josh Fromm, Matthai Philipose, Ivan Tashev, Shuayb Zarar
 mathjax: true
 ---

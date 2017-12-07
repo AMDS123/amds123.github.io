@@ -3,7 +3,7 @@ layout: post
 title: "High-for-Low and Low-for-High: Efficient Boundary Detection from Deep Object Features and its Applications to High-Level Vision"
 date: 2015-09-21 17:48:23
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Semantic_Segmentation Detection
+tags: arXiv_CV Segmentation Semantic_Segmentation Classification Detection
 author: Gedas Bertasius, Jianbo Shi, Lorenzo Torresani
 mathjax: true
 ---

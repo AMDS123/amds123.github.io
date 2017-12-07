@@ -3,7 +3,7 @@ layout: post
 title: "OLÉ: Orthogonal Low-rank Embedding, A Plug and Play Geometric Loss for Deep Learning"
 date: 2017-12-05 16:03:56
 categories: arXiv_CV
-tags: arXiv_CV GAN Deep_Learning Recognition
+tags: arXiv_CV GAN Image_Classification Classification Deep_Learning Recognition
 author: José Lezama, Qiang Qiu, Pablo Musé, Guillermo Sapiro
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Deep learning analysis of the myocardium in coronary CT angiography for identification of patients with functionally significant coronary artery stenosis"
 date: 2017-12-06 09:22:49
 categories: arXiv_CV
-tags: arXiv_CV Segmentation CNN Deep_Learning
+tags: arXiv_CV Segmentation CNN Classification Deep_Learning
 author: Majd Zreik, Nikolas Lessmann, Robbert W. van Hamersvelt, Jelmer M. Wolterink, Michiel Voskuil, Max A. Viergever, Tim Leiner, Ivana I&#x161;gum
 mathjax: true
 ---

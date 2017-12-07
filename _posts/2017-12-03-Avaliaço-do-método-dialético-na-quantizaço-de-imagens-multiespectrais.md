@@ -3,7 +3,7 @@ layout: post
 title: "Avaliação do método dialético na quantização de imagens multiespectrais"
 date: 2017-12-03 18:13:27
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV GAN Classification
 author: Wellington Pinheiro dos Santos, Francisco Marcos de Assis
 mathjax: true
 ---

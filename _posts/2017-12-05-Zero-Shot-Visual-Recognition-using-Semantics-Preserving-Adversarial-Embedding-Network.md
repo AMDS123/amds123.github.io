@@ -3,7 +3,7 @@ layout: post
 title: "Zero-Shot Visual Recognition using Semantics-Preserving Adversarial Embedding Network"
 date: 2017-12-05 21:16:52
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Recognition
+tags: arXiv_CV Adversarial Classification Recognition
 author: Long Chen, Hanwang Zhang, Jun Xiao, Wei Liu, Shih-Fu Chang
 mathjax: true
 ---

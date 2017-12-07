@@ -3,7 +3,7 @@ layout: post
 title: "Keypoint Density-based Region Proposal for Fine-Grained Object Detection and Classification using Regions with Convolutional Neural Network Features"
 date: 2016-03-01 21:48:58
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: JT Turner, Kalyan Gupta, Brendan Morris, David W. Aha
 mathjax: true
 ---

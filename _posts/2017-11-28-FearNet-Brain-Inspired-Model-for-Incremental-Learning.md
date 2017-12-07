@@ -3,7 +3,7 @@ layout: post
 title: "FearNet: Brain-Inspired Model for Incremental Learning"
 date: 2017-11-28 21:26:15
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Classification
 author: Ronald Kemker, Christopher Kanan
 mathjax: true
 ---

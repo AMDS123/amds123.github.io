@@ -3,7 +3,7 @@ layout: post
 title: "Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels"
 date: 2016-04-12 19:58:29
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Image_Classification Classification
 author: Ishan Misra, C. Lawrence Zitnick, Margaret Mitchell, Ross Girshick
 mathjax: true
 ---

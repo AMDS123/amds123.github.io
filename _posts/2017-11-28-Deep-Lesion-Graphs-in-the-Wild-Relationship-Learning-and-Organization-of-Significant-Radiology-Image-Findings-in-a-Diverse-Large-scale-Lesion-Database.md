@@ -3,7 +3,7 @@ layout: post
 title: "Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database"
 date: 2017-11-28 20:06:10
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV GAN Classification
 author: Ke Yan, Xiaosong Wang, Le Lu, Ling Zhang, Adam Harrison, Mohammadhad Bagheri, Ronald Summers
 mathjax: true
 ---

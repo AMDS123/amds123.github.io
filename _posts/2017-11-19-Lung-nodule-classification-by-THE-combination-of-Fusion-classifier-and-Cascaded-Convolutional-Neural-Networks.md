@@ -3,7 +3,7 @@ layout: post
 title: "Lung nodule classification by THE combination of Fusion classifier and Cascaded Convolutional Neural Networks"
 date: 2017-11-19 06:22:20
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV CNN Classification
 author: Masaharu Sakamoto, Hiroki Nakano, Kun Zhao, Taro Sekiyam
 mathjax: true
 ---

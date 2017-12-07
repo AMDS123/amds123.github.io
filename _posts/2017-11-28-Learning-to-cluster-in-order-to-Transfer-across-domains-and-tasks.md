@@ -3,7 +3,7 @@ layout: post
 title: "Learning to cluster in order to Transfer across domains and tasks"
 date: 2017-11-28 04:59:58
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Classification
 author: Yen-Chang Hsu, Zhaoyang Lv, Zsolt Kira
 mathjax: true
 ---

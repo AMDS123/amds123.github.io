@@ -3,7 +3,7 @@ layout: post
 title: "Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering"
 date: 2016-07-28 04:44:36
 categories: arXiv_CV
-tags: arXiv_CV CNN VQA
+tags: arXiv_CV CNN Classification VQA
 author: Arun Mallya, Svetlana Lazebnik
 mathjax: true
 ---

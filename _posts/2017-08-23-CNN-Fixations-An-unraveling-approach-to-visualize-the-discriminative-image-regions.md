@@ -3,7 +3,7 @@ layout: post
 title: "CNN Fixations: An unraveling approach to visualize the discriminative image regions"
 date: 2017-08-23 05:08:48
 categories: arXiv_CV
-tags: arXiv_CV Caption CNN Detection Recognition
+tags: arXiv_CV Caption CNN Classification Detection Recognition
 author: Konda Reddy Mopuri, Utsav Garg, R. Venkatesh Babu
 mathjax: true
 ---

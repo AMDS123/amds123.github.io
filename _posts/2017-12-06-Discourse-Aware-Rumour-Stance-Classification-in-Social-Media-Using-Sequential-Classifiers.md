@@ -3,7 +3,7 @@ layout: post
 title: "Discourse-Aware Rumour Stance Classification in Social Media Using Sequential Classifiers"
 date: 2017-12-06 15:15:21
 categories: arXiv_CL
-tags: arXiv_CL RNN Memory_Networks
+tags: arXiv_CL RNN Classification Memory_Networks
 author: Arkaitz Zubiaga, Elena Kochkina, Maria Liakata, Rob Procter, Michal Lukasik, Kalina Bontcheva, Trevor Cohn, Isabelle Augenstein
 mathjax: true
 ---

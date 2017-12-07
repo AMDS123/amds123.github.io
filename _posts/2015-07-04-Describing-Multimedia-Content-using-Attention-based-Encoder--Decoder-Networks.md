@@ -3,7 +3,7 @@ layout: post
 title: "Describing Multimedia Content using Attention-based Encoder--Decoder Networks"
 date: 2015-07-04 01:06:16
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Speech_Recognition Caption CNN RNN Recognition
+tags: arXiv_CV Image_Caption Speech_Recognition Caption CNN RNN Classification Recognition
 author: Kyunghyun Cho, Aaron Courville, Yoshua Bengio
 mathjax: true
 ---

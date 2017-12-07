@@ -3,7 +3,7 @@ layout: post
 title: "Triagem virtual de imagens de imuno-histoqu'imica usando redes neurais artificiais e espectro de padr~oes"
 date: 2017-12-03 18:06:22
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV GAN Image_Classification Classification
 author: Higor Neto Lima, Wellington Pinheiro dos Santos, M&#xea;user Jorge Silva Valen&#xe7;a
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Weakly Supervised Learning for Salient Object Detection"
 date: 2015-09-08 13:34:24
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Object_Detection Weakly_Supervised Classification Detection
 author: Huaizu Jiang
 mathjax: true
 ---

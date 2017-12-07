@@ -3,7 +3,7 @@ layout: post
 title: "Hierarchical Bayesian image analysis: from low-level modeling to robust supervised learning"
 date: 2017-12-01 15:32:58
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Classification
 author: Adrien Lagrange, Mathieu Fauvel, Stéphane May, Nicolas Dobigeon
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Dropout Sampling for Robust Object Detection in Open-Set Conditions"
 date: 2017-10-18 11:16:53
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Deep_Learning Detection
+tags: arXiv_CV Object_Detection Image_Classification Classification Deep_Learning Detection
 author: Dimity Miller, Lachlan Nicholson, Feras Dayoub, Niko Sünderhauf
 mathjax: true
 ---

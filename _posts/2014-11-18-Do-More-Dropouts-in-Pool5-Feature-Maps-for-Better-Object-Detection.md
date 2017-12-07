@@ -3,7 +3,7 @@ layout: post
 title: "Do More Dropouts in Pool5 Feature Maps for Better Object Detection"
 date: 2014-11-18 17:34:22
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Image_Classification Classification Detection
 author: Zhiqiang Shen, Xiangyang Xue
 mathjax: true
 ---

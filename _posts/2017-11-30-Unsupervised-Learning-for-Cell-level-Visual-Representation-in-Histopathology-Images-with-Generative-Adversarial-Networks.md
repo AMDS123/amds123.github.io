@@ -3,7 +3,7 @@ layout: post
 title: "Unsupervised Learning for Cell-level Visual Representation in Histopathology Images with Generative Adversarial Networks"
 date: 2017-11-30 10:53:56
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Segmentation GAN
+tags: arXiv_CV Adversarial Segmentation GAN Image_Classification Classification
 author: Bo Hu, Ye Tang, Eric I-Chao Chang, Yubo Fan, Maode Lai, Yan Xu
 mathjax: true
 ---

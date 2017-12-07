@@ -3,7 +3,7 @@ layout: post
 title: "Delegating Custom Object Detection Tasks to a Universal Classification System"
 date: 2013-12-19 08:17:24
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Andrew Gleibman
 mathjax: true
 ---

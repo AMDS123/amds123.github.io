@@ -3,7 +3,7 @@ layout: post
 title: "Adversarial Examples for Semantic Segmentation and Object Detection"
 date: 2017-07-21 17:27:17
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Object_Detection Segmentation Semantic_Segmentation Detection Recognition
+tags: arXiv_CV Adversarial Object_Detection Segmentation Image_Classification Semantic_Segmentation Classification Detection Recognition
 author: Cihang Xie, Jianyu Wang, Zhishuai Zhang, Yuyin Zhou, Lingxi Xie, Alan Yuille
 mathjax: true
 ---

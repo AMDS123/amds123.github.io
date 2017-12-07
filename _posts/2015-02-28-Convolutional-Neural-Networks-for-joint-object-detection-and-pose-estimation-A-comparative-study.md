@@ -3,7 +3,7 @@ layout: post
 title: "Convolutional Neural Networks for joint object detection and pose estimation: A comparative study"
 date: 2015-02-28 05:15:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Francisco Massa, Mathieu Aubry, Renaud Marlet
 mathjax: true
 ---

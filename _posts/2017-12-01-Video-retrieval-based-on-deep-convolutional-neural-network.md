@@ -3,7 +3,7 @@ layout: post
 title: "Video retrieval based on deep convolutional neural network"
 date: 2017-12-01 00:07:47
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV CNN Classification
 author: Yj Dong, JG Li
 mathjax: true
 ---

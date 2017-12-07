@@ -3,7 +3,7 @@ layout: post
 title: "Relief R-CNN : Utilizing Convolutional Features for Fast Object Detection"
 date: 2017-04-26 07:12:14
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Guiying Li, Junlong Liu, Chunhui Jiang, Liangpeng Zhang, Minlong Lin, Ke Tang
 mathjax: true
 ---

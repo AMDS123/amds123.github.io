@@ -3,7 +3,7 @@ layout: post
 title: "Accurate classification of 29 objects detected in the 39 months Palermo Swift/BAT hard X-ray catalogue"
 date: 2012-06-22 09:31:18
 categories: arXiv_CV
-tags: arXiv_CV Survey
+tags: arXiv_CV Survey Classification
 author: P. Parisi, N. Masetti, E. Jiménez-Bailón, V. Chavushyan, E. Palazzi, R. Landi, A. Malizia, L. Bassani, A. Bazzano, A. J. Bird, P. A. Charles, G. Galaz, E. Mason, V. A. McBride, D. Minniti, L. Morelli, F. Schiavone, P. Ubertini
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A Generalised Seizure Prediction with Convolutional Neural Networks for Intracranial and Scalp Electroencephalogram Data Analysis"
 date: 2017-12-06 11:48:22
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV CNN Classification
 author: Nhan Duy Truong, Anh Duy Nguyen, Levin Kuhlmann, Mohammad Reza Bonyadi, Jiawei Yang, Omid Kavehei
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "AttentionNet: Aggregating Weak Directions for Accurate Object Detection"
 date: 2015-09-26 08:35:51
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Donggeun Yoo, Sunggyun Park, Joon-Young Lee, Anthony S. Paek, In So Kweon
 mathjax: true
 ---

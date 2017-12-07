@@ -3,7 +3,7 @@ layout: post
 title: "Noise reduction in muon tomography for detecting high density objects"
 date: 2013-12-09 11:55:25
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Classification
 author: M. Benettoni, G. Bettella, G. Bonomi, G. Calvagno, P. Calvini, P. Checchia, G. Cortelazzo, L. Cossutta, A. Donzella, M. Furlan, F. Gonella, M. Pegoraro, A. Rigoni Garola, P. Ronchese, S. Squarcia, M. Subieta, S. Vanini, G. Viesti, P. Zanuttigh, A. Zenoni, G. Zumerle
 mathjax: true
 ---

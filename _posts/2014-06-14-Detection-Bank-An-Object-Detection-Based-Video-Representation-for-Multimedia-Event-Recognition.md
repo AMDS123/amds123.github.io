@@ -3,7 +3,7 @@ layout: post
 title: "Detection Bank: An Object Detection Based Video Representation for Multimedia Event Recognition"
 date: 2014-06-14 20:17:48
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Object_Detection Detection Recognition
+tags: arXiv_CV Image_Caption Object_Detection Classification Detection Recognition
 author: Tim Althoff, Hyun Oh Song, Trevor Darrell
 mathjax: true
 ---

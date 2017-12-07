@@ -3,7 +3,7 @@ layout: post
 title: "Arbitrary Facial Attribute Editing: Only Change What You Want"
 date: 2017-11-29 04:50:31
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN
+tags: arXiv_CV Adversarial GAN Classification
 author: Zhenliang He, Wangmeng Zuo, Meina Kan, Shiguang Shan, Xilin Chen
 mathjax: true
 ---

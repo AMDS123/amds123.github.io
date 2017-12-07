@@ -3,7 +3,7 @@ layout: post
 title: "Wide Field Imaging. I. Applications of Neural Networks to object detection and star/galaxy classification"
 date: 2000-06-08 16:34:30
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: S. Andreon (1), G. Gargiulo (2,3), G. Longo (1), R. Tagliaferri (4,5), N. Capuano (2) ((1) Oss. Astron. Capodimonte, (2) Univ. Salerno, (3) IIASS, (4) DMI, Univ. Salerno, (5) INFM, Univ. Salerno)
 mathjax: true
 ---

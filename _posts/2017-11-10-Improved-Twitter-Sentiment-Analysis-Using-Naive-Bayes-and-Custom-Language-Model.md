@@ -3,7 +3,7 @@ layout: post
 title: "Improved Twitter Sentiment Analysis Using Naive Bayes and Custom Language Model"
 date: 2017-11-10 20:04:23
 categories: arXiv_CL
-tags: arXiv_CL GAN
+tags: arXiv_CL GAN Classification
 author: Angela Lin
 mathjax: true
 ---

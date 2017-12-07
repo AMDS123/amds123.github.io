@@ -3,7 +3,7 @@ layout: post
 title: "Automatic Segmentation and Overall Survival Prediction in Gliomas using Fully Convolutional Neural Network and Texture Analysis"
 date: 2017-12-06 07:45:38
 categories: arXiv_CV
-tags: arXiv_CV Segmentation CNN
+tags: arXiv_CV Segmentation CNN Classification
 author: Varghese Alex, Mohammed Safwan, Ganapathy Krishnamurthi
 mathjax: true
 ---

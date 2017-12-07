@@ -3,7 +3,7 @@ layout: post
 title: "Deformable Part-based Fully Convolutional Network for Object Detection"
 date: 2017-07-19 16:03:05
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Taylor Mordan, Nicolas Thome, Matthieu Cord, Gilles Henaff
 mathjax: true
 ---

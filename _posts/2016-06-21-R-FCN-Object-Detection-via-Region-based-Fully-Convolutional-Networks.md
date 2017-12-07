@@ -3,7 +3,7 @@ layout: post
 title: "R-FCN: Object Detection via Region-based Fully Convolutional Networks"
 date: 2016-06-21 15:28:57
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Image_Classification Classification Detection
 author: Jifeng Dai, Yi Li, Kaiming He, Jian Sun
 mathjax: true
 ---

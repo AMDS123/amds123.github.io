@@ -3,7 +3,7 @@ layout: post
 title: "A Pitfall of Unsupervised Pre-Training"
 date: 2017-11-23 14:54:18
 categories: arXiv_CV
-tags: arXiv_CV CNN Deep_Learning
+tags: arXiv_CV CNN Classification Deep_Learning
 author: Michele Alberti, Mathias Seuret, Rolf Ingold, Marcus Liwicki
 mathjax: true
 ---

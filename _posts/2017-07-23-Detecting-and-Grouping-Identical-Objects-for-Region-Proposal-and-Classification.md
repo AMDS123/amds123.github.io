@@ -3,7 +3,7 @@ layout: post
 title: "Detecting and Grouping Identical Objects for Region Proposal and Classification"
 date: 2017-07-23 07:11:35
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV CNN Classification
 author: Wim Abbeloos, Sergio Caccamo, Esra Ataer-Cansizoglu, Yuichi Taguchi, Chen Feng, Teng-Yok Lee
 mathjax: true
 ---

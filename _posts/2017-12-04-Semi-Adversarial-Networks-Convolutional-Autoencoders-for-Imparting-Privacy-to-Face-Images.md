@@ -3,7 +3,7 @@ layout: post
 title: "Semi-Adversarial Networks: Convolutional Autoencoders for Imparting Privacy to Face Images"
 date: 2017-12-04 16:19:05
 categories: arXiv_CV
-tags: arXiv_CV Adversarial CNN Recognition
+tags: arXiv_CV Adversarial CNN Classification Recognition
 author: Vahid Mirjalili, Sebastian Raschka, Anoop Namboodiri, Arun Ross
 mathjax: true
 ---

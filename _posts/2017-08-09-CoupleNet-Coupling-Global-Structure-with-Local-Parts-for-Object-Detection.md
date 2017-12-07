@@ -3,7 +3,7 @@ layout: post
 title: "CoupleNet: Coupling Global Structure with Local Parts for Object Detection"
 date: 2017-08-09 15:07:23
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Classification Detection
 author: Yousong Zhu, Chaoyang Zhao, Jinqiao Wang, Xu Zhao, Yi Wu, Hanqing Lu
 mathjax: true
 ---

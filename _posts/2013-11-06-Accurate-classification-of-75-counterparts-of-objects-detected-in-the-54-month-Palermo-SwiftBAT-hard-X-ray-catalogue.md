@@ -3,7 +3,7 @@ layout: post
 title: "Accurate classification of 75 counterparts of objects detected in the 54 month Palermo Swift/BAT hard X-ray catalogue"
 date: 2013-11-06 17:48:08
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Classification
 author: P. Parisi, N. Masetti, A.F. Rojas, E. Jiménez-Bailón, V. Chavushyan, E. Palazzi, L. Bassani, A. Bazzano, A.J. Bird, G. Galaz, D. Minniti, L. Morelli, P. Ubertini
 mathjax: true
 ---

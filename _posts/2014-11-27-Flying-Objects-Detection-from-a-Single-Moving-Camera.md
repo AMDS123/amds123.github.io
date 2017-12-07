@@ -3,7 +3,7 @@ layout: post
 title: "Flying Objects Detection from a Single Moving Camera"
 date: 2014-11-27 22:39:50
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Classification Detection
 author: Artem Rozantsev, Vincent Lepetit, Pascal Fua
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "S-OHEM: Stratified Online Hard Example Mining for Object Detection"
 date: 2017-08-15 08:41:43
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection Recognition
+tags: arXiv_CV Object_Detection Classification Detection Recognition
 author: Minne Li, Zhaoning Zhang, Hao Yu, Xinyuan Chen, Dongsheng Li
 mathjax: true
 ---

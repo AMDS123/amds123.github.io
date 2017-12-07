@@ -3,7 +3,7 @@ layout: post
 title: "Object Class Detection and Classification using Multi Scale Gradient and Corner Point based Shape Descriptors"
 date: 2015-05-03 14:06:08
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Basura Fernando, Sezer Karaoglu, Sajib Kumar Saha
 mathjax: true
 ---

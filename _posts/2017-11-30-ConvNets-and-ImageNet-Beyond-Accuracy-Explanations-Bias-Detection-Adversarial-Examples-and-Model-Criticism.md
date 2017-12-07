@@ -3,7 +3,7 @@ layout: post
 title: "ConvNets and ImageNet Beyond Accuracy: Explanations, Bias Detection, Adversarial Examples and Model Criticism"
 date: 2017-11-30 14:50:55
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Deep_Learning Detection
+tags: arXiv_CV Adversarial Image_Classification Classification Deep_Learning Detection
 author: Pierre Stock, Moustapha Cisse
 mathjax: true
 ---

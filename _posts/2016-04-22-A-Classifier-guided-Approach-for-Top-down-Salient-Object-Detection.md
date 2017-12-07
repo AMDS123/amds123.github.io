@@ -3,7 +3,7 @@ layout: post
 title: "A Classifier-guided Approach for Top-down Salient Object Detection"
 date: 2016-04-22 08:43:34
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Object_Detection Segmentation Image_Classification Classification Detection
 author: Hisham Cholakkal, Jubin Johnson, Deepu Rajan
 mathjax: true
 ---

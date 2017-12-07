@@ -3,7 +3,7 @@ layout: post
 title: "Sushi Dish - Object detection and classification from real images"
 date: 2017-10-15 16:18:10
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Classification Detection
 author: Yeongjin Oh, Seunghyun Son, Gyumin Sim
 mathjax: true
 ---

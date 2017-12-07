@@ -3,7 +3,7 @@ layout: post
 title: "Top-down Visual Saliency Guided by Captions"
 date: 2017-04-12 22:49:47
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption
+tags: arXiv_CV Video_Caption Caption Classification
 author: Vasili Ramanishka, Abir Das, Jianming Zhang, Kate Saenko
 mathjax: true
 ---
