@@ -3,7 +3,7 @@ layout: post
 title: "Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition"
 date: 2017-04-23 20:17:12
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Relation
 author: Yufei Wang, Zhe Lin, Xiaohui Shen, Scott Cohen, Garrison W. Cottrell
 mathjax: true
 ---

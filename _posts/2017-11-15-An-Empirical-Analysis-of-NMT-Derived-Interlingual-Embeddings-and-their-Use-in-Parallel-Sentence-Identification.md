@@ -3,7 +3,7 @@ layout: post
 title: "An Empirical Analysis of NMT-Derived Interlingual Embeddings and their Use in Parallel Sentence Identification"
 date: 2017-11-15 10:01:13
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Embedding NMT
 author: Cristina España-Bonet, Ádám Csaba Varga, Alberto Barrón-Cedeño, Josef van Genabith
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Text Generation Based on Generative Adversarial Nets with Latent Variable"
 date: 2017-12-01 03:14:51
 categories: arXiv_CL
-tags: arXiv_CL Adversarial GAN CNN
+tags: arXiv_CL Adversarial GAN Text_Generation CNN Language_Model
 author: Heng Wang, Zengchang Qin, Tao Wan
 mathjax: true
 ---

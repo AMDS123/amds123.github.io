@@ -3,7 +3,7 @@ layout: post
 title: "Deep Contrast Learning for Salient Object Detection"
 date: 2016-03-07 08:50:33
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Salient Object_Detection CNN Detection
 author: Guanbin Li, Yizhou Yu
 mathjax: true
 ---

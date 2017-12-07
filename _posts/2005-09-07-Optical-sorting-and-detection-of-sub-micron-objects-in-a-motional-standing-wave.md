@@ -3,7 +3,7 @@ layout: post
 title: "Optical sorting and detection of sub-micron objects in a motional standing wave"
 date: 2005-09-07 09:39:32
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Face Detection
 author: Tomas Cizmar (1), Martin Siler (1), Mojmir Sery (1), Pavel Zemanek (1)Veneranda Garces-Chavez (2), Kishan Dholakia (2) ((1) Institute of Scientific Instruments, Academy of Sciences of the Czech Republic, (2) School of Physics and Astronomy, University of St. Andrews)
 mathjax: true
 ---

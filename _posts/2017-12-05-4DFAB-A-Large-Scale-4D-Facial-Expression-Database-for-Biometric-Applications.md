@@ -3,7 +3,7 @@ layout: post
 title: "4DFAB: A Large Scale 4D Facial Expression Database for Biometric Applications"
 date: 2017-12-05 02:13:39
 categories: arXiv_CV
-tags: arXiv_CV Recognition
+tags: arXiv_CV Face Recognition
 author: Shiyang Cheng, Irene Kotsia, Maja Pantic, Stefanos Zafeiriou
 mathjax: true
 ---

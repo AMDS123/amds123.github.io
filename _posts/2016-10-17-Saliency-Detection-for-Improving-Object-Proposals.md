@@ -3,7 +3,7 @@ layout: post
 title: "Saliency Detection for Improving Object Proposals"
 date: 2016-10-17 06:30:08
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Detection
 author: Shuhan Chen, Jindong Li, Xuelong Hu, Ping Zhou
 mathjax: true
 ---

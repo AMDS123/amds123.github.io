@@ -3,7 +3,7 @@ layout: post
 title: "Inertial-aided Rolling Shutter Relative Pose Estimation"
 date: 2017-12-01 04:16:36
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Pose_Estimation
 author: Chang-Ryeol Lee, Kuk-Jin Yoon
 mathjax: true
 ---

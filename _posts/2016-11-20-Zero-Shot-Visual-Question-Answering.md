@@ -3,7 +3,7 @@ layout: post
 title: "Zero-Shot Visual Question Answering"
 date: 2016-11-20 21:51:24
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Embedding VQA
 author: Damien Teney, Anton van den Hengel
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "C-VQA: A Compositional Split of the Visual Question Answering v1.0 Dataset"
 date: 2017-04-26 17:57:59
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning VQA
+tags: arXiv_CV QA Attention Deep_Learning Relation VQA
 author: Aishwarya Agrawal, Aniruddha Kembhavi, Dhruv Batra, Devi Parikh
 mathjax: true
 ---

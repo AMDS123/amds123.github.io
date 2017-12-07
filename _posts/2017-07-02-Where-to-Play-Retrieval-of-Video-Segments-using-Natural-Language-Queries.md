@@ -3,7 +3,7 @@ layout: post
 title: "Where to Play: Retrieval of Video Segments using Natural-Language Queries"
 date: 2017-07-02 07:56:06
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Tracking Caption
+tags: arXiv_CV Image_Caption Tracking Caption Quantitative Relation
 author: Sangkuk Lee, Daesik Kim, Myunggi Lee, Jihye Hwang, Nojun Kwak
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Contextual Object Detection with a Few Relevant Neighbors"
 date: 2017-11-18 19:08:40
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Inference Detection Relation
 author: Ehud Barnea, Ohad Ben-Shahar
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "STAIR Captions: Constructing a Large-Scale Japanese Image Caption Dataset"
 date: 2017-05-02 07:07:55
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Attention Caption
 author: Yuya Yoshikawa, Yutaro Shigeto, Akikazu Takeuchi
 mathjax: true
 ---

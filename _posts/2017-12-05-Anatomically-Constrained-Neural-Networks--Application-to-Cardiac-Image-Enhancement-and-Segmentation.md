@@ -3,7 +3,7 @@ layout: post
 title: "Anatomically Constrained Neural Networks : Application to Cardiac Image Enhancement and Segmentation"
 date: 2017-12-05 23:04:00
 categories: arXiv_CV
-tags: arXiv_CV Segmentation GAN Image_Enhancement Classification
+tags: arXiv_CV Knowledge Segmentation GAN Image_Enhancement Classification Prediction
 author: Ozan Oktay, Enzo Ferrante, Konstantinos Kamnitsas, Mattias Heinrich, Wenjia Bai, Jose Caballero, Stuart Cook, Antonio de Marvao, Timothy Dawes, Declan O&#x27;Regan, Bernhard Kainz, Ben Glocker, Daniel Rueckert
 mathjax: true
 ---

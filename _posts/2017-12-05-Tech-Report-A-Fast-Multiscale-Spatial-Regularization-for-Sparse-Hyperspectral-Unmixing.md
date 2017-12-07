@@ -3,7 +3,7 @@ layout: post
 title: "Tech Report: A Fast Multiscale Spatial Regularization for Sparse Hyperspectral Unmixing"
 date: 2017-12-05 17:24:54
 categories: arXiv_CV
-tags: arXiv_CV Regularization
+tags: arXiv_CV Regularization Sparse Optimization
 author: Ricardo Augusto Borsoi, Tales Imbiriba, José Carlos Moreira Bermudez, Cédric Richard
 mathjax: true
 ---

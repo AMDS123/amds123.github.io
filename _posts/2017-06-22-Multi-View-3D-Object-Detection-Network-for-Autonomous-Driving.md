@@ -3,7 +3,7 @@ layout: post
 title: "Multi-View 3D Object Detection Network for Autonomous Driving"
 date: 2017-06-22 03:23:51
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Detection
 author: Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, Tian Xia
 mathjax: true
 ---

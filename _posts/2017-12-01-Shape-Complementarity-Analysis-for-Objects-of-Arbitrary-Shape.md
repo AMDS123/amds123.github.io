@@ -3,7 +3,7 @@ layout: post
 title: "Shape Complementarity Analysis for Objects of Arbitrary Shape"
 date: 2017-12-01 09:07:14
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV GAN Optimization Relation
 author: Morad Behandish, Horea T. Ilies
 mathjax: true
 ---

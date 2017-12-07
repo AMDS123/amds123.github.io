@@ -3,7 +3,7 @@ layout: post
 title: "Learning a Deep Embedding Model for Zero-Shot Learning"
 date: 2017-04-12 10:30:48
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Embedding
 author: Li Zhang, Tao Xiang, Shaogang Gong
 mathjax: true
 ---

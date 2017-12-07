@@ -3,7 +3,7 @@ layout: post
 title: "Spoken Language Translation for Polish"
 date: 2015-11-24 16:28:16
 categories: arXiv_CV
-tags: arXiv_CV Speech_Recognition Caption RNN Recognition
+tags: arXiv_CV Speech_Recognition Caption RNN Language_Model Recognition
 author: Krzysztof Marasek, Łukasz Brocki, Danijel Korzinek, Krzysztof Wołk, Ryszard Gubrynowicz
 mathjax: true
 ---

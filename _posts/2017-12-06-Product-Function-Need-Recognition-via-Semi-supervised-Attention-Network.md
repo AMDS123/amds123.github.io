@@ -3,7 +3,7 @@ layout: post
 title: "Product Function Need Recognition via Semi-supervised Attention Network"
 date: 2017-12-06 13:48:57
 categories: arXiv_CL
-tags: arXiv_CL Recognition
+tags: arXiv_CL QA Attention Recognition
 author: Hu Xu, Sihong Xie, Lei Shu, Philip S. Yu
 mathjax: true
 ---

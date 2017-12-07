@@ -3,7 +3,7 @@ layout: post
 title: "An active state of the BL Lac Object Markarian 421 detected by INTEGRAL in April 2013"
 date: 2014-09-17 15:40:44
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Relation
 author: E. Pian (1, 2, 3), M. Tuerler (4), M. Fiocchi (5), R. Boissay (4), A. Bazzano (5), L. Foschini (6), F. Tavecchio (6), V. Bianchin (1), G. Castignani (7), C. Ferrigno (4), C.M. Raiteri (8), M. Villata (8), V. Beckmann (9), F. D'Ammando (10, 11, 12), R. Hudec (13, 14), G. Malaguti (1), L. Maraschi (6), T. Pursimo (15), P. Romano (16), S. Soldi (17), A. Stamerra (3), A. Treves (18), P. Ubertini (5), S. Vercellone (16), R. Walter (4) ((1) INAF-IASFBo, (2) SNS, (3) INFN-Pisa, (4) ISDC, (5) INAF-IAPS, (6) INAF-OABrera, (7) SISSA/ISAS, (8) INAF-OATorino, (9) Centre Francois Arago APC, (10) Univ. Perugia, (11) INFN Perugia, (12) INAF-IRA, (13) Astron. Inst. Ondrejov, (14) Czech Tech. Univ., (15) NOT (16) INAF-IASFPa, (17) APC, (18) Univ. Insubria)
 mathjax: true
 ---

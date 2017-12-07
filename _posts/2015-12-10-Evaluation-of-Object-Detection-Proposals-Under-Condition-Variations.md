@@ -3,7 +3,7 @@ layout: post
 title: "Evaluation of Object Detection Proposals Under Condition Variations"
 date: 2015-12-10 06:31:59
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Knowledge Detection
 author: Fahimeh Rezazadegan, Sareh Shirazi, Michael Milford, Ben Upcroft
 mathjax: true
 ---

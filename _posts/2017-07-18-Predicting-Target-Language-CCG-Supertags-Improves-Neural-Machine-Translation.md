@@ -3,7 +3,7 @@ layout: post
 title: "Predicting Target Language CCG Supertags Improves Neural Machine Translation"
 date: 2017-07-18 12:07:45
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Embedding NMT
 author: Maria Nadejde, Siva Reddy, Rico Sennrich, Tomasz Dwojak, Marcin Junczys-Dowmunt, Philipp Koehn, Alexandra Birch
 mathjax: true
 ---

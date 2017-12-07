@@ -3,7 +3,7 @@ layout: post
 title: "What's in a Question: Using Visual Questions as a Form of Supervision"
 date: 2017-04-12 18:48:15
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Quantitative VQA
 author: Siddha Ganju, Olga Russakovsky, Abhinav Gupta
 mathjax: true
 ---

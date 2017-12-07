@@ -3,7 +3,7 @@ layout: post
 title: "Feature Selective Networks for Object Detection"
 date: 2017-11-24 06:39:49
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Classification Detection
+tags: arXiv_CV Object_Detection Attention Classification Detection
 author: Yao Zhai, Jingjing Fu, Yan Lu, Houqiang Li
 mathjax: true
 ---

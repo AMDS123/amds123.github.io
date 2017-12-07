@@ -3,7 +3,7 @@ layout: post
 title: "Hierarchical Question-Image Co-Attention for Visual Question Answering"
 date: 2017-01-19 05:03:33
 categories: arXiv_CV
-tags: arXiv_CV CNN VQA
+tags: arXiv_CV QA Attention CNN VQA
 author: Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh
 mathjax: true
 ---

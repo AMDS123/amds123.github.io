@@ -3,7 +3,7 @@ layout: post
 title: "Generalized Haar Filter based Deep Networks for Real-Time Object Detection in Traffic Scene"
 date: 2016-10-30 07:02:57
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Detection
 author: Keyu Lu, Jian Li, Xiangjing An, Hangen He
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Spatial Semantic Regularisation for Large Scale Object Detection"
 date: 2015-10-10 15:15:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Object_Detection Weakly_Supervised Detection Relation
 author: Damian Mrowca, Marcus Rohrbach, Judy Hoffman, Ronghang Hu, Kate Saenko, Trevor Darrell
 mathjax: true
 ---

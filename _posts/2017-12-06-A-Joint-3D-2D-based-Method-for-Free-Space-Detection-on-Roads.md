@@ -3,7 +3,7 @@ layout: post
 title: "A Joint 3D-2D based Method for Free Space Detection on Roads"
 date: 2017-12-06 09:50:59
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation CNN Classification Detection
+tags: arXiv_CV Object_Detection Sparse Segmentation CNN Classification Detection SLAM
 author: Suvam Patra, Pranjal Maheshwari, Shashank Yadav, Chetan Arora, Subhashis Banerjee
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Visual Question Generation as Dual Task of Visual Question Answering"
 date: 2017-09-21 08:04:48
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Relation VQA
 author: Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang
 mathjax: true
 ---

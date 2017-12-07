@@ -3,7 +3,7 @@ layout: post
 title: "Saliency Preservation in Low-Resolution Grayscale Images"
 date: 2017-12-06 05:39:13
 categories: arXiv_CV
-tags: arXiv_CV Tracking Detection
+tags: arXiv_CV Salient Knowledge Tracking Detection
 author: Shivanthan A.C. Yohanandan, Adrian G. Dyer, Dacheng Tao, Andy Song
 mathjax: true
 ---

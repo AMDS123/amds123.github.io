@@ -3,7 +3,7 @@ layout: post
 title: "A Semi-supervised Framework for Image Captioning"
 date: 2017-06-24 08:24:44
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Review Caption
+tags: arXiv_CV Image_Caption Salient Review Attention Caption Embedding
 author: Wenhu Chen, Aurelien Lucchi, Thomas Hofmann
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Bayesian Scale Estimation for Monocular SLAM Based on Generic Object Detection for Correcting Scale Drift"
 date: 2017-11-07 23:28:40
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Quantitative Detection SLAM
 author: Edgar Sucar, Jean-Bernard Hayet
 mathjax: true
 ---

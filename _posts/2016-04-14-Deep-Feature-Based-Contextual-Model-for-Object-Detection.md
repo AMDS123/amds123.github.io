@@ -3,7 +3,7 @@ layout: post
 title: "Deep Feature Based Contextual Model for Object Detection"
 date: 2016-04-14 07:01:23
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Inference Detection Relation
 author: Wenqing Chu, Deng Cai
 mathjax: true
 ---

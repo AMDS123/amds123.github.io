@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Image Virality"
 date: 2015-05-26 16:57:18
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Caption Prediction
 author: Arturo Deza, Devi Parikh
 mathjax: true
 ---

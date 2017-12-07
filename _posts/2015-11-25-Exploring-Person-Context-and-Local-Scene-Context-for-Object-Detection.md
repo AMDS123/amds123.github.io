@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Person Context and Local Scene Context for Object Detection"
 date: 2015-11-25 19:45:03
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Detection Relation
 author: Saurabh Gupta, Bharath Hariharan, Jitendra Malik
 mathjax: true
 ---

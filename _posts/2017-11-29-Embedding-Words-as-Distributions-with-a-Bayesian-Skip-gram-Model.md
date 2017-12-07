@@ -3,7 +3,7 @@ layout: post
 title: "Embedding Words as Distributions with a Bayesian Skip-gram Model"
 date: 2017-11-29 18:55:48
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Embedding
 author: Arthur Bražinskas, Serhii Havrylov, Ivan Titov
 mathjax: true
 ---

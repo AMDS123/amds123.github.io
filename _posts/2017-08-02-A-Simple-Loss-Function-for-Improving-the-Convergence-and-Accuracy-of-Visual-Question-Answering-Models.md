@@ -3,7 +3,7 @@ layout: post
 title: "A Simple Loss Function for Improving the Convergence and Accuracy of Visual Question Answering Models"
 date: 2017-08-02 02:51:32
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning VQA
+tags: arXiv_CV QA Attention Deep_Learning VQA
 author: Ilija Ilievski, Jiashi Feng
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Paying More Attention to Saliency: Image Captioning with Saliency and Context Attention"
 date: 2017-11-04 12:04:01
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN RNN
+tags: arXiv_CV Image_Caption Salient Attention Caption CNN RNN Prediction Quantitative
 author: Marcella Cornia, Lorenzo Baraldi, Giuseppe Serra, Rita Cucchiara
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Structured Set Matching Networks for One-Shot Part Labeling"
 date: 2017-12-05 19:03:08
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption CNN
+tags: arXiv_CV Image_Caption CNN Prediction
 author: Jonghyun Choi, Jayant Krishnamurthy, Aniruddha Kembhavi, Ali Farhadi
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition with MDLSTM Attention"
 date: 2016-08-23 08:47:49
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Segmentation Speech_Recognition Caption RNN Recognition
+tags: arXiv_CV Image_Caption Knowledge Segmentation Attention Speech_Recognition Caption RNN Recognition
 author: Théodore Bluche, Jérôme Louradour, Ronaldo Messina
 mathjax: true
 ---

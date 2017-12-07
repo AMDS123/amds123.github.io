@@ -3,7 +3,7 @@ layout: post
 title: "Learning Language Representations for Typology Prediction"
 date: 2017-07-29 23:38:25
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Knowledge NMT Prediction
 author: Chaitanya Malaviya, Graham Neubig, Patrick Littell
 mathjax: true
 ---

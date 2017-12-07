@@ -3,7 +3,7 @@ layout: post
 title: "Automated Pruning for Deep Neural Network Compression"
 date: 2017-12-05 15:58:44
 categories: arXiv_CV
-tags: arXiv_CV Recognition
+tags: arXiv_CV Transfer_Learning Optimization Recognition
 author: Franco Manessi, Alessandro Rozza, Simone Bianco, Paolo Napoletano, Raimondo Schettini
 mathjax: true
 ---

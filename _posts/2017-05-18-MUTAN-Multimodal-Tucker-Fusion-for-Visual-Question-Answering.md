@@ -3,7 +3,7 @@ layout: post
 title: "MUTAN: Multimodal Tucker Fusion for Visual Question Answering"
 date: 2017-05-18 16:23:22
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Relation VQA
 author: Hedi Ben-younes, Rémi Cadene, Matthieu Cord, Nicolas Thome
 mathjax: true
 ---

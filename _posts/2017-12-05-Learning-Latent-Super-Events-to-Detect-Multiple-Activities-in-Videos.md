@@ -3,7 +3,7 @@ layout: post
 title: "Learning Latent Super-Events to Detect Multiple Activities in Videos"
 date: 2017-12-05 21:40:09
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection GAN Detection
+tags: arXiv_CV Object_Detection Attention GAN Detection
 author: AJ Piergiovanni, Michael S. Ryoo
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A Unified View-Graph Selection Framework for Structure from Motion"
 date: 2017-12-04 11:56:25
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Optimization
 author: Rajvi Shah, Visesh Chari, P J Narayanan
 mathjax: true
 ---

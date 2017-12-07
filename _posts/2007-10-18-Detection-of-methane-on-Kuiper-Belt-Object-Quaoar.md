@@ -3,7 +3,7 @@ layout: post
 title: "Detection of methane on Kuiper Belt Object Quaoar"
 date: 2007-10-18 20:07:48
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Face Detection
 author: E.L. Schaller, M.E. Brown
 mathjax: true
 ---

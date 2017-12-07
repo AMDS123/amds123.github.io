@@ -3,7 +3,7 @@ layout: post
 title: "Objective Micro-Facial Movement Detection Using FACS-Based Regions and Baseline Evaluation"
 date: 2016-12-15 12:15:36
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection
 author: Adrian K. Davison, Cliff Lansley, Choon Ching Ng, Kevin Tan, Moi Hoon Yap
 mathjax: true
 ---

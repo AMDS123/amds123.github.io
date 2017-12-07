@@ -3,7 +3,7 @@ layout: post
 title: "Neural Self Talk: Image Understanding via Continuous Questioning and Answering"
 date: 2015-12-10 21:58:46
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption CNN RNN VQA
+tags: arXiv_CV Image_Caption QA CNN RNN VQA
 author: Yezhou Yang, Yi Li, Cornelia Fermuller, Yiannis Aloimonos
 mathjax: true
 ---

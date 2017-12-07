@@ -3,7 +3,7 @@ layout: post
 title: "From Images to Sentences through Scene Description Graphs using Commonsense Reasoning and Knowledge"
 date: 2015-11-10 21:14:51
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption Detection
+tags: arXiv_CV Image_Caption Knowledge Caption Detection
 author: Somak Aditya, Yezhou Yang, Chitta Baral, Cornelia Fermuller, Yiannis Aloimonos
 mathjax: true
 ---

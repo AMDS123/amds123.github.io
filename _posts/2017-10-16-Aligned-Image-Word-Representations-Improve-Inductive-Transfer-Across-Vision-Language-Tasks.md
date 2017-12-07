@@ -3,7 +3,7 @@ layout: post
 title: "Aligned Image-Word Representations Improve Inductive Transfer Across Vision-Language Tasks"
 date: 2017-10-16 05:34:24
 categories: arXiv_CV
-tags: arXiv_CV VQA Recognition
+tags: arXiv_CV QA Embedding VQA Recognition
 author: Tanmay Gupta, Kevin Shih, Saurabh Singh, Derek Hoiem
 mathjax: true
 ---

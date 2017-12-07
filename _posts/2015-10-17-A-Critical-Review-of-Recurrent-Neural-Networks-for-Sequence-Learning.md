@@ -3,7 +3,7 @@ layout: post
 title: "A Critical Review of Recurrent Neural Networks for Sequence Learning"
 date: 2015-10-17 05:06:11
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Review Caption Survey RNN Recognition
+tags: arXiv_CV Image_Caption Review Caption Survey Optimization RNN Prediction Recognition
 author: Zachary C. Lipton, John Berkowitz, Charles Elkan
 mathjax: true
 ---

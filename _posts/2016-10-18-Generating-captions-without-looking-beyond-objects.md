@@ -3,7 +3,7 @@ layout: post
 title: "Generating captions without looking beyond objects"
 date: 2016-10-18 09:35:03
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Language_Model
 author: Hendrik Heuer, Christof Monz, Arnold W.M. Smeulders
 mathjax: true
 ---

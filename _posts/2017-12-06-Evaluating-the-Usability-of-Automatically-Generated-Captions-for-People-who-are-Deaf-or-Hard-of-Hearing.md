@@ -3,7 +3,7 @@ layout: post
 title: "Evaluating the Usability of Automatically Generated Captions for People who are Deaf or Hard of Hearing"
 date: 2017-12-06 04:28:46
 categories: arXiv_CV
-tags: arXiv_CV Speech_Recognition Caption Recognition
+tags: arXiv_CV Speech_Recognition Caption Relation Recognition
 author: Sushant Kafle, Matt Huenerfauth
 mathjax: true
 ---

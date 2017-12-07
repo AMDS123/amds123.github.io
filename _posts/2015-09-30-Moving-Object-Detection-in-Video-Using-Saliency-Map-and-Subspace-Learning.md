@@ -3,7 +3,7 @@ layout: post
 title: "Moving Object Detection in Video Using Saliency Map and Subspace Learning"
 date: 2015-09-30 09:13:20
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Detection
 author: Yanwei Pang, Li Ye, Xuelong Li, Jing Pan
 mathjax: true
 ---

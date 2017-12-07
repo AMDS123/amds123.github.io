@@ -3,7 +3,7 @@ layout: post
 title: "Can you fool AI with adversarial examples on a visual Turing test?"
 date: 2017-09-25 19:32:49
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Deep_Learning VQA
+tags: arXiv_CV Adversarial QA Deep_Learning Language_Model VQA
 author: Xiaojun Xu, Xinyun Chen, Chang Liu, Anna Rohrbach, Trevor Darell, Dawn Song
 mathjax: true
 ---

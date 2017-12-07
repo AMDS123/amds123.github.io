@@ -3,7 +3,7 @@ layout: post
 title: "Structure and Kinematics of Molecular Disks in Fast-Rotator Early-Type Galaxies"
 date: 2007-12-27 06:10:45
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Face
 author: Lisa M. Young (NMT), Martin Bureau, Michele Cappellari (University of Oxford)
 mathjax: true
 ---

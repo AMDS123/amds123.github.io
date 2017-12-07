@@ -3,7 +3,7 @@ layout: post
 title: "An Analysis of Scale Invariance in Object Detection - SNIP"
 date: 2017-11-22 09:30:06
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Inference Detection
 author: Bharat Singh, Larry S. Davis
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Salient Object Detection: A Discriminative Regional Feature Integration Approach"
 date: 2014-10-22 07:05:38
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation Detection
 author: Huaizu Jiang, Zejian Yuan, Ming-Ming Cheng, Yihong Gong, Nanning Zheng, Jingdong Wang
 mathjax: true
 ---

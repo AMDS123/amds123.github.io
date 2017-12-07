@@ -3,7 +3,7 @@ layout: post
 title: "VideoMCC: a New Benchmark for Video Comprehension"
 date: 2017-06-16 19:50:46
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption GAN Caption
+tags: arXiv_CV Video_Caption GAN Caption Quantitative
 author: Du Tran, Maksim Bolonkin, Manohar Paluri, Lorenzo Torresani
 mathjax: true
 ---

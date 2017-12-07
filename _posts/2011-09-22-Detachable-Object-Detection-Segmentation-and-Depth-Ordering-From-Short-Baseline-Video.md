@@ -3,7 +3,7 @@ layout: post
 title: "Detachable Object Detection: Segmentation and Depth Ordering From Short-Baseline Video"
 date: 2011-09-22 00:55:32
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Object_Detection Segmentation Face Optimization Detection
 author: Alper Ayvaci, Stefano Soatto
 mathjax: true
 ---

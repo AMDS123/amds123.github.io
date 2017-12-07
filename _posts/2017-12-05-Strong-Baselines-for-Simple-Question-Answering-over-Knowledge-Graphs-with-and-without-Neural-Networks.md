@@ -3,7 +3,7 @@ layout: post
 title: "Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks"
 date: 2017-12-05 23:38:00
 categories: arXiv_CL
-tags: arXiv_CL RNN Deep_Learning Detection
+tags: arXiv_CL Knowledge_Graph Knowledge RNN Deep_Learning Prediction Detection Relation
 author: Salman Mohammed, Peng Shi, Jimmy Lin
 mathjax: true
 ---

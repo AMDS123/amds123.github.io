@@ -3,7 +3,7 @@ layout: post
 title: "Integrated Deep and Shallow Networks for Salient Object Detection"
 date: 2017-06-02 00:52:55
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation CNN Semantic_Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation CNN Semantic_Segmentation Detection
 author: Jing Zhang, Bo Li, Yuchao Dai, Fatih Porikli, Mingyi He
 mathjax: true
 ---

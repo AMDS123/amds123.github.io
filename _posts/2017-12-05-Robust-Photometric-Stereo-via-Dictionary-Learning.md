@@ -3,7 +3,7 @@ layout: post
 title: "Robust Photometric Stereo via Dictionary Learning"
 date: 2017-12-05 23:11:01
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Face
 author: Andrew J. Wagenmaker, Brian E. Moore, Raj Rao Nadakuditi
 mathjax: true
 ---

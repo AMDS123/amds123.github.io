@@ -3,7 +3,7 @@ layout: post
 title: "Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation"
 date: 2017-12-05 17:13:48
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Sentiment
 author: Svetlana Kiritchenko, Saif M. Mohammad
 mathjax: true
 ---

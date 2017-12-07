@@ -3,7 +3,7 @@ layout: post
 title: "Sequence Mining and Pattern Analysis in Drilling Reports with Deep Natural Language Processing"
 date: 2017-12-05 04:49:58
 categories: arXiv_CL
-tags: arXiv_CL Classification
+tags: arXiv_CL Face Optimization Classification
 author: J&#xfa;lio Hoffimann, Youli Mao, Avinash Wesley, Aimee Taylor
 mathjax: true
 ---

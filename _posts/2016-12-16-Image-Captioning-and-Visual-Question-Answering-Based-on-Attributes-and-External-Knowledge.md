@@ -3,7 +3,7 @@ layout: post
 title: "Image Captioning and Visual Question Answering Based on Attributes and External Knowledge"
 date: 2016-12-16 11:44:34
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN RNN VQA
+tags: arXiv_CV Image_Caption Knowledge Caption CNN RNN VQA
 author: Qi Wu, Chunhua Shen, Anton van den Hengel, Peng Wang, Anthony Dick
 mathjax: true
 ---

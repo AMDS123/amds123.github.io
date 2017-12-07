@@ -3,7 +3,7 @@ layout: post
 title: "Geodesic-based Salient Object Detection"
 date: 2013-08-23 18:41:55
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation Detection
 author: Richard M Jiang
 mathjax: true
 ---

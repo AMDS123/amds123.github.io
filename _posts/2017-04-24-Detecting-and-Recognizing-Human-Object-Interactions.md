@@ -3,7 +3,7 @@ layout: post
 title: "Detecting and Recognizing Human-Object Interactions"
 date: 2017-04-24 17:14:24
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Prediction Quantitative
 author: Georgia Gkioxari, Ross Girshick, Piotr Dollár, Kaiming He
 mathjax: true
 ---

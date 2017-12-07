@@ -3,7 +3,7 @@ layout: post
 title: "Learning Hard Alignments with Variational Inference"
 date: 2017-11-01 19:08:18
 categories: arXiv_CV
-tags: arXiv_CV Speech_Recognition Caption Recognition
+tags: arXiv_CV Attention Speech_Recognition Caption Inference Recognition
 author: Dieterich Lawson, Chung-Cheng Chiu, George Tucker, Colin Raffel, Kevin Swersky, Navdeep Jaitly
 mathjax: true
 ---

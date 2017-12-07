@@ -3,7 +3,7 @@ layout: post
 title: "Deep Neural Networks for Multiple Speaker Detection and Localization"
 date: 2017-11-30 18:35:22
 categories: arXiv_SD
-tags: arXiv_SD Detection
+tags: arXiv_SD Detection Relation
 author: Weipeng He, Petr Motlicek, Jean-Marc Odobez
 mathjax: true
 ---

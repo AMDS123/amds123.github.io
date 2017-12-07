@@ -3,7 +3,7 @@ layout: post
 title: "Deep Learning of Local RGB-D Patches for 3D Object Detection and 6D Pose Estimation"
 date: 2016-07-20 17:38:15
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Deep_Learning Detection
+tags: arXiv_CV Object_Detection Pose_Estimation CNN Deep_Learning Detection
 author: Wadim Kehl, Fausto Milletari, Federico Tombari, Slobodan Ilic, Nassir Navab
 mathjax: true
 ---

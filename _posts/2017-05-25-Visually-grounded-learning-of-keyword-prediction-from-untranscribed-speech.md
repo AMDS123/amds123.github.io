@@ -3,7 +3,7 @@ layout: post
 title: "Visually grounded learning of keyword prediction from untranscribed speech"
 date: 2017-05-25 20:49:15
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Caption Prediction
 author: Herman Kamper, Shane Settle, Gregory Shakhnarovich, Karen Livescu
 mathjax: true
 ---

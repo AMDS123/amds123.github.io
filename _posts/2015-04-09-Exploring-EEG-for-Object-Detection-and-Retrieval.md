@@ -3,7 +3,7 @@ layout: post
 title: "Exploring EEG for Object Detection and Retrieval"
 date: 2015-04-09 15:43:52
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Image_Retrieval Object_Detection Knowledge Face Detection
 author: Eva Mohedano, Amaia Salvador, Sergi Porta, Xavier Giró-i-Nieto, Graham Healy, Kevin McGuinness, Noel O'Connor, Alan F. Smeaton
 mathjax: true
 ---

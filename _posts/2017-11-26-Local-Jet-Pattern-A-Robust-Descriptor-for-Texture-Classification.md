@@ -3,7 +3,7 @@ layout: post
 title: "Local Jet Pattern: A Robust Descriptor for Texture Classification"
 date: 2017-11-26 17:18:46
 categories: arXiv_CV
-tags: arXiv_CV Classification
+tags: arXiv_CV Classification Relation
 author: Swalpa Kumar Roy, Bhabatosh Chanda, Bidyut B. Chaudhuri, Soumitro Banerjee, Dipak Kumar Ghosh, Shiv Ram Dubey
 mathjax: true
 ---

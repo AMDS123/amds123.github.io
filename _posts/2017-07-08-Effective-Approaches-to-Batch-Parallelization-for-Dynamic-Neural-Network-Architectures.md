@@ -3,7 +3,7 @@ layout: post
 title: "Effective Approaches to Batch Parallelization for Dynamic Neural Network Architectures"
 date: 2017-07-08 06:04:31
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV Sparse QA VQA
 author: Joseph Suarez, Clare Zhu
 mathjax: true
 ---

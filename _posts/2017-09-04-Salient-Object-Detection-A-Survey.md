@@ -3,7 +3,7 @@ layout: post
 title: "Salient Object Detection: A Survey"
 date: 2017-09-04 02:51:33
 categories: arXiv_CV
-tags: arXiv_CV Review Object_Detection Segmentation Survey Detection
+tags: arXiv_CV Salient Review Object_Detection Segmentation Survey Prediction Detection
 author: Ali Borji, Ming-Ming Cheng, Qibin Hou, Huaizu Jiang, Jia Li
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Max-Margin Object Detection"
 date: 2015-01-31 00:32:34
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection Face_Detection
 author: Davis E. King
 mathjax: true
 ---

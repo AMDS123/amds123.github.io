@@ -3,7 +3,7 @@ layout: post
 title: "Inner-Scene Similarities as a Contextual Cue for Object Detection"
 date: 2017-07-14 07:37:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Classification Detection
+tags: arXiv_CV Object_Detection Optimization Classification Detection
 author: Noa Arbel, Tamar Avraham, Michael Lindenbaum
 mathjax: true
 ---

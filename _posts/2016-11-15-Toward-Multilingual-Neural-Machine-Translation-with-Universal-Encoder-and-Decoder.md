@@ -3,7 +3,7 @@ layout: post
 title: "Toward Multilingual Neural Machine Translation with Universal Encoder and Decoder"
 date: 2016-11-15 11:47:42
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Thanh-Le Ha, Jan Niehues, Alexander Waibel
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Co-attending Free-form Regions and Detections with Multi-modal Multiplicative Feature Embedding for Visual Question Answering"
 date: 2017-11-18 02:07:34
 categories: arXiv_CV
-tags: arXiv_CV Detection VQA
+tags: arXiv_CV QA Attention Embedding Detection VQA
 author: Pan Lu, Hongsheng Li, Wei Zhang, Jianyong Wang, Xiaogang Wang
 mathjax: true
 ---

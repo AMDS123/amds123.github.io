@@ -3,7 +3,7 @@ layout: post
 title: "Compact Tensor Pooling for Visual Question Answering"
 date: 2017-06-20 23:55:32
 categories: arXiv_CV
-tags: arXiv_CV RNN VQA
+tags: arXiv_CV QA Embedding RNN VQA
 author: Yang Shi, Tommaso Furlanello, Anima Anandkumar
 mathjax: true
 ---

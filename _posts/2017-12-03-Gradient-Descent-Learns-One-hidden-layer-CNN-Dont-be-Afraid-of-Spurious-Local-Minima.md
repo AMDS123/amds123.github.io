@@ -3,7 +3,7 @@ layout: post
 title: "Gradient Descent Learns One-hidden-layer CNN: Don't be Afraid of Spurious Local Minima"
 date: 2017-12-03 15:00:35
 categories: arXiv_CV
-tags: arXiv_CV CNN Gradient_Descent
+tags: arXiv_CV CNN Quantitative Gradient_Descent
 author: Simon S. Du, Jason D. Lee, Yuandong Tian, Barnabas Poczos, Aarti Singh
 mathjax: true
 ---

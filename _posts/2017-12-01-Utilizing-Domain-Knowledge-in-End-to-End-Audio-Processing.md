@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Domain Knowledge in End-to-End Audio Processing"
 date: 2017-12-01 09:49:21
 categories: arXiv_SD
-tags: arXiv_SD CNN Classification
+tags: arXiv_SD Knowledge CNN Classification
 author: Tycho Max Sylvester Tax, Jose Luis Diez Antich, Hendrik Purwins, Lars Maaløe
 mathjax: true
 ---

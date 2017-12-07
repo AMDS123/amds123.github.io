@@ -3,7 +3,7 @@ layout: post
 title: "Towards an Understanding of Our World by GANing Videos in the Wild"
 date: 2017-11-30 14:55:16
 categories: arXiv_CV
-tags: arXiv_CV GAN
+tags: arXiv_CV Knowledge GAN Prediction
 author: Bernhard Kratzwald, Zhiwu Huang, Danda Pani Paudel, Luc Van Gool
 mathjax: true
 ---

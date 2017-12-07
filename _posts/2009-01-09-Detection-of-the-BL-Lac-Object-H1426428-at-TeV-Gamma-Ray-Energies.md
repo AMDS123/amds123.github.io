@@ -3,7 +3,7 @@ layout: post
 title: "Detection of the BL Lac Object H1426+428 at TeV Gamma Ray Energies"
 date: 2009-01-09 10:12:00
 categories: arXiv_CV
-tags: arXiv_CV Survey Detection
+tags: arXiv_CV Survey Prediction Detection
 author: D. Horan, for the VERITAS Collaboration
 mathjax: true
 ---

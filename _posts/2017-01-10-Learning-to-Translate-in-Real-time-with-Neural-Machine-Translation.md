@@ -3,7 +3,7 @@ layout: post
 title: "Learning to Translate in Real-time with Neural Machine Translation"
 date: 2017-01-10 21:07:56
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL NMT Quantitative
 author: Jiatao Gu, Graham Neubig, Kyunghyun Cho, Victor O.K. Li
 mathjax: true
 ---

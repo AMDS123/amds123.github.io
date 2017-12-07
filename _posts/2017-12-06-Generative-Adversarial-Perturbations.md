@@ -3,7 +3,7 @@ layout: post
 title: "Generative Adversarial Perturbations"
 date: 2017-12-06 18:52:12
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Segmentation Semantic_Segmentation Classification
+tags: arXiv_CV Adversarial Segmentation Semantic_Segmentation Inference Classification
 author: Omid Poursaeed, Isay Katsman, Bicheng Gao, Serge Belongie
 mathjax: true
 ---

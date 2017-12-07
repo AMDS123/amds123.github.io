@@ -3,7 +3,7 @@ layout: post
 title: "Transfer Learning with Binary Neural Networks"
 date: 2017-11-29 10:28:02
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Transfer_Learning
 author: Sam Leroux, Steven Bohez, Tim Verbelen, Bert Vankeirsbilck, Pieter Simoens, Bart Dhoedt
 mathjax: true
 ---

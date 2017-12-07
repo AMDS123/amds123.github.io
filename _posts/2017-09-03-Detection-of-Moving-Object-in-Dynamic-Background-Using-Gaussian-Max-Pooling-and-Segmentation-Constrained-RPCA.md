@@ -3,7 +3,7 @@ layout: post
 title: "Detection of Moving Object in Dynamic Background Using Gaussian Max-Pooling and Segmentation Constrained RPCA"
 date: 2017-09-03 03:38:58
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Object_Detection Segmentation Inference Detection
 author: Yang Li, Guangcan Liu, Shengyong Chen
 mathjax: true
 ---

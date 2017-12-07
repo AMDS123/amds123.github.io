@@ -3,7 +3,7 @@ layout: post
 title: "Ensemble Distillation for Neural Machine Translation"
 date: 2017-08-08 01:41:25
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Knowledge NMT
 author: Markus Freitag, Yaser Al-Onaizan, Baskaran Sankaran
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Attention-based Natural Language Person Retrieval"
 date: 2017-05-24 18:36:58
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Caption CNN Image_Classification RNN Classification Deep_Learning
+tags: arXiv_CV Segmentation Attention Caption CNN Image_Classification RNN Classification Deep_Learning
 author: Tao Zhou, Muhao Chen, Jie Yu, Demetri Terzopoulos
 mathjax: true
 ---

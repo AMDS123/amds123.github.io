@@ -3,7 +3,7 @@ layout: post
 title: "A text-independent speaker verification model: A comparative analysis"
 date: 2017-12-04 06:09:02
 categories: arXiv_SD
-tags: arXiv_SD GAN Classification Recognition
+tags: arXiv_SD GAN Classification Prediction Recognition
 author: Rishi Charan, Manisha.A, Karthik.R, Rajesh Kumar M
 mathjax: true
 ---

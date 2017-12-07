@@ -3,7 +3,7 @@ layout: post
 title: "Broad band energy distribution of ROSAT detected quasars II: Radio-quiet objects"
 date: 1998-05-04 11:13:00
 categories: arXiv_CV
-tags: arXiv_CV Survey
+tags: arXiv_CV Survey Relation
 author: W. Yuan, W. Brinkmann, J. Siebert, W. Voges
 mathjax: true
 ---

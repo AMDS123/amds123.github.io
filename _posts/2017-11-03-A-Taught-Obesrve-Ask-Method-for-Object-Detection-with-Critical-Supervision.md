@@ -3,7 +3,7 @@ layout: post
 title: "A Taught-Obesrve-Ask Method for Object Detection with Critical Supervision"
 date: 2017-11-03 07:19:59
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Object_Detection QA Weakly_Supervised Detection
 author: Chi-Hao Wu, Qin Huang, Siyang Li, C.-C. Jay Kuo
 mathjax: true
 ---

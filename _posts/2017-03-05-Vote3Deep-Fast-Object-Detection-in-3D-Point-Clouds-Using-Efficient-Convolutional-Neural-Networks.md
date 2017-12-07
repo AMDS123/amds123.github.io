@@ -3,7 +3,7 @@ layout: post
 title: "Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks"
 date: 2017-03-05 15:29:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection Sparse Knowledge CNN Detection
 author: Martin Engelcke, Dushyant Rao, Dominic Zeng Wang, Chi Hay Tong, Ingmar Posner
 mathjax: true
 ---

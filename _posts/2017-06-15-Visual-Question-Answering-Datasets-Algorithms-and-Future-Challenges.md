@@ -3,7 +3,7 @@ layout: post
 title: "Visual Question Answering: Datasets, Algorithms, and Future Challenges"
 date: 2017-06-15 01:52:59
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Review Deep_Learning VQA
+tags: arXiv_CV Image_Caption Review QA Deep_Learning VQA
 author: Kushal Kafle, Christopher Kanan
 mathjax: true
 ---

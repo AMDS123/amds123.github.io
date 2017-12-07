@@ -3,7 +3,7 @@ layout: post
 title: "Minimum Word Error Rate Training for Attention-based Sequence-to-Sequence Models"
 date: 2017-12-05 18:52:18
 categories: arXiv_CL
-tags: arXiv_CL Speech_Recognition Recognition
+tags: arXiv_CL Attention Speech_Recognition Recognition
 author: Rohit Prabhavalkar, Tara N. Sainath, Yonghui Wu, Patrick Nguyen, Zhifeng Chen, Chung-Cheng Chiu, Anjuli Kannan
 mathjax: true
 ---

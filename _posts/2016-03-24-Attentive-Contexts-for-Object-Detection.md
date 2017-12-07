@@ -3,7 +3,7 @@ layout: post
 title: "Attentive Contexts for Object Detection"
 date: 2016-03-24 02:18:37
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN RNN Detection
+tags: arXiv_CV Object_Detection Attention CNN RNN Detection
 author: Jianan Li, Yunchao Wei, Xiaodan Liang, Jian Dong, Tingfa Xu, Jiashi Feng, Shuicheng Yan
 mathjax: true
 ---

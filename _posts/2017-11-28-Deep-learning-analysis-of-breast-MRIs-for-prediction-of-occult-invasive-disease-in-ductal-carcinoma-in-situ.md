@@ -3,7 +3,7 @@ layout: post
 title: "Deep learning analysis of breast MRIs for prediction of occult invasive disease in ductal carcinoma in situ"
 date: 2017-11-28 21:52:49
 categories: arXiv_CV
-tags: arXiv_CV Review CNN Classification Deep_Learning
+tags: arXiv_CV Review CNN Transfer_Learning Classification Deep_Learning Prediction
 author: Zhe Zhu, Michael Harowicz, Jun Zhang, Ashirbani Saha, Lars J. Grimm, E.Shelley Hwang, Maciej A. Mazurowski
 mathjax: true
 ---

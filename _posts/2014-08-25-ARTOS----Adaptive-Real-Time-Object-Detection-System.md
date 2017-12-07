@@ -3,7 +3,7 @@ layout: post
 title: "ARTOS -- Adaptive Real-Time Object Detection System"
 date: 2014-08-25 12:55:37
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection
 author: Björn Barz, Erik Rodner, Joachim Denzler
 mathjax: true
 ---

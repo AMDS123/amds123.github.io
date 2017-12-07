@@ -3,7 +3,7 @@ layout: post
 title: "Active learning with version spaces for object detection"
 date: 2016-11-29 06:47:29
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Object_Detection Weakly_Supervised Prediction Detection
 author: Soumya Roy, Vinay P. Namboodiri, Arijit Biswas
 mathjax: true
 ---

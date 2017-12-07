@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing the Behavior of Visual Question Answering Models"
 date: 2016-09-27 19:56:22
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention VQA
 author: Aishwarya Agrawal, Dhruv Batra, Devi Parikh
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A Novel Brain Decoding Method: a Correlation Network Framework for Revealing Brain Connections"
 date: 2017-12-01 11:24:54
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Relation
 author: Siyu Yu, Nanning Zheng, Yongqiang Ma, Hao Wu, Badong Chen
 mathjax: true
 ---

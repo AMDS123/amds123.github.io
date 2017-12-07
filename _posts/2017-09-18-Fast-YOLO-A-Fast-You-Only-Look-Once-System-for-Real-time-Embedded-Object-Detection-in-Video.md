@@ -3,7 +3,7 @@ layout: post
 title: "Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video"
 date: 2017-09-18 13:57:16
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Classification Detection
+tags: arXiv_CV Object_Detection Inference Classification Detection
 author: Mohammad Javad Shafiee, Brendan Chywl, Francis Li, Alexander Wong
 mathjax: true
 ---

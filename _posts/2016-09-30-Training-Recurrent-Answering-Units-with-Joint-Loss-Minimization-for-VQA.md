@@ -3,7 +3,7 @@ layout: post
 title: "Training Recurrent Answering Units with Joint Loss Minimization for VQA"
 date: 2016-09-30 03:31:53
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV Knowledge QA Attention Inference Prediction VQA
 author: Hyeonwoo Noh, Bohyung Han
 mathjax: true
 ---

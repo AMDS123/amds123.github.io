@@ -3,7 +3,7 @@ layout: post
 title: "Simultaneous B'V'R' Monitoring of BL Lacertae Object S5~0716+714 and Detection of Inter-Band Time Delay"
 date: 2012-02-15 08:12:58
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Detection Relation
 author: Jianghua Wu, Markus Boettcher, Xu Zhou, Xiangtao He, Jun Ma, Zhaoji Jiang
 mathjax: true
 ---

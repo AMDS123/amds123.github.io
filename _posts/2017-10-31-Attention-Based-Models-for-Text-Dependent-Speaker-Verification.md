@@ -3,7 +3,7 @@ layout: post
 title: "Attention-Based Models for Text-Dependent Speaker Verification"
 date: 2017-10-31 15:48:14
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Speech_Recognition Caption RNN Recognition
+tags: arXiv_CV Image_Caption Attention Summarization Speech_Recognition Caption RNN Recognition
 author: F A Rezaur Rahman Chowdhury, Quan Wang, Ignacio Lopez Moreno, Li Wan
 mathjax: true
 ---

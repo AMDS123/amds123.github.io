@@ -3,7 +3,7 @@ layout: post
 title: "DeNet: Scalable Real-time Object Detection with Directed Sparse Sampling"
 date: 2017-07-21 02:46:05
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Detection
 author: Lachlan Tychsen-Smith, Lars Petersson
 mathjax: true
 ---

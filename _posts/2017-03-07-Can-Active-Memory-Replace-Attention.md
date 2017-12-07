@@ -3,7 +3,7 @@ layout: post
 title: "Can Active Memory Replace Attention?"
 date: 2017-03-07 04:04:33
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Speech_Recognition Caption Image_Classification Classification Deep_Learning Recognition
+tags: arXiv_CV Image_Caption Attention Speech_Recognition Caption Image_Classification Classification Deep_Learning Recognition
 author: Łukasz Kaiser, Samy Bengio
 mathjax: true
 ---

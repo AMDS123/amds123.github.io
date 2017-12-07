@@ -3,7 +3,7 @@ layout: post
 title: "From 3D Point Clouds To Semantic Objects An Ontology-Based Detection Approach"
 date: 2013-01-21 08:16:53
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Knowledge Ontology Detection
 author: Helmi Ben Hmida (i3mainz), Christophe Cruz (Le2i), Frank Boochs (i3mainz), Christophe Nicolle (Le2i)
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Visual Question Answering as a Meta Learning Task"
 date: 2017-11-22 02:04:31
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA VQA
 author: Damien Teney, Anton van den Hengel
 mathjax: true
 ---

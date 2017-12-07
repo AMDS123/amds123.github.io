@@ -3,7 +3,7 @@ layout: post
 title: "Deep-Person: Learning Discriminative Deep Features for Person Re-Identification"
 date: 2017-11-29 03:15:07
 categories: arXiv_CV
-tags: arXiv_CV Re-identification Person_Re-identification RNN
+tags: arXiv_CV Re-identification Person_Re-identification Embedding RNN
 author: Xiang Bai, Mingkun Yang, Tengteng Huang, Zhiyong Dou, Rui Yu, Yongchao Xu
 mathjax: true
 ---

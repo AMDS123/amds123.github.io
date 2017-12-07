@@ -3,7 +3,7 @@ layout: post
 title: "Temporal Dynamic Graph LSTM for Action-driven Video Object Detection"
 date: 2017-08-02 09:38:26
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection RNN Detection Recognition
+tags: arXiv_CV Object_Detection Knowledge RNN Detection Relation Recognition
 author: Yuan Yuan, Xiaodan Liang, Xiaolong Wang, Dit-Yan Yeung, Abhinav Gupta
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Deep Eyes: Binocular Depth-from-Focus on Focal Stack Pairs"
 date: 2017-11-29 08:52:17
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Inference
 author: Xinqing Guo, Zhang Chen, Siyuan Li, Yang Yang, Jingyi Yu
 mathjax: true
 ---

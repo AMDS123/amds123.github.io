@@ -3,7 +3,7 @@ layout: post
 title: "Integrating both Visual and Audio Cues for Enhanced Video Caption"
 date: 2017-11-22 01:12:00
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption
+tags: arXiv_CV Video_Caption Caption Inference
 author: Wangli Hao, Zhaoxiang Zhang, He Guan, Guibo Zhu
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Show-and-Fool: Crafting Adversarial Examples for Neural Image Captioning"
 date: 2017-12-06 06:08:59
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Adversarial Caption CNN Image_Classification RNN Classification
+tags: arXiv_CV Image_Caption Adversarial Knowledge Caption CNN Image_Classification Optimization RNN Classification
 author: Hongge Chen, Huan Zhang, Pin-Yu Chen, Jinfeng Yi, Cho-Jui Hsieh
 mathjax: true
 ---

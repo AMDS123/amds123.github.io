@@ -3,7 +3,7 @@ layout: post
 title: "VIBIKNet: Visual Bidirectional Kernelized Network for Visual Question Answering"
 date: 2016-12-12 11:41:46
 categories: arXiv_CV
-tags: arXiv_CV CNN VQA
+tags: arXiv_CV QA CNN VQA
 author: Marc Bolaños, Álvaro Peris, Francisco Casacuberta, Petia Radeva
 mathjax: true
 ---

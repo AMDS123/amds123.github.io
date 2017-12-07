@@ -3,7 +3,7 @@ layout: post
 title: "Towards the Success Rate of One: Real-time Unconstrained Salient Object Detection"
 date: 2017-08-02 05:22:48
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Salient Object_Detection CNN Inference Prediction Detection
 author: Mahyar Najibi, Fan Yang, Qiaosong Wang, Robinson Piramuthu
 mathjax: true
 ---

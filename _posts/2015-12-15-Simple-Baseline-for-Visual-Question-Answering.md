@@ -3,7 +3,7 @@ layout: post
 title: "Simple Baseline for Visual Question Answering"
 date: 2015-12-15 05:17:49
 categories: arXiv_CV
-tags: arXiv_CV RNN VQA
+tags: arXiv_CV QA RNN VQA
 author: Bolei Zhou, Yuandong Tian, Sainbayar Sukhbaatar, Arthur Szlam, Rob Fergus
 mathjax: true
 ---

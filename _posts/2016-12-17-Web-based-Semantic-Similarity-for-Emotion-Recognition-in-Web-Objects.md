@@ -3,7 +3,7 @@ layout: post
 title: "Web-based Semantic Similarity for Emotion Recognition in Web Objects"
 date: 2016-12-17 11:36:06
 categories: arXiv_CV
-tags: arXiv_CV Caption Recognition
+tags: arXiv_CV Sentiment Caption Quantitative Relation Recognition
 author: Valentina Franzoni, Giulio Biondi, Alfredo Milani, Yuanxi Li
 mathjax: true
 ---

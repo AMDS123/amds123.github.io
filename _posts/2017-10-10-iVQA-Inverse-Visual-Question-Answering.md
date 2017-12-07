@@ -3,7 +3,7 @@ layout: post
 title: "iVQA: Inverse Visual Question Answering"
 date: 2017-10-10 01:22:52
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Inference VQA
 author: Feng Liu, Tao Xiang, Timothy M. Hospedales, Wankou Yang, Changyin Sun
 mathjax: true
 ---

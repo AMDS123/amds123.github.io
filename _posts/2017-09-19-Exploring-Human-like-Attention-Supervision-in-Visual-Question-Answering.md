@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Human-like Attention Supervision in Visual Question Answering"
 date: 2017-09-19 09:19:08
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention VQA
 author: Tingting Qiao, Jianfeng Dong, Duanqing Xu
 mathjax: true
 ---

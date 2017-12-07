@@ -3,7 +3,7 @@ layout: post
 title: "Deformable Shape Completion with Graph Convolutional Autoencoders"
 date: 2017-12-01 10:34:19
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV Attention Face CNN Inference
 author: Or Litany, Alex Bronstein, Michael Bronstein, Ameesh Makadia
 mathjax: true
 ---

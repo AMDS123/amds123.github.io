@@ -3,7 +3,7 @@ layout: post
 title: "Robustness Analysis of Visual QA Models by Basic Questions"
 date: 2017-11-17 06:56:47
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Optimization VQA
 author: Jia-Hong Huang, Modar Alfadly, Bernard Ghanem
 mathjax: true
 ---

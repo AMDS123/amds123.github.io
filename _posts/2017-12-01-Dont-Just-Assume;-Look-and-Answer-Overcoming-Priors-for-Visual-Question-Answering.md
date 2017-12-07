@@ -3,7 +3,7 @@ layout: post
 title: "Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering"
 date: 2017-12-01 15:48:50
 categories: arXiv_CV
-tags: arXiv_CV VQA Recognition
+tags: arXiv_CV QA Attention Relation VQA Recognition
 author: Aishwarya Agrawal, Dhruv Batra, Devi Parikh, Aniruddha Kembhavi
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "SketchParse : Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks"
 date: 2017-09-05 09:10:59
 categories: arXiv_CV
-tags: arXiv_CV Caption CNN
+tags: arXiv_CV Image_Retrieval Caption CNN Inference Prediction
 author: Ravi Kiran Sarvadevabhatla, Isht Dwivedi, Abhijat Biswas, Sahil Manocha, R. Venkatesh Babu
 mathjax: true
 ---

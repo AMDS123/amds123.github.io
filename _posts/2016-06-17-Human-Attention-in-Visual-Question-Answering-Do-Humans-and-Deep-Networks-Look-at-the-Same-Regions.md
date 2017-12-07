@@ -3,7 +3,7 @@ layout: post
 title: "Human Attention in Visual Question Answering: Do Humans and Deep Networks Look at the Same Regions?"
 date: 2016-06-17 17:00:02
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Face Quantitative Relation VQA
 author: Abhishek Das, Harsh Agrawal, C. Lawrence Zitnick, Devi Parikh, Dhruv Batra
 mathjax: true
 ---

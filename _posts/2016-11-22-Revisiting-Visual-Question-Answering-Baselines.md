@@ -3,7 +3,7 @@ layout: post
 title: "Revisiting Visual Question Answering Baselines"
 date: 2016-11-22 21:26:06
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Classification VQA
+tags: arXiv_CV Image_Caption QA Attention Classification VQA
 author: Allan Jabri, Armand Joulin, Laurens van der Maaten
 mathjax: true
 ---

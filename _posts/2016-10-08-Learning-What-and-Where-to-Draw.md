@@ -3,7 +3,7 @@ layout: post
 title: "Learning What and Where to Draw"
 date: 2016-10-08 00:27:57
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN Caption
+tags: arXiv_CV Adversarial GAN Face Caption
 author: Scott Reed, Zeynep Akata, Santosh Mohan, Samuel Tenka, Bernt Schiele, Honglak Lee
 mathjax: true
 ---

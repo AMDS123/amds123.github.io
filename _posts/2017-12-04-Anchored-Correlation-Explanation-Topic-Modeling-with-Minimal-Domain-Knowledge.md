@@ -3,7 +3,7 @@ layout: post
 title: "Anchored Correlation Explanation: Topic Modeling with Minimal Domain Knowledge"
 date: 2017-12-04 03:53:19
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Knowledge Relation
 author: Ryan J. Gallagher, Kyle Reing, David Kale, Greg Ver Steeg
 mathjax: true
 ---

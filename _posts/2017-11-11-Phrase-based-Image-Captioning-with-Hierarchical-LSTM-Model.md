@@ -3,7 +3,7 @@ layout: post
 title: "Phrase-based Image Captioning with Hierarchical LSTM Model"
 date: 2017-11-11 10:48:59
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN
+tags: arXiv_CV Image_Caption Caption Inference RNN
 author: Ying Hua Tan, Chee Seng Chan
 mathjax: true
 ---

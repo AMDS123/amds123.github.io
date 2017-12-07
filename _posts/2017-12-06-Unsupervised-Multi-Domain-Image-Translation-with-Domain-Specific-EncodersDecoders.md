@@ -3,7 +3,7 @@ layout: post
 title: "Unsupervised Multi-Domain Image Translation with Domain-Specific Encoders/Decoders"
 date: 2017-12-06 06:08:31
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Face
 author: Le Hui, Xiang Li, Jiaxin Chen, Hongliang He, Chen gong, Jian Yang
 mathjax: true
 ---

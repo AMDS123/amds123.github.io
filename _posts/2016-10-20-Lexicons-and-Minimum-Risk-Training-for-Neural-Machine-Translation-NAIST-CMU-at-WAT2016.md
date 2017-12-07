@@ -3,7 +3,7 @@ layout: post
 title: "Lexicons and Minimum Risk Training for Neural Machine Translation: NAIST-CMU at WAT2016"
 date: 2016-10-20 19:10:09
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Graham Neubig
 mathjax: true
 ---

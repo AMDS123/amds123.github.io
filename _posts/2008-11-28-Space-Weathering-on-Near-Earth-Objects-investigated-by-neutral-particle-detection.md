@@ -3,7 +3,7 @@ layout: post
 title: "Space Weathering on Near-Earth Objects investigated by neutral-particle detection"
 date: 2008-11-28 15:05:25
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Face Detection
 author: C. Plainaki, A. Milillo, S. Orsini, A. Mura, E. De Angelis, A. M. Di Lellis, E. Dotto, S. Livi, V. Mangano, S. Massetti, M. E. Palumbo
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Ask Your Neurons: A Deep Learning Approach to Visual Question Answering"
 date: 2016-11-24 10:30:18
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Deep_Learning VQA
+tags: arXiv_CV Image_Caption QA Deep_Learning VQA
 author: Mateusz Malinowski, Marcus Rohrbach, Mario Fritz
 mathjax: true
 ---

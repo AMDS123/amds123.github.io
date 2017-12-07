@@ -3,7 +3,7 @@ layout: post
 title: "Active Learning for Visual Question Answering: An Empirical Study"
 date: 2017-11-06 05:28:38
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA VQA
 author: Xiao Lin, Devi Parikh
 mathjax: true
 ---

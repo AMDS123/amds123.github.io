@@ -3,7 +3,7 @@ layout: post
 title: "Towards Alzheimer's Disease Classification through Transfer Learning"
 date: 2017-11-29 21:40:36
 categories: arXiv_CV
-tags: arXiv_CV Classification Deep_Learning Detection
+tags: arXiv_CV Transfer_Learning Optimization Classification Deep_Learning Detection
 author: Marcia Hon, Naimul Khan
 mathjax: true
 ---

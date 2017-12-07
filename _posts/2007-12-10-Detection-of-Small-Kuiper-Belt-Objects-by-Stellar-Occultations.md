@@ -3,7 +3,7 @@ layout: post
 title: "Detection of Small Kuiper Belt Objects by Stellar Occultations"
 date: 2007-12-10 17:43:15
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Knowledge Detection
 author: R. Stevenson
 mathjax: true
 ---

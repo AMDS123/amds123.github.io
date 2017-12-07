@@ -3,7 +3,7 @@ layout: post
 title: "Quantization and Training of Low Bit-Width Convolutional Neural Networks for Object Detection"
 date: 2017-08-17 06:56:17
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Optimization Detection
 author: Penghang Yin, Shuai Zhang, Yingyong Qi, Jack Xin
 mathjax: true
 ---

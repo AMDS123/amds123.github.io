@@ -3,7 +3,7 @@ layout: post
 title: "Compact object detection in self-lensing binary systems with a main-sequence star"
 date: 2010-08-05 18:15:31
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Survey Detection
+tags: arXiv_CV Object_Detection Survey Prediction Detection
 author: S. Rahvar, A. Mehrabi, M. Dominik
 mathjax: true
 ---

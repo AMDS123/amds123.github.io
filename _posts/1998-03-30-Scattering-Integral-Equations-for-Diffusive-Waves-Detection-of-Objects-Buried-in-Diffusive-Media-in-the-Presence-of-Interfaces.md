@@ -3,7 +3,7 @@ layout: post
 title: "Scattering Integral Equations for Diffusive Waves. Detection of Objects Buried in Diffusive Media in the Presence of Interfaces"
 date: 1998-03-30 08:25:57
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Face Detection
 author: J. Ripoll, M.Nieto-Vesperinas
 mathjax: true
 ---

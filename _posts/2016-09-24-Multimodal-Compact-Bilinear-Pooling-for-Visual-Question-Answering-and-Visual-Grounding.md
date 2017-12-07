@@ -3,7 +3,7 @@ layout: post
 title: "Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding"
 date: 2016-09-24 01:58:59
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention VQA
 author: Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach
 mathjax: true
 ---

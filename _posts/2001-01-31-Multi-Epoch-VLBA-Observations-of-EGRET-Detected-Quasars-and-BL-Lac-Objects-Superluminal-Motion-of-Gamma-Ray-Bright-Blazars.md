@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Epoch VLBA Observations of EGRET-Detected Quasars and BL Lac Objects: Superluminal Motion of Gamma-Ray Bright Blazars"
 date: 2001-01-31 19:15:39
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Relation
 author: Svetlana G. Jorstad (1 and 2), Alan P. Marscher (1), John R. Mattox (1 and 3), Ann E. Wehrle (4), Steven D. Bloom (5), Alexei V. Yurchenko (2) ((1) Institute for Astrophysical Research, Boston University, (2) Astronomical Institute, St. Petersburg State University, (3) Department of Chemistry, Physics and Astronomy, Francis Marion University, (4) Jet Propulsion Laboratory, Pasadena, (5) Hampden-Sydney College, Hampden-Sydney)
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling Homographs in Neural Machine Translation"
 date: 2017-08-22 06:48:27
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Face Embedding NMT
 author: Frederick Liu, Han Lu, Graham Neubig
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Fast Learning and Prediction for Object Detection using Whitened CNN Features"
 date: 2017-04-12 15:35:43
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Prediction Detection
 author: Björn Barz, Erik Rodner, Christoph Käding, Joachim Denzler
 mathjax: true
 ---

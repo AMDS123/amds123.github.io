@@ -3,7 +3,7 @@ layout: post
 title: "Towards High Performance Video Object Detection"
 date: 2017-11-30 18:48:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Attention Detection
 author: Xizhou Zhu, Jifeng Dai, Lu Yuan, Yichen Wei
 mathjax: true
 ---

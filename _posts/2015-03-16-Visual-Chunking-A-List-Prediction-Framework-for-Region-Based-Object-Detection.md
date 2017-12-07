@@ -3,7 +3,7 @@ layout: post
 title: "Visual Chunking: A List Prediction Framework for Region-Based Object Detection"
 date: 2015-03-16 21:20:12
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Optimization Prediction Detection
 author: Nicholas Rhinehart, Jiaji Zhou, Martial Hebert, J. Andrew Bagnell
 mathjax: true
 ---

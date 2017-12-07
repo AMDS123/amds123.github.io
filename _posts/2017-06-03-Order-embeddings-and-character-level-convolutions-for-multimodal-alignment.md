@@ -3,7 +3,7 @@ layout: post
 title: "Order embeddings and character-level convolutions for multimodal alignment"
 date: 2017-06-03 20:24:32
 categories: arXiv_CV
-tags: arXiv_CV Caption CNN RNN Recognition
+tags: arXiv_CV Caption Embedding CNN RNN Recognition
 author: Jônatas Wehrmann, Anderson Mattjie, Rodrigo C. Barros
 mathjax: true
 ---

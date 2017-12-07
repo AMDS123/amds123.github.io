@@ -3,7 +3,7 @@ layout: post
 title: "Discriminatively Trained And-Or Graph Models for Object Shape Detection"
 date: 2015-02-02 02:04:01
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection Recognition
+tags: arXiv_CV Object_Detection Optimization Inference Detection Recognition
 author: Liang Lin, Xiaolong Wang, Wei Yang, Jian-Huang Lai
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Audio Cover Song Identification using Convolutional Neural Network"
 date: 2017-12-01 02:45:46
 categories: arXiv_SD
-tags: arXiv_SD CNN
+tags: arXiv_SD CNN Relation
 author: Sungkyun Chang, Juheon Lee, Sang Keun Choe, Kyogu Lee
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Effective Approaches to Attention-based Neural Machine Translation"
 date: 2015-09-20 08:25:52
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Minh-Thang Luong, Hieu Pham, Christopher D. Manning
 mathjax: true
 ---

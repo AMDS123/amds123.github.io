@@ -3,7 +3,7 @@ layout: post
 title: "Technical Report: Image Captioning with Semantically Similar Images"
 date: 2015-06-12 11:51:16
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN
+tags: arXiv_CV Image_Caption Caption Embedding CNN
 author: Martin Kolář, Michal Hradiš, Pavel Zemčík
 mathjax: true
 ---

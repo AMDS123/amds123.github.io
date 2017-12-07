@@ -3,7 +3,7 @@ layout: post
 title: "Dual Attention Network for Product Compatibility and Function Satisfiability Analysis"
 date: 2017-12-06 03:11:51
 categories: arXiv_CL
-tags: arXiv_CL Deep_Learning
+tags: arXiv_CL QA Attention Deep_Learning Quantitative
 author: Hu Xu, Sihong Xie, Lei Shu, Philip S. Yu
 mathjax: true
 ---

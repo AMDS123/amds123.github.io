@@ -3,7 +3,7 @@ layout: post
 title: "Neural Extractive Summarization with Side Information"
 date: 2017-09-10 19:56:15
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Attention Summarization Caption
 author: Shashi Narayan, Nikos Papasarantopoulos, Shay B. Cohen, Mirella Lapata
 mathjax: true
 ---

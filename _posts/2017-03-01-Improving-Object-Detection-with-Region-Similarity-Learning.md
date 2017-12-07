@@ -3,7 +3,7 @@ layout: post
 title: "Improving Object Detection with Region Similarity Learning"
 date: 2017-03-01 11:16:13
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection Embedding CNN Optimization Detection
 author: Feng Gao, Yihang Lou, Yan Bai, Shiqi Wang, Tiejun Huang, Ling-Yu Duan
 mathjax: true
 ---

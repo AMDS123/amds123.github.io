@@ -3,7 +3,7 @@ layout: post
 title: "Bridge Correlational Neural Networks for Multilingual Multimodal Representation Learning"
 date: 2016-07-01 09:01:19
 categories: arXiv_CV
-tags: arXiv_CV Caption Classification
+tags: arXiv_CV Caption Transfer_Learning Represenation_Learning Classification Relation
 author: Janarthanan Rajendran, Mitesh M. Khapra, Sarath Chandar, Balaraman Ravindran
 mathjax: true
 ---

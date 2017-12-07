@@ -3,7 +3,7 @@ layout: post
 title: "Deep Learning for Object Saliency Detection and Image Segmentation"
 date: 2015-05-05 20:03:07
 categories: arXiv_CV
-tags: arXiv_CV Segmentation CNN Deep_Learning Detection Gradient_Descent
+tags: arXiv_CV Salient Segmentation CNN Deep_Learning Detection Gradient_Descent
 author: Hengyue Pan, Bo Wang, Hui Jiang
 mathjax: true
 ---

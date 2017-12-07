@@ -3,7 +3,7 @@ layout: post
 title: "Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images"
 date: 2017-11-01 07:57:25
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Prediction Detection
 author: Qianhui Luo, Huifang Ma, Yue Wang, Li Tang, Rong Xiong
 mathjax: true
 ---

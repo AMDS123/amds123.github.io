@@ -3,7 +3,7 @@ layout: post
 title: "Yin and Yang: Balancing and Answering Binary Visual Questions"
 date: 2016-04-19 19:30:00
 categories: arXiv_CV
-tags: arXiv_CV VQA Recognition
+tags: arXiv_CV QA VQA Recognition
 author: Peng Zhang, Yash Goyal, Douglas Summers-Stay, Dhruv Batra, Devi Parikh
 mathjax: true
 ---

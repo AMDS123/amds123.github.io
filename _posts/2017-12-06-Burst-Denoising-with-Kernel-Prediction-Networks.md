@@ -3,7 +3,7 @@ layout: post
 title: "Burst Denoising with Kernel Prediction Networks"
 date: 2017-12-06 18:50:28
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV CNN Optimization Prediction
 author: Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll
 mathjax: true
 ---

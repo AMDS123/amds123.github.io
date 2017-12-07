@@ -3,7 +3,7 @@ layout: post
 title: "Leaf Identification Using a Deep Convolutional Neural Network"
 date: 2017-12-04 09:17:53
 categories: arXiv_CV
-tags: arXiv_CV CNN Image_Classification Classification Recognition
+tags: arXiv_CV CNN Image_Classification Transfer_Learning Classification Recognition
 author: Christoph Wick, Frank Puppe
 mathjax: true
 ---

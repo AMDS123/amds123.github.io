@@ -3,7 +3,7 @@ layout: post
 title: "DOTA: A Large-scale Dataset for Object Detection in Aerial Images"
 date: 2017-11-28 16:52:44
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection
 author: Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang
 mathjax: true
 ---

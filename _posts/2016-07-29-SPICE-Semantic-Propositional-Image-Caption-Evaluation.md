@@ -3,7 +3,7 @@ layout: post
 title: "SPICE: Semantic Propositional Image Caption Evaluation"
 date: 2016-07-29 14:26:27
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Relation
 author: Peter Anderson, Basura Fernando, Mark Johnson, Stephen Gould
 mathjax: true
 ---

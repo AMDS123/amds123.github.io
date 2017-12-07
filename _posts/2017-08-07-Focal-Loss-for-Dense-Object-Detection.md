@@ -3,7 +3,7 @@ layout: post
 title: "Focal Loss for Dense Object Detection"
 date: 2017-08-07 06:32:42
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Detection
 author: Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Point Pair Feature based Object Detection for Random Bin Picking"
 date: 2016-12-05 09:57:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Pose_Estimation Detection
 author: Wim Abbeloos, Toon Goedemé
 mathjax: true
 ---

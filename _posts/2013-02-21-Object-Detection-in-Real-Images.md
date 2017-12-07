@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection in Real Images"
 date: 2013-02-21 06:06:47
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection Recognition
+tags: arXiv_CV Object_Detection Inference Detection Recognition
 author: Dilip K. Prasad
 mathjax: true
 ---

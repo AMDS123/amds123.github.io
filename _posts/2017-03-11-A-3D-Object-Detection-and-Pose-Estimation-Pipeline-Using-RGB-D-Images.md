@@ -3,7 +3,7 @@ layout: post
 title: "A 3D Object Detection and Pose Estimation Pipeline Using RGB-D Images"
 date: 2017-03-11 10:09:02
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Pose_Estimation Detection
 author: Ruotao He, Juan Rojas, Yisheng Guan
 mathjax: true
 ---

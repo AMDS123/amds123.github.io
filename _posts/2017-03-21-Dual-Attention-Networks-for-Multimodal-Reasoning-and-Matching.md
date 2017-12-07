@@ -3,7 +3,7 @@ layout: post
 title: "Dual Attention Networks for Multimodal Reasoning and Matching"
 date: 2017-03-21 05:12:02
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Inference VQA
 author: Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim
 mathjax: true
 ---

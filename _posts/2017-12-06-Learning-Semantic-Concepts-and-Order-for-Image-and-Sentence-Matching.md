@@ -3,7 +3,7 @@ layout: post
 title: "Learning Semantic Concepts and Order for Image and Sentence Matching"
 date: 2017-12-06 04:36:40
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption GAN RNN
+tags: arXiv_CV Image_Caption GAN RNN Relation
 author: Yan Huang, Qi Wu, Liang Wang
 mathjax: true
 ---

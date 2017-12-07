@@ -3,7 +3,7 @@ layout: post
 title: "Areas of Attention for Image Captioning"
 date: 2017-08-25 14:36:01
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Object_Detection Caption CNN RNN Detection
+tags: arXiv_CV Image_Caption Object_Detection Attention Caption CNN RNN Language_Model Detection
 author: Marco Pedersoli, Thomas Lucas, Cordelia Schmid, Jakob Verbeek
 mathjax: true
 ---

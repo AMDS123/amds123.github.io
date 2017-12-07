@@ -3,7 +3,7 @@ layout: post
 title: "An active search strategy for efficient object class detection"
 date: 2015-04-14 11:29:51
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection GAN Detection
+tags: arXiv_CV Object_Detection GAN Detection Relation
 author: Abel Gonzalez-Garcia, Alexander Vezhnevets, Vittorio Ferrari
 mathjax: true
 ---

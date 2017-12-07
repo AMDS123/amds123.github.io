@@ -3,7 +3,7 @@ layout: post
 title: "Towards Qualitative Advancement of Underwater Machine Vision with Generative Adversarial Networks"
 date: 2017-12-03 09:39:29
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN
+tags: arXiv_CV Adversarial Attention GAN
 author: Xingyu Chen, Junzhi Yu, Shihan Kong, Zhengxing Wu, Xi Fang, Li Wen
 mathjax: true
 ---

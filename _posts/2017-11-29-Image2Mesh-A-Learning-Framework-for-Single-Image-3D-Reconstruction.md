@@ -3,7 +3,7 @@ layout: post
 title: "Image2Mesh: A Learning Framework for Single Image 3D Reconstruction"
 date: 2017-11-29 03:57:32
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning
+tags: arXiv_CV Sparse Face Deep_Learning
 author: Jhony K. Pontes, Chen Kong, Sridha Sridharan, Simon Lucey, Anders Eriksson, Clinton Fookes
 mathjax: true
 ---

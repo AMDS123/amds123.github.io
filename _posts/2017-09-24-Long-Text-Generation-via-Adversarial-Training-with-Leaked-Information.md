@@ -3,7 +3,7 @@ layout: post
 title: "Long Text Generation via Adversarial Training with Leaked Information"
 date: 2017-09-24 13:35:08
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Adversarial GAN Reinforcement_Learning Caption
+tags: arXiv_CV Image_Caption Adversarial GAN Text_Generation Reinforcement_Learning Caption
 author: Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang
 mathjax: true
 ---

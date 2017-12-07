@@ -3,7 +3,7 @@ layout: post
 title: "Co-salient Object Detection Based on Deep Saliency Networks and Seed Propagation over an Integrated Graph"
 date: 2017-06-29 09:40:48
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Weakly_Supervised Detection
+tags: arXiv_CV Salient Object_Detection Knowledge Segmentation Weakly_Supervised Detection
 author: Dong-ju Jeong, Insung Hwang, Nam Ik Cho
 mathjax: true
 ---

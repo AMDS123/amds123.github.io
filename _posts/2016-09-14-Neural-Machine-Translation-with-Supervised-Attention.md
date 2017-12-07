@@ -3,7 +3,7 @@ layout: post
 title: "Neural Machine Translation with Supervised Attention"
 date: 2016-09-14 09:31:40
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Lemao Liu, Masao Utiyama, Andrew Finch, Eiichiro Sumita
 mathjax: true
 ---

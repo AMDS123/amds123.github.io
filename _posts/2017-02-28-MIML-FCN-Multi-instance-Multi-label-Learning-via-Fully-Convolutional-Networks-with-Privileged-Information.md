@@ -3,7 +3,7 @@ layout: post
 title: "MIML-FCN+: Multi-instance Multi-label Learning via Fully Convolutional Networks with Privileged Information"
 date: 2017-02-28 07:54:22
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN Deep_Learning Recognition
+tags: arXiv_CV Image_Caption Caption CNN Deep_Learning Relation Recognition
 author: Hao Yang, Joey Tianyi Zhou, Jianfei Cai, Yew Soon Ong
 mathjax: true
 ---

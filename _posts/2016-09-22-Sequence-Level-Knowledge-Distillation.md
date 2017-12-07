@@ -3,7 +3,7 @@ layout: post
 title: "Sequence-Level Knowledge Distillation"
 date: 2016-09-22 01:17:12
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Knowledge NMT Prediction
 author: Yoon Kim, Alexander M. Rush
 mathjax: true
 ---

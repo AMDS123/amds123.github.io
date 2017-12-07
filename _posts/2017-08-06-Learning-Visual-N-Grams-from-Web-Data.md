@@ -3,7 +3,7 @@ layout: post
 title: "Learning Visual N-Grams from Web Data"
 date: 2017-08-06 01:59:22
 categories: arXiv_CV
-tags: arXiv_CV Caption CNN Recognition
+tags: arXiv_CV Image_Retrieval Caption CNN Language_Model Prediction Recognition
 author: Ang Li, Allan Jabri, Armand Joulin, Laurens van der Maaten
 mathjax: true
 ---

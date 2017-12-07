@@ -3,7 +3,7 @@ layout: post
 title: "Cold Fusion: Training Seq2Seq Models Together with Language Models"
 date: 2017-08-21 21:28:07
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Speech_Recognition Caption Recognition
+tags: arXiv_CV Image_Caption Attention Speech_Recognition Caption Language_Model Recognition
 author: Anuroop Sriram, Heewoo Jun, Sanjeev Satheesh, Adam Coates
 mathjax: true
 ---

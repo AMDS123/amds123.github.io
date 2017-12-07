@@ -3,7 +3,7 @@ layout: post
 title: "Development of An Android Application for Object Detection Based on Color, Shape, or Local Features"
 date: 2017-03-10 21:39:49
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection Recognition
+tags: arXiv_CV Object_Detection Face Detection Recognition
 author: Lamiaa A. Elrefaei, Mona Omar Al-musawa, Norah Abdullah Al-gohany
 mathjax: true
 ---

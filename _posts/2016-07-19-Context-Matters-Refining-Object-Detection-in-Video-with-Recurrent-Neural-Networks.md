@@ -3,7 +3,7 @@ layout: post
 title: "Context Matters: Refining Object Detection in Video with Recurrent Neural Networks"
 date: 2016-07-19 03:00:35
 categories: arXiv_CV
-tags: arXiv_CV Regularization Object_Detection CNN RNN Detection
+tags: arXiv_CV Regularization Object_Detection Sparse CNN RNN Prediction Detection
 author: Subarna Tripathi, Zachary C. Lipton, Serge Belongie, Truong Nguyen
 mathjax: true
 ---

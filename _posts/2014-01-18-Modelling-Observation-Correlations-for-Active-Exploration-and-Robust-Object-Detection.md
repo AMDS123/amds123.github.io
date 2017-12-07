@@ -3,7 +3,7 @@ layout: post
 title: "Modelling Observation Correlations for Active Exploration and Robust Object Detection"
 date: 2014-01-18 21:37:47
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Detection Relation
 author: Javier Velez, Garrett Hemann, Albert S. Huang, Ingmar Posner, Nicholas Roy
 mathjax: true
 ---

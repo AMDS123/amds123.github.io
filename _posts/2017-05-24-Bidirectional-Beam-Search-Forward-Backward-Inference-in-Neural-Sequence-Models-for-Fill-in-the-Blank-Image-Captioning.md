@@ -3,7 +3,7 @@ layout: post
 title: "Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-in-the-Blank Image Captioning"
 date: 2017-05-24 13:42:47
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Inference
 author: Qing Sun, Stefan Lee, Dhruv Batra
 mathjax: true
 ---

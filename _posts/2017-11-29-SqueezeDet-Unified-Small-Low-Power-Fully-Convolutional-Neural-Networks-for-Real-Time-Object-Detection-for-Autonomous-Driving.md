@@ -3,7 +3,7 @@ layout: post
 title: "SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving"
 date: 2017-11-29 07:02:33
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Inference Detection
 author: Bichen Wu, Alvin Wan, Forrest Iandola, Peter H. Jin, Kurt Keutzer
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "FVQA: Fact-based Visual Question Answering"
 date: 2017-08-08 05:10:20
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV Knowledge QA Attention Relation VQA
 author: Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel, Anthony Dick
 mathjax: true
 ---

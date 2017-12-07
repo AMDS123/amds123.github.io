@@ -3,7 +3,7 @@ layout: post
 title: "A Keygraph Classification Framework for Real-Time Object Detection"
 date: 2009-01-30 19:38:44
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Classification Detection
+tags: arXiv_CV Object_Detection Pose_Estimation Classification Detection Relation
 author: Marcelo Hashimoto, Roberto M. Cesar Jr
 mathjax: true
 ---

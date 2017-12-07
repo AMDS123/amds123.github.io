@@ -3,7 +3,7 @@ layout: post
 title: "Calculating Semantic Similarity between Academic Articles using Topic Event and Ontology"
 date: 2017-11-30 16:58:46
 categories: arXiv_CL
-tags: arXiv_CL Survey Detection
+tags: arXiv_CL Face Ontology Survey Detection
 author: Ming Liu, Bo Lang, Zepeng Gu
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Bright X-ray flares from the BL Lac object Mrk 421, detected with MAXI in 2010 January and February"
 date: 2010-10-05 20:00:25
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Relation
 author: Naoki Isobe, Kousuke Sugimori, Nobuyuki Kawai, Yoshihiro Ueda, Hitoshi Negoro, Mutsumi Sugizaki, Masaru Matsuoka, Arata Daikyuji, Satoshi Eguchi, Kazuo Hiroi, Masaki Ishikawa, Ryoji Ishiwata, Kazuyoshi Kawasaki, Masashi Kimura, Mitsuhiro Kohama, Tatehiro Mihara, Sho Miyoshi, Mikio Morii, Yujin E. Nakagawa, Satoshi Nakahira, Motoki Nakajima, Hiroshi Ozawa, Tetsuya Sootome, Motoko Suzuki, Hiroshi Tomida, Hiroshi Tsunemi, Shiro Ueno, Takayuki Yamamoto, Kazutaka Yamaoka, Atsumasa Yoshida, the MAXI team
 mathjax: true
 ---

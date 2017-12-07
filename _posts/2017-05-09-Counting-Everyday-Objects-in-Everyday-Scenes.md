@@ -3,7 +3,7 @@ layout: post
 title: "Counting Everyday Objects in Everyday Scenes"
 date: 2017-05-09 03:24:40
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection VQA
+tags: arXiv_CV Object_Detection QA Detection VQA
 author: Prithvijit Chattopadhyay, Ramakrishna Vedantam, Ramprasaath R. Selvaraju, Dhruv Batra, Devi Parikh
 mathjax: true
 ---

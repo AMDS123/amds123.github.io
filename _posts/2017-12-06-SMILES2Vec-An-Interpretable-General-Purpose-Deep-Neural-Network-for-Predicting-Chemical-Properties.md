@@ -3,7 +3,7 @@ layout: post
 title: "SMILES2Vec: An Interpretable General-Purpose Deep Neural Network for Predicting Chemical Properties"
 date: 2017-12-06 04:29:28
 categories: arXiv_CL
-tags: arXiv_CL RNN Deep_Learning
+tags: arXiv_CL Knowledge Optimization RNN Deep_Learning Prediction
 author: Garrett B. Goh, Nathan O. Hodas, Charles Siegel, Abhinav Vishnu
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection from Video Tubelets with Convolutional Neural Networks"
 date: 2016-04-14 07:22:44
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Tracking CNN Image_Classification Object_Tracking Semantic_Segmentation Classification Detection
+tags: arXiv_CV Object_Detection Segmentation Tracking CNN Image_Classification Object_Tracking Semantic_Segmentation Classification Detection Relation
 author: Kai Kang, Wanli Ouyang, Hongsheng Li, Xiaogang Wang
 mathjax: true
 ---

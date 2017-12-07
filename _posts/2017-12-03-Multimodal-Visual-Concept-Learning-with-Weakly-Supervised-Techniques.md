@@ -3,7 +3,7 @@ layout: post
 title: "Multimodal Visual Concept Learning with Weakly Supervised Techniques"
 date: 2017-12-03 16:51:56
 categories: arXiv_CV
-tags: arXiv_CV Weakly_Supervised Action_Recognition Recognition
+tags: arXiv_CV Weakly_Supervised Face Action_Recognition Optimization Recognition
 author: Giorgos Bouritsas, Petros Koutras, Athanasia Zlatintsi, Petros Maragos
 mathjax: true
 ---

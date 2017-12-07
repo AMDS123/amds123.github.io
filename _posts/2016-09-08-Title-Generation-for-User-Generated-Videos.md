@@ -3,7 +3,7 @@ layout: post
 title: "Title Generation for User Generated Videos"
 date: 2016-09-08 17:36:13
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Object_Detection Caption Detection
+tags: arXiv_CV Salient Video_Caption Object_Detection Attention Caption Prediction Detection
 author: Kuo-Hao Zeng, Tseng-Hung Chen, Juan Carlos Niebles, Min Sun
 mathjax: true
 ---

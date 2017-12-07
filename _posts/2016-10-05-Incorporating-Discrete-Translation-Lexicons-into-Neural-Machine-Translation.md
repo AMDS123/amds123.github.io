@@ -3,7 +3,7 @@ layout: post
 title: "Incorporating Discrete Translation Lexicons into Neural Machine Translation"
 date: 2016-10-05 02:46:39
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Philip Arthur, Graham Neubig, Satoshi Nakamura
 mathjax: true
 ---

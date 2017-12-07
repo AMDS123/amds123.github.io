@@ -3,7 +3,7 @@ layout: post
 title: "Edge Preserving and Multi-Scale Contextual Neural Network for Salient Object Detection"
 date: 2017-09-22 14:48:25
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Salient Object_Detection CNN Detection Relation
 author: Xiang Wang, Huimin Ma, Xiaozhi Chen, Shaodi You
 mathjax: true
 ---

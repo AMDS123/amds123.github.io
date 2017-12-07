@@ -3,7 +3,7 @@ layout: post
 title: "Learning Wake-Sleep Recurrent Attention Models"
 date: 2015-09-22 23:52:30
 categories: arXiv_CV
-tags: arXiv_CV Caption CNN Image_Classification Classification
+tags: arXiv_CV Attention Caption CNN Image_Classification Inference Classification
 author: Jimmy Ba, Roger Grosse, Ruslan Salakhutdinov, Brendan Frey
 mathjax: true
 ---

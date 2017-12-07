@@ -3,7 +3,7 @@ layout: post
 title: "Video Salient Object Detection Using Spatiotemporal Deep Features"
 date: 2017-08-04 11:05:14
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation Detection Relation
 author: Trung-Nghia Le, Akihiro Sugimoto
 mathjax: true
 ---

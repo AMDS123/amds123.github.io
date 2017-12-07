@@ -3,7 +3,7 @@ layout: post
 title: "Paris-Lille-3D: a large and high-quality ground truth urban point cloud dataset for automatic segmentation and classification"
 date: 2017-11-30 19:08:52
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Classification
+tags: arXiv_CV Segmentation Attention Classification
 author: Xavier Roynard, Jean-Emmanuel Deschaud, François Goulette
 mathjax: true
 ---

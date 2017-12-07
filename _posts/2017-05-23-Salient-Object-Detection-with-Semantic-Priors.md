@@ -3,7 +3,7 @@ layout: post
 title: "Salient Object Detection with Semantic Priors"
 date: 2017-05-23 12:24:09
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Semantic_Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation Semantic_Segmentation Detection
 author: Tam V. Nguyen, Luoqi Liu
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Stretching Domain Adaptation: How far is too far?"
 date: 2017-12-06 17:03:07
 categories: arXiv_CV
-tags: arXiv_CV CNN Deep_Learning Recognition
+tags: arXiv_CV CNN Deep_Learning Quantitative Recognition
 author: Yunhan Zhao, Haider Ali, Rene Vidal
 mathjax: true
 ---

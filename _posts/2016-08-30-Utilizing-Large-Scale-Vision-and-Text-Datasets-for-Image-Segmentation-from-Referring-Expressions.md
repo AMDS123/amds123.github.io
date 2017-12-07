@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Large Scale Vision and Text Datasets for Image Segmentation from Referring Expressions"
 date: 2016-08-30 02:27:41
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Segmentation Caption
+tags: arXiv_CV Image_Caption Segmentation Caption Language_Model
 author: Ronghang Hu, Marcus Rohrbach, Subhashini Venugopalan, Trevor Darrell
 mathjax: true
 ---

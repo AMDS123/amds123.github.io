@@ -3,7 +3,7 @@ layout: post
 title: "Grounding Referring Expressions in Images by Variational Context"
 date: 2017-12-05 19:57:52
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Embedding Relation
 author: Hanwang Zhang, Yulei Niu, Shih-Fu Chang
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "An Innovative Salient Object Detection Using Center-Dark Channel Prior"
 date: 2017-11-22 00:27:20
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Detection
 author: Chunbiao Zhu, Ge Li, Wenmin Wang, Ronggang Wang
 mathjax: true
 ---

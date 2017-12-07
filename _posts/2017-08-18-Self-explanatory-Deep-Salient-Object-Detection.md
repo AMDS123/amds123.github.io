@@ -3,7 +3,7 @@ layout: post
 title: "Self-explanatory Deep Salient Object Detection"
 date: 2017-08-18 13:19:01
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Deep_Learning Detection
+tags: arXiv_CV Salient Object_Detection Deep_Learning Prediction Detection
 author: Huaxin Xiao, Jiashi Feng, Yunchao Wei, Maojun Zhang
 mathjax: true
 ---

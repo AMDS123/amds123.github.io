@@ -3,7 +3,7 @@ layout: post
 title: "Speech-Based Visual Question Answering"
 date: 2017-09-16 03:43:20
 categories: arXiv_CV
-tags: arXiv_CV Speech_Recognition VQA Recognition
+tags: arXiv_CV QA Speech_Recognition VQA Recognition
 author: Ted Zhang, Dengxin Dai, Tinne Tuytelaars, Marie-Francine Moens, Luc Van Gool
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "On Deterministic Sampling Patterns for Robust Low-Rank Matrix Completion"
 date: 2017-12-05 14:06:44
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Sparse
 author: Morteza Ashraphijuo, Vaneet Aggarwal, Xiaodong Wang
 mathjax: true
 ---

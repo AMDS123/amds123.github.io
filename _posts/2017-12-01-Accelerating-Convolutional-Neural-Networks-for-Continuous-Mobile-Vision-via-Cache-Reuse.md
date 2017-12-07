@@ -3,7 +3,7 @@ layout: post
 title: "Accelerating Convolutional Neural Networks for Continuous Mobile Vision via Cache Reuse"
 date: 2017-12-01 16:52:04
 categories: arXiv_CV
-tags: arXiv_CV Face_Detection CNN Detection
+tags: arXiv_CV Face CNN Inference Detection Face_Detection
 author: Mengwei Xu, Xuanzhe Liu, Yunxin Liu, Felix Xiaozhu Lin
 mathjax: true
 ---

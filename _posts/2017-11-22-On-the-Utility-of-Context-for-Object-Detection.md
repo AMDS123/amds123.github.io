@@ -3,7 +3,7 @@ layout: post
 title: "On the Utility of Context for Object Detection"
 date: 2017-11-22 17:54:22
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Optimization Detection Relation
 author: Ehud Barnea, Ohad Ben-Shahar
 mathjax: true
 ---

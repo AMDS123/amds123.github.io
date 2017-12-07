@@ -3,7 +3,7 @@ layout: post
 title: "Action-Driven Object Detection with Top-Down Visual Attentions"
 date: 2016-12-20 15:24:46
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Deep_Learning Detection
+tags: arXiv_CV Object_Detection Attention CNN Deep_Learning Detection
 author: Donggeun Yoo, Sunggyun Park, Kyunghyun Paeng, Joon-Young Lee, In So Kweon
 mathjax: true
 ---

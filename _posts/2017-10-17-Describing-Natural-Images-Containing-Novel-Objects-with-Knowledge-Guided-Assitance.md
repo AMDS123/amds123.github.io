@@ -3,7 +3,7 @@ layout: post
 title: "Describing Natural Images Containing Novel Objects with Knowledge Guided Assitance"
 date: 2017-10-17 14:11:37
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption Recognition
+tags: arXiv_CV Image_Caption Knowledge Attention Caption Inference Recognition
 author: Aditya Mogadala, Umanga Bista, Lexing Xie, Achim Rettinger
 mathjax: true
 ---

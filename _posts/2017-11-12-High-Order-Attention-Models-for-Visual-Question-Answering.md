@@ -3,7 +3,7 @@ layout: post
 title: "High-Order Attention Models for Visual Question Answering"
 date: 2017-11-12 17:30:05
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Relation VQA
 author: Idan Schwartz, Alexander G. Schwing, Tamir Hazan
 mathjax: true
 ---

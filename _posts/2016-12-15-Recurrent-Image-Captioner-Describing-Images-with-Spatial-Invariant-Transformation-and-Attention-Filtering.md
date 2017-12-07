@@ -3,7 +3,7 @@ layout: post
 title: "Recurrent Image Captioner: Describing Images with Spatial-Invariant Transformation and Attention Filtering"
 date: 2016-12-15 07:19:46
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN
+tags: arXiv_CV Image_Caption Salient Attention Caption Inference RNN
 author: Hao Liu, Yang Yang, Fumin Shen, Lixin Duan, Heng Tao Shen
 mathjax: true
 ---

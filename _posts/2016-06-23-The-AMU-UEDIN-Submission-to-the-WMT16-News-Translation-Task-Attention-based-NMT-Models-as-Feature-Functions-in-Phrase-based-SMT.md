@@ -3,7 +3,7 @@ layout: post
 title: "The AMU-UEDIN Submission to the WMT16 News Translation Task: Attention-based NMT Models as Feature Functions in Phrase-based SMT"
 date: 2016-06-23 13:22:46
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Marcin Junczys-Dowmunt, Tomasz Dwojak, Rico Sennrich
 mathjax: true
 ---

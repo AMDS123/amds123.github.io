@@ -3,7 +3,7 @@ layout: post
 title: "Multimodal Memory Modelling for Video Captioning"
 date: 2016-11-17 07:24:03
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption CNN RNN Deep_Learning
+tags: arXiv_CV Video_Caption Attention Caption CNN RNN Deep_Learning
 author: Junbo Wang, Wei Wang, Yan Huang, Liang Wang, Tieniu Tan
 mathjax: true
 ---

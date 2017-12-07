@@ -3,7 +3,7 @@ layout: post
 title: "The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions"
 date: 2016-12-16 07:07:25
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Detection VQA
+tags: arXiv_CV QA Segmentation Attention Detection VQA
 author: Peng Wang, Qi Wu, Chunhua Shen, Anton van den Hengel
 mathjax: true
 ---

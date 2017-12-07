@@ -3,7 +3,7 @@ layout: post
 title: "ParlAI: A Dialog Research Software Platform"
 date: 2017-08-10 04:17:48
 categories: arXiv_CV
-tags: arXiv_CV Reinforcement_Learning RNN Memory_Networks VQA
+tags: arXiv_CV QA Reinforcement_Learning RNN Memory_Networks VQA
 author: Alexander H. Miller, Will Feng, Adam Fisch, Jiasen Lu, Dhruv Batra, Antoine Bordes, Devi Parikh, Jason Weston
 mathjax: true
 ---

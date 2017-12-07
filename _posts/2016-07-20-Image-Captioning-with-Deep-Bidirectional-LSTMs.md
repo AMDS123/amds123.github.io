@@ -3,7 +3,7 @@ layout: post
 title: "Image Captioning with Deep Bidirectional LSTMs"
 date: 2016-07-20 14:19:37
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Object_Detection Caption CNN RNN Detection
+tags: arXiv_CV Image_Caption Object_Detection Attention Caption Embedding CNN RNN Detection
 author: Cheng Wang, Haojin Yang, Christian Bartz, Christoph Meinel
 mathjax: true
 ---

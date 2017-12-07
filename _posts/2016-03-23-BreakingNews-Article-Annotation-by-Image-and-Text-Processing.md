@@ -3,7 +3,7 @@ layout: post
 title: "BreakingNews: Article Annotation by Image and Text Processing"
 date: 2016-03-23 11:30:24
 categories: arXiv_CV
-tags: arXiv_CV Caption Deep_Learning Detection
+tags: arXiv_CV Image_Retrieval Caption Transfer_Learning Deep_Learning Prediction Detection Relation
 author: Arnau Ramisa, Fei Yan, Francesc Moreno-Noguer, Krystian Mikolajczyk
 mathjax: true
 ---

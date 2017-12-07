@@ -3,7 +3,7 @@ layout: post
 title: "ABC-CNN: An Attention Based Convolutional Neural Network for Visual Question Answering"
 date: 2016-04-03 22:47:38
 categories: arXiv_CV
-tags: arXiv_CV CNN Deep_Learning VQA
+tags: arXiv_CV QA Attention CNN Deep_Learning VQA
 author: Kan Chen, Jiang Wang, Liang-Chieh Chen, Haoyuan Gao, Wei Xu, Ram Nevatia
 mathjax: true
 ---

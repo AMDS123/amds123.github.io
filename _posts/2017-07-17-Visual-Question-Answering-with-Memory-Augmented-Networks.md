@@ -3,7 +3,7 @@ layout: post
 title: "Visual Question Answering with Memory-Augmented Networks"
 date: 2017-07-17 00:42:56
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention VQA
 author: Chao Ma, Chunhua Shen, Anthony Dick, Anton van den Hengel
 mathjax: true
 ---

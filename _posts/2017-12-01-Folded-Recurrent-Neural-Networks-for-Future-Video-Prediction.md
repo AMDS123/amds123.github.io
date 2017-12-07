@@ -3,7 +3,7 @@ layout: post
 title: "Folded Recurrent Neural Networks for Future Video Prediction"
 date: 2017-12-01 13:31:56
 categories: arXiv_CV
-tags: arXiv_CV RNN
+tags: arXiv_CV Attention RNN Prediction
 author: Marc Oliu, Javier Selva, Sergio Escalera
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Visual Reference Resolution using Attention Memory for Visual Dialog"
 date: 2017-11-20 18:09:07
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Prediction VQA
 author: Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal
 mathjax: true
 ---

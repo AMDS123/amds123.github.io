@@ -3,7 +3,7 @@ layout: post
 title: "Blind Image Deblurring Using Row-Column Sparse Representations"
 date: 2017-12-05 21:39:29
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Sparse Optimization Quantitative
 author: Mohammad Tofighi, Yuelong Li, Vishal Monga
 mathjax: true
 ---

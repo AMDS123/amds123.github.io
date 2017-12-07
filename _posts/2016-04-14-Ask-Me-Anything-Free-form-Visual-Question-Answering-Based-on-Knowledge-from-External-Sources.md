@@ -3,7 +3,7 @@ layout: post
 title: "Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources"
 date: 2016-04-14 08:09:08
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV Knowledge QA VQA
 author: Qi Wu, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel
 mathjax: true
 ---

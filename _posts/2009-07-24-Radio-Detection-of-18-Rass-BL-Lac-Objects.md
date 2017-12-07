@@ -3,7 +3,7 @@ layout: post
 title: "Radio Detection of 18 Rass BL Lac Objects"
 date: 2009-07-24 03:40:54
 categories: arXiv_CV
-tags: arXiv_CV Survey Detection
+tags: arXiv_CV Survey Detection Relation
 author: M. W. B. Anderson, M. D. Filipović
 mathjax: true
 ---

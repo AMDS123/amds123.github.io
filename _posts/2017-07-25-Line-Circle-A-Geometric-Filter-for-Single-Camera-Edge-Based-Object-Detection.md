@@ -3,7 +3,7 @@ layout: post
 title: "Line-Circle: A Geometric Filter for Single Camera Edge-Based Object Detection"
 date: 2017-07-25 17:19:42
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Tracking Detection
+tags: arXiv_CV Object_Detection Face Tracking Prediction Detection SLAM
 author: Seyed Amir Tafrishi, Vahid E. Kandjani
 mathjax: true
 ---

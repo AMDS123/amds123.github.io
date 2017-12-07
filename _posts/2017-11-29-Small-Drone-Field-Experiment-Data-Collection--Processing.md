@@ -3,7 +3,7 @@ layout: post
 title: "Small Drone Field Experiment: Data Collection & Processing"
 date: 2017-11-29 06:08:16
 categories: arXiv_CV
-tags: arXiv_CV Drone
+tags: arXiv_CV Face Drone Prediction
 author: Dalton Rosario, Christoph Borel, Damon Conover, Ryan McAlinden, Anthony Ortiz, Sarah Shiver, Blair Simon
 mathjax: true
 ---

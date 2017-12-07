@@ -3,7 +3,7 @@ layout: post
 title: "Sparse Photometric 3D Face Reconstruction Guided by Morphable Models"
 date: 2017-11-29 14:24:58
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Semantic_Segmentation
+tags: arXiv_CV Sparse Segmentation Face Semantic_Segmentation Optimization
 author: Xuan Cao, Zhang Chen, Anpei Chen, Xin Chen, Cen Wang, Jingyi Yu
 mathjax: true
 ---

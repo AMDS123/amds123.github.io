@@ -3,7 +3,7 @@ layout: post
 title: "VSE++: Improving Visual-Semantic Embeddings with Hard Negatives"
 date: 2017-10-30 15:55:21
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Image_Retrieval Caption Embedding Prediction
 author: Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler
 mathjax: true
 ---

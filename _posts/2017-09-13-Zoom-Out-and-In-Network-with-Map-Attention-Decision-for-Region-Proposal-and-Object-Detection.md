@@ -3,7 +3,7 @@ layout: post
 title: "Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection"
 date: 2017-09-13 14:18:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection Attention CNN Detection
 author: Hongyang Li, Yu Liu, Wanli Ouyang, Xiaogang Wang
 mathjax: true
 ---

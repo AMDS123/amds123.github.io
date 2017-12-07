@@ -3,7 +3,7 @@ layout: post
 title: "Hadamard Product for Low-rank Bilinear Pooling"
 date: 2017-03-26 16:22:47
 categories: arXiv_CV
-tags: arXiv_CV Segmentation VQA Recognition
+tags: arXiv_CV QA Segmentation Attention VQA Recognition
 author: Jin-Hwa Kim, Kyoung-Woon On, Woosang Lim, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang
 mathjax: true
 ---

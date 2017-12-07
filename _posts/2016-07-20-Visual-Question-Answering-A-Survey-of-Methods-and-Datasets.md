@@ -3,7 +3,7 @@ layout: post
 title: "Visual Question Answering: A Survey of Methods and Datasets"
 date: 2016-07-20 10:53:29
 categories: arXiv_CV
-tags: arXiv_CV Review Survey CNN RNN VQA
+tags: arXiv_CV Review Knowledge QA Attention Face Survey CNN RNN VQA
 author: Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, Anton van den Hengel
 mathjax: true
 ---

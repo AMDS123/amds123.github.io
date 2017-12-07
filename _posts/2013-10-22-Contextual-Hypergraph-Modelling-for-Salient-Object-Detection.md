@@ -3,7 +3,7 @@ layout: post
 title: "Contextual Hypergraph Modelling for Salient Object Detection"
 date: 2013-10-22 00:38:59
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Attention Detection
 author: Xi Li, Yao Li, Chunhua Shen, Anthony Dick, Anton van den Hengel
 mathjax: true
 ---

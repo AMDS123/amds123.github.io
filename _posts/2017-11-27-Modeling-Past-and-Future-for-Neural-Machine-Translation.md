@@ -3,7 +3,7 @@ layout: post
 title: "Modeling Past and Future for Neural Machine Translation"
 date: 2017-11-27 01:42:00
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Knowledge Attention NMT
 author: Zaixiang Zheng, Hao Zhou, Shujian Huang, Lili Mou, Xinyu Dai, Jiajun Chen, Zhaopeng Tu
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Text-guided Attention Model for Image Captioning"
 date: 2016-12-12 06:52:36
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Attention Caption
 author: Jonghwan Mun, Minsu Cho, Bohyung Han
 mathjax: true
 ---

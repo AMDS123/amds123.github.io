@@ -3,7 +3,7 @@ layout: post
 title: "Aligning where to see and what to tell: image caption with region-based attention and scene factorization"
 date: 2015-06-20 17:25:38
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Salient Attention Caption Language_Model
 author: Junqi Jin, Kun Fu, Runpeng Cui, Fei Sha, Changshui Zhang
 mathjax: true
 ---

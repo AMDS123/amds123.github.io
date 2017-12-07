@@ -3,7 +3,7 @@ layout: post
 title: "UnitBox: An Advanced Object Detection Network"
 date: 2016-08-04 09:06:15
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection CNN Detection
+tags: arXiv_CV Object_Detection Face CNN Prediction Detection Face_Detection
 author: Jiahui Yu, Yuning Jiang, Zhangyang Wang, Zhimin Cao, Thomas Huang
 mathjax: true
 ---

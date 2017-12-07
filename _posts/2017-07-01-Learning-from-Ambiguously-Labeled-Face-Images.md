@@ -3,7 +3,7 @@ layout: post
 title: "Learning from Ambiguously Labeled Face Images"
 date: 2017-07-01 05:35:22
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Knowledge Face Caption
 author: Ching-Hui Chen, Vishal M. Patel, Rama Chellappa
 mathjax: true
 ---

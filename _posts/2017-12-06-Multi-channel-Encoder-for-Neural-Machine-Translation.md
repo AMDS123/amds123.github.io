@@ -3,7 +3,7 @@ layout: post
 title: "Multi-channel Encoder for Neural Machine Translation"
 date: 2017-12-06 09:59:43
 categories: arXiv_CL
-tags: arXiv_CL NMT RNN
+tags: arXiv_CL Attention Embedding NMT RNN
 author: Hao Xiong, Zhongjun He, Xiaoguang Hu, Hua Wu
 mathjax: true
 ---

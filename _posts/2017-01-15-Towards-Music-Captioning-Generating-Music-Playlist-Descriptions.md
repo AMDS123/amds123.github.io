@@ -3,7 +3,7 @@ layout: post
 title: "Towards Music Captioning: Generating Music Playlist Descriptions"
 date: 2017-01-15 05:23:51
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Caption Recommendation
 author: Keunwoo Choi, George Fazekas, Brian McFee, Kyunghyun Cho, Mark Sandler
 mathjax: true
 ---

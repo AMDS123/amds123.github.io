@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection Using Deep CNNs Trained on Synthetic Images"
 date: 2017-09-18 11:42:06
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Transfer_Learning Detection
 author: Param S. Rajpura, Hristo Bojinov, Ravi S. Hegde
 mathjax: true
 ---

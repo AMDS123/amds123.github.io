@@ -3,7 +3,7 @@ layout: post
 title: "Mining fine-grained opinions on closed captions of YouTube videos with an attention-RNN"
 date: 2017-08-08 09:27:55
 categories: arXiv_CV
-tags: arXiv_CV Review Sentiment_Classification Caption RNN Classification
+tags: arXiv_CV Sentiment Review Attention Sentiment_Classification Caption RNN Classification
 author: Edison Marrese-Taylor, Jorge A. Balazs, Yutaka Matsuo
 mathjax: true
 ---

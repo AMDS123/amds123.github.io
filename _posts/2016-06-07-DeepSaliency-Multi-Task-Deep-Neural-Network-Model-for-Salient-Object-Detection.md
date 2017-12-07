@@ -3,7 +3,7 @@ layout: post
 title: "DeepSaliency: Multi-Task Deep Neural Network Model for Salient Object Detection"
 date: 2016-06-07 15:20:44
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation CNN Detection
+tags: arXiv_CV Salient Object_Detection Segmentation CNN Detection Relation
 author: Xi Li, Liming Zhao, Lina Wei, Ming-Hsuan Yang, Fei Wu, Yueting Zhuang, Haibin Ling, Jingdong Wang
 mathjax: true
 ---

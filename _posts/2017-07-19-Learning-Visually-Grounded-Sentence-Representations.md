@@ -3,7 +3,7 @@ layout: post
 title: "Learning Visually Grounded Sentence Representations"
 date: 2017-07-19 23:12:57
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Image_Retrieval Caption Embedding
 author: Douwe Kiela, Alexis Conneau, Allan Jabri, Maximilian Nickel
 mathjax: true
 ---

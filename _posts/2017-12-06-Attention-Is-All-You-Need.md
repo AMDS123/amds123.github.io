@@ -3,7 +3,7 @@ layout: post
 title: "Attention Is All You Need"
 date: 2017-12-06 03:30:32
 categories: arXiv_CL
-tags: arXiv_CL CNN
+tags: arXiv_CL Attention CNN
 author: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 mathjax: true
 ---

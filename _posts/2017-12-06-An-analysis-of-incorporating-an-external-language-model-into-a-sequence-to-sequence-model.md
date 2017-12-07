@@ -3,7 +3,7 @@ layout: post
 title: "An analysis of incorporating an external language model into a sequence-to-sequence model"
 date: 2017-12-06 01:30:54
 categories: arXiv_CL
-tags: arXiv_CL Speech_Recognition Recognition
+tags: arXiv_CL Attention Speech_Recognition Inference Language_Model Recognition
 author: Anjuli Kannan, Yonghui Wu, Patrick Nguyen, Tara N. Sainath, Zhifeng Chen, Rohit Prabhavalkar
 mathjax: true
 ---

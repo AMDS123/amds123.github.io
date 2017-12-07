@@ -3,7 +3,7 @@ layout: post
 title: "VQABQ: Visual Question Answering by Basic Questions"
 date: 2017-08-28 22:40:19
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Optimization VQA
 author: Jia-Hong Huang, Modar Alfadly, Bernard Ghanem
 mathjax: true
 ---

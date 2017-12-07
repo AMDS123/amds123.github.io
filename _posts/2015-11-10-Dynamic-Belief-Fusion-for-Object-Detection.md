@@ -3,7 +3,7 @@ layout: post
 title: "Dynamic Belief Fusion for Object Detection"
 date: 2015-11-10 17:03:55
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Detection Relation
 author: Hyungtae Lee, Heesung Kwon, Ryan M. Robinson, William d. Nothwang, Amar M. Marathe
 mathjax: true
 ---

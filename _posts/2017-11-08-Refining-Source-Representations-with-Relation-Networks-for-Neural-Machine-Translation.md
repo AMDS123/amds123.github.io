@@ -3,7 +3,7 @@ layout: post
 title: "Refining Source Representations with Relation Networks for Neural Machine Translation"
 date: 2017-11-08 08:20:13
 categories: arXiv_CL
-tags: arXiv_CL NMT RNN
+tags: arXiv_CL Attention NMT RNN Relation
 author: Wen Zhang, Jiawei Hu, Yang Feng, Qun Liu
 mathjax: true
 ---

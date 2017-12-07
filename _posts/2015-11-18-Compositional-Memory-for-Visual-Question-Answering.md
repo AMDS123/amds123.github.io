@@ -3,7 +3,7 @@ layout: post
 title: "Compositional Memory for Visual Question Answering"
 date: 2015-11-18 07:25:16
 categories: arXiv_CV
-tags: arXiv_CV RNN Deep_Learning VQA
+tags: arXiv_CV QA Attention RNN Deep_Learning VQA
 author: Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li
 mathjax: true
 ---

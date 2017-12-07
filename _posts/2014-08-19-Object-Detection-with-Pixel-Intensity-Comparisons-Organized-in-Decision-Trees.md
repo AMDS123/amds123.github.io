@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection with Pixel Intensity Comparisons Organized in Decision Trees"
 date: 2014-08-19 15:38:23
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection GAN Detection
+tags: arXiv_CV Object_Detection GAN Face Detection Face_Detection
 author: Nenad Markuš, Miroslav Frljak, Igor S. Pandžić, Jörgen Ahlberg, Robert Forchheimer
 mathjax: true
 ---

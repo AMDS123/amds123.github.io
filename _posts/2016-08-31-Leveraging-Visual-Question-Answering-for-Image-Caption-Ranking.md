@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Visual Question Answering for Image-Caption Ranking"
 date: 2016-08-31 20:14:12
 categories: arXiv_CV
-tags: arXiv_CV Caption VQA
+tags: arXiv_CV Image_Retrieval Knowledge QA Caption VQA
 author: Xiao Lin, Devi Parikh
 mathjax: true
 ---

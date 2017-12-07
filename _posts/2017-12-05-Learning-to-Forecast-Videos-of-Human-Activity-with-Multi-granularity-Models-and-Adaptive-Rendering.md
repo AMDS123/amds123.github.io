@@ -3,7 +3,7 @@ layout: post
 title: "Learning to Forecast Videos of Human Activity with Multi-granularity Models and Adaptive Rendering"
 date: 2017-12-05 22:26:43
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV CNN Prediction
 author: Mengyao Zhai, Jiacheng Chen, Ruizhi Deng, Lei Chen, Ligeng Zhu, Greg Mori
 mathjax: true
 ---

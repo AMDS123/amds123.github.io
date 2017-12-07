@@ -3,7 +3,7 @@ layout: post
 title: "Validation of Tsallis Entropy In Inter-Modality Neuroimage Registration"
 date: 2016-11-06 05:56:12
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL NMT Relation
 author: Henrique Tomaz Amaral-Silva, Luiz Otavio Murta-Jr, Paulo Mazzoncini de Azevedo-Marques, Lauro Wichert-Ana, V. B. Surya Prasath, Colin Studholme
 mathjax: true
 ---

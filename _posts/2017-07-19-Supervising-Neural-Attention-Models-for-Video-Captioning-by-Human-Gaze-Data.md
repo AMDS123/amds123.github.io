@@ -3,7 +3,7 @@ layout: post
 title: "Supervising Neural Attention Models for Video Captioning by Human Gaze Data"
 date: 2017-07-19 11:44:36
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Tracking Caption
+tags: arXiv_CV Video_Caption Attention Tracking Caption Prediction
 author: Youngjae Yu, Jongwook Choi, Yeonhwa Kim, Kyung Yoo, Sang-Hun Lee, Gunhee Kim
 mathjax: true
 ---

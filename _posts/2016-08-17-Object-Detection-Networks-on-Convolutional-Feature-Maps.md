@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection Networks on Convolutional Feature Maps"
 date: 2016-08-17 15:51:13
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Image_Classification Classification Detection
+tags: arXiv_CV Object_Detection Attention CNN Image_Classification Classification Detection
 author: Shaoqing Ren, Kaiming He, Ross Girshick, Xiangyu Zhang, Jian Sun
 mathjax: true
 ---

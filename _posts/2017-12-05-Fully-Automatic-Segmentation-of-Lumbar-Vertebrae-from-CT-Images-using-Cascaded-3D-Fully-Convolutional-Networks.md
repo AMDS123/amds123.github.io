@@ -3,7 +3,7 @@ layout: post
 title: "Fully Automatic Segmentation of Lumbar Vertebrae from CT Images using Cascaded 3D Fully Convolutional Networks"
 date: 2017-12-05 07:24:57
 categories: arXiv_CV
-tags: arXiv_CV Segmentation CNN
+tags: arXiv_CV Segmentation Face CNN
 author: Rens Janssens, Guodong Zeng, Guoyan Zheng
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Towards lightweight convolutional neural networks for object detection"
 date: 2017-10-05 12:08:49
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Inference Detection
 author: Dmitriy Anisimov, Tatiana Khanova
 mathjax: true
 ---

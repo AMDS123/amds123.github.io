@@ -3,7 +3,7 @@ layout: post
 title: "On the Distribution of Salient Objects in Web Images and its Influence on Salient Object Detection"
 date: 2015-01-10 17:36:24
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Detection
 author: Boris Schauerte, Rainer Stiefelhagen
 mathjax: true
 ---

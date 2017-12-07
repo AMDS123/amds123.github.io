@@ -3,7 +3,7 @@ layout: post
 title: "Syntactically Guided Neural Machine Translation"
 date: 2016-05-19 08:52:37
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL NMT Language_Model
 author: Felix Stahlberg, Eva Hasler, Aurelien Waite, Bill Byrne
 mathjax: true
 ---

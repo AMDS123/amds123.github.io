@@ -3,7 +3,7 @@ layout: post
 title: "Enabling Early Audio Event Detection with Neural Networks"
 date: 2017-12-06 10:12:46
 categories: arXiv_SD
-tags: arXiv_SD Detection
+tags: arXiv_SD Inference Detection
 author: Huy Phan, Philipp Koch, Ian McLoughlin, Alfred Mertins
 mathjax: true
 ---

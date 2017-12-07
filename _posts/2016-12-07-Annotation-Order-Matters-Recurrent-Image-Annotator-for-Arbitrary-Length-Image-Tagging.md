@@ -3,7 +3,7 @@ layout: post
 title: "Annotation Order Matters: Recurrent Image Annotator for Arbitrary Length Image Tagging"
 date: 2016-12-07 19:57:02
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Relation
 author: Jiren Jin, Hideki Nakayama
 mathjax: true
 ---

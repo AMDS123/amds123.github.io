@@ -3,7 +3,7 @@ layout: post
 title: "On the importance of normative data in speech-based assessment"
 date: 2017-11-30 20:36:50
 categories: arXiv_CL
-tags: arXiv_CL Classification
+tags: arXiv_CL Sparse Classification
 author: Zeinab Noorian, Chloé Pou-Prom, Frank Rudzicz
 mathjax: true
 ---

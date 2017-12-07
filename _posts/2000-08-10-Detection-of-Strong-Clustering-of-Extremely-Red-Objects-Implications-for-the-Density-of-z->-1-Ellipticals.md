@@ -3,7 +3,7 @@ layout: post
 title: "Detection of Strong Clustering of Extremely Red Objects: Implications for the Density of z > 1 Ellipticals"
 date: 2000-08-10 11:20:06
 categories: arXiv_CV
-tags: arXiv_CV Survey Detection
+tags: arXiv_CV Face Survey Detection
 author: E. Daddi, A. Cimatti, L. Pozzetti, H. Hoekstra, H. J. A. Röttgering, A. Renzini, G. Zamorani, F. Mannucci
 mathjax: true
 ---

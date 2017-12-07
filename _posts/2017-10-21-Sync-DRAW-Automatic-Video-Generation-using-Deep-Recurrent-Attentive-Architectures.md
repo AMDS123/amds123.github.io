@@ -3,7 +3,7 @@ layout: post
 title: "Sync-DRAW: Automatic Video Generation using Deep Recurrent Attentive Architectures"
 date: 2017-10-21 21:02:46
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Knowledge Attention Caption
 author: Gaurav Mittal, Tanya Marwah, Vineeth N. Balasubramanian
 mathjax: true
 ---

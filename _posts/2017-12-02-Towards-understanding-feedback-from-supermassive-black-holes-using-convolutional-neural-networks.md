@@ -3,7 +3,7 @@ layout: post
 title: "Towards understanding feedback from supermassive black holes using convolutional neural networks"
 date: 2017-12-02 00:05:16
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV CNN Prediction
 author: Stanislav Fort
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Bollywood Movie Corpus for Text, Images and Videos"
 date: 2017-10-11 15:51:13
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Face Caption Relation
 author: Nishtha Madaan, Sameep Mehta, Mayank Saxena, Aditi Aggarwal, Taneea S Agrawaal, Vrinda Malhotra
 mathjax: true
 ---

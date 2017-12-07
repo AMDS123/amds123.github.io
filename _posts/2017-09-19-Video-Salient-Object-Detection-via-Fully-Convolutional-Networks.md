@@ -3,7 +3,7 @@ layout: post
 title: "Video Salient Object Detection via Fully Convolutional Networks"
 date: 2017-09-19 01:45:42
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Deep_Learning Detection
+tags: arXiv_CV Salient Object_Detection CNN Inference Deep_Learning Detection
 author: Wenguan Wang, Jianbing Shen, Ling Shao
 mathjax: true
 ---

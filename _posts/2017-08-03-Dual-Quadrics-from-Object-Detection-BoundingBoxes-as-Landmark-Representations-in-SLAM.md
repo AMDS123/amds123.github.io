@@ -3,7 +3,7 @@ layout: post
 title: "Dual Quadrics from Object Detection BoundingBoxes as Landmark Representations in SLAM"
 date: 2017-08-03 01:30:18
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Detection SLAM
 author: Niko Sünderhauf, Michael Milford
 mathjax: true
 ---

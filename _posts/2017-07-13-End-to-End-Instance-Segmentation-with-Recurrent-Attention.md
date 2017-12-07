@@ -3,7 +3,7 @@ layout: post
 title: "End-to-End Instance Segmentation with Recurrent Attention"
 date: 2017-07-13 00:53:33
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Segmentation Caption CNN Semantic_Segmentation RNN VQA
+tags: arXiv_CV Image_Caption Segmentation Attention Caption CNN Semantic_Segmentation RNN Prediction VQA
 author: Mengye Ren, Richard S. Zemel
 mathjax: true
 ---

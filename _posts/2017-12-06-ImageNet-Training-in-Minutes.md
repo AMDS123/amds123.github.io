@@ -3,7 +3,7 @@ layout: post
 title: "ImageNet Training in Minutes"
 date: 2017-12-06 05:03:46
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Face
 author: Yang You, Zhao Zhang, Cho-Jui Hsieh, James Demmel, Kurt Keutzer
 mathjax: true
 ---

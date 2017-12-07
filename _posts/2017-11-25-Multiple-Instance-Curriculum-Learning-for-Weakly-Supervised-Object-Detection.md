@@ -3,7 +3,7 @@ layout: post
 title: "Multiple Instance Curriculum Learning for Weakly Supervised Object Detection"
 date: 2017-11-25 05:08:09
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Weakly_Supervised Detection
+tags: arXiv_CV Object_Detection Segmentation Weakly_Supervised Face Detection
 author: Siyang Li, Xiangxin Zhu, Qin Huang, Hao Xu, C.-C. Jay Kuo
 mathjax: true
 ---

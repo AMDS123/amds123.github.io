@@ -3,7 +3,7 @@ layout: post
 title: "Learning Chained Deep Features and Classifiers for Cascade in Object Detection"
 date: 2017-02-23 00:40:29
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Classification Detection
+tags: arXiv_CV Object_Detection Inference Classification Detection
 author: Wanli Ouyang, Ku Wang, Xin Zhu, Xiaogang Wang
 mathjax: true
 ---

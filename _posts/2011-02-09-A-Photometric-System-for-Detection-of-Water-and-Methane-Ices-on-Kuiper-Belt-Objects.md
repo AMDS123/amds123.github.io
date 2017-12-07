@@ -3,7 +3,7 @@ layout: post
 title: "A Photometric System for Detection of Water and Methane Ices on Kuiper Belt Objects"
 date: 2011-02-09 21:00:00
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Face Detection
 author: Chadwick A. Trujillo, Scott S. Sheppard, Emily L. Schaller
 mathjax: true
 ---

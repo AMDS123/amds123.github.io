@@ -3,7 +3,7 @@ layout: post
 title: "Recurrent Scale Approximation for Object Detection in CNN"
 date: 2017-07-29 15:38:27
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection CNN Detection
+tags: arXiv_CV Object_Detection Face CNN Prediction Detection Face_Detection
 author: Yu Liu, Hongyang Li, Junjie Yan, Fangyin Wei, Xiaogang Wang, Xiaoou Tang
 mathjax: true
 ---

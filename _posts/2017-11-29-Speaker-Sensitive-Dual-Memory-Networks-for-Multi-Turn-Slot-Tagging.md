@@ -3,7 +3,7 @@ layout: post
 title: "Speaker-Sensitive Dual Memory Networks for Multi-Turn Slot Tagging"
 date: 2017-11-29 06:55:59
 categories: arXiv_CL
-tags: arXiv_CL Memory_Networks
+tags: arXiv_CL Face Memory_Networks
 author: Young-Bum Kim, Sungjin Lee, Ruhi Sarikaya
 mathjax: true
 ---

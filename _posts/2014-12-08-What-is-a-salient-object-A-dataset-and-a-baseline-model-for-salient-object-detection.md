@@ -3,7 +3,7 @@ layout: post
 title: "What is a salient object? A dataset and a baseline model for salient object detection"
 date: 2014-12-08 23:51:50
 categories: arXiv_CV
-tags: arXiv_CV Review Object_Detection Segmentation Detection
+tags: arXiv_CV Salient Review Object_Detection Segmentation Prediction Detection Relation
 author: Ali Borji
 mathjax: true
 ---

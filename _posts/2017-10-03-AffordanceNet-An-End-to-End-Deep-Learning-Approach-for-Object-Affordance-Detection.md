@@ -3,7 +3,7 @@ layout: post
 title: "AffordanceNet: An End-to-End Deep Learning Approach for Object Affordance Detection"
 date: 2017-10-03 22:27:40
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Deep_Learning Detection
+tags: arXiv_CV Object_Detection CNN Inference Deep_Learning Detection
 author: Thanh-Toan Do, Anh Nguyen, Ian Reid, Darwin G. Caldwell, Nikos G. Tsagarakis
 mathjax: true
 ---

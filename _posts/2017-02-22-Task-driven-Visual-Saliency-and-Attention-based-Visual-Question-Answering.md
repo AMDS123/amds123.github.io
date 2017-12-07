@@ -3,7 +3,7 @@ layout: post
 title: "Task-driven Visual Saliency and Attention-based Visual Question Answering"
 date: 2017-02-22 08:19:38
 categories: arXiv_CV
-tags: arXiv_CV RNN VQA
+tags: arXiv_CV Salient QA Attention RNN Relation VQA
 author: Yuetan Lin, Zhangyang Pang, Donghui Wang, Yueting Zhuang
 mathjax: true
 ---

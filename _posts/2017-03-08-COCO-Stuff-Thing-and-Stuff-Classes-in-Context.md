@@ -3,7 +3,7 @@ layout: post
 title: "COCO-Stuff: Thing and Stuff Classes in Context"
 date: 2017-03-08 12:36:04
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Segmentation Caption Semantic_Segmentation Classification Detection
+tags: arXiv_CV Image_Caption Segmentation Attention Face Caption Semantic_Segmentation Classification Detection Relation
 author: Holger Caesar, Jasper Uijlings, Vittorio Ferrari
 mathjax: true
 ---

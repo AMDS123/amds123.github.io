@@ -3,7 +3,7 @@ layout: post
 title: "Joint Blind Motion Deblurring and Depth Estimation of Light Field"
 date: 2017-11-29 15:31:55
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Optimization
 author: Dongwoo Lee, Haesol Park, In Kyu Park, Kyoung Mu Lee
 mathjax: true
 ---

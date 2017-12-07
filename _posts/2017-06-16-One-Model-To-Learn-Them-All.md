@@ -3,7 +3,7 @@ layout: post
 title: "One Model To Learn Them All"
 date: 2017-06-16 03:10:03
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Speech_Recognition Caption CNN Image_Classification Classification Deep_Learning Recognition
+tags: arXiv_CV Image_Caption Sparse Attention Speech_Recognition Caption CNN Image_Classification Classification Deep_Learning Recognition
 author: Lukasz Kaiser, Aidan N. Gomez, Noam Shazeer, Ashish Vaswani, Niki Parmar, Llion Jones, Jakob Uszkoreit
 mathjax: true
 ---

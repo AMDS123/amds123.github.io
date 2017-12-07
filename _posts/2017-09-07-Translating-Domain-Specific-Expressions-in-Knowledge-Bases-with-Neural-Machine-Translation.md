@@ -3,7 +3,7 @@ layout: post
 title: "Translating Domain-Specific Expressions in Knowledge Bases with Neural Machine Translation"
 date: 2017-09-07 11:31:09
 categories: arXiv_CL
-tags: arXiv_CL Segmentation NMT
+tags: arXiv_CL Knowledge_Graph Knowledge Segmentation NMT
 author: Mihael Arcan, Paul Buitelaar
 mathjax: true
 ---

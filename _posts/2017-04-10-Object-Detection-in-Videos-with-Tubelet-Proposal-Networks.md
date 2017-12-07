@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection in Videos with Tubelet Proposal Networks"
 date: 2017-04-10 08:39:06
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Tracking Object_Tracking RNN Detection
+tags: arXiv_CV Object_Detection Attention Tracking Object_Tracking RNN Detection
 author: Kai Kang, Hongsheng Li, Tong Xiao, Wanli Ouyang, Junjie Yan, Xihui Liu, Xiaogang Wang
 mathjax: true
 ---

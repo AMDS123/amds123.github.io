@@ -3,7 +3,7 @@ layout: post
 title: "Search Engine Guided Non-Parametric Neural Machine Translation"
 date: 2017-05-20 06:53:09
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Jiatao Gu, Yong Wang, Kyunghyun Cho, Victor O.K. Li
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Beyond Bilinear: Generalized Multi-modal Factorized High-order Pooling for Visual Question Answering"
 date: 2017-08-10 09:09:23
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Prediction Relation VQA
 author: Zhou Yu, Jun Yu, Chenchao Xiang, Jianping Fan, Dacheng Tao
 mathjax: true
 ---

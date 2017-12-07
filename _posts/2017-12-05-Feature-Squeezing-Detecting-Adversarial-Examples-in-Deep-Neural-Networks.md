@@ -3,7 +3,7 @@ layout: post
 title: "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks"
 date: 2017-12-05 23:45:08
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Detection
+tags: arXiv_CV Adversarial Prediction Detection
 author: Weilin Xu, David Evans, Yanjun Qi
 mathjax: true
 ---

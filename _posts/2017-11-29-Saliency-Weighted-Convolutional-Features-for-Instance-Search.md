@@ -3,7 +3,7 @@ layout: post
 title: "Saliency Weighted Convolutional Features for Instance Search"
 date: 2017-11-29 11:46:56
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption CNN
+tags: arXiv_CV Image_Caption Salient Attention CNN
 author: Eva Mohedano, Kevin McGuinness, Xavier Giro-i-Nieto, Noel E. O'Connor
 mathjax: true
 ---

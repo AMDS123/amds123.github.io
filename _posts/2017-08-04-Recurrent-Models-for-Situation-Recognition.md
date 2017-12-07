@@ -3,7 +3,7 @@ layout: post
 title: "Recurrent Models for Situation Recognition"
 date: 2017-08-04 17:03:56
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN Recognition
+tags: arXiv_CV Image_Caption Caption RNN Prediction Recognition
 author: Arun Mallya, Svetlana Lazebnik
 mathjax: true
 ---

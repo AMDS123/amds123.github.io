@@ -3,7 +3,7 @@ layout: post
 title: "Scalable Object Detection using Deep Neural Networks"
 date: 2013-12-08 19:40:51
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection Recognition
+tags: arXiv_CV Salient Object_Detection CNN Detection Recognition
 author: Dumitru Erhan, Christian Szegedy, Alexander Toshev, Dragomir Anguelov
 mathjax: true
 ---

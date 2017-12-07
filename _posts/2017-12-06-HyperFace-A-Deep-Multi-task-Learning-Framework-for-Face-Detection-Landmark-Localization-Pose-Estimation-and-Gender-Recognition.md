@@ -3,7 +3,7 @@ layout: post
 title: "HyperFace: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition"
 date: 2017-12-06 01:34:20
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection CNN Detection Recognition
+tags: arXiv_CV Object_Detection Face Pose_Estimation CNN Detection Face_Detection Recognition
 author: Rajeev Ranjan, Vishal M. Patel, Rama Chellappa
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Efficient Hierarchical Markov Random Fields for Object Detection on a Mobile Robot"
 date: 2011-11-07 14:46:16
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Classification Detection
+tags: arXiv_CV Object_Detection Optimization Classification Detection
 author: Colin S. Lea, Jason J. Corso
 mathjax: true
 ---

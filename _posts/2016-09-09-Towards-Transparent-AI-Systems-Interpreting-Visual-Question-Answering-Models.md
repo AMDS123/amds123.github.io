@@ -3,7 +3,7 @@ layout: post
 title: "Towards Transparent AI Systems: Interpreting Visual Question Answering Models"
 date: 2016-09-09 19:51:06
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Quantitative VQA
 author: Yash Goyal, Akrit Mohapatra, Devi Parikh, Dhruv Batra
 mathjax: true
 ---

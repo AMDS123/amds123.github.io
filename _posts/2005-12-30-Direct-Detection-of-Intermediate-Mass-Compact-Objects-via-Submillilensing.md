@@ -3,7 +3,7 @@ layout: post
 title: "Direct Detection of Intermediate Mass Compact Objects via Submillilensing"
 date: 2005-12-30 04:56:31
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Face Detection
 author: Kaiki Taro Inoue, Masashi Chiba
 mathjax: true
 ---

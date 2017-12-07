@@ -3,7 +3,7 @@ layout: post
 title: "LocNet: Improving Localization Accuracy for Object Detection"
 date: 2016-04-07 15:09:15
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Inference Detection
 author: Spyros Gidaris, Nikos Komodakis
 mathjax: true
 ---

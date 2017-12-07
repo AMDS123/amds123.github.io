@@ -3,7 +3,7 @@ layout: post
 title: "Hashmod: A Hashing Method for Scalable 3D Object Detection"
 date: 2016-07-20 19:06:30
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Pose_Estimation Detection
 author: Wadim Kehl, Federico Tombari, Nassir Navab, Slobodan Ilic, Vincent Lepetit
 mathjax: true
 ---

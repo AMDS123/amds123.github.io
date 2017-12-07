@@ -3,7 +3,7 @@ layout: post
 title: "Open-Ended Visual Question-Answering"
 date: 2016-10-09 16:38:31
 categories: arXiv_CV
-tags: arXiv_CV CNN RNN Deep_Learning VQA
+tags: arXiv_CV QA Embedding CNN RNN Deep_Learning VQA
 author: Issey Masuda, Santiago Pascual de la Puente, Xavier Giro-i-Nieto
 mathjax: true
 ---

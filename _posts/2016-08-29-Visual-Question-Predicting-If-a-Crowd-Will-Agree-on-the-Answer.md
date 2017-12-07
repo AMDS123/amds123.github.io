@@ -3,7 +3,7 @@ layout: post
 title: "Visual Question: Predicting If a Crowd Will Agree on the Answer"
 date: 2016-08-29 19:24:25
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA VQA
 author: Danna Gurari, Kristen Grauman
 mathjax: true
 ---

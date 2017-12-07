@@ -3,7 +3,7 @@ layout: post
 title: "VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection"
 date: 2017-11-17 04:25:24
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Face Prediction Detection
 author: Yin Zhou, Oncel Tuzel
 mathjax: true
 ---

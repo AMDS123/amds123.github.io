@@ -3,7 +3,7 @@ layout: post
 title: "Generating Visual Explanations"
 date: 2016-03-28 19:54:12
 categories: arXiv_CV
-tags: arXiv_CV Reinforcement_Learning Caption Classification Recognition
+tags: arXiv_CV Reinforcement_Learning Caption Classification Language_Model Prediction Recognition
 author: Lisa Anne Hendricks, Zeynep Akata, Marcus Rohrbach, Jeff Donahue, Bernt Schiele, Trevor Darrell
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Moving Object Detection by Detecting Contiguous Outliers in the Low-Rank Representation"
 date: 2012-06-23 00:07:06
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Optimization Detection Relation
 author: Xiaowei Zhou, Can Yang, Weichuan Yu
 mathjax: true
 ---

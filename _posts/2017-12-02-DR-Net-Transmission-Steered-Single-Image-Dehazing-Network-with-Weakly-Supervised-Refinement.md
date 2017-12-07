@@ -3,7 +3,7 @@ layout: post
 title: "DR-Net: Transmission Steered Single Image Dehazing Network with Weakly Supervised Refinement"
 date: 2017-12-02 15:23:43
 categories: arXiv_CV
-tags: arXiv_CV Weakly_Supervised
+tags: arXiv_CV Weakly_Supervised Prediction Quantitative
 author: Chongyi Li, Jichang Guo, Fatih Porikli, Chunle Guo, Huzhu Fu, Xi Li
 mathjax: true
 ---

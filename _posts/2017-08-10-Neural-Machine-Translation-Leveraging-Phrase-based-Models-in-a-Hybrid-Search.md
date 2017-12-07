@@ -3,7 +3,7 @@ layout: post
 title: "Neural Machine Translation Leveraging Phrase-based Models in a Hybrid Search"
 date: 2017-08-10 15:48:33
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT Language_Model
 author: Leonard Dahlmann, Evgeny Matusov, Pavel Petrushkov, Shahram Khadivi
 mathjax: true
 ---

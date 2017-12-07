@@ -3,7 +3,7 @@ layout: post
 title: "A Restricted Visual Turing Test for Deep Scene and Event Understanding"
 date: 2015-12-16 19:19:25
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption VQA
+tags: arXiv_CV Video_Caption Knowledge Face Ontology Caption Inference VQA
 author: Hang Qi, Tianfu Wu, Mun-Wai Lee, Song-Chun Zhu
 mathjax: true
 ---

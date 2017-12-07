@@ -3,7 +3,7 @@ layout: post
 title: "Incorporating Structural Alternatives and Sharing into Hierarchy for Multiclass Object Recognition and Detection"
 date: 2015-02-03 05:45:56
 categories: arXiv_CV
-tags: arXiv_CV Classification Detection Recognition
+tags: arXiv_CV Knowledge Optimization Classification Detection Recognition
 author: Xiaolong Wang, Liang Lin, Lichao Huang, Shuicheng Yan
 mathjax: true
 ---

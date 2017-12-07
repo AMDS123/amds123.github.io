@@ -3,7 +3,7 @@ layout: post
 title: "Spatial PixelCNN: Generating Images from Patches"
 date: 2017-12-03 06:02:23
 categories: arXiv_CV
-tags: arXiv_CV Image_Generation
+tags: arXiv_CV Image_Generation Quantitative
 author: Nader Akoury, Anh Nguyen
 mathjax: true
 ---

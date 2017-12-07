@@ -3,7 +3,7 @@ layout: post
 title: "Solving Visual Madlibs with Multiple Cues"
 date: 2016-08-11 09:51:21
 categories: arXiv_CV
-tags: arXiv_CV Classification VQA
+tags: arXiv_CV QA Classification Prediction Relation VQA
 author: Tatiana Tommasi, Arun Mallya, Bryan Plummer, Svetlana Lazebnik, Alexander C. Berg, Tamara L. Berg
 mathjax: true
 ---

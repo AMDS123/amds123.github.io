@@ -3,7 +3,7 @@ layout: post
 title: "Object Boundary Detection and Classification with Image-level Labels"
 date: 2017-06-25 12:50:55
 categories: arXiv_CV
-tags: arXiv_CV Classification Detection
+tags: arXiv_CV Classification Prediction Detection
 author: Jing Yu Koh, Wojciech Samek, Klaus-Robert Müller, Alexander Binder
 mathjax: true
 ---

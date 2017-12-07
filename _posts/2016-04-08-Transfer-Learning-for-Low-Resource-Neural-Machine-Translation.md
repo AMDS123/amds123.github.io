@@ -3,7 +3,7 @@ layout: post
 title: "Transfer Learning for Low-Resource Neural Machine Translation"
 date: 2016-04-08 00:16:35
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Transfer_Learning NMT
 author: Barret Zoph, Deniz Yuret, Jonathan May, Kevin Knight
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Semantic Compositional Networks for Visual Captioning"
 date: 2017-03-28 18:33:51
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN
+tags: arXiv_CV Image_Caption Caption RNN Quantitative
 author: Zhe Gan, Chuang Gan, Xiaodong He, Yunchen Pu, Kenneth Tran, Jianfeng Gao, Lawrence Carin, Li Deng
 mathjax: true
 ---

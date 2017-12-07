@@ -3,7 +3,7 @@ layout: post
 title: "COROLA: A Sequential Solution to Moving Object Detection Using Low-rank Approximation"
 date: 2016-01-28 21:10:35
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Detection
 author: Moein Shakeri, Hong Zhang
 mathjax: true
 ---

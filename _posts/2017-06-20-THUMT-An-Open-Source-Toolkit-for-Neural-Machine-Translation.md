@@ -3,7 +3,7 @@ layout: post
 title: "THUMT: An Open Source Toolkit for Neural Machine Translation"
 date: 2017-06-20 13:29:16
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Jiacheng Zhang, Yanzhuo Ding, Shiqi Shen, Yong Cheng, Maosong Sun, Huanbo Luan, Yang Liu
 mathjax: true
 ---

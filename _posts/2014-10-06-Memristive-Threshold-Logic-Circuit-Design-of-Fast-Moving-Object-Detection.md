@@ -3,7 +3,7 @@ layout: post
 title: "Memristive Threshold Logic Circuit Design of Fast Moving Object Detection"
 date: 2014-10-06 06:52:57
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection
 author: Akshay Kumar Maan, Dinesh Sasi Kumar, Sherin Sugathan, Alex Pappachen James
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Compressive Sensing Approaches for Autonomous Object Detection in Video Sequences"
 date: 2017-04-27 20:24:33
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Knowledge Detection
 author: Danil Kuzin, Olga Isupova, Lyudmila Mihaylova
 mathjax: true
 ---

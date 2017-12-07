@@ -3,7 +3,7 @@ layout: post
 title: "Attention Correctness in Neural Image Captioning"
 date: 2016-11-23 07:29:46
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption Deep_Learning
+tags: arXiv_CV Image_Caption Attention Caption Deep_Learning Quantitative
 author: Chenxi Liu, Junhua Mao, Fei Sha, Alan Yuille
 mathjax: true
 ---

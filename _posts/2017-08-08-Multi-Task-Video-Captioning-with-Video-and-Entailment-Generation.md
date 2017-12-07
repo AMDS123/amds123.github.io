@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Task Video Captioning with Video and Entailment Generation"
 date: 2017-08-08 17:08:58
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption
+tags: arXiv_CV Video_Caption Knowledge Caption Prediction
 author: Ramakanth Pasunuru, Mohit Bansal
 mathjax: true
 ---

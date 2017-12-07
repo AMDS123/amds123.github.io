@@ -3,7 +3,7 @@ layout: post
 title: "Active Control of Camera Parameters for Object Detection Algorithms"
 date: 2017-05-16 12:47:47
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Quantitative Detection
 author: Yulong Wu, John Tsotsos
 mathjax: true
 ---

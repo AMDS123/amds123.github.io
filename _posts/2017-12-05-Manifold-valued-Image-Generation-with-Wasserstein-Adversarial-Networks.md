@@ -3,7 +3,7 @@ layout: post
 title: "Manifold-valued Image Generation with Wasserstein Adversarial Networks"
 date: 2017-12-05 10:02:05
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN
+tags: arXiv_CV Adversarial Attention GAN
 author: Zhiwu Huang, Jiqing Wu, Luc Van Gool
 mathjax: true
 ---

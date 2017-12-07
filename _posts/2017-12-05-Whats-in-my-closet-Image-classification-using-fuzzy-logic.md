@@ -3,7 +3,7 @@ layout: post
 title: "What's in my closet?: Image classification using fuzzy logic"
 date: 2017-12-05 23:41:47
 categories: arXiv_CV
-tags: arXiv_CV Image_Classification Classification Recognition
+tags: arXiv_CV Image_Classification Inference Classification Recognition
 author: Amina E. Hussein
 mathjax: true
 ---

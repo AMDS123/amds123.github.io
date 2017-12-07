@@ -3,7 +3,7 @@ layout: post
 title: "An Analysis of Visual Question Answering Algorithms"
 date: 2017-09-13 18:56:45
 categories: arXiv_CV
-tags: arXiv_CV GAN VQA
+tags: arXiv_CV QA Attention GAN VQA
 author: Kushal Kafle, Christopher Kanan
 mathjax: true
 ---

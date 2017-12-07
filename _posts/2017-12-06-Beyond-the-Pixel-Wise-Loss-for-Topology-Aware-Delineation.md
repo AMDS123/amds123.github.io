@@ -3,7 +3,7 @@ layout: post
 title: "Beyond the Pixel-Wise Loss for Topology-Aware Delineation"
 date: 2017-12-06 14:03:51
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning
+tags: arXiv_CV Deep_Learning Prediction
 author: Agata Mosinska, Pablo Marquez-Neila, Mateusz Kozinski, Pascal Fua
 mathjax: true
 ---

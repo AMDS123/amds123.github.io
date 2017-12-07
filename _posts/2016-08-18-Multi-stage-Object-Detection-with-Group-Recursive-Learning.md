@@ -3,7 +3,7 @@ layout: post
 title: "Multi-stage Object Detection with Group Recursive Learning"
 date: 2016-08-18 02:37:28
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Classification Detection
+tags: arXiv_CV Object_Detection Segmentation Classification Detection Relation
 author: Jianan Li, Xiaodan Liang, Jianshu Li, Tingfa Xu, Jiashi Feng, Shuicheng Yan
 mathjax: true
 ---

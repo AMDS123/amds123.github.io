@@ -3,7 +3,7 @@ layout: post
 title: "Visually Grounded Word Embeddings and Richer Visual Features for Improving Multimodal Neural Machine Translation"
 date: 2017-07-26 13:42:46
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Object_Detection Caption CNN NMT Detection
+tags: arXiv_CV Image_Caption Object_Detection Caption Embedding CNN NMT Detection
 author: Jean-Benoit Delbrouck, Stéphane Dupont, Omar Seddati
 mathjax: true
 ---

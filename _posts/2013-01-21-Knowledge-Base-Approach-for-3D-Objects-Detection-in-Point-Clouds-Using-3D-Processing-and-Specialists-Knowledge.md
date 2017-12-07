@@ -3,7 +3,7 @@ layout: post
 title: "Knowledge Base Approach for 3D Objects Detection in Point Clouds Using 3D Processing and Specialists Knowledge"
 date: 2013-01-21 12:42:17
 categories: arXiv_CV
-tags: arXiv_CV GAN Detection
+tags: arXiv_CV Knowledge GAN Ontology Detection
 author: Helmi Ben Hmida (i3mainz), Christophe Cruz (Le2i), Frank Boochs (i3mainz), Christophe Nicolle (Le2i)
 mathjax: true
 ---

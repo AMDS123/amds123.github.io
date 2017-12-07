@@ -3,7 +3,7 @@ layout: post
 title: "Avaliac{c}~ao da doenc{c}a de Alzheimer pela an'alise multiespectral de imagens DW-MR por redes RBF como alternativa aos mapas ADC"
 date: 2017-12-03 19:02:00
 categories: arXiv_CV
-tags: arXiv_CV Classification
+tags: arXiv_CV Classification Relation
 author: Wellington Pinheiro dos Santos, Ricardo Emmanuel de Souza, Ascendino Fl&#xe1;vio Dias e Silva, Pl&#xed;nio Batista dos Santos Filho
 mathjax: true
 ---

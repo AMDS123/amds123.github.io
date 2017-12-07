@@ -3,7 +3,7 @@ layout: post
 title: "Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner"
 date: 2017-08-14 15:54:32
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Adversarial Caption
+tags: arXiv_CV Image_Caption Adversarial Caption Inference
 author: Tseng-Hung Chen, Yuan-Hong Liao, Ching-Yao Chuang, Wan-Ting Hsu, Jianlong Fu, Min Sun
 mathjax: true
 ---

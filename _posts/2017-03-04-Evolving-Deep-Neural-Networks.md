@@ -3,7 +3,7 @@ layout: post
 title: "Evolving Deep Neural Networks"
 date: 2017-03-04 23:13:05
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption Deep_Learning Recognition
+tags: arXiv_CV Image_Caption Caption Deep_Learning Language_Model Recognition
 author: Risto Miikkulainen, Jason Liang, Elliot Meyerson, Aditya Rawal, Dan Fink, Olivier Francon, Bala Raju, Hormoz Shahrzad, Arshak Navruzyan, Nigel Duffy, Babak Hodjat
 mathjax: true
 ---

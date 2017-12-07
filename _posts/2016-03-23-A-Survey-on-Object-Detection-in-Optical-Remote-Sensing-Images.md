@@ -3,7 +3,7 @@ layout: post
 title: "A Survey on Object Detection in Optical Remote Sensing Images"
 date: 2016-03-23 03:13:29
 categories: arXiv_CV
-tags: arXiv_CV Review Object_Detection Weakly_Supervised Survey Deep_Learning Detection
+tags: arXiv_CV Review Object_Detection Knowledge Attention Weakly_Supervised Survey Deep_Learning Detection
 author: Gong Cheng, Junwei Han
 mathjax: true
 ---

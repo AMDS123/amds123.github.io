@@ -3,7 +3,7 @@ layout: post
 title: "DeepSkeleton: Skeleton Map for 3D Human Pose Regression"
 date: 2017-11-29 11:50:01
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Pose_Estimation Detection
 author: Qingfu Wan, Wei Zhang, Xiangyang Xue
 mathjax: true
 ---

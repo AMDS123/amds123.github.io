@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Video Descriptions to Learn Video Question Answering"
 date: 2016-12-19 16:07:33
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption VQA
+tags: arXiv_CV Video_Caption QA VQA
 author: Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun
 mathjax: true
 ---

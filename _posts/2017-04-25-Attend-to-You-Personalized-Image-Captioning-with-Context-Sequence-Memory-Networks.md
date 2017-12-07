@@ -3,7 +3,7 @@ layout: post
 title: "Attend to You: Personalized Image Captioning with Context Sequence Memory Networks"
 date: 2017-04-25 23:30:43
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption Memory_Networks
+tags: arXiv_CV Image_Caption Knowledge Caption Prediction Quantitative Memory_Networks
 author: Cesc Chunseong Park, Byeongchang Kim, Gunhee Kim
 mathjax: true
 ---

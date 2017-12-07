@@ -3,7 +3,7 @@ layout: post
 title: "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"
 date: 2016-01-06 06:30:17
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection Attention CNN Detection
 author: Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun
 mathjax: true
 ---

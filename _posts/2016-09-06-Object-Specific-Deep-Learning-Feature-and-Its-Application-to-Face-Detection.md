@@ -3,7 +3,7 @@ layout: post
 title: "Object Specific Deep Learning Feature and Its Application to Face Detection"
 date: 2016-09-06 01:35:13
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection CNN Deep_Learning Detection
+tags: arXiv_CV Object_Detection Face CNN Deep_Learning Detection Face_Detection
 author: Xianxu Hou, Ke Sun, Linlin Shen, Guoping Qiu
 mathjax: true
 ---

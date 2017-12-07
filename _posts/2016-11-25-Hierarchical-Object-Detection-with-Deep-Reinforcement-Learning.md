@@ -3,7 +3,7 @@ layout: post
 title: "Hierarchical Object Detection with Deep Reinforcement Learning"
 date: 2016-11-25 14:31:07
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Reinforcement_Learning CNN Detection
+tags: arXiv_CV Object_Detection Attention Reinforcement_Learning CNN Detection
 author: Miriam Bellver, Xavier Giro-i-Nieto, Ferran Marques, Jordi Torres
 mathjax: true
 ---

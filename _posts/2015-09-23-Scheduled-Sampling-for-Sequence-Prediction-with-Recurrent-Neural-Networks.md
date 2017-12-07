@@ -3,7 +3,7 @@ layout: post
 title: "Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks"
 date: 2015-09-23 16:35:42
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN
+tags: arXiv_CV Image_Caption Caption Inference RNN Prediction
 author: Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer
 mathjax: true
 ---

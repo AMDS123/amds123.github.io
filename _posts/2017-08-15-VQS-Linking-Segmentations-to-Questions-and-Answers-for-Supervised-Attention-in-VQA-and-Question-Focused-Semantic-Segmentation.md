@@ -3,7 +3,7 @@ layout: post
 title: "VQS: Linking Segmentations to Questions and Answers for Supervised Attention in VQA and Question-Focused Semantic Segmentation"
 date: 2017-08-15 20:47:02
 categories: arXiv_CV
-tags: arXiv_CV Segmentation Semantic_Segmentation VQA
+tags: arXiv_CV QA Segmentation Attention Semantic_Segmentation Language_Model VQA
 author: Chuang Gan, Yandong Li, Haoxiang Li, Chen Sun, Boqing Gong
 mathjax: true
 ---

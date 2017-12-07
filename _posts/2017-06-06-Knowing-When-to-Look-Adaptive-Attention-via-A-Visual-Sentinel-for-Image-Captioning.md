@@ -3,7 +3,7 @@ layout: post
 title: "Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning"
 date: 2017-06-06 06:59:15
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Attention Caption Language_Model
 author: Jiasen Lu, Caiming Xiong, Devi Parikh, Richard Socher
 mathjax: true
 ---

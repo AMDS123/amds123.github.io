@@ -3,7 +3,7 @@ layout: post
 title: "A modeling and algorithmic framework for social sparse audio restoration"
 date: 2017-11-30 07:38:18
 categories: arXiv_SD
-tags: arXiv_SD
+tags: arXiv_SD Sparse
 author: Clément Gaultier (PANAMA), Nancy Bertin (PANAMA), Srđan Kitić, Rémi Gribonval (PANAMA)
 mathjax: true
 ---

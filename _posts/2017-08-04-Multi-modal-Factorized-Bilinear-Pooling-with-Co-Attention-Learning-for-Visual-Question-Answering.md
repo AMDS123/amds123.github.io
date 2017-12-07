@@ -3,7 +3,7 @@ layout: post
 title: "Multi-modal Factorized Bilinear Pooling with Co-Attention Learning for Visual Question Answering"
 date: 2017-08-04 12:17:49
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention VQA
 author: Zhou Yu, Jun Yu, Jianping Fan, Dacheng Tao
 mathjax: true
 ---

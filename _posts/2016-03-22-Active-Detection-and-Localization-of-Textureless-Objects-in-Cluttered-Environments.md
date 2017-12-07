@@ -3,7 +3,7 @@ layout: post
 title: "Active Detection and Localization of Textureless Objects in Cluttered Environments"
 date: 2016-03-22 22:55:03
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Face Pose_Estimation Detection
 author: Marco Imperoli, Alberto Pretto
 mathjax: true
 ---

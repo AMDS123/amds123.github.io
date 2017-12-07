@@ -3,7 +3,7 @@ layout: post
 title: "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering"
 date: 2017-05-15 17:58:49
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption VQA
+tags: arXiv_CV Image_Caption QA VQA
 author: Yash Goyal, Tejas Khot, Douglas Summers-Stay, Dhruv Batra, Devi Parikh
 mathjax: true
 ---

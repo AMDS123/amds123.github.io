@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Channel CNN-based Object Detection for Enhanced Situation Awareness"
 date: 2017-11-30 20:54:49
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Deep_Learning Detection
+tags: arXiv_CV Object_Detection CNN Transfer_Learning Deep_Learning Detection
 author: Shuo Liu, Zheng Liu
 mathjax: true
 ---

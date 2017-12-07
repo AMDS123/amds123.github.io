@@ -3,7 +3,7 @@ layout: post
 title: "Survey of Visual Question Answering: Datasets and Techniques"
 date: 2017-05-11 06:46:52
 categories: arXiv_CV
-tags: arXiv_CV Survey Deep_Learning VQA
+tags: arXiv_CV QA Attention Survey Deep_Learning VQA
 author: Akshay Kumar Gupta
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "First millimeter detection of the disk around a young, isolated, planetary-mass object"
 date: 2017-05-18 00:31:58
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Detection Relation
 author: Amelia Bayo, Viki Joergens, Yao Liu, Robert Brauer, Johan Olofsson, Javier Arancibia, Paola Pinilla, Sebastian Wolf, Jan Philipp Ruge, Thomas Henning, Antonella Natta, Katharine G. Johnston, Mickael Bonnefoy, Henrik Beuther, Gael Chauvin
 mathjax: true
 ---

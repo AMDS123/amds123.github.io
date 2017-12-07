@@ -3,7 +3,7 @@ layout: post
 title: "Paying Attention to Multi-Word Expressions in Neural Machine Translation"
 date: 2017-10-17 14:27:36
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Matīss Rikters, Ondřej Bojar
 mathjax: true
 ---

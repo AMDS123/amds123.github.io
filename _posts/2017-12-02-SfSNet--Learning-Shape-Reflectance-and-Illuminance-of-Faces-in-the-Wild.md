@@ -3,7 +3,7 @@ layout: post
 title: "SfSNet : Learning Shape, Reflectance and Illuminance of Faces in the Wild"
 date: 2017-12-02 04:08:22
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Face Quantitative
 author: Soumyadip Sengupta, Angjoo Kanazawa, Carlos D. Castillo, David Jacobs
 mathjax: true
 ---

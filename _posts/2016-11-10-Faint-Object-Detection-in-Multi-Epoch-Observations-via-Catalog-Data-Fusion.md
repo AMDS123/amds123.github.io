@@ -3,7 +3,7 @@ layout: post
 title: "Faint Object Detection in Multi-Epoch Observations via Catalog Data Fusion"
 date: 2016-11-10 03:16:38
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Survey Detection
+tags: arXiv_CV Object_Detection Face Survey Detection
 author: Tamas Budavari, Alexander S. Szalay, Thomas J. Loredo
 mathjax: true
 ---

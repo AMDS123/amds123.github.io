@@ -3,7 +3,7 @@ layout: post
 title: "Recurrent Memory Addressing for describing videos"
 date: 2017-03-23 14:01:20
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption Memory_Networks
+tags: arXiv_CV Video_Caption Attention Caption Embedding Memory_Networks
 author: Arnav Kumar Jain, Abhinav Agarwalla, Kumar Krishna Agrawal, Pabitra Mitra
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Inner and Inter Label Propagation: Salient Object Detection in the Wild"
 date: 2015-05-27 05:24:03
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Detection
 author: Hongyang Li, Huchuan Lu, Zhe Lin, Xiaohui Shen, Brian Price
 mathjax: true
 ---

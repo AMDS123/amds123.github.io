@@ -3,7 +3,7 @@ layout: post
 title: "Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge"
 date: 2017-08-09 04:19:42
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Embedding VQA
 author: Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel
 mathjax: true
 ---

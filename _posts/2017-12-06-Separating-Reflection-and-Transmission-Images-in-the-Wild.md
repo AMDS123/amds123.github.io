@@ -3,7 +3,7 @@ layout: post
 title: "Separating Reflection and Transmission Images in the Wild"
 date: 2017-12-06 09:31:27
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning
+tags: arXiv_CV Face Deep_Learning
 author: Patrick Wieschollek, Orazio Gallo, Jinwei Gu, Jan Kautz
 mathjax: true
 ---

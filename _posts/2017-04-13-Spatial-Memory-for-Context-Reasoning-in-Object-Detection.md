@@ -3,7 +3,7 @@ layout: post
 title: "Spatial Memory for Context Reasoning in Object Detection"
 date: 2017-04-13 17:47:03
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Caption Detection
+tags: arXiv_CV Object_Detection Caption Detection Relation
 author: Xinlei Chen, Abhinav Gupta
 mathjax: true
 ---

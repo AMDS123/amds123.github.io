@@ -3,7 +3,7 @@ layout: post
 title: "Co-domain Embedding using Deep Quadruplet Networks for Unseen Traffic Sign Recognition"
 date: 2017-12-05 20:24:18
 categories: arXiv_CV
-tags: arXiv_CV Classification Recognition
+tags: arXiv_CV Embedding Classification Relation Recognition
 author: Junsik Kim, Seokju Lee, Tae-Hyun Oh, In So Kweon
 mathjax: true
 ---

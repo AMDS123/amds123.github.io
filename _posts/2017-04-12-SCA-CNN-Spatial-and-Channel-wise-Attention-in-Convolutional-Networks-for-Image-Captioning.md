@@ -3,7 +3,7 @@ layout: post
 title: "SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning"
 date: 2017-04-12 05:48:44
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN
+tags: arXiv_CV Image_Caption Attention Caption CNN Prediction
 author: Long Chen, Hanwang Zhang, Jun Xiao, Liqiang Nie, Jian Shao, Wei Liu, Tat-Seng Chua
 mathjax: true
 ---

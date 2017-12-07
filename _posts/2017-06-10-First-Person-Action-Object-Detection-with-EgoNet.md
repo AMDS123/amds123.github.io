@@ -3,7 +3,7 @@ layout: post
 title: "First Person Action-Object Detection with EgoNet"
 date: 2017-06-10 18:04:17
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Attention Embedding Detection
 author: Gedas Bertasius, Hyun Soo Park, Stella X. Yu, Jianbo Shi
 mathjax: true
 ---

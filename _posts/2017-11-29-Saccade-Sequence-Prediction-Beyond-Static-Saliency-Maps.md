@@ -3,7 +3,7 @@ layout: post
 title: "Saccade Sequence Prediction: Beyond Static Saliency Maps"
 date: 2017-11-29 16:48:28
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning
+tags: arXiv_CV Salient Attention Deep_Learning Prediction
 author: Calden Wloka, Iuliia Kotseruba, John K. Tsotsos
 mathjax: true
 ---

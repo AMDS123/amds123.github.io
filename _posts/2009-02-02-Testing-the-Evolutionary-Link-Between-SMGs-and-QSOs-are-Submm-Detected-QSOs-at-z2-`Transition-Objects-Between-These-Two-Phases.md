@@ -3,7 +3,7 @@ layout: post
 title: "Testing the Evolutionary Link Between SMGs and QSOs: are Submm-Detected QSOs at z~2 `Transition Objects' Between These Two Phases?"
 date: 2009-02-02 21:03:24
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Relation
 author: Kristen Coppin (Durham)
 mathjax: true
 ---

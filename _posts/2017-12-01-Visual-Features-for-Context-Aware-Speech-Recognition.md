@@ -3,7 +3,7 @@ layout: post
 title: "Visual Features for Context-Aware Speech Recognition"
 date: 2017-12-01 20:56:31
 categories: arXiv_CV
-tags: arXiv_CV Speech_Recognition RNN Recognition
+tags: arXiv_CV Speech_Recognition RNN Language_Model Recognition
 author: Abhinav Gupta, Yajie Miao, Leonardo Neves, Florian Metze
 mathjax: true
 ---

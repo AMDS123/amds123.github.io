@@ -3,7 +3,7 @@ layout: post
 title: "Predicting Depression Severity by Multi-Modal Feature Engineering and Fusion"
 date: 2017-11-29 23:39:43
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Prediction
 author: Aven Samareh, Yan Jin, Zhangyang Wang, Xiangyu Chang, Shuai Huang
 mathjax: true
 ---

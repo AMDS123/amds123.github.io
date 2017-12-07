@@ -3,7 +3,7 @@ layout: post
 title: "Mobile Video Object Detection with Temporally-Aware Feature Maps"
 date: 2017-11-17 01:40:12
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN RNN Detection
+tags: arXiv_CV Object_Detection CNN Inference RNN Detection
 author: Mason Liu, Menglong Zhu
 mathjax: true
 ---

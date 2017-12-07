@@ -3,7 +3,7 @@ layout: post
 title: "Neural Cross-Lingual Entity Linking"
 date: 2017-12-05 18:43:57
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Embedding
 author: Avirup Sil, Gourab Kundu, Radu Florian, Wael Hamza
 mathjax: true
 ---

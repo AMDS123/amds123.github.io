@@ -3,7 +3,7 @@ layout: post
 title: "Detecting Pop III Objects with NGST"
 date: 1998-07-28 21:54:08
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Prediction Detection
 author: Andrea Ferrara (OAArcetri), Simone Marri (Univ. di Firenze)
 mathjax: true
 ---

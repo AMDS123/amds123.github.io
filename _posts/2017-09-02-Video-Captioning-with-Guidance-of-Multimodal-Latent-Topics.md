@@ -3,7 +3,7 @@ layout: post
 title: "Video Captioning with Guidance of Multimodal Latent Topics"
 date: 2017-09-02 15:34:44
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption
+tags: arXiv_CV Video_Caption Caption Prediction
 author: Shizhe Chen, Jia Chen, Qin Jin, Alexander Hauptmann
 mathjax: true
 ---

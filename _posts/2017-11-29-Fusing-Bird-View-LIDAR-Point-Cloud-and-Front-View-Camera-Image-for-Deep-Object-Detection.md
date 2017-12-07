@@ -3,7 +3,7 @@ layout: post
 title: "Fusing Bird View LIDAR Point Cloud and Front View Camera Image for Deep Object Detection"
 date: 2017-11-29 01:22:13
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection Sparse CNN Detection
 author: Zining Wang, Wei Zhan, Masayoshi Tomizuka
 mathjax: true
 ---

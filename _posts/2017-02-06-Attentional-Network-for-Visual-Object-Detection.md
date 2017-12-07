@@ -3,7 +3,7 @@ layout: post
 title: "Attentional Network for Visual Object Detection"
 date: 2017-02-06 00:50:36
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Reinforcement_Learning Detection
+tags: arXiv_CV Object_Detection Attention Reinforcement_Learning Detection
 author: Kota Hara, Ming-Yu Liu, Oncel Tuzel, Amir-massoud Farahmand
 mathjax: true
 ---

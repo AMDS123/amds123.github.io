@@ -3,7 +3,7 @@ layout: post
 title: "A GRU-Gated Attention Model for Neural Machine Translation"
 date: 2017-04-27 04:25:41
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT Prediction
 author: Biao Zhang, Deyi Xiong, Jinsong Su
 mathjax: true
 ---

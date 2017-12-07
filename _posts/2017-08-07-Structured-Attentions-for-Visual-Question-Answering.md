@@ -3,7 +3,7 @@ layout: post
 title: "Structured Attentions for Visual Question Answering"
 date: 2017-08-07 11:14:11
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Inference Relation VQA
 author: Chen Zhu, Yanpeng Zhao, Shuaiyi Huang, Kewei Tu, Yi Ma
 mathjax: true
 ---

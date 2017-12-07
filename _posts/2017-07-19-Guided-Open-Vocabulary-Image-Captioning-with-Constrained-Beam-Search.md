@@ -3,7 +3,7 @@ layout: post
 title: "Guided Open Vocabulary Image Captioning with Constrained Beam Search"
 date: 2017-07-19 22:01:27
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Caption Embedding Prediction
 author: Peter Anderson, Basura Fernando, Mark Johnson, Stephen Gould
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A Generative Model of 3D Object Layouts in Apartments"
 date: 2017-11-29 16:21:32
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Knowledge Relation
 author: Paul Henderson, Vittorio Ferrari
 mathjax: true
 ---

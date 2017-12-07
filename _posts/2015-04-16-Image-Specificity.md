@@ -3,7 +3,7 @@ layout: post
 title: "Image Specificity"
 date: 2015-04-16 13:13:46
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Image_Retrieval Caption
 author: Mainak Jas, Devi Parikh
 mathjax: true
 ---

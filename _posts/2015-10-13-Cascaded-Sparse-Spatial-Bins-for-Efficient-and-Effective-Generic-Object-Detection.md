@@ -3,7 +3,7 @@ layout: post
 title: "Cascaded Sparse Spatial Bins for Efficient and Effective Generic Object Detection"
 date: 2015-10-13 10:30:22
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Detection
 author: David Novotny, Jiri Matas
 mathjax: true
 ---

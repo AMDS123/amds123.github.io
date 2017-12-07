@@ -3,7 +3,7 @@ layout: post
 title: "Self-critical Sequence Training for Image Captioning"
 date: 2017-11-16 02:38:37
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
+tags: arXiv_CV Image_Caption Reinforcement_Learning Caption Optimization Inference
 author: Steven J. Rennie, Etienne Marcheret, Youssef Mroueh, Jarret Ross, Vaibhava Goel
 mathjax: true
 ---

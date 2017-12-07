@@ -3,7 +3,7 @@ layout: post
 title: "Salient Object Detection via Augmented Hypotheses"
 date: 2015-05-29 06:03:57
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Detection
 author: Tam V. Nguyen, Jose Sepulveda
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network"
 date: 2017-12-06 10:41:47
 categories: arXiv_CL
-tags: arXiv_CL CNN
+tags: arXiv_CL Knowledge Embedding CNN Prediction Relation
 author: Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen, Dinh Phung
 mathjax: true
 ---

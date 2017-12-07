@@ -3,7 +3,7 @@ layout: post
 title: "Visual Quality Assessment of Panoramic Video"
 date: 2017-09-19 10:54:24
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV Knowledge QA VQA
 author: Mai Xu, Chen Li, Zulin Wang, Zhenzhong Chen
 mathjax: true
 ---

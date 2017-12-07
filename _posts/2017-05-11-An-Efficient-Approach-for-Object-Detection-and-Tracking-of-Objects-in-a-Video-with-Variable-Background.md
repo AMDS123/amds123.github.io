@@ -3,7 +3,7 @@ layout: post
 title: "An Efficient Approach for Object Detection and Tracking of Objects in a Video with Variable Background"
 date: 2017-05-11 08:23:35
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Tracking Detection
+tags: arXiv_CV Object_Detection Tracking Detection Relation
 author: Kumar S. Ray, Soma Chakraborty
 mathjax: true
 ---

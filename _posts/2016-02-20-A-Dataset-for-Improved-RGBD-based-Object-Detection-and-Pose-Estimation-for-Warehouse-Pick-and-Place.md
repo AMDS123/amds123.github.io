@@ -3,7 +3,7 @@ layout: post
 title: "A Dataset for Improved RGBD-based Object Detection and Pose Estimation for Warehouse Pick-and-Place"
 date: 2016-02-20 20:05:18
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Pose_Estimation Detection
 author: Colin Rennie, Rahul Shome, Kostas E. Bekris, Alberto F. De Souza
 mathjax: true
 ---

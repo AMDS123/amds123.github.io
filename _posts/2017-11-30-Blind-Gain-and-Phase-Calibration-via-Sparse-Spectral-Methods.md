@@ -3,7 +3,7 @@ layout: post
 title: "Blind Gain and Phase Calibration via Sparse Spectral Methods"
 date: 2017-11-30 22:46:14
 categories: arXiv_CV
-tags: arXiv_CV Adversarial
+tags: arXiv_CV Adversarial Sparse
 author: Yanjun Li, Kiryung Lee, Yoram Bresler
 mathjax: true
 ---

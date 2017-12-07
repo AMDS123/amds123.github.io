@@ -3,7 +3,7 @@ layout: post
 title: "DualNet: Domain-Invariant Network for Visual Question Answering"
 date: 2017-05-04 07:54:06
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Embedding VQA
 author: Kuniaki Saito, Andrew Shin, Yoshitaka Ushiku, Tatsuya Harada
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Generating Images from Captions with Attention"
 date: 2016-02-29 17:56:29
 categories: arXiv_CV
-tags: arXiv_CV Image_Generation Caption
+tags: arXiv_CV Attention Image_Generation Caption
 author: Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov
 mathjax: true
 ---

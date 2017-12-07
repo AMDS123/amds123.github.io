@@ -3,7 +3,7 @@ layout: post
 title: "Neural Machine Translation Advised by Statistical Machine Translation"
 date: 2016-12-30 02:38:35
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT Recommendation
 author: Xing Wang, Zhengdong Lu, Zhaopeng Tu, Hang Li, Deyi Xiong, Min Zhang
 mathjax: true
 ---

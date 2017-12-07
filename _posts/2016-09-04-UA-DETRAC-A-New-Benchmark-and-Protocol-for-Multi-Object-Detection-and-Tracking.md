@@ -3,7 +3,7 @@ layout: post
 title: "UA-DETRAC: A New Benchmark and Protocol for Multi-Object Detection and Tracking"
 date: 2016-09-04 01:50:10
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Tracking Object_Tracking Detection
+tags: arXiv_CV Object_Detection Tracking Object_Tracking Quantitative Detection
 author: Longyin Wen, Dawei Du, Zhaowei Cai, Zhen Lei, Ming-Ching Chang, Honggang Qi, Jongwoo Lim, Ming-Hsuan Yang, Siwei Lyu
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "To Boost or Not to Boost? On the Limits of Boosted Trees for Object Detection"
 date: 2017-01-06 16:51:32
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection CNN Detection Recognition
+tags: arXiv_CV Object_Detection Face CNN Detection Face_Detection Relation Recognition
 author: Eshed Ohn-Bar, Mohan M. Trivedi
 mathjax: true
 ---

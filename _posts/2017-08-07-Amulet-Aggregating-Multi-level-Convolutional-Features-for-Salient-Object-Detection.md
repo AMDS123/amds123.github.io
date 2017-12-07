@@ -3,7 +3,7 @@ layout: post
 title: "Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection"
 date: 2017-08-07 06:29:38
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Salient Object_Detection CNN Inference Detection
 author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang, Xiang Ruan
 mathjax: true
 ---

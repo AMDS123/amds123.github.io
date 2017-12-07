@@ -3,7 +3,7 @@ layout: post
 title: "Enhanced Object Detection via Fusion With Prior Beliefs from Image Classification"
 date: 2016-10-21 19:38:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Image_Classification Classification Detection
+tags: arXiv_CV Object_Detection Knowledge Image_Classification Classification Detection
 author: Yilun Cao, Hyungtae Lee, Heesung Kwon
 mathjax: true
 ---

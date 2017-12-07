@@ -3,7 +3,7 @@ layout: post
 title: "FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors"
 date: 2017-11-29 06:47:04
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Super_Resolution GAN
+tags: arXiv_CV Adversarial Super_Resolution Knowledge GAN Face Quantitative
 author: Yu Chen, Ying Tai, Xiaoming Liu, Chunhua Shen, Jian Yang
 mathjax: true
 ---

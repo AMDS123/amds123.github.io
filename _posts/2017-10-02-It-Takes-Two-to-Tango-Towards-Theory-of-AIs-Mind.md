@@ -3,7 +3,7 @@ layout: post
 title: "It Takes Two to Tango: Towards Theory of AI's Mind"
 date: 2017-10-02 17:55:50
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV Knowledge QA Attention Prediction VQA
 author: Arjun Chandrasekaran, Deshraj Yadav, Prithvijit Chattopadhyay, Viraj Prabhu, Devi Parikh
 mathjax: true
 ---

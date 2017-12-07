@@ -3,7 +3,7 @@ layout: post
 title: "Towards Recovery of Conditional Vectors from Conditional Generative Adversarial Networks"
 date: 2017-12-06 03:40:31
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN
+tags: arXiv_CV Adversarial GAN Quantitative
 author: Sihao Ding, Andreas Wallin
 mathjax: true
 ---

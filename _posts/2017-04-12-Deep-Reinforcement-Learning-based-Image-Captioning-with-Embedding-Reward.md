@@ -3,7 +3,7 @@ layout: post
 title: "Deep Reinforcement Learning-based Image Captioning with Embedding Reward"
 date: 2017-04-12 18:55:03
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
+tags: arXiv_CV Image_Caption Reinforcement_Learning Caption Embedding Prediction
 author: Zhou Ren, Xiaoyu Wang, Ning Zhang, Xutao Lv, Li-Jia Li
 mathjax: true
 ---

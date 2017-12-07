@@ -3,7 +3,7 @@ layout: post
 title: "Tutorial on Answering Questions about Images with Deep Learning"
 date: 2016-10-04 16:29:28
 categories: arXiv_CV
-tags: arXiv_CV RNN Deep_Learning VQA
+tags: arXiv_CV QA RNN Deep_Learning VQA
 author: Mateusz Malinowski, Mario Fritz
 mathjax: true
 ---

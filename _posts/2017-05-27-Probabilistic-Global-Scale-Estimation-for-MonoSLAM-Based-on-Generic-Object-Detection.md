@@ -3,7 +3,7 @@ layout: post
 title: "Probabilistic Global Scale Estimation for MonoSLAM Based on Generic Object Detection"
 date: 2017-05-27 20:14:31
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Detection SLAM
 author: Edgar Sucar, Jean-Bernard Hayet
 mathjax: true
 ---

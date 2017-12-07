@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Content GAN for Few-Shot Font Style Transfer"
 date: 2017-12-01 23:12:58
 categories: arXiv_CV
-tags: arXiv_CV GAN Style_Transfer
+tags: arXiv_CV GAN Face Style_Transfer
 author: Samaneh Azadi, Matthew Fisher, Vladimir Kim, Zhaowen Wang, Eli Shechtman, Trevor Darrell
 mathjax: true
 ---

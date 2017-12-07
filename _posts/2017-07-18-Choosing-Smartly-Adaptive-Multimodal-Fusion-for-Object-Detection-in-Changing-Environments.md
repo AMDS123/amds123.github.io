@@ -3,7 +3,7 @@ layout: post
 title: "Choosing Smartly: Adaptive Multimodal Fusion for Object Detection in Changing Environments"
 date: 2017-07-18 16:36:56
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Prediction Detection
 author: Oier Mees, Andreas Eitel, Wolfram Burgard
 mathjax: true
 ---

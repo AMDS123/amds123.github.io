@@ -3,7 +3,7 @@ layout: post
 title: "Proposing Plausible Answers for Open-ended Visual Question Answering"
 date: 2016-10-24 00:12:29
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA VQA
 author: Omid Bakhshandeh, Trung Bui, Zhe Lin, Walter Chang
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Sparse Coding on Stereo Video for Object Detection"
 date: 2017-11-30 21:41:55
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Image_Classification Classification Detection
+tags: arXiv_CV Object_Detection Sparse CNN Image_Classification Classification Detection
 author: Sheng Y. Lundquist, Melanie Mitchell, Garrett T. Kenyon
 mathjax: true
 ---

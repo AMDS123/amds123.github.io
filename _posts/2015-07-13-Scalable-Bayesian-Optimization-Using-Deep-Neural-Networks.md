@@ -3,7 +3,7 @@ layout: post
 title: "Scalable Bayesian Optimization Using Deep Neural Networks"
 date: 2015-07-13 15:47:13
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN Recognition
+tags: arXiv_CV Image_Caption Caption CNN Optimization Language_Model Recognition
 author: Jasper Snoek, Oren Rippel, Kevin Swersky, Ryan Kiros, Nadathur Satish, Narayanan Sundaram, Md. Mostofa Ali Patwary, Prabhat, Ryan P. Adams
 mathjax: true
 ---

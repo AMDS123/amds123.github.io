@@ -3,7 +3,7 @@ layout: post
 title: "Stream Attention for far-field multi-microphone ASR"
 date: 2017-11-29 22:45:05
 categories: arXiv_SD
-tags: arXiv_SD Speech_Recognition Recognition
+tags: arXiv_SD Attention Speech_Recognition Recognition
 author: Xiaofei Wang, Yonghong Yan, Hynek Hermansky
 mathjax: true
 ---

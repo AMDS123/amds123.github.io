@@ -3,7 +3,7 @@ layout: post
 title: "Receptive Field Block Net for Accurate and Fast Object Detection"
 date: 2017-11-27 05:37:57
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Detection Relation
 author: Songtao Liu, Di Huang, Yunhong Wang
 mathjax: true
 ---

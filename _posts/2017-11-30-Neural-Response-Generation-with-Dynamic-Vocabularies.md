@@ -3,7 +3,7 @@ layout: post
 title: "Neural Response Generation with Dynamic Vocabularies"
 date: 2017-11-30 02:06:47
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL QA Inference Prediction
 author: Yu Wu, Wei Wu, Dejian Yang, Can Xu, Zhoujun Li, Ming Zhou
 mathjax: true
 ---

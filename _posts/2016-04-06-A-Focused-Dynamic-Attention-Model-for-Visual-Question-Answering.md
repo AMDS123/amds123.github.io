@@ -3,7 +3,7 @@ layout: post
 title: "A Focused Dynamic Attention Model for Visual Question Answering"
 date: 2016-04-06 05:16:10
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection RNN Detection VQA Recognition
+tags: arXiv_CV Object_Detection QA Attention RNN Detection VQA Recognition
 author: Ilija Ilievski, Shuicheng Yan, Jiashi Feng
 mathjax: true
 ---

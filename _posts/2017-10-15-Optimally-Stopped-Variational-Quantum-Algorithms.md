@@ -3,7 +3,7 @@ layout: post
 title: "Optimally Stopped Variational Quantum Algorithms"
 date: 2017-10-15 17:40:03
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Optimization VQA
 author: Walter Vinci, Alireza Shabani
 mathjax: true
 ---

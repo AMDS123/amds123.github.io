@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection using Image Processing"
 date: 2016-11-23 13:48:07
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection Face_Detection
 author: Fares Jalled, Ilia Voronkov
 mathjax: true
 ---

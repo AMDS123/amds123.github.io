@@ -3,7 +3,7 @@ layout: post
 title: "Learning a Recurrent Visual Representation for Image Caption Generation"
 date: 2014-11-20 19:50:27
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Image_Retrieval Caption Embedding
 author: Xinlei Chen, C. Lawrence Zitnick
 mathjax: true
 ---

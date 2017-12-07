@@ -3,7 +3,7 @@ layout: post
 title: "RGBD Salient Object Detection via Deep Fusion"
 date: 2016-07-12 12:32:56
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Salient Object_Detection Knowledge CNN Quantitative Detection
 author: Liangqiong Qu, Shengfeng He, Jiawei Zhang, Jiandong Tian, Yandong Tang, Qingxiong Yang
 mathjax: true
 ---

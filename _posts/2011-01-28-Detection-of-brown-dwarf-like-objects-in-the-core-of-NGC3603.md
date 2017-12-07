@@ -3,7 +3,7 @@ layout: post
 title: "Detection of brown dwarf-like objects in the core of NGC3603"
 date: 2011-01-28 14:02:59
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Face Detection Relation
 author: Loredana Spezzi, Giacomo Beccari, Guido De Marchi, Erick T. Young, Francesco Paresce, Michael A. Dopita, Morten Andersen, Nino Panagia, Bruce Balick, Howard E. Bond, Daniela Calzetti, C. Marcella Carollo, Michael J. Disney, Jay A. Frogel, Donald N. B. Hall, Jon A. Holtzman, Randy A. Kimble, Patrick J. McCarthy, Robert W. O'Connell, Abhijit Saha, Joseph I. Silk, John T. Trauger, Alistair R. Walker, Bradley C. Whitmore, Rogier A. Windhorst
 mathjax: true
 ---

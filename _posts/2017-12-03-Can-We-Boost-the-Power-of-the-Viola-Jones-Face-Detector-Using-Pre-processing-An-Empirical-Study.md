@@ -3,7 +3,7 @@ layout: post
 title: "Can We Boost the Power of the Viola-Jones Face Detector Using Pre-processing? An Empirical Study"
 date: 2017-12-03 18:46:18
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection Face_Detection
 author: Mahmoud Afifi, Marwa Nasser, Mostafa Korashy, Katherine Rohde, Aly Abdelrahim
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Deep Learning for Metagenomic Data: using 2D Embeddings and Convolutional Neural Networks"
 date: 2017-12-01 09:18:04
 categories: arXiv_CV
-tags: arXiv_CV CNN Deep_Learning
+tags: arXiv_CV Sparse Embedding CNN Deep_Learning Prediction
 author: Thanh Hai Nguyen, Yann Chevaleyre, Edi Prifti, Nataliya Sokolovska, Jean-Daniel Zucker
 mathjax: true
 ---

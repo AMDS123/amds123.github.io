@@ -3,7 +3,7 @@ layout: post
 title: "Generating Video Descriptions with Topic Guidance"
 date: 2017-09-04 11:38:38
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Video_Caption Caption
+tags: arXiv_CV Image_Caption Video_Caption Caption Prediction
 author: Shizhe Chen, Jia Chen, Qin Jin
 mathjax: true
 ---

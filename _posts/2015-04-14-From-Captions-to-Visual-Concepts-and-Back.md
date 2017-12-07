@@ -3,7 +3,7 @@ layout: post
 title: "From Captions to Visual Concepts and Back"
 date: 2015-04-14 18:05:07
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Object_Detection Caption Detection
+tags: arXiv_CV Image_Caption Object_Detection Caption Language_Model Detection
 author: Hao Fang, Saurabh Gupta, Forrest Iandola, Rupesh Srivastava, Li Deng, Piotr Dollár, Jianfeng Gao, Xiaodong He, Margaret Mitchell, John C. Platt, C. Lawrence Zitnick, Geoffrey Zweig
 mathjax: true
 ---

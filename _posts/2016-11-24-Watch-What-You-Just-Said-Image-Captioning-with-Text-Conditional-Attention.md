@@ -3,7 +3,7 @@ layout: post
 title: "Watch What You Just Said: Image Captioning with Text-Conditional Attention"
 date: 2016-11-24 04:36:42
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN
+tags: arXiv_CV Image_Caption Attention Caption Embedding RNN Language_Model Quantitative
 author: Luowei Zhou, Chenliang Xu, Parker Koch, Jason J. Corso
 mathjax: true
 ---

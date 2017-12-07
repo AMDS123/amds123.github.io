@@ -3,7 +3,7 @@ layout: post
 title: "Deep Multimodal Semantic Embeddings for Speech and Images"
 date: 2015-11-11 21:30:10
 categories: arXiv_CV
-tags: arXiv_CV Caption CNN
+tags: arXiv_CV Caption Embedding CNN
 author: David Harwath, James Glass
 mathjax: true
 ---

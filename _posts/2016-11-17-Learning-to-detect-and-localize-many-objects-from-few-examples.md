@@ -3,7 +3,7 @@ layout: post
 title: "Learning to detect and localize many objects from few examples"
 date: 2016-11-17 12:51:18
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection RNN Detection
+tags: arXiv_CV Object_Detection RNN Prediction Detection
 author: Bastien Moysset, Christoper Kermorvant, Christian Wolf
 mathjax: true
 ---

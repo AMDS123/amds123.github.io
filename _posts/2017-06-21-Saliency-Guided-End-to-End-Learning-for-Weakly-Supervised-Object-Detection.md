@@ -3,7 +3,7 @@ layout: post
 title: "Saliency Guided End-to-End Learning for Weakly Supervised Object Detection"
 date: 2017-06-21 07:29:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Salient Object_Detection Weakly_Supervised Prediction Detection
 author: Baisheng Lai, Xiaojin Gong
 mathjax: true
 ---

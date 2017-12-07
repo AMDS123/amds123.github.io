@@ -3,7 +3,7 @@ layout: post
 title: "Double Compact Objects III: Gravitational Wave Detection Rates"
 date: 2015-07-05 11:20:52
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Prediction Detection
 author: M. Dominik, E. Berti, R. O'Shaughnessy, I. Mandel, K. Belczynski, C.Fryer, D. Holz, T. Bulik, F. Pannarale
 mathjax: true
 ---

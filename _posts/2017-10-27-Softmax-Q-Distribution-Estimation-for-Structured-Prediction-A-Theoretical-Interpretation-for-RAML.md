@@ -3,7 +3,7 @@ layout: post
 title: "Softmax Q-Distribution Estimation for Structured Prediction: A Theoretical Interpretation for RAML"
 date: 2017-10-27 19:50:50
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption Classification Recognition
+tags: arXiv_CV Image_Caption Caption Classification Prediction Relation Recognition
 author: Xuezhe Ma, Pengcheng Yin, Jingzhou Liu, Graham Neubig, Eduard Hovy
 mathjax: true
 ---

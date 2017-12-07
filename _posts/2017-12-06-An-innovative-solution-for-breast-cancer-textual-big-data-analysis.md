@@ -3,7 +3,7 @@ layout: post
 title: "An innovative solution for breast cancer textual big data analysis"
 date: 2017-12-06 16:18:31
 categories: arXiv_CL
-tags: arXiv_CL Detection
+tags: arXiv_CL Ontology Detection
 author: Nicolas Thiebaut, Antoine Simoulin, Karl Neuberger, Issam Ibnoushein, Nicolas Bousquet, Nathalie Reix, S&#xe9;bastien Moli&#xe8;re, Carole Mathelin
 mathjax: true
 ---

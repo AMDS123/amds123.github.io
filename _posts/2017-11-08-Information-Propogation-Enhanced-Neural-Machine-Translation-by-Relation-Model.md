@@ -3,7 +3,7 @@ layout: post
 title: "Information-Propogation-Enhanced Neural Machine Translation by Relation Model"
 date: 2017-11-08 08:22:10
 categories: arXiv_CL
-tags: arXiv_CL CNN NMT RNN
+tags: arXiv_CL CNN NMT RNN Relation
 author: Wen Zhang, Jiawei Hu, Yang Feng, Qun Liu
 mathjax: true
 ---

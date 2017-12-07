@@ -3,7 +3,7 @@ layout: post
 title: "Improving Image Captioning by Concept-based Sentence Reranking"
 date: 2016-05-03 12:13:26
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption RNN Detection
+tags: arXiv_CV Image_Caption Caption RNN Language_Model Detection
 author: Xirong Li, Qin Jin
 mathjax: true
 ---

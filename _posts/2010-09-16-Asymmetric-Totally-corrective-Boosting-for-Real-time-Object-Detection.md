@@ -3,7 +3,7 @@ layout: post
 title: "Asymmetric Totally-corrective Boosting for Real-time Object Detection"
 date: 2010-09-16 02:45:59
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection Face_Detection
 author: Peng Wang, Chunhua Shen, Nick Barnes, Hong Zheng, Zhang Ren
 mathjax: true
 ---

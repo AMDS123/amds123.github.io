@@ -3,7 +3,7 @@ layout: post
 title: "Hybrid VAE: Improving Deep Generative Models using Partial Observations"
 date: 2017-11-30 18:37:37
 categories: arXiv_CV
-tags: arXiv_CV Regularization
+tags: arXiv_CV Regularization Face
 author: Sergey Tulyakov, Andrew Fitzgibbon, Sebastian Nowozin
 mathjax: true
 ---

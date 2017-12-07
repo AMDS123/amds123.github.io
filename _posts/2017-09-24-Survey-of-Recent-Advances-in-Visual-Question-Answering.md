@@ -3,7 +3,7 @@ layout: post
 title: "Survey of Recent Advances in Visual Question Answering"
 date: 2017-09-24 14:42:17
 categories: arXiv_CV
-tags: arXiv_CV Survey VQA
+tags: arXiv_CV QA Survey VQA
 author: Supriya Pandhre, Shagun Sodhani
 mathjax: true
 ---

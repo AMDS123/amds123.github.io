@@ -3,7 +3,7 @@ layout: post
 title: "Subjective Assessment of H.264 Compressed Stereoscopic Video"
 date: 2016-04-26 05:02:33
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA Attention Relation VQA
 author: Manasa K, Balasubramanyam Appina, Sumohana S. Channappayya
 mathjax: true
 ---

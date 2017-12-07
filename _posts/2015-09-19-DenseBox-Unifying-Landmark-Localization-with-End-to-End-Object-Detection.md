@@ -3,7 +3,7 @@ layout: post
 title: "DenseBox: Unifying Landmark Localization with End to End Object Detection"
 date: 2015-09-19 02:36:04
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection CNN Detection
+tags: arXiv_CV Object_Detection Face CNN Detection Face_Detection
 author: Lichao Huang, Yi Yang, Yafeng Deng, Yinan Yu
 mathjax: true
 ---

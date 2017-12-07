@@ -3,7 +3,7 @@ layout: post
 title: "Crafting GBD-Net for Object Detection"
 date: 2016-10-08 20:36:20
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Detection Relation
 author: Xingyu Zeng, Wanli Ouyang, Junjie Yan, Hongsheng Li, Tong Xiao, Kun Wang, Yu Liu, Yucong Zhou, Bin Yang, Zhe Wang, Hui Zhou, Xiaogang Wang
 mathjax: true
 ---

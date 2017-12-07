@@ -3,7 +3,7 @@ layout: post
 title: "Window-Object Relationship Guided Representation Learning for Generic Object Detections"
 date: 2015-12-09 03:32:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Represenation_Learning Detection Relation
 author: Xingyu Zeng, Wanli Ouyang, Xiaogang Wang
 mathjax: true
 ---

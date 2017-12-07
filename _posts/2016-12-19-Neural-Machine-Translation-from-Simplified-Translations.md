@@ -3,7 +3,7 @@ layout: post
 title: "Neural Machine Translation from Simplified Translations"
 date: 2016-12-19 11:50:58
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Knowledge NMT
 author: Josep Crego, Jean Senellart
 mathjax: true
 ---

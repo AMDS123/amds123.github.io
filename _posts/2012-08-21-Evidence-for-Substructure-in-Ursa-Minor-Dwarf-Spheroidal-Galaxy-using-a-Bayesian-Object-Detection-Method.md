@@ -3,7 +3,7 @@ layout: post
 title: "Evidence for Substructure in Ursa Minor Dwarf Spheroidal Galaxy using a Bayesian Object Detection Method"
 date: 2012-08-21 00:21:57
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Prediction Detection
 author: Andrew B. Pace (1), Gregory D. Martinez (1,2), Manoj Kaplinghat (1), Ricardo R. Muñoz (3, 4),  ((1) Center for Cosmology, Department of Physics and Astronomy, University of California, Irvine, (2) The Oskar Klein Center, Department of Physics, Stockholm University, (3) Departamento de Astronomía, Universidad de Chile, (4) Department of Astronomy, Yale University)
 mathjax: true
 ---

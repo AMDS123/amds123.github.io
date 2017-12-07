@@ -3,7 +3,7 @@ layout: post
 title: "An Actor-Critic Algorithm for Sequence Prediction"
 date: 2017-03-03 15:43:52
 categories: arXiv_CV
-tags: arXiv_CV Reinforcement_Learning Caption
+tags: arXiv_CV Reinforcement_Learning Caption Prediction
 author: Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, Yoshua Bengio
 mathjax: true
 ---

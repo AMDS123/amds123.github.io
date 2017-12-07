@@ -3,7 +3,7 @@ layout: post
 title: "Salient Object Detection: A Benchmark"
 date: 2015-01-05 20:24:01
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation Prediction Quantitative Detection
 author: Ali Borji, Ming-Ming Cheng, Huaizu Jiang, Jia Li
 mathjax: true
 ---

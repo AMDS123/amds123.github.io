@@ -3,7 +3,7 @@ layout: post
 title: "Improving Object Detection with Deep Convolutional Networks via Bayesian Optimization and Structured Prediction"
 date: 2016-01-14 04:11:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection CNN Optimization Prediction Detection
 author: Yuting Zhang, Kihyuk Sohn, Ruben Villegas, Gang Pan, Honglak Lee
 mathjax: true
 ---

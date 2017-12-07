@@ -3,7 +3,7 @@ layout: post
 title: "Improving Smiling Detection with Race and Gender Diversity"
 date: 2017-12-01 05:00:16
 categories: arXiv_CV
-tags: arXiv_CV Face_Detection Classification Deep_Learning Detection
+tags: arXiv_CV Face Transfer_Learning Classification Deep_Learning Detection Face_Detection
 author: Hee Jung Ryu, Margaret Mitchell, Hartwig Adam
 mathjax: true
 ---

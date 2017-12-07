@@ -3,7 +3,7 @@ layout: post
 title: "Sparse Communication for Distributed Gradient Descent"
 date: 2017-07-24 21:47:51
 categories: arXiv_CL
-tags: arXiv_CL Image_Classification NMT Classification Gradient_Descent
+tags: arXiv_CL Sparse Image_Classification NMT Classification Gradient_Descent
 author: Alham Fikri Aji, Kenneth Heafield
 mathjax: true
 ---

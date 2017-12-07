@@ -3,7 +3,7 @@ layout: post
 title: "Where and Who? Automatic Semantic-Aware Person Composition"
 date: 2017-12-02 05:10:30
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV Face CNN Relation
 author: Fuwen Tan, Crispin Bernier, Benjamin Cohen, Vicente Ordonez, Connelly Barnes
 mathjax: true
 ---

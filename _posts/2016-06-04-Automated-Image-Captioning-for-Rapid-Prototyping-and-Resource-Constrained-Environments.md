@@ -3,7 +3,7 @@ layout: post
 title: "Automated Image Captioning for Rapid Prototyping and Resource Constrained Environments"
 date: 2016-06-04 16:51:37
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption Deep_Learning Detection
+tags: arXiv_CV Image_Caption Caption Embedding Deep_Learning Detection
 author: Karan Sharma, Arun CS Kumar, Suchendra Bhandarkar
 mathjax: true
 ---

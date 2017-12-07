@@ -3,7 +3,7 @@ layout: post
 title: "Avaliacc~ao do m'etodo dial'etico na quantizacc~ao de imagens multiespectrais"
 date: 2017-12-03 18:13:27
 categories: arXiv_CV
-tags: arXiv_CV GAN Classification
+tags: arXiv_CV Knowledge GAN Optimization Classification
 author: Wellington Pinheiro dos Santos, Francisco Marcos de Assis
 mathjax: true
 ---

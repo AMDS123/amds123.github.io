@@ -3,7 +3,7 @@ layout: post
 title: "Single-Shot Object Detection with Enriched Semantics"
 date: 2017-12-01 18:18:42
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Semantic_Segmentation Detection
+tags: arXiv_CV Object_Detection Segmentation Semantic_Segmentation Inference Detection Relation
 author: Zhishuai Zhang, Siyuan Qiao, Cihang Xie, Wei Shen, Bo Wang, Alan L. Yuille
 mathjax: true
 ---

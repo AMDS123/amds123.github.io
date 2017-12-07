@@ -3,7 +3,7 @@ layout: post
 title: "Graph-Structured Representations for Visual Question Answering"
 date: 2017-03-30 04:26:26
 categories: arXiv_CV
-tags: arXiv_CV RNN VQA
+tags: arXiv_CV QA RNN VQA
 author: Damien Teney, Lingqiao Liu, Anton van den Hengel
 mathjax: true
 ---

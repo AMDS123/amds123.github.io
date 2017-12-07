@@ -3,7 +3,7 @@ layout: post
 title: "Salient Object Detection via Objectness Measure"
 date: 2015-06-24 13:44:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Salient Object_Detection Optimization Detection
 author: Sai Srivatsa R, R. Venkatesh Babu
 mathjax: true
 ---

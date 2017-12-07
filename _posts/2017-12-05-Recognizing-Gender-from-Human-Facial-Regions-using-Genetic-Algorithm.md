@@ -3,7 +3,7 @@ layout: post
 title: "Recognizing Gender from Human Facial Regions using Genetic Algorithm"
 date: 2017-12-05 14:33:57
 categories: arXiv_CV
-tags: arXiv_CV Classification Recognition
+tags: arXiv_CV Face Classification Recognition
 author: Avirup Bhattacharyya, Rajkumar Saini, Partha Pratim Roy, Debi Prosad Dogra, Samarjit Kar
 mathjax: true
 ---

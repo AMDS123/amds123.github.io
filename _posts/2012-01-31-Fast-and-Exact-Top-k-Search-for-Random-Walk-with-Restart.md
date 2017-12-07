@@ -3,7 +3,7 @@ layout: post
 title: "Fast and Exact Top-k Search for Random Walk with Restart"
 date: 2012-01-31 15:09:50
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Sparse Caption Prediction Recommendation
 author: Yasuhiro Fujiwara, Makoto Nakatsuji, Makoto Onizuka, Masaru Kitsuregawa
 mathjax: true
 ---

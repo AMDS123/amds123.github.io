@@ -3,7 +3,7 @@ layout: post
 title: "The Best of Both Worlds: Learning Geometry-based 6D Object Pose Estimation"
 date: 2017-12-05 21:01:24
 categories: arXiv_CV
-tags: arXiv_CV Segmentation
+tags: arXiv_CV Segmentation Face Pose_Estimation
 author: Omid Hosseini Jafari, Siva Karthik Mustikovela, Karl Pertsch, Eric Brachmann, Carsten Rother
 mathjax: true
 ---

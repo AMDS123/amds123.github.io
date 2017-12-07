@@ -3,7 +3,7 @@ layout: post
 title: "No Need for a Lexicon? Evaluating the Value of the Pronunciation Lexica in End-to-End Models"
 date: 2017-12-05 19:02:28
 categories: arXiv_CL
-tags: arXiv_CL Recognition
+tags: arXiv_CL Language_Model Recognition
 author: Tara N. Sainath, Rohit Prabhavalkar, Shankar Kumar, Seungji Lee, Anjuli Kannan, David Rybach, Vlad Schogol, Patrick Nguyen, Bo Li, Yonghui Wu, Zhifeng Chen, Chung-Cheng Chiu
 mathjax: true
 ---

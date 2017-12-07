@@ -3,7 +3,7 @@ layout: post
 title: "Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data"
 date: 2016-04-27 23:40:55
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Video_Caption Caption Recognition
+tags: arXiv_CV Image_Caption Video_Caption Knowledge Caption Recognition
 author: Lisa Anne Hendricks, Subhashini Venugopalan, Marcus Rohrbach, Raymond Mooney, Kate Saenko, Trevor Darrell
 mathjax: true
 ---

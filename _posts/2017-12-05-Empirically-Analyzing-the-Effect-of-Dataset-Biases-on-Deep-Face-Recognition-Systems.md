@@ -3,7 +3,7 @@ layout: post
 title: "Empirically Analyzing the Effect of Dataset Biases on Deep Face Recognition Systems"
 date: 2017-12-05 13:52:42
 categories: arXiv_CV
-tags: arXiv_CV CNN Recognition
+tags: arXiv_CV Face CNN Recognition Face_Recognition
 author: Adam Kortylewski, Bernhard Egger, Andreas Schneider, Thomas Gerig, Andreas Forster, Thomas Vetter
 mathjax: true
 ---

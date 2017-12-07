@@ -3,7 +3,7 @@ layout: post
 title: "Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books"
 date: 2015-06-22 19:26:56
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Caption Embedding Quantitative
 author: Yukun Zhu, Ryan Kiros, Richard Zemel, Ruslan Salakhutdinov, Raquel Urtasun, Antonio Torralba, Sanja Fidler
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "3D Semantic Trajectory Reconstruction from 3D Pixel Continuum"
 date: 2017-12-04 21:03:12
 categories: arXiv_CV
-tags: arXiv_CV Recognition
+tags: arXiv_CV Inference Quantitative Recognition
 author: Jae Shin Yoon, Ziwei Li, Hyun Soo Park
 mathjax: true
 ---

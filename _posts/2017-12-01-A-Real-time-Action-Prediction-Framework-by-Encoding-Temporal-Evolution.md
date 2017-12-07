@@ -3,7 +3,7 @@ layout: post
 title: "A Real-time Action Prediction Framework by Encoding Temporal Evolution"
 date: 2017-12-01 20:56:15
 categories: arXiv_CV
-tags: arXiv_CV CNN RNN Recognition
+tags: arXiv_CV CNN RNN Prediction Recognition
 author: Fahimeh Rezazadegan, Sareh Shirazi, Larry S. Davis
 mathjax: true
 ---

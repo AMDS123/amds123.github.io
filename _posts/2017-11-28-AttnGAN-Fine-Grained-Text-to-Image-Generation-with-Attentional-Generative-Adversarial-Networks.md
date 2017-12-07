@@ -3,7 +3,7 @@ layout: post
 title: "AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks"
 date: 2017-11-28 18:59:50
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN
+tags: arXiv_CV Adversarial Attention GAN
 author: Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He
 mathjax: true
 ---

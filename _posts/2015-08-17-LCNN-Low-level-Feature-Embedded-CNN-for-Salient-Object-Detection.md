@@ -3,7 +3,7 @@ layout: post
 title: "LCNN: Low-level Feature Embedded CNN for Salient Object Detection"
 date: 2015-08-17 05:45:12
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Salient Object_Detection CNN Detection
 author: Hongyang Li, Huchuan Lu, Zhe Lin, Xiaohui Shen, Brian Price
 mathjax: true
 ---

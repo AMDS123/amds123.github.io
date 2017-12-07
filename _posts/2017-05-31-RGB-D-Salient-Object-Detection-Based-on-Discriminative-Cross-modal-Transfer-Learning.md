@@ -3,7 +3,7 @@ layout: post
 title: "RGB-D Salient Object Detection Based on Discriminative Cross-modal Transfer Learning"
 date: 2017-05-31 03:51:50
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Classification Detection
+tags: arXiv_CV Salient Object_Detection CNN Transfer_Learning Classification Detection
 author: Hao Chen, Y.F. Li, Dan Su
 mathjax: true
 ---

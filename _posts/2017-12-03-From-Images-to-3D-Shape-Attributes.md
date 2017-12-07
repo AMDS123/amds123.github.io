@@ -3,7 +3,7 @@ layout: post
 title: "From Images to 3D Shape Attributes"
 date: 2017-12-03 22:58:22
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV Embedding CNN
 author: David F. Fouhey, Abhinav Gupta, Andrew Zisserman
 mathjax: true
 ---

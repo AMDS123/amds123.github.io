@@ -3,7 +3,7 @@ layout: post
 title: "Compact Radio Sources in Orion: New Detections, Time Variability, and Objects in OMC-1S"
 date: 2004-03-15 19:59:26
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Detection Relation
 author: Luis A. Zapata, Luis F. Rodriguez, Stanley E. Kurtz, C. R. O'Dell
 mathjax: true
 ---

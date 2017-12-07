@@ -3,7 +3,7 @@ layout: post
 title: "Learning RGB-D Salient Object Detection using background enclosure, depth contrast, and top-down features"
 date: 2017-05-10 05:12:45
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Salient Object_Detection CNN Detection
 author: Riku Shigematsu, David Feng, Shaodi You, Nick Barnes
 mathjax: true
 ---

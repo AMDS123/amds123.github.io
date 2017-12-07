@@ -3,7 +3,7 @@ layout: post
 title: "Deep Learning for identifying radiogenomic associations in breast cancer"
 date: 2017-11-29 20:41:05
 categories: arXiv_CV
-tags: arXiv_CV Review Classification Deep_Learning
+tags: arXiv_CV Review Transfer_Learning Classification Deep_Learning
 author: Zhe Zhu, Ehab Albadawy, Ashirbani Saha, Jun Zhang, Michael R. Harowicz, Maciej A. Mazurowski
 mathjax: true
 ---

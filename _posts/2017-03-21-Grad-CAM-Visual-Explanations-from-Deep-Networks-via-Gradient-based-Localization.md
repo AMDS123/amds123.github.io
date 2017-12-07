@@ -3,7 +3,7 @@ layout: post
 title: "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization"
 date: 2017-03-21 23:48:00
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Reinforcement_Learning Caption CNN Image_Classification Classification VQA
+tags: arXiv_CV Adversarial QA Attention Reinforcement_Learning Caption CNN Image_Classification Classification Prediction VQA
 author: Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra
 mathjax: true
 ---

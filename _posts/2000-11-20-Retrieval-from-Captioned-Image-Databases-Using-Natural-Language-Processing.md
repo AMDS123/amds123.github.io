@@ -3,7 +3,7 @@ layout: post
 title: "Retrieval from Captioned Image Databases Using Natural Language Processing"
 date: 2000-11-20 15:36:09
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV Caption Relation
 author: David Elworthy
 mathjax: true
 ---

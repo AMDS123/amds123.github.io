@@ -3,7 +3,7 @@ layout: post
 title: "Zero-Annotation Object Detection with Web Knowledge Transfer"
 date: 2017-11-16 06:51:40
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Adversarial Object_Detection Knowledge Attention Weakly_Supervised Detection
 author: Qingyi Tao, Hao Yang, Jianfei Cai
 mathjax: true
 ---

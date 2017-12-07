@@ -3,7 +3,7 @@ layout: post
 title: "Curriculum Q-Learning for Visual Vocabulary Acquisition"
 date: 2017-11-29 13:21:22
 categories: arXiv_CL
-tags: arXiv_CL Reinforcement_Learning
+tags: arXiv_CL Knowledge Reinforcement_Learning
 author: Ahmed H. Zaidi, Russell Moore, Ted Briscoe
 mathjax: true
 ---

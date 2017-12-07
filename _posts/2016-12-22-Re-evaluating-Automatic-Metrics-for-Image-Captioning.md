@@ -3,7 +3,7 @@ layout: post
 title: "Re-evaluating Automatic Metrics for Image Captioning"
 date: 2016-12-22 14:00:28
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption
+tags: arXiv_CV Image_Caption Attention Caption Relation
 author: Mert Kilickaya, Aykut Erdem, Nazli Ikizler-Cinbis, Erkut Erdem
 mathjax: true
 ---

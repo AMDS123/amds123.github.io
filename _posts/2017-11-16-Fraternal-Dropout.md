@@ -3,7 +3,7 @@ layout: post
 title: "Fraternal Dropout"
 date: 2017-11-16 16:40:34
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Regularization Caption RNN
+tags: arXiv_CV Image_Caption Regularization Caption Inference RNN Language_Model Prediction
 author: Konrad Zolna, Devansh Arpit, Dendi Suhubdy, Yoshua Bengio
 mathjax: true
 ---

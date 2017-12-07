@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection Free Instance Segmentation With Labeling Transformations"
 date: 2016-11-29 05:42:11
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation CNN Detection
+tags: arXiv_CV Object_Detection Segmentation Attention CNN Detection
 author: Long Jin, Zeyu Chen, Zhuowen Tu
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Fusing Audio, Textual and Visual Features for Sentiment Analysis of News Videos"
 date: 2016-04-09 22:00:27
 categories: arXiv_CV
-tags: arXiv_CV Caption Classification Recognition
+tags: arXiv_CV Sentiment Caption Classification Recognition
 author: Moisés H. R. Pereira, Flávio L. C. Pádua, Adriano C. M. Pereira, Fabrício Benevenuto, Daniel H. Dalip
 mathjax: true
 ---

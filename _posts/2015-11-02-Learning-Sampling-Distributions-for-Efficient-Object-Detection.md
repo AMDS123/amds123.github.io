@@ -3,7 +3,7 @@ layout: post
 title: "Learning Sampling Distributions for Efficient Object Detection"
 date: 2015-11-02 12:52:08
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Face_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Face Detection Face_Detection
 author: Yanwei Pang, Jiale Cao, Xuelong Li
 mathjax: true
 ---

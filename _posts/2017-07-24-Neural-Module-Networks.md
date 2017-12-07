@@ -3,7 +3,7 @@ layout: post
 title: "Neural Module Networks"
 date: 2017-07-24 17:15:06
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA VQA
 author: Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein
 mathjax: true
 ---

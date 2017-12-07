@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection of Satellite Images Using Multi-Channel Higher-order Local Autocorrelation"
 date: 2017-07-28 03:59:27
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Face Detection Relation
 author: Kazuki Uehara, Hidenori Sakanashi, Hirokazu Nosato, Masahiro Murakawa, Hiroki Miyamoto, Ryosuke Nakamura
 mathjax: true
 ---

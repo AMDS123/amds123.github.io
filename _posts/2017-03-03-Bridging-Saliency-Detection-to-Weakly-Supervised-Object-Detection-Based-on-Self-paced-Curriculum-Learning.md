@@ -3,7 +3,7 @@ layout: post
 title: "Bridging Saliency Detection to Weakly Supervised Object Detection Based on Self-paced Curriculum Learning"
 date: 2017-03-03 18:55:10
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Salient Object_Detection Knowledge Attention Weakly_Supervised Detection
 author: Dingwen Zhang, Deyu Meng, Long Zhao, Junwei Han
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Towards Instance Segmentation with Object Priority: Prominent Object Detection and Recognition"
 date: 2017-08-04 12:15:34
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection Recognition
+tags: arXiv_CV Salient Object_Detection Knowledge Segmentation Inference Detection Recognition
 author: Hamed R. Tavakoli, Jorma Laaksonen
 mathjax: true
 ---

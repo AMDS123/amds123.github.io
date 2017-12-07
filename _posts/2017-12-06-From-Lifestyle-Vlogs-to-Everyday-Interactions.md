@@ -3,7 +3,7 @@ layout: post
 title: "From Lifestyle Vlogs to Everyday Interactions"
 date: 2017-12-06 18:07:57
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Prediction
 author: David F. Fouhey, Wei-cheng Kuo, Alexei A. Efros, Jitendra Malik
 mathjax: true
 ---

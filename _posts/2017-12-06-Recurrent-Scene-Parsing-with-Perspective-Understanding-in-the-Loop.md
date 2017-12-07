@@ -3,7 +3,7 @@ layout: post
 title: "Recurrent Scene Parsing with Perspective Understanding in the Loop"
 date: 2017-12-06 00:05:17
 categories: arXiv_CV
-tags: arXiv_CV Segmentation CNN Semantic_Segmentation Recognition
+tags: arXiv_CV Segmentation CNN Semantic_Segmentation Prediction Recognition
 author: Shu Kong, Charless Fowlkes
 mathjax: true
 ---

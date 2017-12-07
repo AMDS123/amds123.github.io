@@ -3,7 +3,7 @@ layout: post
 title: "Simple Image Description Generator via a Linear Phrase-Based Approach"
 date: 2015-04-11 03:53:26
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption CNN
+tags: arXiv_CV Image_Caption Caption CNN Language_Model
 author: Remi Lebret, Pedro O. Pinheiro, Ronan Collobert
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Cache-based Document-level Neural Machine Translation"
 date: 2017-11-30 04:30:53
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL NMT Prediction
 author: Shaohui Kuang, Deyi Xiong, Weihua Luo, Guodong Zhou
 mathjax: true
 ---

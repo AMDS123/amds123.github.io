@@ -3,7 +3,7 @@ layout: post
 title: "Learning 6-DOF Grasping Interaction with Deep Geometry-aware 3D Representations"
 date: 2017-12-04 18:57:26
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Knowledge Optimization Prediction
 author: Xinchen Yan, Jasmine Hsu, Mohi Khansari, Yunfei Bai, Arkanath Pathak, Abhinav Gupta, James Davidson, Honglak Lee
 mathjax: true
 ---

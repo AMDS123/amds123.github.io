@@ -3,7 +3,7 @@ layout: post
 title: "ConvNet Architecture Search for Spatiotemporal Feature Learning"
 date: 2017-08-16 18:54:39
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Object_Detection Segmentation Caption Semantic_Segmentation Detection
+tags: arXiv_CV Image_Caption Object_Detection Segmentation Caption Semantic_Segmentation Inference Detection
 author: Du Tran, Jamie Ray, Zheng Shou, Shih-Fu Chang, Manohar Paluri
 mathjax: true
 ---

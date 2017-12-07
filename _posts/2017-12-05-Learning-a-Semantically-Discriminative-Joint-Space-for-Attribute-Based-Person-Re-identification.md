@@ -3,7 +3,7 @@ layout: post
 title: "Learning a Semantically Discriminative Joint Space for Attribute Based Person Re-identification"
 date: 2017-12-05 06:06:32
 categories: arXiv_CV
-tags: arXiv_CV Re-identification Person_Re-identification
+tags: arXiv_CV Re-identification Person_Re-identification Prediction
 author: Zhou Yin, Wei-Shi Zheng, Ancong Wu, Hong-Xing Yu, Hai Wang, Jianhuang Lai
 mathjax: true
 ---

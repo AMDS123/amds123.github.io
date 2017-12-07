@@ -3,7 +3,7 @@ layout: post
 title: "Deeply supervised salient object detection with short connections"
 date: 2017-04-09 08:47:13
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation CNN Semantic_Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation CNN Semantic_Segmentation Detection
 author: Qibin Hou, Ming-Ming Cheng, Xiao-Wei Hu, Ali Borji, Zhuowen Tu, Philip Torr
 mathjax: true
 ---

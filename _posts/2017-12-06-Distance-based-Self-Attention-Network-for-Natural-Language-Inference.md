@@ -3,7 +3,7 @@ layout: post
 title: "Distance-based Self-Attention Network for Natural Language Inference"
 date: 2017-12-06 05:38:29
 categories: arXiv_CL
-tags: arXiv_CL RNN
+tags: arXiv_CL Attention Inference RNN
 author: Jinbae Im, Sungzoon Cho
 mathjax: true
 ---

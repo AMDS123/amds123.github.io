@@ -3,7 +3,7 @@ layout: post
 title: "Hierarchical Salient Object Detection for Assisted Grasping"
 date: 2017-01-17 12:29:05
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Salient Object_Detection Segmentation Detection
 author: Dominik Alexander Klein, Boris Illing, Bastian Gaspers, Dirk Schulz, Armin Bernd Cremers
 mathjax: true
 ---

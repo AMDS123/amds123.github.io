@@ -3,7 +3,7 @@ layout: post
 title: "Auxiliary Guided Autoregressive Variational Autoencoders"
 date: 2017-11-30 15:57:24
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Quantitative
 author: Thomas Lucas, Jakob Verbeek
 mathjax: true
 ---

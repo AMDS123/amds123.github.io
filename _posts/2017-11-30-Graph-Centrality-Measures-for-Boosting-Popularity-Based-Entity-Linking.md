@@ -3,7 +3,7 @@ layout: post
 title: "Graph Centrality Measures for Boosting Popularity-Based Entity Linking"
 date: 2017-11-30 19:39:23
 categories: arXiv_CL
-tags: arXiv_CL
+tags: arXiv_CL Attention
 author: Hussam Hamdan, Jean-Gabriel Ganascia
 mathjax: true
 ---

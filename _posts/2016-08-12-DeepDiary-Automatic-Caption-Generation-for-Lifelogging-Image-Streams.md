@@ -3,7 +3,7 @@ layout: post
 title: "DeepDiary: Automatic Caption Generation for Lifelogging Image Streams"
 date: 2016-08-12 15:17:33
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption GAN Caption Deep_Learning
+tags: arXiv_CV Image_Caption Image_Retrieval GAN Caption Deep_Learning Quantitative
 author: Chenyou Fan, David J. Crandall
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Convolutional neural networks for segmentation and object detection of human semen"
 date: 2017-04-03 09:40:56
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation CNN Detection
+tags: arXiv_CV Object_Detection Segmentation CNN Optimization Prediction Detection
 author: Malte Stær Nissen, Oswin Krause, Kristian Almstrup, Søren Kjærulff, Torben Trindkær Nielsen, Mads Nielsen
 mathjax: true
 ---

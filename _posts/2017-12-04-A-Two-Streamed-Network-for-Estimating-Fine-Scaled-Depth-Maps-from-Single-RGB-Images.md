@@ -3,7 +3,7 @@ layout: post
 title: "A Two-Streamed Network for Estimating Fine-Scaled Depth Maps from Single RGB Images"
 date: 2017-12-04 01:52:43
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning
+tags: arXiv_CV Deep_Learning Prediction
 author: Jun Li, Reinhard Klein, Angela Yao
 mathjax: true
 ---

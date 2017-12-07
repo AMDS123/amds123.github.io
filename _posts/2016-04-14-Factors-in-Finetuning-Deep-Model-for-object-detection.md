@@ -3,7 +3,7 @@ layout: post
 title: "Factors in Finetuning Deep Model for object detection"
 date: 2016-04-14 01:15:12
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Knowledge Detection
 author: Wanli Ouyang, Xiaogang Wang, Cong Zhang, Xiaokang Yang
 mathjax: true
 ---

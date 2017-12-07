@@ -3,7 +3,7 @@ layout: post
 title: "Sort Story: Sorting Jumbled Images and Captions into Stories"
 date: 2016-11-07 18:48:13
 categories: arXiv_CV
-tags: arXiv_CV Caption
+tags: arXiv_CV QA Summarization Caption Prediction
 author: Harsh Agrawal, Arjun Chandrasekaran, Dhruv Batra, Devi Parikh, Mohit Bansal
 mathjax: true
 ---

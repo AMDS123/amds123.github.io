@@ -3,7 +3,7 @@ layout: post
 title: "Adaptive Object Detection Using Adjacency and Zoom Prediction"
 date: 2016-04-11 05:51:12
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Sparse Prediction Detection
 author: Yongxi Lu, Tara Javidi, Svetlana Lazebnik
 mathjax: true
 ---

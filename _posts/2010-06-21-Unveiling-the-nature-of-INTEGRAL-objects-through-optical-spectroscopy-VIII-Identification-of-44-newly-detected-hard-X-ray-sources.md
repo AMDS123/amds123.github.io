@@ -3,7 +3,7 @@ layout: post
 title: "Unveiling the nature of INTEGRAL objects through optical spectroscopy. VIII. Identification of 44 newly detected hard X-ray sources"
 date: 2010-06-21 20:00:02
 categories: arXiv_CV
-tags: arXiv_CV Survey
+tags: arXiv_CV Survey Relation
 author: N. Masetti, P. Parisi, E. Palazzi, E. Jimenez-Bailon, V. Chavushyan, L. Bassani, A. Bazzano, A.J. Bird, A.J. Dean, P.A. Charles, G. Galaz, R. Landi, A. Malizia, E. Mason, V.A. McBride, D. Minniti, L. Morelli, F. Schiavone, J.B. Stephen, P. Ubertini
 mathjax: true
 ---

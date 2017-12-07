@@ -3,7 +3,7 @@ layout: post
 title: "A Self-supervised Learning System for Object Detection using Physics Simulation and Multi-view Pose Estimation"
 date: 2017-08-03 15:04:14
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Deep_Learning Detection
+tags: arXiv_CV Object_Detection Pose_Estimation CNN Deep_Learning Detection
 author: Chaitanya Mitash, Kostas E. Bekris, Abdeslam Boularias
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Improvised Salient Object Detection and Manipulation"
 date: 2015-11-10 06:08:42
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection Recognition
+tags: arXiv_CV Salient Object_Detection Segmentation Detection Recognition
 author: Abhishek Maity
 mathjax: true
 ---

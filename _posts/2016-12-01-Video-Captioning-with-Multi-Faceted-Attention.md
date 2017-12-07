@@ -3,7 +3,7 @@ layout: post
 title: "Video Captioning with Multi-Faceted Attention"
 date: 2016-12-01 13:11:29
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption RNN
+tags: arXiv_CV Salient Video_Caption Attention Face Caption RNN
 author: Xiang Long, Chuang Gan, Gerard de Melo
 mathjax: true
 ---

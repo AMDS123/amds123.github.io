@@ -3,7 +3,7 @@ layout: post
 title: "Neural Machine Translation with Source-Side Latent Graph Parsing"
 date: 2017-07-24 14:52:06
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Kazuma Hashimoto, Yoshimasa Tsuruoka
 mathjax: true
 ---

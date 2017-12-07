@@ -3,7 +3,7 @@ layout: post
 title: "Bingham Procrustean Alignment for Object Detection in Clutter"
 date: 2013-04-27 19:24:30
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection OCR Detection
 author: Jared Glover, Sanja Popovic
 mathjax: true
 ---

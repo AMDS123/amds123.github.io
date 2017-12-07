@@ -3,7 +3,7 @@ layout: post
 title: "Show, Ask, Attend, and Answer: A Strong Baseline For Visual Question Answering"
 date: 2017-04-12 05:53:56
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV QA VQA
 author: Vahid Kazemi, Ali Elqursh
 mathjax: true
 ---

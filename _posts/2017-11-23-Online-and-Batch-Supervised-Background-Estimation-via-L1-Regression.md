@@ -3,7 +3,7 @@ layout: post
 title: "Online and Batch Supervised Background Estimation via L1 Regression"
 date: 2017-11-23 16:34:20
 categories: arXiv_CV
-tags: arXiv_CV Gradient_Descent
+tags: arXiv_CV Quantitative Gradient_Descent
 author: Aritra Dutta, Peter Richtarik
 mathjax: true
 ---

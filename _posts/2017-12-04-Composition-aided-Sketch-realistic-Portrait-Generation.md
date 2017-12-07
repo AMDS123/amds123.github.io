@@ -3,7 +3,7 @@ layout: post
 title: "Composition-aided Sketch-realistic Portrait Generation"
 date: 2017-12-04 04:24:19
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Portrait_Generation GAN Image_Generation
+tags: arXiv_CV Adversarial Portrait_Generation GAN Face Image_Generation
 author: Fei Gao, Shengjie Shi, Jun Yu, Qingming Huang
 mathjax: true
 ---

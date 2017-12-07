@@ -3,7 +3,7 @@ layout: post
 title: "Temporal Tessellation: A Unified Approach for Video Analysis"
 date: 2017-04-14 19:20:10
 categories: arXiv_CV
-tags: arXiv_CV Video_Caption Caption Detection
+tags: arXiv_CV Video_Caption Summarization Caption Prediction Detection
 author: Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A Unified Catalog of Radio Objects Detected by NVSS, FIRST, WENSS, GB6, and SDSS"
 date: 2009-01-16 18:10:23
 categories: arXiv_CV
-tags: arXiv_CV Survey Classification
+tags: arXiv_CV Survey Classification Relation
 author: Amy E. Kimball, Željko Ivezić (University of Washington)
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "A Novel Framework for Robustness Analysis of Visual QA Models"
 date: 2017-11-19 05:47:07
 categories: arXiv_CV
-tags: arXiv_CV Adversarial VQA
+tags: arXiv_CV Adversarial QA Attention Optimization VQA
 author: Jia-Hong Huang, Cuong Duc Dao, Modar Alfadly, Bernard Ghanem
 mathjax: true
 ---

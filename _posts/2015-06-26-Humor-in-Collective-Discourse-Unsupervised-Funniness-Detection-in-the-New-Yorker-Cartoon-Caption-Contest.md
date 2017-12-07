@@ -3,7 +3,7 @@ layout: post
 title: "Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest"
 date: 2015-06-26 15:48:10
 categories: arXiv_CV
-tags: arXiv_CV Caption Detection
+tags: arXiv_CV Sentiment Caption Detection
 author: Dragomir Radev, Amanda Stent, Joel Tetreault, Aasish Pappu, Aikaterini Iliakopoulou, Agustin Chanfreau, Paloma de Juan, Jordi Vallmitjana, Alejandro Jaimes, Rahul Jha, Bob Mankoff
 mathjax: true
 ---

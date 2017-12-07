@@ -3,7 +3,7 @@ layout: post
 title: "Attention-based Vocabulary Selection for NMT Decoding"
 date: 2017-06-12 19:51:00
 categories: arXiv_CL
-tags: arXiv_CL NMT
+tags: arXiv_CL Attention NMT
 author: Baskaran Sankaran, Markus Freitag, Yaser Al-Onaizan
 mathjax: true
 ---

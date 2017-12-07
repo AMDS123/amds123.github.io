@@ -3,7 +3,7 @@ layout: post
 title: "Where To Look: Focus Regions for Visual Question Answering"
 date: 2016-01-10 13:26:23
 categories: arXiv_CV
-tags: arXiv_CV VQA
+tags: arXiv_CV Knowledge QA VQA
 author: Kevin J. Shih, Saurabh Singh, Derek Hoiem
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Open Evaluation Tool for Layout Analysis of Document Images"
 date: 2017-11-23 15:18:04
 categories: arXiv_CV
-tags: arXiv_CV Segmentation
+tags: arXiv_CV Segmentation Prediction
 author: Michele Alberti, Manuel Bouillon, Rolf Ingold, Marcus Liwicki
 mathjax: true
 ---

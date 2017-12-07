@@ -3,7 +3,7 @@ layout: post
 title: "Cold-Start Reinforcement Learning with Softmax Policy Gradient"
 date: 2017-10-13 21:20:00
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Reinforcement_Learning Caption
+tags: arXiv_CV Image_Caption Summarization Reinforcement_Learning Caption Prediction
 author: Nan Ding, Radu Soricut
 mathjax: true
 ---

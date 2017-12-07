@@ -3,7 +3,7 @@ layout: post
 title: "The Promise of Premise: Harnessing Question Premises in Visual Question Answering"
 date: 2017-08-17 18:12:18
 categories: arXiv_CV
-tags: arXiv_CV Detection VQA
+tags: arXiv_CV QA Prediction Detection Relation VQA
 author: Aroma Mahendru, Viraj Prabhu, Akrit Mohapatra, Dhruv Batra, Stefan Lee
 mathjax: true
 ---

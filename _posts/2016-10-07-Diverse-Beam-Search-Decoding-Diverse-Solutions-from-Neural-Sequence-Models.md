@@ -3,7 +3,7 @@ layout: post
 title: "Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models"
 date: 2016-10-07 20:56:47
 categories: arXiv_CV
-tags: arXiv_CV Image_Caption Caption VQA
+tags: arXiv_CV Image_Caption Caption Inference Quantitative VQA
 author: Ashwin K Vijayakumar, Michael Cogswell, Ramprasath R. Selvaraju, Qing Sun, Stefan Lee, David Crandall, Dhruv Batra
 mathjax: true
 ---
