@@ -3,7 +3,7 @@ layout: post
 title: "Unsupervised Detection and Tracking of Arbitrary Objects with Dependent Dirichlet Process Mixtures"
 date: 2012-10-11 16:30:15
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Tracking Detection
 author: Willie Neiswanger, Frank Wood
 mathjax: true
 ---

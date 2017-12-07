@@ -3,7 +3,7 @@ layout: post
 title: "Three-Stream Convolutional Networks for Video-based Person Re-Identification"
 date: 2017-11-22 15:05:58
 categories: arXiv_CV
-tags: arXiv_CV CNN
+tags: arXiv_CV Re-identification Person_Re-identification CNN
 author: Zeng Yu, Tianrui Li, Ning Yu, Xun Gong, Ke Chen, Yi Pan
 mathjax: true
 ---

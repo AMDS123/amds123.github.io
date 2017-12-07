@@ -3,7 +3,7 @@ layout: post
 title: "Learning Multi-frame Visual Representation for Joint Detection and Tracking of Small Objects"
 date: 2017-09-15 04:48:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN RNN Detection Memory_Networks
+tags: arXiv_CV Object_Detection Tracking CNN RNN Detection Memory_Networks
 author: Ryota Yoshihashi, Tu Tuan Trinh, Rei Kawakami, Shaodi You, Makoto Iida, Takeshi Naemura
 mathjax: true
 ---

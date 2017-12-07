@@ -3,7 +3,7 @@ layout: post
 title: "Distance-based Camera Network Topology Inference for Person Re-identification"
 date: 2017-12-01 02:21:58
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Re-identification Person_Re-identification
 author: Yeong-Jun Cho, Kuk-Jin Yoon
 mathjax: true
 ---

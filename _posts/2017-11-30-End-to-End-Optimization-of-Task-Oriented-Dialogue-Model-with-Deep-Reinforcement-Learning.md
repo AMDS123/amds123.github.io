@@ -3,7 +3,7 @@ layout: post
 title: "End-to-End Optimization of Task-Oriented Dialogue Model with Deep Reinforcement Learning"
 date: 2017-11-30 22:28:03
 categories: arXiv_CL
-tags: arXiv_CL Reinforcement_Learning
+tags: arXiv_CL Tracking Reinforcement_Learning
 author: Bing Liu, Gokhan Tur, Dilek Hakkani-Tur, Pararth Shah, Larry Heck
 mathjax: true
 ---

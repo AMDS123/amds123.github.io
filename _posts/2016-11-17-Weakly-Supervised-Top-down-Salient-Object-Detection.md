@@ -3,7 +3,7 @@ layout: post
 title: "Weakly Supervised Top-down Salient Object Detection"
 date: 2016-11-17 02:24:23
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Weakly_Supervised Detection
+tags: arXiv_CV Object_Detection Weakly_Supervised Tracking Detection
 author: Hisham Cholakkal, Jubin Johnson, Deepu Rajan
 mathjax: true
 ---

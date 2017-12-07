@@ -3,7 +3,7 @@ layout: post
 title: "Real-time detection and tracking of multiple objects with partial decoding in H.264/AVC bitstream domain"
 date: 2012-02-21 20:42:17
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV Tracking Detection
 author: Wonsang You, M. S. Houari Sabirin, Munchurl Kim
 mathjax: true
 ---

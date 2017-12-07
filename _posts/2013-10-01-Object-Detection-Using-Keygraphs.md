@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection Using Keygraphs"
 date: 2013-10-01 07:45:26
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Tracking Detection
 author: Marcelo Hashimoto, Roberto Marcondes Cesar Junior
 mathjax: true
 ---

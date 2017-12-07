@@ -3,7 +3,7 @@ layout: post
 title: "Neural Signatures for Licence Plate Re-identification"
 date: 2017-12-01 11:36:15
 categories: arXiv_CV
-tags: arXiv_CV CNN Recognition
+tags: arXiv_CV Re-identification CNN Recognition
 author: Abhinav Kumar, Shantanu Gupta, Vladimir Kozitsky, Sriganesh Madhvanath
 mathjax: true
 ---

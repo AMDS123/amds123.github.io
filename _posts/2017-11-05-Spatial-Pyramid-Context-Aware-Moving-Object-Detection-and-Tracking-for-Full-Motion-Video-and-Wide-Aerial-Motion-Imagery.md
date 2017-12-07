@@ -3,7 +3,7 @@ layout: post
 title: "Spatial Pyramid Context-Aware Moving Object Detection and Tracking for Full Motion Video and Wide Aerial Motion Imagery"
 date: 2017-11-05 20:07:17
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Tracking Detection
 author: Mahdieh Poostchi
 mathjax: true
 ---

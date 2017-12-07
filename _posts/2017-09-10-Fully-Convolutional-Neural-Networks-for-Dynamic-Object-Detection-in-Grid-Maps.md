@@ -3,7 +3,7 @@ layout: post
 title: "Fully Convolutional Neural Networks for Dynamic Object Detection in Grid Maps"
 date: 2017-09-10 17:06:48
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection Tracking CNN Detection
 author: Florian Piewak, Timo Rehfeld, Michael Weber, J. Marius Zöllner
 mathjax: true
 ---

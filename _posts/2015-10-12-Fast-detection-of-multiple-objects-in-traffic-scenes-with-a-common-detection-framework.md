@@ -3,7 +3,7 @@ layout: post
 title: "Fast detection of multiple objects in traffic scenes with a common detection framework"
 date: 2015-10-12 02:30:22
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection Recognition
+tags: arXiv_CV Object_Detection Tracking Detection Recognition
 author: Qichang Hu, Sakrapee Paisitkriangkrai, Chunhua Shen, Anton van den Hengel, Fatih Porikli
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Keypoint-based object tracking and localization using networks of low-power embedded smart cameras"
 date: 2017-11-09 07:54:54
 categories: arXiv_CV
-tags: arXiv_CV
+tags: arXiv_CV Tracking Object_Tracking
 author: Ibrahim Abdelkader, Yasser El-Sonbaty, Mohamed El-Habrouk
 mathjax: true
 ---

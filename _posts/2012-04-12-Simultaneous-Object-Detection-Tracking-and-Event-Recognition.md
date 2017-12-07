@@ -3,7 +3,7 @@ layout: post
 title: "Simultaneous Object Detection, Tracking, and Event Recognition"
 date: 2012-04-12 14:47:41
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection GAN Detection Recognition
+tags: arXiv_CV Object_Detection GAN Tracking Detection Recognition
 author: Andrei Barbu, Aaron Michaux, Siddharth Narayanaswamy, Jeffrey Mark Siskind
 mathjax: true
 ---

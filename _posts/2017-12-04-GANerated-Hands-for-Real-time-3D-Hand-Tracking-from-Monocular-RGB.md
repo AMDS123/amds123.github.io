@@ -3,7 +3,7 @@ layout: post
 title: "GANerated Hands for Real-time 3D Hand Tracking from Monocular RGB"
 date: 2017-12-04 13:20:25
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN CNN
+tags: arXiv_CV Adversarial GAN Tracking CNN
 author: Franziska Mueller, Florian Bernard, Oleksandr Sotnychenko, Dushyant Mehta, Srinath Sridhar, Dan Casas, Christian Theobalt
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "CoMIC: Good features for detection and matching at object boundaries"
 date: 2014-12-05 11:22:54
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Tracking Detection
 author: Swarna Kamlam Ravindran, Anurag Mittal
 mathjax: true
 ---

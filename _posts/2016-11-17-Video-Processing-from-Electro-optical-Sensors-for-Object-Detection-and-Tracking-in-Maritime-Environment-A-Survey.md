@@ -3,7 +3,7 @@ layout: post
 title: "Video Processing from Electro-optical Sensors for Object Detection and Tracking in Maritime Environment: A Survey"
 date: 2016-11-17 20:11:51
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Survey Detection
+tags: arXiv_CV Object_Detection Segmentation Tracking Survey Object_Tracking Detection
 author: D. K. Prasad, D. Rajan, L. Rachmawati, E. Rajabaly, C. Quek
 mathjax: true
 ---

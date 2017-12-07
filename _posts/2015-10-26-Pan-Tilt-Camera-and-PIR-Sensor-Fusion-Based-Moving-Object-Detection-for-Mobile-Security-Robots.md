@@ -3,7 +3,7 @@ layout: post
 title: "Pan-Tilt Camera and PIR Sensor Fusion Based Moving Object Detection for Mobile Security Robots"
 date: 2015-10-26 07:40:14
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Tracking Detection
 author: YongChol Sin, MyongSong Choe, GyongIl Ryang
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Multi-Class Multi-Object Tracking using Changing Point Detection"
 date: 2016-08-30 13:07:05
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection CNN Detection
+tags: arXiv_CV Object_Detection Tracking CNN Object_Tracking Detection
 author: Byungjae Lee, Enkhbayar Erdenee, Songguo Jin, Phill Kyu Rhee
 mathjax: true
 ---

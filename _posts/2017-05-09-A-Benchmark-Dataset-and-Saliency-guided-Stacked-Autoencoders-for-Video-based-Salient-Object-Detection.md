@@ -3,7 +3,7 @@ layout: post
 title: "A Benchmark Dataset and Saliency-guided Stacked Autoencoders for Video-based Salient Object Detection"
 date: 2017-05-09 07:38:17
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Deep_Learning Detection
+tags: arXiv_CV Object_Detection Tracking Deep_Learning Detection
 author: Jia Li, Changqun Xia, Xiaowu Chen
 mathjax: true
 ---

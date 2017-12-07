@@ -3,7 +3,7 @@ layout: post
 title: "Detection, Recognition and Tracking of Moving Objects from Real-time Video via Visual Vocabulary Model and Species Inspired PSO"
 date: 2017-06-02 11:09:10
 categories: arXiv_CV
-tags: arXiv_CV Classification Detection Recognition
+tags: arXiv_CV Tracking Classification Detection Recognition
 author: Kumar S. Ray, Anit Chakraborty, Sayandip Dutta
 mathjax: true
 ---

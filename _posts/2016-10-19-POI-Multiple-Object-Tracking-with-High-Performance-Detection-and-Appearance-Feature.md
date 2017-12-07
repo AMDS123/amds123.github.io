@@ -3,7 +3,7 @@ layout: post
 title: "POI: Multiple Object Tracking with High Performance Detection and Appearance Feature"
 date: 2016-10-19 18:10:21
 categories: arXiv_CV
-tags: arXiv_CV Deep_Learning Detection
+tags: arXiv_CV Tracking Object_Tracking Deep_Learning Detection
 author: Fengwei Yu, Wenbo Li, Quanquan Li, Yu Liu, Xiaohua Shi, Junjie Yan
 mathjax: true
 ---

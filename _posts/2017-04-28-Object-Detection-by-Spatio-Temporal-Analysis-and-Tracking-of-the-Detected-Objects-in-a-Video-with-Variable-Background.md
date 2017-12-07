@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection by Spatio-Temporal Analysis and Tracking of the Detected Objects in a Video with Variable Background"
 date: 2017-04-28 09:32:06
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Tracking Detection
 author: Kumar S. Ray, Vijayan K. Asari, Soma Chakraborty
 mathjax: true
 ---

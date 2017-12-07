@@ -3,7 +3,7 @@ layout: post
 title: "Region Graph Based Method for Multi-Object Detection and Tracking using Depth Cameras"
 date: 2016-03-11 21:06:35
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Tracking Detection
 author: Sachin Mehta, Balakrishnan Prabhakaran
 mathjax: true
 ---

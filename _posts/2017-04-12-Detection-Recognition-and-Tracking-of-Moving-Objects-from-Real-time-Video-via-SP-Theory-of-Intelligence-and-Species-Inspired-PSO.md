@@ -3,7 +3,7 @@ layout: post
 title: "Detection, Recognition and Tracking of Moving Objects from Real-time Video via SP Theory of Intelligence and Species Inspired PSO"
 date: 2017-04-12 10:42:37
 categories: arXiv_CV
-tags: arXiv_CV Detection Recognition
+tags: arXiv_CV Tracking Detection Recognition
 author: Kumar S Ray, Sayandip Dutta, Anit Chakraborty
 mathjax: true
 ---

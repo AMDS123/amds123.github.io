@@ -3,7 +3,7 @@ layout: post
 title: "Pose-Normalized Image Generation for Person Re-identification"
 date: 2017-12-06 15:18:53
 categories: arXiv_CV
-tags: arXiv_CV Adversarial GAN
+tags: arXiv_CV Re-identification Adversarial GAN Person_Re-identification
 author: Xuelin Qian, Yanwei Fu, Wenxuan Wang, Tao Xiang, Yang Wu, Yu-Gang Jiang, Xiangyang Xue
 mathjax: true
 ---

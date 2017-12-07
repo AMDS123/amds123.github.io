@@ -3,7 +3,7 @@ layout: post
 title: "Free Space Estimation using Occupancy Grids and Dynamic Object Detection"
 date: 2017-08-16 17:28:21
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Detection
+tags: arXiv_CV Object_Detection Segmentation Tracking Detection
 author: Raghavender Sahdev
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Object Detection, Tracking, and Motion Segmentation for Object-level Video Segmentation"
 date: 2016-08-10 07:46:56
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Segmentation Weakly_Supervised Detection
+tags: arXiv_CV Object_Detection Segmentation Weakly_Supervised Tracking Object_Tracking Detection
 author: Benjamin Drayer, Thomas Brox
 mathjax: true
 ---

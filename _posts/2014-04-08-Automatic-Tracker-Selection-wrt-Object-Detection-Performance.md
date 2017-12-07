@@ -3,7 +3,7 @@ layout: post
 title: "Automatic Tracker Selection w.r.t Object Detection Performance"
 date: 2014-04-08 04:09:32
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Detection
+tags: arXiv_CV Object_Detection Tracking Object_Tracking Detection
 author: Duc Phu Chau (INRIA Sophia Antipolis), François Bremond (INRIA Sophia Antipolis), Monique Thonnat (INRIA Sophia Antipolis), Slawomir Bak (INRIA Sophia Antipolis)
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video"
 date: 2017-03-24 18:52:39
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Classification Detection
+tags: arXiv_CV Object_Detection Tracking Classification Detection
 author: Esteban Real, Jonathon Shlens, Stefano Mazzocchi, Xin Pan, Vincent Vanhoucke
 mathjax: true
 ---
