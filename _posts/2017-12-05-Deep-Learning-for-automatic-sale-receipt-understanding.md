@@ -20,3 +20,6 @@ As a general rule, data analytics are now mandatory for companies. Scanned docum
 ##### URL
 [https://arxiv.org/abs/1712.01606](https://arxiv.org/abs/1712.01606)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01606](https://arxiv.org/pdf/1712.01606)
+

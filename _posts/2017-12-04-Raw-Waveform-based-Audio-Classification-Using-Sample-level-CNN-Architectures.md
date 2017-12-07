@@ -20,3 +20,6 @@ Music, speech, and acoustic scene sound are often handled separately in the audi
 ##### URL
 [http://arxiv.org/abs/1712.00866](http://arxiv.org/abs/1712.00866)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00866](http://arxiv.org/pdf/1712.00866)
+

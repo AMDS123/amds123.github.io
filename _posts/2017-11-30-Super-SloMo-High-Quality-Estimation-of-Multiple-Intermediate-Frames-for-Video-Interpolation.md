@@ -20,3 +20,6 @@ Given two consecutive frames, video interpolation aims at generating intermediat
 ##### URL
 [https://arxiv.org/abs/1712.00080](https://arxiv.org/abs/1712.00080)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00080](https://arxiv.org/pdf/1712.00080)
+

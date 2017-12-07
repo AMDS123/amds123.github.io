@@ -20,3 +20,6 @@ Attention mechanisms have recently been introduced in deep learning for various 
 ##### URL
 [https://arxiv.org/abs/1605.09553](https://arxiv.org/abs/1605.09553)
 
+##### PDF
+[https://arxiv.org/pdf/1605.09553](https://arxiv.org/pdf/1605.09553)
+

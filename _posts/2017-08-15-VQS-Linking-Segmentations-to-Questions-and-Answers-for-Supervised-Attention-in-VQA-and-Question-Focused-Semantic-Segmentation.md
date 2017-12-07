@@ -20,3 +20,6 @@ Rich and dense human labeled datasets are among the main enabling factors for th
 ##### URL
 [https://arxiv.org/abs/1708.04686](https://arxiv.org/abs/1708.04686)
 
+##### PDF
+[https://arxiv.org/pdf/1708.04686](https://arxiv.org/pdf/1708.04686)
+

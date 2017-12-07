@@ -20,3 +20,6 @@ Neural machine translation (NMT) offers a novel alternative formulation of trans
 ##### URL
 [https://arxiv.org/abs/1606.07947](https://arxiv.org/abs/1606.07947)
 
+##### PDF
+[https://arxiv.org/pdf/1606.07947](https://arxiv.org/pdf/1606.07947)
+

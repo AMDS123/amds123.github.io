@@ -20,3 +20,6 @@ Research in Simultaneous Localization And Mapping (SLAM) is increasingly moving 
 ##### URL
 [https://arxiv.org/abs/1708.00965](https://arxiv.org/abs/1708.00965)
 
+##### PDF
+[https://arxiv.org/pdf/1708.00965](https://arxiv.org/pdf/1708.00965)
+

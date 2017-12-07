@@ -20,3 +20,6 @@ Video captioning which automatically translates video clips into natural languag
 ##### URL
 [https://arxiv.org/abs/1611.05592](https://arxiv.org/abs/1611.05592)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05592](https://arxiv.org/pdf/1611.05592)
+

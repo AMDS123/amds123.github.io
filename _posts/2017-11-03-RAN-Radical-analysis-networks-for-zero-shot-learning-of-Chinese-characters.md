@@ -20,3 +20,6 @@ Chinese characters have a huge set of character categories, more than 20,000 and
 ##### URL
 [https://arxiv.org/abs/1711.01889](https://arxiv.org/abs/1711.01889)
 
+##### PDF
+[https://arxiv.org/pdf/1711.01889](https://arxiv.org/pdf/1711.01889)
+

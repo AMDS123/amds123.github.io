@@ -20,3 +20,6 @@ In this paper, we propose an Attentional Generative Adversarial Network (AttnGAN
 ##### URL
 [https://arxiv.org/abs/1711.10485](https://arxiv.org/abs/1711.10485)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10485](https://arxiv.org/pdf/1711.10485)
+

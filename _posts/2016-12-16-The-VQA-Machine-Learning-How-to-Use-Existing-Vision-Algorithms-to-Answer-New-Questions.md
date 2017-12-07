@@ -20,3 +20,6 @@ One of the most intriguing features of the Visual Question Answering (VQA) chall
 ##### URL
 [https://arxiv.org/abs/1612.05386](https://arxiv.org/abs/1612.05386)
 
+##### PDF
+[https://arxiv.org/pdf/1612.05386](https://arxiv.org/pdf/1612.05386)
+

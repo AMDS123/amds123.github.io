@@ -20,3 +20,6 @@ Most natural videos contain numerous events. For example, in a video of a "man p
 ##### URL
 [https://arxiv.org/abs/1705.00754](https://arxiv.org/abs/1705.00754)
 
+##### PDF
+[https://arxiv.org/pdf/1705.00754](https://arxiv.org/pdf/1705.00754)
+

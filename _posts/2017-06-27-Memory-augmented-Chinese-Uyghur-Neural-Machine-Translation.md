@@ -20,3 +20,6 @@ Neural machine translation (NMT) has achieved notable performance recently. Howe
 ##### URL
 [https://arxiv.org/abs/1706.08683](https://arxiv.org/abs/1706.08683)
 
+##### PDF
+[https://arxiv.org/pdf/1706.08683](https://arxiv.org/pdf/1706.08683)
+

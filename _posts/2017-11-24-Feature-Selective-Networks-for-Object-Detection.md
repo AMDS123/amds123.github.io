@@ -20,3 +20,6 @@ Objects for detection usually have distinct characteristics in different sub-reg
 ##### URL
 [https://arxiv.org/abs/1711.08879](https://arxiv.org/abs/1711.08879)
 
+##### PDF
+[https://arxiv.org/pdf/1711.08879](https://arxiv.org/pdf/1711.08879)
+

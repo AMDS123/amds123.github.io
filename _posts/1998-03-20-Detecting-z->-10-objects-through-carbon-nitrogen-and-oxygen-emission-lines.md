@@ -20,3 +20,6 @@ By redshift of 10, star formation in the first objects should have produced cons
 ##### URL
 [https://arxiv.org/abs/astro-ph/9803236](https://arxiv.org/abs/astro-ph/9803236)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/9803236](https://arxiv.org/pdf/astro-ph/9803236)
+

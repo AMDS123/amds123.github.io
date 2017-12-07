@@ -20,3 +20,6 @@ We present Wasserstein introspective neural networks (WINN) that are both a gene
 ##### URL
 [http://arxiv.org/abs/1711.08875](http://arxiv.org/abs/1711.08875)
 
+##### PDF
+[http://arxiv.org/pdf/1711.08875](http://arxiv.org/pdf/1711.08875)
+

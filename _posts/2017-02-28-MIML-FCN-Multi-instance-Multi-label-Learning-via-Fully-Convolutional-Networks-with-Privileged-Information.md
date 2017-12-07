@@ -20,3 +20,6 @@ Multi-instance multi-label (MIML) learning has many interesting applications in 
 ##### URL
 [https://arxiv.org/abs/1702.08681](https://arxiv.org/abs/1702.08681)
 
+##### PDF
+[https://arxiv.org/pdf/1702.08681](https://arxiv.org/pdf/1702.08681)
+

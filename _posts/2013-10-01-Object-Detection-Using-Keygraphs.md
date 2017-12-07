@@ -20,3 +20,6 @@ We propose a new framework for object detection based on a generalization of the
 ##### URL
 [https://arxiv.org/abs/1310.0171](https://arxiv.org/abs/1310.0171)
 
+##### PDF
+[https://arxiv.org/pdf/1310.0171](https://arxiv.org/pdf/1310.0171)
+

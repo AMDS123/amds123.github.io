@@ -20,3 +20,6 @@ The current trend in object detection and localization is to learn predictions w
 ##### URL
 [https://arxiv.org/abs/1611.05664](https://arxiv.org/abs/1611.05664)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05664](https://arxiv.org/pdf/1611.05664)
+

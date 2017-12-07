@@ -20,3 +20,6 @@ In the last couple decades, social network services like Twitter have generated 
 ##### URL
 [https://arxiv.org/abs/1711.11081](https://arxiv.org/abs/1711.11081)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11081](https://arxiv.org/pdf/1711.11081)
+

@@ -20,3 +20,6 @@ Object class detection has been a synonym for 2D bounding box localization for t
 ##### URL
 [https://arxiv.org/abs/1503.05038](https://arxiv.org/abs/1503.05038)
 
+##### PDF
+[https://arxiv.org/pdf/1503.05038](https://arxiv.org/pdf/1503.05038)
+

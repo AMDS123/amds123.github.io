@@ -20,3 +20,6 @@ Deep convolutional networks have become a popular tool for image generation and 
 ##### URL
 [https://arxiv.org/abs/1711.10925](https://arxiv.org/abs/1711.10925)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10925](https://arxiv.org/pdf/1711.10925)
+

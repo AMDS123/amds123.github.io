@@ -20,3 +20,6 @@ Interest in neural machine translation has grown rapidly as its effectiveness ha
 ##### URL
 [https://arxiv.org/abs/1706.09733](https://arxiv.org/abs/1706.09733)
 
+##### PDF
+[https://arxiv.org/pdf/1706.09733](https://arxiv.org/pdf/1706.09733)
+

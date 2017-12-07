@@ -20,3 +20,6 @@ Two recent approaches have achieved state-of-the-art results in image captioning
 ##### URL
 [https://arxiv.org/abs/1505.01809](https://arxiv.org/abs/1505.01809)
 
+##### PDF
+[https://arxiv.org/pdf/1505.01809](https://arxiv.org/pdf/1505.01809)
+

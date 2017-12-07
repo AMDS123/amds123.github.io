@@ -20,3 +20,6 @@ This paper presents a novel approach for automatically generating image descript
 ##### URL
 [https://arxiv.org/abs/1411.4952](https://arxiv.org/abs/1411.4952)
 
+##### PDF
+[https://arxiv.org/pdf/1411.4952](https://arxiv.org/pdf/1411.4952)
+

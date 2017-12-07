@@ -20,3 +20,6 @@ Recent studies have demonstrated the power of recurrent neural networks for mach
 ##### URL
 [https://arxiv.org/abs/1506.01911](https://arxiv.org/abs/1506.01911)
 
+##### PDF
+[https://arxiv.org/pdf/1506.01911](https://arxiv.org/pdf/1506.01911)
+

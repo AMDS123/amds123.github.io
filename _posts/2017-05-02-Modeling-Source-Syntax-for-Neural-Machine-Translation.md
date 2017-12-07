@@ -20,3 +20,6 @@ Even though a linguistics-free sequence to sequence model in neural machine tran
 ##### URL
 [https://arxiv.org/abs/1705.01020](https://arxiv.org/abs/1705.01020)
 
+##### PDF
+[https://arxiv.org/pdf/1705.01020](https://arxiv.org/pdf/1705.01020)
+

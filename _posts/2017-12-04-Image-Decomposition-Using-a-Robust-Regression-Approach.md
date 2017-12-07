@@ -20,3 +20,6 @@ This paper considers how to separate text and/or graphics from smooth background
 ##### URL
 [http://arxiv.org/abs/1609.03874](http://arxiv.org/abs/1609.03874)
 
+##### PDF
+[http://arxiv.org/pdf/1609.03874](http://arxiv.org/pdf/1609.03874)
+

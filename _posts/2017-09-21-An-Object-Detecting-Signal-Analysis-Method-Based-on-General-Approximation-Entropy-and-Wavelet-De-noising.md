@@ -20,3 +20,6 @@ The construction quality of the bolt is directly related to the safety of the pr
 ##### URL
 [https://arxiv.org/abs/1709.07518](https://arxiv.org/abs/1709.07518)
 
+##### PDF
+[https://arxiv.org/pdf/1709.07518](https://arxiv.org/pdf/1709.07518)
+

@@ -20,3 +20,6 @@ This paper presents a method to reconstruct dense semantic trajectory stream of 
 ##### URL
 [http://arxiv.org/abs/1712.01359](http://arxiv.org/abs/1712.01359)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01359](http://arxiv.org/pdf/1712.01359)
+

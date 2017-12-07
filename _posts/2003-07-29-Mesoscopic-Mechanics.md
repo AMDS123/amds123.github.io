@@ -20,3 +20,6 @@ This article is concerned with the existence, status and description of the so-c
 ##### URL
 [https://arxiv.org/abs/cond-mat/0307716](https://arxiv.org/abs/cond-mat/0307716)
 
+##### PDF
+[https://arxiv.org/pdf/cond-mat/0307716](https://arxiv.org/pdf/cond-mat/0307716)
+

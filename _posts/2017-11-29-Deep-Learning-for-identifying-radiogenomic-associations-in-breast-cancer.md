@@ -20,3 +20,6 @@ Purpose: To determine whether deep learning models can distinguish between breas
 ##### URL
 [https://arxiv.org/abs/1711.11097](https://arxiv.org/abs/1711.11097)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11097](https://arxiv.org/pdf/1711.11097)
+

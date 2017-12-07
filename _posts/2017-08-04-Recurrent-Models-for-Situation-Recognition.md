@@ -20,3 +20,6 @@ This work proposes Recurrent Neural Network (RNN) models to predict structured '
 ##### URL
 [https://arxiv.org/abs/1703.06233](https://arxiv.org/abs/1703.06233)
 
+##### PDF
+[https://arxiv.org/pdf/1703.06233](https://arxiv.org/pdf/1703.06233)
+

@@ -20,3 +20,6 @@ Machine learning is a field of computer science that builds algorithms that lear
 ##### URL
 [https://arxiv.org/abs/1703.05463](https://arxiv.org/abs/1703.05463)
 
+##### PDF
+[https://arxiv.org/pdf/1703.05463](https://arxiv.org/pdf/1703.05463)
+

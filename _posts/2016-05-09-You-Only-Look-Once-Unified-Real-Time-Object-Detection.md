@@ -20,3 +20,6 @@ We present YOLO, a new approach to object detection. Prior work on object detect
 ##### URL
 [https://arxiv.org/abs/1506.02640](https://arxiv.org/abs/1506.02640)
 
+##### PDF
+[https://arxiv.org/pdf/1506.02640](https://arxiv.org/pdf/1506.02640)
+

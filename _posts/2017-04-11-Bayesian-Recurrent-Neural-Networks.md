@@ -20,3 +20,6 @@ In this work we explore a straightforward variational Bayes scheme for Recurrent
 ##### URL
 [https://arxiv.org/abs/1704.02798](https://arxiv.org/abs/1704.02798)
 
+##### PDF
+[https://arxiv.org/pdf/1704.02798](https://arxiv.org/pdf/1704.02798)
+

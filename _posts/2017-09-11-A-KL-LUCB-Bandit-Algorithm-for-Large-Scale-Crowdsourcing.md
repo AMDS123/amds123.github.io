@@ -20,3 +20,6 @@ This paper focuses on best-arm identification in multi-armed bandits with bounde
 ##### URL
 [https://arxiv.org/abs/1709.03570](https://arxiv.org/abs/1709.03570)
 
+##### PDF
+[https://arxiv.org/pdf/1709.03570](https://arxiv.org/pdf/1709.03570)
+

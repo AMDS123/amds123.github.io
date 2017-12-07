@@ -20,3 +20,6 @@ We introduce the Helsinki Neural Machine Translation system (HNMT) and how it is
 ##### URL
 [https://arxiv.org/abs/1708.05942](https://arxiv.org/abs/1708.05942)
 
+##### PDF
+[https://arxiv.org/pdf/1708.05942](https://arxiv.org/pdf/1708.05942)
+

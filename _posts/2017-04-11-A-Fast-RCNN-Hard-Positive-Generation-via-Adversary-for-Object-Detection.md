@@ -20,3 +20,6 @@ How do we learn an object detector that is invariant to occlusions and deformati
 ##### URL
 [https://arxiv.org/abs/1704.03414](https://arxiv.org/abs/1704.03414)
 
+##### PDF
+[https://arxiv.org/pdf/1704.03414](https://arxiv.org/pdf/1704.03414)
+

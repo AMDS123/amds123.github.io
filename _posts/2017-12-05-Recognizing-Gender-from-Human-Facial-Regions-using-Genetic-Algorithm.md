@@ -20,3 +20,6 @@ Recently, recognition of gender from facial images has gained a lot of importanc
 ##### URL
 [https://arxiv.org/abs/1712.01661](https://arxiv.org/abs/1712.01661)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01661](https://arxiv.org/pdf/1712.01661)
+

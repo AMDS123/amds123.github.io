@@ -20,3 +20,6 @@ In this paper, we propose a method for training neural networks when we have a l
 ##### URL
 [https://arxiv.org/abs/1711.11383](https://arxiv.org/abs/1711.11383)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11383](https://arxiv.org/pdf/1711.11383)
+

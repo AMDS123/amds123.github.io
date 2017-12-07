@@ -20,3 +20,6 @@ Quantum processors promise a paradigm shift in high-performance computing which 
 ##### URL
 [https://arxiv.org/abs/1710.05365](https://arxiv.org/abs/1710.05365)
 
+##### PDF
+[https://arxiv.org/pdf/1710.05365](https://arxiv.org/pdf/1710.05365)
+

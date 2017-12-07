@@ -20,3 +20,6 @@ Aiming at improving the performance of existing detection algorithms developed f
 ##### URL
 [https://arxiv.org/abs/1607.05066](https://arxiv.org/abs/1607.05066)
 
+##### PDF
+[https://arxiv.org/pdf/1607.05066](https://arxiv.org/pdf/1607.05066)
+

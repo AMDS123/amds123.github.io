@@ -20,3 +20,6 @@ We aim to study the modeling limitations of the commonly employed boosted decisi
 ##### URL
 [https://arxiv.org/abs/1701.01692](https://arxiv.org/abs/1701.01692)
 
+##### PDF
+[https://arxiv.org/pdf/1701.01692](https://arxiv.org/pdf/1701.01692)
+

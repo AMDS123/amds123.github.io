@@ -20,3 +20,6 @@ Detecting objects becomes difficult when we need to deal with large shape deform
 ##### URL
 [https://arxiv.org/abs/1406.2031](https://arxiv.org/abs/1406.2031)
 
+##### PDF
+[https://arxiv.org/pdf/1406.2031](https://arxiv.org/pdf/1406.2031)
+

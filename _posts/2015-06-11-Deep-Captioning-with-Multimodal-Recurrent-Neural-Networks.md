@@ -20,3 +20,6 @@ In this paper, we present a multimodal Recurrent Neural Network (m-RNN) model fo
 ##### URL
 [https://arxiv.org/abs/1412.6632](https://arxiv.org/abs/1412.6632)
 
+##### PDF
+[https://arxiv.org/pdf/1412.6632](https://arxiv.org/pdf/1412.6632)
+

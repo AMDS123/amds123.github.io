@@ -20,3 +20,6 @@ A fully automatic technique for segmenting the liver and localizing its unhealth
 ##### URL
 [https://arxiv.org/abs/1711.11069](https://arxiv.org/abs/1711.11069)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11069](https://arxiv.org/pdf/1711.11069)
+

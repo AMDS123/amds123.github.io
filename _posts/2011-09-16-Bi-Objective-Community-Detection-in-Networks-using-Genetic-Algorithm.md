@@ -20,3 +20,6 @@ A lot of research effort has been put into community detection from all corners 
 ##### URL
 [https://arxiv.org/abs/1109.3650](https://arxiv.org/abs/1109.3650)
 
+##### PDF
+[https://arxiv.org/pdf/1109.3650](https://arxiv.org/pdf/1109.3650)
+

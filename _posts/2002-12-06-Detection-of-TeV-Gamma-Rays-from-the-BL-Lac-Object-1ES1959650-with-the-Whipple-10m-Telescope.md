@@ -20,3 +20,6 @@ We present the first strong detection of very high energy gamma-rays from the cl
 ##### URL
 [https://arxiv.org/abs/astro-ph/0212170](https://arxiv.org/abs/astro-ph/0212170)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0212170](https://arxiv.org/pdf/astro-ph/0212170)
+

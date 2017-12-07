@@ -20,3 +20,6 @@ BL Lac目标3C66A是TeV $ \ gamma $ -rays（VHE，即$ E> 100 $ GeV）中最明�
 ##### URL
 [https://arxiv.org/abs/1710.04309](https://arxiv.org/abs/1710.04309)
 
+##### PDF
+[https://arxiv.org/pdf/1710.04309](https://arxiv.org/pdf/1710.04309)
+

@@ -20,3 +20,6 @@ The pulsar magnetosphere contains a strongly magnetized, relativistic plasma. We
 ##### URL
 [https://arxiv.org/abs/astro-ph/0204122](https://arxiv.org/abs/astro-ph/0204122)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0204122](https://arxiv.org/pdf/astro-ph/0204122)
+

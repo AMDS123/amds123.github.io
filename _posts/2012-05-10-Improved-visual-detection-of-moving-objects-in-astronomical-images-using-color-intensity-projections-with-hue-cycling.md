@@ -20,3 +20,6 @@ While fully automated methods for detecting faint moving objects in astronomical
 ##### URL
 [https://arxiv.org/abs/1202.0268](https://arxiv.org/abs/1202.0268)
 
+##### PDF
+[https://arxiv.org/pdf/1202.0268](https://arxiv.org/pdf/1202.0268)
+

@@ -20,3 +20,6 @@ We present a simple regularization technique for Recurrent Neural Networks (RNNs
 ##### URL
 [https://arxiv.org/abs/1409.2329](https://arxiv.org/abs/1409.2329)
 
+##### PDF
+[https://arxiv.org/pdf/1409.2329](https://arxiv.org/pdf/1409.2329)
+

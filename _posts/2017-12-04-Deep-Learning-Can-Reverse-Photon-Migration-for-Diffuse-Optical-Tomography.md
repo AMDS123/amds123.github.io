@@ -20,3 +20,6 @@ Can artificial intelligence (AI) learn complicated non-linear physics? Here we p
 ##### URL
 [http://arxiv.org/abs/1712.00912](http://arxiv.org/abs/1712.00912)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00912](http://arxiv.org/pdf/1712.00912)
+

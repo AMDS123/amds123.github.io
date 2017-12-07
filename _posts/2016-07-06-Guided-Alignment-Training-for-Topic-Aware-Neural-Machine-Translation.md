@@ -20,3 +20,6 @@ In this paper, we propose an effective way for biasing the attention mechanism o
 ##### URL
 [https://arxiv.org/abs/1607.01628](https://arxiv.org/abs/1607.01628)
 
+##### PDF
+[https://arxiv.org/pdf/1607.01628](https://arxiv.org/pdf/1607.01628)
+

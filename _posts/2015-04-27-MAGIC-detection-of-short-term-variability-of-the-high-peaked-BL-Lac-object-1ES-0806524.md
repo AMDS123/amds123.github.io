@@ -20,3 +20,6 @@ The high-frequency-peaked BL Lac (HBL) 1ES 0806+524 (z = 0.138) was discovered i
 ##### URL
 [https://arxiv.org/abs/1504.06115](https://arxiv.org/abs/1504.06115)
 
+##### PDF
+[https://arxiv.org/pdf/1504.06115](https://arxiv.org/pdf/1504.06115)
+

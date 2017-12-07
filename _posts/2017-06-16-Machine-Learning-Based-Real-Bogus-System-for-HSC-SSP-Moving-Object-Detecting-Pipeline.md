@@ -20,3 +20,6 @@ Machine learning techniques are widely applied in many modern optical sky survey
 ##### URL
 [https://arxiv.org/abs/1704.06413](https://arxiv.org/abs/1704.06413)
 
+##### PDF
+[https://arxiv.org/pdf/1704.06413](https://arxiv.org/pdf/1704.06413)
+

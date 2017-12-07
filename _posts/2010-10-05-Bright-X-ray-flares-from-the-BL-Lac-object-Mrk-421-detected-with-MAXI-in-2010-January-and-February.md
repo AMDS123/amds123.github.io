@@ -20,3 +20,6 @@ Strong X-ray flares from the blazar Mrk 421 were detected in 2010 January and Fe
 ##### URL
 [https://arxiv.org/abs/1010.1003](https://arxiv.org/abs/1010.1003)
 
+##### PDF
+[https://arxiv.org/pdf/1010.1003](https://arxiv.org/pdf/1010.1003)
+

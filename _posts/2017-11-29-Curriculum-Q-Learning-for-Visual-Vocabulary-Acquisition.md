@@ -20,3 +20,6 @@ The structure of curriculum plays a vital role in our learning process, both as 
 ##### URL
 [https://arxiv.org/abs/1711.10837](https://arxiv.org/abs/1711.10837)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10837](https://arxiv.org/pdf/1711.10837)
+

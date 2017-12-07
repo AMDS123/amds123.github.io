@@ -20,3 +20,6 @@ Most existing Convolutional Neural Networks(CNNs) used for action recognition ar
 ##### URL
 [http://arxiv.org/abs/1711.08238](http://arxiv.org/abs/1711.08238)
 
+##### PDF
+[http://arxiv.org/pdf/1711.08238](http://arxiv.org/pdf/1711.08238)
+

@@ -20,3 +20,6 @@ Object detection when provided image-level labels instead of instance-level labe
 ##### URL
 [https://arxiv.org/abs/1702.08740](https://arxiv.org/abs/1702.08740)
 
+##### PDF
+[https://arxiv.org/pdf/1702.08740](https://arxiv.org/pdf/1702.08740)
+

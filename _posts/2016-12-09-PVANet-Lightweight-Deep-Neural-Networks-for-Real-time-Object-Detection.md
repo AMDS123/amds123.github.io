@@ -20,3 +20,6 @@ In object detection, reducing computational cost is as important as improving ac
 ##### URL
 [https://arxiv.org/abs/1611.08588](https://arxiv.org/abs/1611.08588)
 
+##### PDF
+[https://arxiv.org/pdf/1611.08588](https://arxiv.org/pdf/1611.08588)
+

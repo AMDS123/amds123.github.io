@@ -20,3 +20,6 @@ Bilinear models provide an appealing framework for mixing and merging informatio
 ##### URL
 [https://arxiv.org/abs/1705.06676](https://arxiv.org/abs/1705.06676)
 
+##### PDF
+[https://arxiv.org/pdf/1705.06676](https://arxiv.org/pdf/1705.06676)
+

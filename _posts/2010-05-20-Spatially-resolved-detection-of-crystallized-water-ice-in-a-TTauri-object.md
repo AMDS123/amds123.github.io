@@ -20,3 +20,6 @@ We search for frozen water and its processing around young stellar objects (YSOs
 ##### URL
 [https://arxiv.org/abs/1005.3719](https://arxiv.org/abs/1005.3719)
 
+##### PDF
+[https://arxiv.org/pdf/1005.3719](https://arxiv.org/pdf/1005.3719)
+

@@ -20,3 +20,6 @@ Salient object detection has been attracting a lot of interest, and recently var
 ##### URL
 [https://arxiv.org/abs/1410.5926](https://arxiv.org/abs/1410.5926)
 
+##### PDF
+[https://arxiv.org/pdf/1410.5926](https://arxiv.org/pdf/1410.5926)
+

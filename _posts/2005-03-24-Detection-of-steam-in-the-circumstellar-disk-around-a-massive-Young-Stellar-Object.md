@@ -20,3 +20,6 @@ We report on the observation of hot water vapor (steam) in the inner AU of a you
 ##### URL
 [https://arxiv.org/abs/astro-ph/0503547](https://arxiv.org/abs/astro-ph/0503547)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0503547](https://arxiv.org/pdf/astro-ph/0503547)
+

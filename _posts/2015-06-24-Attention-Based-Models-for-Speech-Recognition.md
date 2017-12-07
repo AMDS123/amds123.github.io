@@ -20,3 +20,6 @@ Recurrent sequence generators conditioned on input data through an attention mec
 ##### URL
 [https://arxiv.org/abs/1506.07503](https://arxiv.org/abs/1506.07503)
 
+##### PDF
+[https://arxiv.org/pdf/1506.07503](https://arxiv.org/pdf/1506.07503)
+

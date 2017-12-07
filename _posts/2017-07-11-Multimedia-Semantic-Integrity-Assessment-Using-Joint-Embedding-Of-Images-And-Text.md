@@ -20,3 +20,6 @@ Real world multimedia data is often composed of multiple modalities such as an i
 ##### URL
 [https://arxiv.org/abs/1707.01606](https://arxiv.org/abs/1707.01606)
 
+##### PDF
+[https://arxiv.org/pdf/1707.01606](https://arxiv.org/pdf/1707.01606)
+

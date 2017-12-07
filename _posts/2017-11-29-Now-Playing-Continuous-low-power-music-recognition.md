@@ -20,3 +20,6 @@ Existing music recognition applications require a connection to a server that pe
 ##### URL
 [https://arxiv.org/abs/1711.10958](https://arxiv.org/abs/1711.10958)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10958](https://arxiv.org/pdf/1711.10958)
+

@@ -20,3 +20,6 @@ We present a general approach to video understanding, inspired by semantic trans
 ##### URL
 [https://arxiv.org/abs/1612.06950](https://arxiv.org/abs/1612.06950)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06950](https://arxiv.org/pdf/1612.06950)
+

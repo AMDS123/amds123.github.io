@@ -20,3 +20,6 @@ Given a user's query, traditional image search systems rank images according to 
 ##### URL
 [https://arxiv.org/abs/1704.00763](https://arxiv.org/abs/1704.00763)
 
+##### PDF
+[https://arxiv.org/pdf/1704.00763](https://arxiv.org/pdf/1704.00763)
+

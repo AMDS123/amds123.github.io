@@ -20,3 +20,6 @@ We present the results of our optical monitoring of the BL Lac object S5 0716+71
 ##### URL
 [https://arxiv.org/abs/1202.3226](https://arxiv.org/abs/1202.3226)
 
+##### PDF
+[https://arxiv.org/pdf/1202.3226](https://arxiv.org/pdf/1202.3226)
+

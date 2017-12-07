@@ -20,3 +20,6 @@ We address a question answering task on real-world images that is set up as a Vi
 ##### URL
 [https://arxiv.org/abs/1605.02697](https://arxiv.org/abs/1605.02697)
 
+##### PDF
+[https://arxiv.org/pdf/1605.02697](https://arxiv.org/pdf/1605.02697)
+

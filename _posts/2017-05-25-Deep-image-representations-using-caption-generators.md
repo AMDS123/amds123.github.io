@@ -20,3 +20,6 @@ Deep learning exploits large volumes of labeled data to learn powerful models. W
 ##### URL
 [https://arxiv.org/abs/1705.09142](https://arxiv.org/abs/1705.09142)
 
+##### PDF
+[https://arxiv.org/pdf/1705.09142](https://arxiv.org/pdf/1705.09142)
+

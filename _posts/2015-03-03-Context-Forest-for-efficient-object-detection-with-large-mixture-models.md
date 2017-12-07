@@ -20,3 +20,6 @@ We present Context Forest (ConF), a technique for predicting properties of the o
 ##### URL
 [https://arxiv.org/abs/1503.00787](https://arxiv.org/abs/1503.00787)
 
+##### PDF
+[https://arxiv.org/pdf/1503.00787](https://arxiv.org/pdf/1503.00787)
+

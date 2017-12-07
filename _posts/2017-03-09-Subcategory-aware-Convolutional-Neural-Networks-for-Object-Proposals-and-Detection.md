@@ -20,3 +20,6 @@ In CNN-based object detection methods, region proposal becomes a bottleneck when
 ##### URL
 [https://arxiv.org/abs/1604.04693](https://arxiv.org/abs/1604.04693)
 
+##### PDF
+[https://arxiv.org/pdf/1604.04693](https://arxiv.org/pdf/1604.04693)
+

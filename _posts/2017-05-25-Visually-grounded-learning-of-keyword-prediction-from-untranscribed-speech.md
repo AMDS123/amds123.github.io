@@ -20,3 +20,6 @@ During language acquisition, infants have the benefit of visual cues to ground s
 ##### URL
 [https://arxiv.org/abs/1703.08136](https://arxiv.org/abs/1703.08136)
 
+##### PDF
+[https://arxiv.org/pdf/1703.08136](https://arxiv.org/pdf/1703.08136)
+

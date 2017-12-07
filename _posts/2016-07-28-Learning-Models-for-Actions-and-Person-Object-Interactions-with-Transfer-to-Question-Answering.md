@@ -20,3 +20,6 @@ This paper proposes deep convolutional network models that utilize local and glo
 ##### URL
 [https://arxiv.org/abs/1604.04808](https://arxiv.org/abs/1604.04808)
 
+##### PDF
+[https://arxiv.org/pdf/1604.04808](https://arxiv.org/pdf/1604.04808)
+

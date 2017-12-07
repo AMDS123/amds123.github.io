@@ -20,3 +20,6 @@ Text attribute transfer using non-parallel data requires methods that can perfor
 ##### URL
 [http://arxiv.org/abs/1711.09395](http://arxiv.org/abs/1711.09395)
 
+##### PDF
+[http://arxiv.org/pdf/1711.09395](http://arxiv.org/pdf/1711.09395)
+

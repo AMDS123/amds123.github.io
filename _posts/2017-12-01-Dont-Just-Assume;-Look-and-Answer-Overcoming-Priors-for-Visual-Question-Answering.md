@@ -20,3 +20,6 @@ A number of studies have found that today's Visual Question Answering (VQA) mode
 ##### URL
 [https://arxiv.org/abs/1712.00377](https://arxiv.org/abs/1712.00377)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00377](https://arxiv.org/pdf/1712.00377)
+

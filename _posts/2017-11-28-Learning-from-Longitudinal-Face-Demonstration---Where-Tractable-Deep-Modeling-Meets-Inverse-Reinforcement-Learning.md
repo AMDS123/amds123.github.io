@@ -20,3 +20,6 @@ This paper presents a novel Generative Probabilistic Modeling under an Inverse R
 ##### URL
 [https://arxiv.org/abs/1711.10520](https://arxiv.org/abs/1711.10520)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10520](https://arxiv.org/pdf/1711.10520)
+

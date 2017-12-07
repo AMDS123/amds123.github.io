@@ -20,3 +20,6 @@ Object detection and classification using video is necessary for intelligent pla
 ##### URL
 [https://arxiv.org/abs/1111.1599](https://arxiv.org/abs/1111.1599)
 
+##### PDF
+[https://arxiv.org/pdf/1111.1599](https://arxiv.org/pdf/1111.1599)
+

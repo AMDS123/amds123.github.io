@@ -20,3 +20,6 @@ A galaxy-sized halo may contain a large number of intermediate mass (10^{2-4} so
 ##### URL
 [https://arxiv.org/abs/astro-ph/0512648](https://arxiv.org/abs/astro-ph/0512648)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0512648](https://arxiv.org/pdf/astro-ph/0512648)
+

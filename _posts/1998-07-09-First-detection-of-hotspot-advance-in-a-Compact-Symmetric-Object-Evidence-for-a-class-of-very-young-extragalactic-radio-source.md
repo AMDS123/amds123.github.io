@@ -20,3 +20,6 @@ We present the results of multi-epoch global VLBI observations of the Compact Sy
 ##### URL
 [https://arxiv.org/abs/astro-ph/9712062](https://arxiv.org/abs/astro-ph/9712062)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/9712062](https://arxiv.org/pdf/astro-ph/9712062)
+

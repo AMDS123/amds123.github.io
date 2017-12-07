@@ -20,3 +20,6 @@ This report presents our submission to the MS COCO Captioning Challenge 2015. Th
 ##### URL
 [https://arxiv.org/abs/1506.03995](https://arxiv.org/abs/1506.03995)
 
+##### PDF
+[https://arxiv.org/pdf/1506.03995](https://arxiv.org/pdf/1506.03995)
+

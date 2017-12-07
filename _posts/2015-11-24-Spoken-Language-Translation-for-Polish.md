@@ -20,3 +20,6 @@ Spoken language translation (SLT) is becoming more important in the increasingly
 ##### URL
 [https://arxiv.org/abs/1511.07788](https://arxiv.org/abs/1511.07788)
 
+##### PDF
+[https://arxiv.org/pdf/1511.07788](https://arxiv.org/pdf/1511.07788)
+

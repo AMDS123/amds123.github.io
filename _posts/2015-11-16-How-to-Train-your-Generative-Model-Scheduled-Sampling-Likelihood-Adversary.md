@@ -20,3 +20,6 @@ Modern applications and progress in deep learning research have created renewed 
 ##### URL
 [https://arxiv.org/abs/1511.05101](https://arxiv.org/abs/1511.05101)
 
+##### PDF
+[https://arxiv.org/pdf/1511.05101](https://arxiv.org/pdf/1511.05101)
+

@@ -20,3 +20,6 @@ Graphs are fundamental data structures and have been employed for centuries to m
 ##### URL
 [https://arxiv.org/abs/1201.6566](https://arxiv.org/abs/1201.6566)
 
+##### PDF
+[https://arxiv.org/pdf/1201.6566](https://arxiv.org/pdf/1201.6566)
+

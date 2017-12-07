@@ -20,3 +20,6 @@ In this work we study convex relaxations of quadratic optimisation problems over
 ##### URL
 [https://arxiv.org/abs/1711.10733](https://arxiv.org/abs/1711.10733)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10733](https://arxiv.org/pdf/1711.10733)
+

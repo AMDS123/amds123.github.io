@@ -20,3 +20,6 @@ Deep convolutional networks for semantic image segmentation typically require la
 ##### URL
 [http://arxiv.org/abs/1712.00661](http://arxiv.org/abs/1712.00661)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00661](http://arxiv.org/pdf/1712.00661)
+

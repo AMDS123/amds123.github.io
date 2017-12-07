@@ -20,3 +20,6 @@ Visual question answering (VQA) systems are emerging from a desire to empower us
 ##### URL
 [https://arxiv.org/abs/1608.08188](https://arxiv.org/abs/1608.08188)
 
+##### PDF
+[https://arxiv.org/pdf/1608.08188](https://arxiv.org/pdf/1608.08188)
+

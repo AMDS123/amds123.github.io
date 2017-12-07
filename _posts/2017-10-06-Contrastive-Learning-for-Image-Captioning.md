@@ -20,3 +20,6 @@ Image captioning, a popular topic in computer vision, has achieved substantial p
 ##### URL
 [https://arxiv.org/abs/1710.02534](https://arxiv.org/abs/1710.02534)
 
+##### PDF
+[https://arxiv.org/pdf/1710.02534](https://arxiv.org/pdf/1710.02534)
+

@@ -20,3 +20,6 @@ We present an approach to simultaneously perform semantic segmentation and prepo
 ##### URL
 [https://arxiv.org/abs/1604.02125](https://arxiv.org/abs/1604.02125)
 
+##### PDF
+[https://arxiv.org/pdf/1604.02125](https://arxiv.org/pdf/1604.02125)
+

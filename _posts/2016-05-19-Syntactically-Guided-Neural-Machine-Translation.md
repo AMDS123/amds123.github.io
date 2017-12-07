@@ -20,3 +20,6 @@ We investigate the use of hierarchical phrase-based SMT lattices in end-to-end n
 ##### URL
 [https://arxiv.org/abs/1605.04569](https://arxiv.org/abs/1605.04569)
 
+##### PDF
+[https://arxiv.org/pdf/1605.04569](https://arxiv.org/pdf/1605.04569)
+

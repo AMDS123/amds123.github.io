@@ -20,3 +20,6 @@ The attention model has become a standard component in neural machine translatio
 ##### URL
 [https://arxiv.org/abs/1708.09217](https://arxiv.org/abs/1708.09217)
 
+##### PDF
+[https://arxiv.org/pdf/1708.09217](https://arxiv.org/pdf/1708.09217)
+

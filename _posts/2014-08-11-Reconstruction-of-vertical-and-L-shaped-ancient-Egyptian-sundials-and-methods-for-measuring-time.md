@@ -20,3 +20,6 @@ The article presents the results of the study of design features of vertical and
 ##### URL
 [https://arxiv.org/abs/1408.0987](https://arxiv.org/abs/1408.0987)
 
+##### PDF
+[https://arxiv.org/pdf/1408.0987](https://arxiv.org/pdf/1408.0987)
+

@@ -20,3 +20,6 @@ We propose a new method for fusing a LIDAR point cloud and camera-captured image
 ##### URL
 [https://arxiv.org/abs/1711.06703](https://arxiv.org/abs/1711.06703)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06703](https://arxiv.org/pdf/1711.06703)
+

@@ -20,3 +20,6 @@ Alzheimer's disease is the most common cause of dementia, yet difficult to accur
 ##### URL
 [https://arxiv.org/abs/1712.01700](https://arxiv.org/abs/1712.01700)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01700](https://arxiv.org/pdf/1712.01700)
+

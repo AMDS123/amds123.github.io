@@ -20,3 +20,6 @@ Accurate detection of objects in 3D point clouds is a central problem in many ap
 ##### URL
 [https://arxiv.org/abs/1711.06396](https://arxiv.org/abs/1711.06396)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06396](https://arxiv.org/pdf/1711.06396)
+

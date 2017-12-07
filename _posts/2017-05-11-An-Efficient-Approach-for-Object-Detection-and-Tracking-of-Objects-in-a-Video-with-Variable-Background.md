@@ -20,3 +20,6 @@ This paper proposes a novel approach to create an automated visual surveillance 
 ##### URL
 [https://arxiv.org/abs/1706.02672](https://arxiv.org/abs/1706.02672)
 
+##### PDF
+[https://arxiv.org/pdf/1706.02672](https://arxiv.org/pdf/1706.02672)
+

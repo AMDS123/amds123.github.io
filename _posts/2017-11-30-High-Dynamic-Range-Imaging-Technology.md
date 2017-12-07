@@ -20,3 +20,6 @@ In this lecture note, we describe high dynamic range (HDR) imaging systems; such
 ##### URL
 [https://arxiv.org/abs/1711.11326](https://arxiv.org/abs/1711.11326)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11326](https://arxiv.org/pdf/1711.11326)
+

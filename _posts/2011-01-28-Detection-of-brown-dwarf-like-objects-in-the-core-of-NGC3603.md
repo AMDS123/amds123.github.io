@@ -20,3 +20,6 @@ We use near-infrared data obtained with the Wide Field Camera 3 (WFC3) on the Hu
 ##### URL
 [https://arxiv.org/abs/1101.4521](https://arxiv.org/abs/1101.4521)
 
+##### PDF
+[https://arxiv.org/pdf/1101.4521](https://arxiv.org/pdf/1101.4521)
+

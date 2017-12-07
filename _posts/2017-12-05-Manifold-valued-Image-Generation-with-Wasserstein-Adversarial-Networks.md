@@ -20,3 +20,6 @@ Unsupervised image generation has recently received an increasing amount of atte
 ##### URL
 [https://arxiv.org/abs/1712.01551](https://arxiv.org/abs/1712.01551)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01551](https://arxiv.org/pdf/1712.01551)
+

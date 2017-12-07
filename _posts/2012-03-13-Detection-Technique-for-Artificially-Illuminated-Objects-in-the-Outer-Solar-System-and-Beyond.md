@@ -20,3 +20,6 @@ Existing and planned optical telescopes and surveys can detect artificially-illu
 ##### URL
 [https://arxiv.org/abs/1110.6181](https://arxiv.org/abs/1110.6181)
 
+##### PDF
+[https://arxiv.org/pdf/1110.6181](https://arxiv.org/pdf/1110.6181)
+

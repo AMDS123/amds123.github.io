@@ -20,3 +20,6 @@ Recurrent neural networks (RNNs) represent the state of the art in translation, 
 ##### URL
 [https://arxiv.org/abs/1708.07576](https://arxiv.org/abs/1708.07576)
 
+##### PDF
+[https://arxiv.org/pdf/1708.07576](https://arxiv.org/pdf/1708.07576)
+

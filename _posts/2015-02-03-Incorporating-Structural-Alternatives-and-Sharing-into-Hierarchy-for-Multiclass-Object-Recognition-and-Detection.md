@@ -20,3 +20,6 @@ This paper proposes a reconfigurable model to recognize and detect multiclass (o
 ##### URL
 [https://arxiv.org/abs/1502.00744](https://arxiv.org/abs/1502.00744)
 
+##### PDF
+[https://arxiv.org/pdf/1502.00744](https://arxiv.org/pdf/1502.00744)
+

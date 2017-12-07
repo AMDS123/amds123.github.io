@@ -20,3 +20,6 @@ In this paper, we propose gated recurrent feature pyramid for the problem of lea
 ##### URL
 [http://arxiv.org/abs/1712.00886](http://arxiv.org/abs/1712.00886)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00886](http://arxiv.org/pdf/1712.00886)
+

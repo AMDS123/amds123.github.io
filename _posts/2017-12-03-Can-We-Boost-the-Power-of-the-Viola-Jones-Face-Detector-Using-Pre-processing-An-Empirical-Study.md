@@ -20,3 +20,6 @@ Viola-Jones人脸检测算法是（现在仍然是）相当受欢迎的人脸检
 ##### URL
 [http://arxiv.org/abs/1709.07720](http://arxiv.org/abs/1709.07720)
 
+##### PDF
+[http://arxiv.org/pdf/1709.07720](http://arxiv.org/pdf/1709.07720)
+

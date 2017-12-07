@@ -20,3 +20,6 @@ Neural networks trained on datasets such as ImageNet have led to major advances 
 ##### URL
 [https://arxiv.org/abs/1706.04261](https://arxiv.org/abs/1706.04261)
 
+##### PDF
+[https://arxiv.org/pdf/1706.04261](https://arxiv.org/pdf/1706.04261)
+

@@ -20,3 +20,6 @@ While some remarkable progress has been made in neural machine translation (NMT)
 ##### URL
 [https://arxiv.org/abs/1709.05820](https://arxiv.org/abs/1709.05820)
 
+##### PDF
+[https://arxiv.org/pdf/1709.05820](https://arxiv.org/pdf/1709.05820)
+

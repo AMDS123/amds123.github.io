@@ -20,3 +20,6 @@ Visual Question Answering (VQA) is a recent problem in computer vision and natur
 ##### URL
 [https://arxiv.org/abs/1610.01465](https://arxiv.org/abs/1610.01465)
 
+##### PDF
+[https://arxiv.org/pdf/1610.01465](https://arxiv.org/pdf/1610.01465)
+

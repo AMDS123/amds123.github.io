@@ -20,3 +20,6 @@ We define and study error detection and correction tasks that are useful for 3D 
 ##### URL
 [http://arxiv.org/abs/1708.02599](http://arxiv.org/abs/1708.02599)
 
+##### PDF
+[http://arxiv.org/pdf/1708.02599](http://arxiv.org/pdf/1708.02599)
+

@@ -20,3 +20,6 @@ We investigate the use of deep neural networks for the novel task of class gener
 ##### URL
 [https://arxiv.org/abs/1312.6885](https://arxiv.org/abs/1312.6885)
 
+##### PDF
+[https://arxiv.org/pdf/1312.6885](https://arxiv.org/pdf/1312.6885)
+

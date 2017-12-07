@@ -20,3 +20,6 @@ In this paper, we design a benchmark task and provide the associated datasets fo
 ##### URL
 [https://arxiv.org/abs/1607.08221](https://arxiv.org/abs/1607.08221)
 
+##### PDF
+[https://arxiv.org/pdf/1607.08221](https://arxiv.org/pdf/1607.08221)
+

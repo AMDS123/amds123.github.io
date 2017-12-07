@@ -20,3 +20,6 @@ In this paper, we address the problem of visual question answering by proposing 
 ##### URL
 [https://arxiv.org/abs/1612.03628](https://arxiv.org/abs/1612.03628)
 
+##### PDF
+[https://arxiv.org/pdf/1612.03628](https://arxiv.org/pdf/1612.03628)
+

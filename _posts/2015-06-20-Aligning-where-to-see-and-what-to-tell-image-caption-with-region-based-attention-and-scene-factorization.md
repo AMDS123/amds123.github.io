@@ -20,3 +20,6 @@ Recent progress on automatic generation of image captions has shown that it is p
 ##### URL
 [https://arxiv.org/abs/1506.06272](https://arxiv.org/abs/1506.06272)
 
+##### PDF
+[https://arxiv.org/pdf/1506.06272](https://arxiv.org/pdf/1506.06272)
+

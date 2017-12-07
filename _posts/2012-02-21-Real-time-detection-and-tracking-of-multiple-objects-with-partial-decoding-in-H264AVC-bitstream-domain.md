@@ -20,3 +20,6 @@ In this paper, we show that we can apply probabilistic spatiotemporal macroblock
 ##### URL
 [https://arxiv.org/abs/1202.4743](https://arxiv.org/abs/1202.4743)
 
+##### PDF
+[https://arxiv.org/pdf/1202.4743](https://arxiv.org/pdf/1202.4743)
+

@@ -20,3 +20,6 @@ A novel approach for the fusion of heterogeneous object detection methods is pro
 ##### URL
 [https://arxiv.org/abs/1511.03183](https://arxiv.org/abs/1511.03183)
 
+##### PDF
+[https://arxiv.org/pdf/1511.03183](https://arxiv.org/pdf/1511.03183)
+

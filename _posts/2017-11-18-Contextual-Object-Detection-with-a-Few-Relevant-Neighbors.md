@@ -20,3 +20,6 @@ A natural way to improve the detection of objects is to consider the contextual 
 ##### URL
 [https://arxiv.org/abs/1711.05705](https://arxiv.org/abs/1711.05705)
 
+##### PDF
+[https://arxiv.org/pdf/1711.05705](https://arxiv.org/pdf/1711.05705)
+

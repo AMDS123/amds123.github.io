@@ -20,3 +20,6 @@ Due to its efficiency and stability, Robust Principal Component Analysis (RPCA) 
 ##### URL
 [https://arxiv.org/abs/1709.00657](https://arxiv.org/abs/1709.00657)
 
+##### PDF
+[https://arxiv.org/pdf/1709.00657](https://arxiv.org/pdf/1709.00657)
+

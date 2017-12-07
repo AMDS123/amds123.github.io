@@ -20,3 +20,6 @@ Recently, video captioning has been attracting an increasing amount of interest,
 ##### URL
 [https://arxiv.org/abs/1612.00234](https://arxiv.org/abs/1612.00234)
 
+##### PDF
+[https://arxiv.org/pdf/1612.00234](https://arxiv.org/pdf/1612.00234)
+

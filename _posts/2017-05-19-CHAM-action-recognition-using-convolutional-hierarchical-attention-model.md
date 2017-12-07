@@ -20,3 +20,6 @@ Recently, the soft attention mechanism, which was originally proposed in languag
 ##### URL
 [https://arxiv.org/abs/1705.03146](https://arxiv.org/abs/1705.03146)
 
+##### PDF
+[https://arxiv.org/pdf/1705.03146](https://arxiv.org/pdf/1705.03146)
+

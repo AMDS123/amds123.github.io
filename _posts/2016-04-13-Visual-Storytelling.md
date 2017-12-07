@@ -20,3 +20,6 @@ We introduce the first dataset for sequential vision-to-language, and explore ho
 ##### URL
 [https://arxiv.org/abs/1604.03968](https://arxiv.org/abs/1604.03968)
 
+##### PDF
+[https://arxiv.org/pdf/1604.03968](https://arxiv.org/pdf/1604.03968)
+

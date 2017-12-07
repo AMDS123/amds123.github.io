@@ -20,3 +20,6 @@ We study the problem of troubleshooting machine learning systems that rely on an
 ##### URL
 [https://arxiv.org/abs/1611.08309](https://arxiv.org/abs/1611.08309)
 
+##### PDF
+[https://arxiv.org/pdf/1611.08309](https://arxiv.org/pdf/1611.08309)
+

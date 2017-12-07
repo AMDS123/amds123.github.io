@@ -20,3 +20,6 @@ This paper explores new evaluation perspectives for image captioning and introdu
 ##### URL
 [https://arxiv.org/abs/1610.03708](https://arxiv.org/abs/1610.03708)
 
+##### PDF
+[https://arxiv.org/pdf/1610.03708](https://arxiv.org/pdf/1610.03708)
+

@@ -20,3 +20,6 @@ Following an initiative formalized in April 2016 formally known as ARL West betw
 ##### URL
 [https://arxiv.org/abs/1711.10693](https://arxiv.org/abs/1711.10693)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10693](https://arxiv.org/pdf/1711.10693)
+

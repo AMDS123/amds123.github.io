@@ -20,3 +20,6 @@ Recent progress on saliency detection is substantial, benefiting mostly from the
 ##### URL
 [https://arxiv.org/abs/1611.04849](https://arxiv.org/abs/1611.04849)
 
+##### PDF
+[https://arxiv.org/pdf/1611.04849](https://arxiv.org/pdf/1611.04849)
+

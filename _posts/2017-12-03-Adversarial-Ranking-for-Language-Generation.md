@@ -20,3 +20,6 @@ Generative adversarial networks (GANs) have great successes on synthesizing data
 ##### URL
 [http://arxiv.org/abs/1705.11001](http://arxiv.org/abs/1705.11001)
 
+##### PDF
+[http://arxiv.org/pdf/1705.11001](http://arxiv.org/pdf/1705.11001)
+

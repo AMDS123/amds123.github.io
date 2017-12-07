@@ -20,3 +20,6 @@ One of fundamental issues for security robots is to detect and track people in t
 ##### URL
 [https://arxiv.org/abs/1510.07390](https://arxiv.org/abs/1510.07390)
 
+##### PDF
+[https://arxiv.org/pdf/1510.07390](https://arxiv.org/pdf/1510.07390)
+

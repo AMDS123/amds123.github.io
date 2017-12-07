@@ -20,3 +20,6 @@ We model the process of human {\em full interpretation} of object images, namely
 ##### URL
 [https://arxiv.org/abs/1711.11151](https://arxiv.org/abs/1711.11151)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11151](https://arxiv.org/pdf/1711.11151)
+

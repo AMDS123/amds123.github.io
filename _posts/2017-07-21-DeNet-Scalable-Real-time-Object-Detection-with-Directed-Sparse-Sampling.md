@@ -20,3 +20,6 @@ We define the object detection from imagery problem as estimating a very large b
 ##### URL
 [https://arxiv.org/abs/1703.10295](https://arxiv.org/abs/1703.10295)
 
+##### PDF
+[https://arxiv.org/pdf/1703.10295](https://arxiv.org/pdf/1703.10295)
+

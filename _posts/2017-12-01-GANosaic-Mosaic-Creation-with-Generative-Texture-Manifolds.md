@@ -20,3 +20,6 @@ This paper presents a novel framework for generating texture mosaics with convol
 ##### URL
 [https://arxiv.org/abs/1712.00269](https://arxiv.org/abs/1712.00269)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00269](https://arxiv.org/pdf/1712.00269)
+

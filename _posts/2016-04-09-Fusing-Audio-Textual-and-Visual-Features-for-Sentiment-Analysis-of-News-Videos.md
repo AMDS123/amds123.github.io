@@ -20,3 +20,6 @@ This paper presents a novel approach to perform sentiment analysis of news video
 ##### URL
 [https://arxiv.org/abs/1604.02612](https://arxiv.org/abs/1604.02612)
 
+##### PDF
+[https://arxiv.org/pdf/1604.02612](https://arxiv.org/pdf/1604.02612)
+

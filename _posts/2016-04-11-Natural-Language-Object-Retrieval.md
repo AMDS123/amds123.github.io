@@ -20,3 +20,6 @@ In this paper, we address the task of natural language object retrieval, to loca
 ##### URL
 [https://arxiv.org/abs/1511.04164](https://arxiv.org/abs/1511.04164)
 
+##### PDF
+[https://arxiv.org/pdf/1511.04164](https://arxiv.org/pdf/1511.04164)
+

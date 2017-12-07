@@ -20,3 +20,6 @@ The materialist dialectical method is a philosophical investigative method to an
 ##### URL
 [https://arxiv.org/abs/1712.01694](https://arxiv.org/abs/1712.01694)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01694](https://arxiv.org/pdf/1712.01694)
+

@@ -20,3 +20,6 @@ First result of experiment for searching of 2K-capture of Xe-124 with the large-
 ##### URL
 [https://arxiv.org/abs/1404.5530](https://arxiv.org/abs/1404.5530)
 
+##### PDF
+[https://arxiv.org/pdf/1404.5530](https://arxiv.org/pdf/1404.5530)
+

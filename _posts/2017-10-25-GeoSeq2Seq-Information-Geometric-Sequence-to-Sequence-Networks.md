@@ -20,3 +20,6 @@ Fisher信息度量是信息几何的重要基础，它允许我们近似概率�
 ##### URL
 [https://arxiv.org/abs/1710.09363](https://arxiv.org/abs/1710.09363)
 
+##### PDF
+[https://arxiv.org/pdf/1710.09363](https://arxiv.org/pdf/1710.09363)
+

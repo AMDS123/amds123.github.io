@@ -20,3 +20,6 @@ Salient object detection has seen remarkable progress driven by deep learning te
 ##### URL
 [https://arxiv.org/abs/1708.05595](https://arxiv.org/abs/1708.05595)
 
+##### PDF
+[https://arxiv.org/pdf/1708.05595](https://arxiv.org/pdf/1708.05595)
+

@@ -20,3 +20,6 @@ We present a new task that predicts future locations of people observed in first
 ##### URL
 [https://arxiv.org/abs/1711.11217](https://arxiv.org/abs/1711.11217)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11217](https://arxiv.org/pdf/1711.11217)
+

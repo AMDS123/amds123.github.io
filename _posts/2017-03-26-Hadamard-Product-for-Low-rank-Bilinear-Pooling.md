@@ -20,3 +20,6 @@ Bilinear models provide rich representations compared with linear models. They h
 ##### URL
 [https://arxiv.org/abs/1610.04325](https://arxiv.org/abs/1610.04325)
 
+##### PDF
+[https://arxiv.org/pdf/1610.04325](https://arxiv.org/pdf/1610.04325)
+

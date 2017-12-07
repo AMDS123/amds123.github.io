@@ -20,3 +20,6 @@ Given a pedestrian image as a query, the purpose of person re-identification is 
 ##### URL
 [http://arxiv.org/abs/1702.04179](http://arxiv.org/abs/1702.04179)
 
+##### PDF
+[http://arxiv.org/pdf/1702.04179](http://arxiv.org/pdf/1702.04179)
+

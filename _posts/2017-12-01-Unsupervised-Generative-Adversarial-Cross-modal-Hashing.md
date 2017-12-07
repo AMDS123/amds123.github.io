@@ -20,3 +20,6 @@ Cross-modal hashing aims to map heterogeneous multimedia data into a common Hamm
 ##### URL
 [https://arxiv.org/abs/1712.00358](https://arxiv.org/abs/1712.00358)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00358](https://arxiv.org/pdf/1712.00358)
+

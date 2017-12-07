@@ -20,3 +20,6 @@ We present a new loss function, namely Wing loss, for robust facial landmark loc
 ##### URL
 [http://arxiv.org/abs/1711.06753](http://arxiv.org/abs/1711.06753)
 
+##### PDF
+[http://arxiv.org/pdf/1711.06753](http://arxiv.org/pdf/1711.06753)
+

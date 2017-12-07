@@ -20,3 +20,6 @@ Recent captioning models are limited in their ability to scale and describe conc
 ##### URL
 [https://arxiv.org/abs/1606.07770](https://arxiv.org/abs/1606.07770)
 
+##### PDF
+[https://arxiv.org/pdf/1606.07770](https://arxiv.org/pdf/1606.07770)
+

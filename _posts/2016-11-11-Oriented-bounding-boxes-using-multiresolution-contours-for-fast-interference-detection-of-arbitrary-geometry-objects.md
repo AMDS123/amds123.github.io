@@ -20,3 +20,6 @@ Interference detection of arbitrary geometric objects is not a trivial task due 
 ##### URL
 [https://arxiv.org/abs/1611.03666](https://arxiv.org/abs/1611.03666)
 
+##### PDF
+[https://arxiv.org/pdf/1611.03666](https://arxiv.org/pdf/1611.03666)
+

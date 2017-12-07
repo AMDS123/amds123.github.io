@@ -20,3 +20,6 @@ This paper introduces a new Urban Point Cloud Dataset for Automatic Segmentation
 ##### URL
 [https://arxiv.org/abs/1712.00032](https://arxiv.org/abs/1712.00032)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00032](https://arxiv.org/pdf/1712.00032)
+

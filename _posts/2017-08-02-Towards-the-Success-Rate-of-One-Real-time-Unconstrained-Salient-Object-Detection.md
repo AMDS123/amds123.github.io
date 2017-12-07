@@ -20,3 +20,6 @@ In this work, we propose an efficient and effective approach for unconstrained s
 ##### URL
 [https://arxiv.org/abs/1708.00079](https://arxiv.org/abs/1708.00079)
 
+##### PDF
+[https://arxiv.org/pdf/1708.00079](https://arxiv.org/pdf/1708.00079)
+

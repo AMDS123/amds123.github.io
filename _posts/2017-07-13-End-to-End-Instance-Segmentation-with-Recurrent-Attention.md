@@ -20,3 +20,6 @@ While convolutional neural networks have gained impressive success recently in s
 ##### URL
 [https://arxiv.org/abs/1605.09410](https://arxiv.org/abs/1605.09410)
 
+##### PDF
+[https://arxiv.org/pdf/1605.09410](https://arxiv.org/pdf/1605.09410)
+

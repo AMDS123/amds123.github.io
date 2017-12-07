@@ -20,3 +20,6 @@ Dense captioning is a newly emerging computer vision topic for understanding ima
 ##### URL
 [https://arxiv.org/abs/1611.06949](https://arxiv.org/abs/1611.06949)
 
+##### PDF
+[https://arxiv.org/pdf/1611.06949](https://arxiv.org/pdf/1611.06949)
+

@@ -20,3 +20,6 @@ Intelligent machines require basic information such as moving-object detection f
 ##### URL
 [https://arxiv.org/abs/1402.0289](https://arxiv.org/abs/1402.0289)
 
+##### PDF
+[https://arxiv.org/pdf/1402.0289](https://arxiv.org/pdf/1402.0289)
+

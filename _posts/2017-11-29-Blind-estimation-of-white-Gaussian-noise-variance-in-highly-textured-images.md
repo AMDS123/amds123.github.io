@@ -20,3 +20,6 @@ In the paper, a new method of blind estimation of noise variance in a single hig
 ##### URL
 [https://arxiv.org/abs/1711.10792](https://arxiv.org/abs/1711.10792)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10792](https://arxiv.org/pdf/1711.10792)
+

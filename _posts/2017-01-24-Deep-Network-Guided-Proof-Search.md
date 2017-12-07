@@ -20,3 +20,6 @@ Deep learning techniques lie at the heart of several significant AI advances in 
 ##### URL
 [https://arxiv.org/abs/1701.06972](https://arxiv.org/abs/1701.06972)
 
+##### PDF
+[https://arxiv.org/pdf/1701.06972](https://arxiv.org/pdf/1701.06972)
+

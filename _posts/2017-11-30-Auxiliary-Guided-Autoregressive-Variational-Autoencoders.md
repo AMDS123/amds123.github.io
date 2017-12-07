@@ -20,3 +20,6 @@ Generative modeling of high-dimensional data is a key problem in machine learnin
 ##### URL
 [https://arxiv.org/abs/1711.11479](https://arxiv.org/abs/1711.11479)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11479](https://arxiv.org/pdf/1711.11479)
+

@@ -20,3 +20,6 @@ Following recent breakthroughs in convolutional neural networks and monolithic m
 ##### URL
 [https://arxiv.org/abs/1711.09822](https://arxiv.org/abs/1711.09822)
 
+##### PDF
+[https://arxiv.org/pdf/1711.09822](https://arxiv.org/pdf/1711.09822)
+

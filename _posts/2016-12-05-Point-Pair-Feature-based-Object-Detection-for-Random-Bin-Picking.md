@@ -20,3 +20,6 @@ Point pair features are a popular representation for free form 3D object detecti
 ##### URL
 [https://arxiv.org/abs/1612.01288](https://arxiv.org/abs/1612.01288)
 
+##### PDF
+[https://arxiv.org/pdf/1612.01288](https://arxiv.org/pdf/1612.01288)
+

@@ -20,3 +20,6 @@ A unified deep neural network, denoted the multi-scale CNN (MS-CNN), is proposed
 ##### URL
 [https://arxiv.org/abs/1607.07155](https://arxiv.org/abs/1607.07155)
 
+##### PDF
+[https://arxiv.org/pdf/1607.07155](https://arxiv.org/pdf/1607.07155)
+

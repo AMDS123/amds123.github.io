@@ -20,3 +20,6 @@ The problem of vehicle licence plate re-identification is generally considered a
 ##### URL
 [https://arxiv.org/abs/1712.00282](https://arxiv.org/abs/1712.00282)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00282](https://arxiv.org/pdf/1712.00282)
+

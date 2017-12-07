@@ -20,3 +20,6 @@ We introduce HoME: a Household Multimodal Environment for artificial agents to l
 ##### URL
 [https://arxiv.org/abs/1711.11017](https://arxiv.org/abs/1711.11017)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11017](https://arxiv.org/pdf/1711.11017)
+

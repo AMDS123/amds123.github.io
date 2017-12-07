@@ -20,3 +20,6 @@ Real-world image recognition systems need to recognize tens of thousands of clas
 ##### URL
 [https://arxiv.org/abs/1612.09161](https://arxiv.org/abs/1612.09161)
 
+##### PDF
+[https://arxiv.org/pdf/1612.09161](https://arxiv.org/pdf/1612.09161)
+

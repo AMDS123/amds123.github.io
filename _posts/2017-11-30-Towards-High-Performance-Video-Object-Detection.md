@@ -20,3 +20,6 @@ There has been significant progresses for image object detection in recent years
 ##### URL
 [https://arxiv.org/abs/1711.11577](https://arxiv.org/abs/1711.11577)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11577](https://arxiv.org/pdf/1711.11577)
+

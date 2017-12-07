@@ -20,3 +20,6 @@ Detection and learning based appearance feature play the central role in data as
 ##### URL
 [https://arxiv.org/abs/1610.06136](https://arxiv.org/abs/1610.06136)
 
+##### PDF
+[https://arxiv.org/pdf/1610.06136](https://arxiv.org/pdf/1610.06136)
+

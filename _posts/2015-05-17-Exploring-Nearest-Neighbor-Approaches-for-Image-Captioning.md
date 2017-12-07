@@ -20,3 +20,6 @@ We explore a variety of nearest neighbor baseline approaches for image captionin
 ##### URL
 [https://arxiv.org/abs/1505.04467](https://arxiv.org/abs/1505.04467)
 
+##### PDF
+[https://arxiv.org/pdf/1505.04467](https://arxiv.org/pdf/1505.04467)
+

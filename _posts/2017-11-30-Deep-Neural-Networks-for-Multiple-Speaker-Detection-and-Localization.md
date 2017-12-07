@@ -20,3 +20,6 @@ We propose to use neural networks (NNs) for simultaneous detection and localizat
 ##### URL
 [https://arxiv.org/abs/1711.11565](https://arxiv.org/abs/1711.11565)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11565](https://arxiv.org/pdf/1711.11565)
+

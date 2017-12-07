@@ -20,3 +20,6 @@ In this work, we propose a technique that tackles the video understanding proble
 ##### URL
 [https://arxiv.org/abs/1712.00108](https://arxiv.org/abs/1712.00108)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00108](https://arxiv.org/pdf/1712.00108)
+

@@ -20,3 +20,6 @@ Observational astronomy in the time-domain era faces several new challenges. One
 ##### URL
 [https://arxiv.org/abs/1611.03171](https://arxiv.org/abs/1611.03171)
 
+##### PDF
+[https://arxiv.org/pdf/1611.03171](https://arxiv.org/pdf/1611.03171)
+

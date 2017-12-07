@@ -20,3 +20,6 @@ One central mystery of neural NLP is what neural models "know" about their subje
 ##### URL
 [https://arxiv.org/abs/1707.09569](https://arxiv.org/abs/1707.09569)
 
+##### PDF
+[https://arxiv.org/pdf/1707.09569](https://arxiv.org/pdf/1707.09569)
+

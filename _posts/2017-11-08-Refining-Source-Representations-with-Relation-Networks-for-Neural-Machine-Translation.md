@@ -20,3 +20,6 @@ Although neural machine translation (NMT) with the encoder-decoder framework has
 ##### URL
 [https://arxiv.org/abs/1709.03980](https://arxiv.org/abs/1709.03980)
 
+##### PDF
+[https://arxiv.org/pdf/1709.03980](https://arxiv.org/pdf/1709.03980)
+

@@ -20,3 +20,6 @@ Matlab版本7.1已经被用来检测赌场桌上的扑克牌，并且已经识�
 ##### URL
 [https://arxiv.org/abs/1109.3767](https://arxiv.org/abs/1109.3767)
 
+##### PDF
+[https://arxiv.org/pdf/1109.3767](https://arxiv.org/pdf/1109.3767)
+

@@ -20,3 +20,6 @@ Many image-to-image translation problems are ambiguous, as a single input image 
 ##### URL
 [https://arxiv.org/abs/1711.11586](https://arxiv.org/abs/1711.11586)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11586](https://arxiv.org/pdf/1711.11586)
+

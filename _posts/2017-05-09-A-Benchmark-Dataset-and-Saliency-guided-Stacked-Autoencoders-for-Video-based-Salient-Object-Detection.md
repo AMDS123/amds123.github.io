@@ -20,3 +20,6 @@ Image-based salient object detection (SOD) has been extensively studied in the p
 ##### URL
 [https://arxiv.org/abs/1611.00135](https://arxiv.org/abs/1611.00135)
 
+##### PDF
+[https://arxiv.org/pdf/1611.00135](https://arxiv.org/pdf/1611.00135)
+

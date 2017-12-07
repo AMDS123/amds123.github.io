@@ -20,3 +20,6 @@ We introduce algorithms to visualize feature spaces used by object detectors. Ou
 ##### URL
 [https://arxiv.org/abs/1502.05461](https://arxiv.org/abs/1502.05461)
 
+##### PDF
+[https://arxiv.org/pdf/1502.05461](https://arxiv.org/pdf/1502.05461)
+

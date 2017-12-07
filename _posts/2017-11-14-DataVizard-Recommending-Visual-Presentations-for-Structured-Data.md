@@ -20,3 +20,6 @@ Selecting the appropriate visual presentation of the data such that it preserves
 ##### URL
 [https://arxiv.org/abs/1711.04971](https://arxiv.org/abs/1711.04971)
 
+##### PDF
+[https://arxiv.org/pdf/1711.04971](https://arxiv.org/pdf/1711.04971)
+

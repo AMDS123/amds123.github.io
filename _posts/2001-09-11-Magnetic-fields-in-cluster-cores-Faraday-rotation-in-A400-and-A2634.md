@@ -20,3 +20,6 @@ We present Faraday rotation data for radio sources in the centers of the Abell c
 ##### URL
 [https://arxiv.org/abs/astro-ph/0109177](https://arxiv.org/abs/astro-ph/0109177)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0109177](https://arxiv.org/pdf/astro-ph/0109177)
+

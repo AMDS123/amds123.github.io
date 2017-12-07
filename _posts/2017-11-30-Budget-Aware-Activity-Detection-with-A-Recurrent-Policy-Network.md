@@ -20,3 +20,6 @@ In this paper, we address the challenging problem of effi- cient temporal activi
 ##### URL
 [https://arxiv.org/abs/1712.00097](https://arxiv.org/abs/1712.00097)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00097](https://arxiv.org/pdf/1712.00097)
+

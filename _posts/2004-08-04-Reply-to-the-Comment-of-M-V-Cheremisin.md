@@ -20,3 +20,6 @@ In the preprint cond-mat/0408050 M. V. Cheremisin noticed that some results (nam
 ##### URL
 [https://arxiv.org/abs/cond-mat/0408094](https://arxiv.org/abs/cond-mat/0408094)
 
+##### PDF
+[https://arxiv.org/pdf/cond-mat/0408094](https://arxiv.org/pdf/cond-mat/0408094)
+

@@ -20,3 +20,6 @@ We visually inspected the light curves of 7557 Kepler Objects of Interest (KOIs)
 ##### URL
 [https://arxiv.org/abs/1602.07848](https://arxiv.org/abs/1602.07848)
 
+##### PDF
+[https://arxiv.org/pdf/1602.07848](https://arxiv.org/pdf/1602.07848)
+

@@ -20,3 +20,6 @@ An Unmanned Ariel vehicle (UAV) has greater importance in the army for border se
 ##### URL
 [https://arxiv.org/abs/1611.07791](https://arxiv.org/abs/1611.07791)
 
+##### PDF
+[https://arxiv.org/pdf/1611.07791](https://arxiv.org/pdf/1611.07791)
+

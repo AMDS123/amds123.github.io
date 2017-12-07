@@ -20,3 +20,6 @@ Virality of online content on social networking websites is an important but eso
 ##### URL
 [https://arxiv.org/abs/1503.02318](https://arxiv.org/abs/1503.02318)
 
+##### PDF
+[https://arxiv.org/pdf/1503.02318](https://arxiv.org/pdf/1503.02318)
+

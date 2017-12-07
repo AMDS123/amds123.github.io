@@ -20,3 +20,6 @@ We present a new tensor product generation network (TPGN) that generates natural
 ##### URL
 [https://arxiv.org/abs/1709.09118](https://arxiv.org/abs/1709.09118)
 
+##### PDF
+[https://arxiv.org/pdf/1709.09118](https://arxiv.org/pdf/1709.09118)
+

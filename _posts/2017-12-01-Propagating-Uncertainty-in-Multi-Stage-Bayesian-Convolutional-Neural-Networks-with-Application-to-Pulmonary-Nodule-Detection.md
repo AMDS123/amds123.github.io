@@ -20,3 +20,6 @@ Motivated by the problem of computer-aided detection (CAD) of pulmonary nodules,
 ##### URL
 [http://arxiv.org/abs/1712.00497](http://arxiv.org/abs/1712.00497)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00497](http://arxiv.org/pdf/1712.00497)
+

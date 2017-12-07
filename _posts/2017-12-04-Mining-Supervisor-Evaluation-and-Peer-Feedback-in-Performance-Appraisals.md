@@ -20,3 +20,6 @@ Performance appraisal (PA) is an important HR process to periodically measure an
 ##### URL
 [http://arxiv.org/abs/1712.00991](http://arxiv.org/abs/1712.00991)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00991](http://arxiv.org/pdf/1712.00991)
+

@@ -20,3 +20,6 @@ Detection of periodicity in the broad-band non-thermal emission of blazars has s
 ##### URL
 [https://arxiv.org/abs/1609.02388](https://arxiv.org/abs/1609.02388)
 
+##### PDF
+[https://arxiv.org/pdf/1609.02388](https://arxiv.org/pdf/1609.02388)
+

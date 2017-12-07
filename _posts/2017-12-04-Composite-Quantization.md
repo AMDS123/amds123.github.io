@@ -20,3 +20,6 @@ This paper studies the compact coding approach to approximate nearest neighbor s
 ##### URL
 [http://arxiv.org/abs/1712.00955](http://arxiv.org/abs/1712.00955)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00955](http://arxiv.org/pdf/1712.00955)
+

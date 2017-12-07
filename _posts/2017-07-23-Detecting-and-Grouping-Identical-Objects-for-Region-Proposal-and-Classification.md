@@ -20,3 +20,6 @@ Often multiple instances of an object occur in the same scene, for example in a 
 ##### URL
 [https://arxiv.org/abs/1707.07255](https://arxiv.org/abs/1707.07255)
 
+##### PDF
+[https://arxiv.org/pdf/1707.07255](https://arxiv.org/pdf/1707.07255)
+

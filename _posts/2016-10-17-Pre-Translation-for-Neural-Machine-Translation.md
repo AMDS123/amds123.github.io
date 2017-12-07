@@ -20,3 +20,6 @@ Recently, the development of neural machine translation (NMT) has significantly 
 ##### URL
 [https://arxiv.org/abs/1610.05243](https://arxiv.org/abs/1610.05243)
 
+##### PDF
+[https://arxiv.org/pdf/1610.05243](https://arxiv.org/pdf/1610.05243)
+

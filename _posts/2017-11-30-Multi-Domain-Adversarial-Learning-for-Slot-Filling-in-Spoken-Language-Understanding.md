@@ -20,3 +20,6 @@ The goal of this paper is to learn cross-domain representations for slot filling
 ##### URL
 [https://arxiv.org/abs/1711.11310](https://arxiv.org/abs/1711.11310)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11310](https://arxiv.org/pdf/1711.11310)
+

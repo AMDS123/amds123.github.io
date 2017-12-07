@@ -20,3 +20,6 @@ Sequence-to-sequence models, such as attention-based models in automatic speech 
 ##### URL
 [http://arxiv.org/abs/1712.01818](http://arxiv.org/abs/1712.01818)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01818](http://arxiv.org/pdf/1712.01818)
+

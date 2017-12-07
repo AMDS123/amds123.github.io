@@ -20,3 +20,6 @@ Most extractive summarization methods focus on the main body of the document fro
 ##### URL
 [https://arxiv.org/abs/1704.04530](https://arxiv.org/abs/1704.04530)
 
+##### PDF
+[https://arxiv.org/pdf/1704.04530](https://arxiv.org/pdf/1704.04530)
+

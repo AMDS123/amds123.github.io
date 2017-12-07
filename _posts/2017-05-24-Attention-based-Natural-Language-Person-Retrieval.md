@@ -20,3 +20,6 @@ Following the recent progress in image classification and captioning using deep 
 ##### URL
 [https://arxiv.org/abs/1705.08923](https://arxiv.org/abs/1705.08923)
 
+##### PDF
+[https://arxiv.org/pdf/1705.08923](https://arxiv.org/pdf/1705.08923)
+

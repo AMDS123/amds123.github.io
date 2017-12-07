@@ -20,3 +20,6 @@ End-to-end neural machine translation has overtaken statistical machine translat
 ##### URL
 [https://arxiv.org/abs/1704.05415](https://arxiv.org/abs/1704.05415)
 
+##### PDF
+[https://arxiv.org/pdf/1704.05415](https://arxiv.org/pdf/1704.05415)
+

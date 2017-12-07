@@ -20,3 +20,6 @@ Deep neural network models trained on large labeled datasets are the state-of-th
 ##### URL
 [https://arxiv.org/abs/1711.11566](https://arxiv.org/abs/1711.11566)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11566](https://arxiv.org/pdf/1711.11566)
+

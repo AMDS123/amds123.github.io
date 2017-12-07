@@ -20,3 +20,6 @@ Convolutional Neural Network (CNN) is the state-of-the-art algorithm of many mob
 ##### URL
 [https://arxiv.org/abs/1712.01670](https://arxiv.org/abs/1712.01670)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01670](https://arxiv.org/pdf/1712.01670)
+

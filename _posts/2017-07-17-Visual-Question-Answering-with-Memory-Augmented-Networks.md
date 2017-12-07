@@ -20,3 +20,6 @@ This paper exploits a memory-augmented neural network to predict accurate answer
 ##### URL
 [https://arxiv.org/abs/1707.04968](https://arxiv.org/abs/1707.04968)
 
+##### PDF
+[https://arxiv.org/pdf/1707.04968](https://arxiv.org/pdf/1707.04968)
+

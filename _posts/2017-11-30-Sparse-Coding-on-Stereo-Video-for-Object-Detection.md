@@ -20,3 +20,6 @@ Deep Convolutional Neural Networks (DCNN) require millions of labeled training e
 ##### URL
 [https://arxiv.org/abs/1705.07144](https://arxiv.org/abs/1705.07144)
 
+##### PDF
+[https://arxiv.org/pdf/1705.07144](https://arxiv.org/pdf/1705.07144)
+

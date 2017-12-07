@@ -20,3 +20,6 @@ Attention-based models have recently shown great performance on a range of tasks
 ##### URL
 [https://arxiv.org/abs/1710.10470](https://arxiv.org/abs/1710.10470)
 
+##### PDF
+[https://arxiv.org/pdf/1710.10470](https://arxiv.org/pdf/1710.10470)
+

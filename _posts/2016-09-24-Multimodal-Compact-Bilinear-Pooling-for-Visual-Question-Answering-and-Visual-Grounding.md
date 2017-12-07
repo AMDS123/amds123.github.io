@@ -20,3 +20,6 @@ Modeling textual or visual information with vector representations trained from 
 ##### URL
 [https://arxiv.org/abs/1606.01847](https://arxiv.org/abs/1606.01847)
 
+##### PDF
+[https://arxiv.org/pdf/1606.01847](https://arxiv.org/pdf/1606.01847)
+

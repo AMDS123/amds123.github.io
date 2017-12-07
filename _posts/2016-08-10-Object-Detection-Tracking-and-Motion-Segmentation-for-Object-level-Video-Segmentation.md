@@ -20,3 +20,6 @@ We present an approach for object segmentation in videos that combines frame-lev
 ##### URL
 [https://arxiv.org/abs/1608.03066](https://arxiv.org/abs/1608.03066)
 
+##### PDF
+[https://arxiv.org/pdf/1608.03066](https://arxiv.org/pdf/1608.03066)
+

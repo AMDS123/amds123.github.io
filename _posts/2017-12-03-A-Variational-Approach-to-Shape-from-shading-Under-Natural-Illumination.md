@@ -20,3 +20,6 @@ A numerical solution to shape-from-shading under natural illumination is present
 ##### URL
 [http://arxiv.org/abs/1709.10354](http://arxiv.org/abs/1709.10354)
 
+##### PDF
+[http://arxiv.org/pdf/1709.10354](http://arxiv.org/pdf/1709.10354)
+

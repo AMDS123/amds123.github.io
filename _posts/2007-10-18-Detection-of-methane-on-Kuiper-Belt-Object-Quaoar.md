@@ -20,3 +20,6 @@ The near-infrared spectrum of (50000) Quaoar obtained at the Keck Observatory sh
 ##### URL
 [https://arxiv.org/abs/0710.3591](https://arxiv.org/abs/0710.3591)
 
+##### PDF
+[https://arxiv.org/pdf/0710.3591](https://arxiv.org/pdf/0710.3591)
+

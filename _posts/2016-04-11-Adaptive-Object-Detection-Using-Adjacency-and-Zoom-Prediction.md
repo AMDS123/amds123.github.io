@@ -20,3 +20,6 @@ State-of-the-art object detection systems rely on an accurate set of region prop
 ##### URL
 [https://arxiv.org/abs/1512.07711](https://arxiv.org/abs/1512.07711)
 
+##### PDF
+[https://arxiv.org/pdf/1512.07711](https://arxiv.org/pdf/1512.07711)
+

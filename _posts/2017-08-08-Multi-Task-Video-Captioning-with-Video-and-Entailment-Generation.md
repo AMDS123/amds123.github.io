@@ -20,3 +20,6 @@ Video captioning, the task of describing the content of a video, has seen some p
 ##### URL
 [https://arxiv.org/abs/1704.07489](https://arxiv.org/abs/1704.07489)
 
+##### PDF
+[https://arxiv.org/pdf/1704.07489](https://arxiv.org/pdf/1704.07489)
+

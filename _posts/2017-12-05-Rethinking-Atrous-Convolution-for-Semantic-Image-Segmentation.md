@@ -20,3 +20,6 @@ In this work, we revisit atrous convolution, a powerful tool to explicitly adjus
 ##### URL
 [http://arxiv.org/abs/1706.05587](http://arxiv.org/abs/1706.05587)
 
+##### PDF
+[http://arxiv.org/pdf/1706.05587](http://arxiv.org/pdf/1706.05587)
+

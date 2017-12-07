@@ -20,3 +20,6 @@ Global covariance pooling in Convolutional neural neworks has achieved impressiv
 ##### URL
 [http://arxiv.org/abs/1712.01034](http://arxiv.org/abs/1712.01034)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01034](http://arxiv.org/pdf/1712.01034)
+

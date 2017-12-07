@@ -20,3 +20,6 @@ In object detection, an intersection over union (IoU) threshold is required to d
 ##### URL
 [http://arxiv.org/abs/1712.00726](http://arxiv.org/abs/1712.00726)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00726](http://arxiv.org/pdf/1712.00726)
+

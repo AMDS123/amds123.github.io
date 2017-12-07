@@ -20,3 +20,6 @@ Object detection performance, as measured on the canonical PASCAL VOC dataset, h
 ##### URL
 [https://arxiv.org/abs/1311.2524](https://arxiv.org/abs/1311.2524)
 
+##### PDF
+[https://arxiv.org/pdf/1311.2524](https://arxiv.org/pdf/1311.2524)
+

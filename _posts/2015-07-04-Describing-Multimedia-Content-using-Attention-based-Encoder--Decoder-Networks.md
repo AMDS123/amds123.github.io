@@ -20,3 +20,6 @@ Whereas deep neural networks were first mostly used for classification tasks, th
 ##### URL
 [https://arxiv.org/abs/1507.01053](https://arxiv.org/abs/1507.01053)
 
+##### PDF
+[https://arxiv.org/pdf/1507.01053](https://arxiv.org/pdf/1507.01053)
+

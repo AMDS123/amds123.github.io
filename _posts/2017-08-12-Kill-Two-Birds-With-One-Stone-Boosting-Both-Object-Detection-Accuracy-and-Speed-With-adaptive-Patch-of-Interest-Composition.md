@@ -20,3 +20,6 @@ Object detection is an important yet challenging task in video understanding & a
 ##### URL
 [https://arxiv.org/abs/1708.03795](https://arxiv.org/abs/1708.03795)
 
+##### PDF
+[https://arxiv.org/pdf/1708.03795](https://arxiv.org/pdf/1708.03795)
+

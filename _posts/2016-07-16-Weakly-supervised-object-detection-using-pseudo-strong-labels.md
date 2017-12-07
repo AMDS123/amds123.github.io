@@ -20,3 +20,6 @@ Object detection is an import task of computer vision.A variety of methods have 
 ##### URL
 [https://arxiv.org/abs/1607.04731](https://arxiv.org/abs/1607.04731)
 
+##### PDF
+[https://arxiv.org/pdf/1607.04731](https://arxiv.org/pdf/1607.04731)
+

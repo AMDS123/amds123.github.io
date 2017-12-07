@@ -20,3 +20,6 @@ A drone monitoring system that integrates deep-learning-based detection and trac
 ##### URL
 [http://arxiv.org/abs/1712.00863](http://arxiv.org/abs/1712.00863)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00863](http://arxiv.org/pdf/1712.00863)
+

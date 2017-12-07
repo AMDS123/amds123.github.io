@@ -20,3 +20,6 @@ Deriving event storylines is an effective summarization method to succinctly org
 ##### URL
 [http://arxiv.org/abs/1712.01455](http://arxiv.org/abs/1712.01455)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01455](http://arxiv.org/pdf/1712.01455)
+

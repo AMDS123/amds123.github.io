@@ -20,3 +20,6 @@ Moving object detection is a key to intelligent video analysis. On the one hand,
 ##### URL
 [https://arxiv.org/abs/1509.09089](https://arxiv.org/abs/1509.09089)
 
+##### PDF
+[https://arxiv.org/pdf/1509.09089](https://arxiv.org/pdf/1509.09089)
+

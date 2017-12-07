@@ -20,3 +20,6 @@ Translating in real-time, a.k.a. simultaneous translation, outputs translation w
 ##### URL
 [https://arxiv.org/abs/1610.00388](https://arxiv.org/abs/1610.00388)
 
+##### PDF
+[https://arxiv.org/pdf/1610.00388](https://arxiv.org/pdf/1610.00388)
+

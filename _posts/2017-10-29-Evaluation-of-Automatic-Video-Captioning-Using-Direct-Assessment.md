@@ -20,3 +20,6 @@ We present Direct Assessment, a method for manually assessing the quality of aut
 ##### URL
 [https://arxiv.org/abs/1710.10586](https://arxiv.org/abs/1710.10586)
 
+##### PDF
+[https://arxiv.org/pdf/1710.10586](https://arxiv.org/pdf/1710.10586)
+

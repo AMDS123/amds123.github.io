@@ -20,3 +20,6 @@ While strong progress has been made in image captioning over the last years, mac
 ##### URL
 [https://arxiv.org/abs/1703.10476](https://arxiv.org/abs/1703.10476)
 
+##### PDF
+[https://arxiv.org/pdf/1703.10476](https://arxiv.org/pdf/1703.10476)
+

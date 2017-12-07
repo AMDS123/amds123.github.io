@@ -20,3 +20,6 @@ We found that at least 18 Young Stellar Object candidates invisible at optical a
 ##### URL
 [https://arxiv.org/abs/astro-ph/9909387](https://arxiv.org/abs/astro-ph/9909387)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/9909387](https://arxiv.org/pdf/astro-ph/9909387)
+

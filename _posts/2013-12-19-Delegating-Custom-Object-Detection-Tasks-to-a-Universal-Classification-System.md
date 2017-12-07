@@ -20,3 +20,6 @@ In this paper, a concept of multipurpose object detection system, recently intro
 ##### URL
 [https://arxiv.org/abs/1401.6126](https://arxiv.org/abs/1401.6126)
 
+##### PDF
+[https://arxiv.org/pdf/1401.6126](https://arxiv.org/pdf/1401.6126)
+

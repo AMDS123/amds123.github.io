@@ -20,3 +20,6 @@ The quest for algorithms that enable cognitive abilities is an important part of
 ##### URL
 [https://arxiv.org/abs/1711.04323](https://arxiv.org/abs/1711.04323)
 
+##### PDF
+[https://arxiv.org/pdf/1711.04323](https://arxiv.org/pdf/1711.04323)
+

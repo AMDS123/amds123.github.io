@@ -20,3 +20,6 @@ Maps are an important source of information in archaeology and other sciences. U
 ##### URL
 [https://arxiv.org/abs/0901.3939](https://arxiv.org/abs/0901.3939)
 
+##### PDF
+[https://arxiv.org/pdf/0901.3939](https://arxiv.org/pdf/0901.3939)
+

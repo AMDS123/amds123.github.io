@@ -20,3 +20,6 @@ We propose a technique for producing "visual explanations" for decisions from a 
 ##### URL
 [https://arxiv.org/abs/1610.02391](https://arxiv.org/abs/1610.02391)
 
+##### PDF
+[https://arxiv.org/pdf/1610.02391](https://arxiv.org/pdf/1610.02391)
+

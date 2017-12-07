@@ -20,3 +20,6 @@ For some images, descriptions written by multiple people are consistent with eac
 ##### URL
 [https://arxiv.org/abs/1502.04569](https://arxiv.org/abs/1502.04569)
 
+##### PDF
+[https://arxiv.org/pdf/1502.04569](https://arxiv.org/pdf/1502.04569)
+

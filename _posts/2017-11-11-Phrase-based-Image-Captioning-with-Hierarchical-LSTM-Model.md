@@ -20,3 +20,6 @@ Automatic generation of caption to describe the content of an image has been gai
 ##### URL
 [https://arxiv.org/abs/1711.05557](https://arxiv.org/abs/1711.05557)
 
+##### PDF
+[https://arxiv.org/pdf/1711.05557](https://arxiv.org/pdf/1711.05557)
+

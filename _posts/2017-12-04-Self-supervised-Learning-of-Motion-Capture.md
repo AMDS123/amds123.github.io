@@ -20,3 +20,6 @@ Current state-of-the-art solutions for motion capture from a single camera are o
 ##### URL
 [http://arxiv.org/abs/1712.01337](http://arxiv.org/abs/1712.01337)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01337](http://arxiv.org/pdf/1712.01337)
+

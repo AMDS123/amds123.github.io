@@ -20,3 +20,6 @@ Recent years have witnessed promising results of face detection using deep learn
 ##### URL
 [http://arxiv.org/abs/1712.00721](http://arxiv.org/abs/1712.00721)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00721](http://arxiv.org/pdf/1712.00721)
+

@@ -20,3 +20,6 @@ We propose an approach to learn spatio-temporal features in videos from intermed
 ##### URL
 [https://arxiv.org/abs/1511.06432](https://arxiv.org/abs/1511.06432)
 
+##### PDF
+[https://arxiv.org/pdf/1511.06432](https://arxiv.org/pdf/1511.06432)
+

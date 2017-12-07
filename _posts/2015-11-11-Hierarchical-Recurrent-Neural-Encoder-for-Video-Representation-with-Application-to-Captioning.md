@@ -20,3 +20,6 @@ Recently, deep learning approach, especially deep Convolutional Neural Networks 
 ##### URL
 [https://arxiv.org/abs/1511.03476](https://arxiv.org/abs/1511.03476)
 
+##### PDF
+[https://arxiv.org/pdf/1511.03476](https://arxiv.org/pdf/1511.03476)
+

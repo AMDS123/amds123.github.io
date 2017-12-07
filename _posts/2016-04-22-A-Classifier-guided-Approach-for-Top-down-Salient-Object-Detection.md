@@ -20,3 +20,6 @@ We propose a framework for top-down salient object detection that incorporates a
 ##### URL
 [https://arxiv.org/abs/1604.06570](https://arxiv.org/abs/1604.06570)
 
+##### PDF
+[https://arxiv.org/pdf/1604.06570](https://arxiv.org/pdf/1604.06570)
+

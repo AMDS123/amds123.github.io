@@ -20,3 +20,6 @@ Generating video descriptions in natural language (a.k.a. video captioning) is a
 ##### URL
 [https://arxiv.org/abs/1708.09666](https://arxiv.org/abs/1708.09666)
 
+##### PDF
+[https://arxiv.org/pdf/1708.09666](https://arxiv.org/pdf/1708.09666)
+

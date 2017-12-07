@@ -20,3 +20,6 @@ Stereo images have been captured primarily for 3D reconstruction in the past. Ho
 ##### URL
 [https://arxiv.org/abs/1711.10515](https://arxiv.org/abs/1711.10515)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10515](https://arxiv.org/pdf/1711.10515)
+

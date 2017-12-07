@@ -20,3 +20,6 @@ The tremendous growth in 3D (stereo) imaging and display technologies has led to
 ##### URL
 [https://arxiv.org/abs/1604.07519](https://arxiv.org/abs/1604.07519)
 
+##### PDF
+[https://arxiv.org/pdf/1604.07519](https://arxiv.org/pdf/1604.07519)
+

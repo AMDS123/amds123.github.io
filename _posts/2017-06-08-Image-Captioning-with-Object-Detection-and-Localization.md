@@ -20,3 +20,6 @@ Automatically generating a natural language description of an image is a task cl
 ##### URL
 [https://arxiv.org/abs/1706.02430](https://arxiv.org/abs/1706.02430)
 
+##### PDF
+[https://arxiv.org/pdf/1706.02430](https://arxiv.org/pdf/1706.02430)
+

@@ -20,3 +20,6 @@ This paper presents a knowledge-based detection of objects approach using the OW
 ##### URL
 [https://arxiv.org/abs/1301.4991](https://arxiv.org/abs/1301.4991)
 
+##### PDF
+[https://arxiv.org/pdf/1301.4991](https://arxiv.org/pdf/1301.4991)
+

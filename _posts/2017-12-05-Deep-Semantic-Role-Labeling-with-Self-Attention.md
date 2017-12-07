@@ -20,3 +20,6 @@ Semantic Role Labeling (SRL) is believed to be a crucial step towards natural la
 ##### URL
 [http://arxiv.org/abs/1712.01586](http://arxiv.org/abs/1712.01586)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01586](http://arxiv.org/pdf/1712.01586)
+

@@ -20,3 +20,6 @@ The progress we are currently witnessing in many computer vision applications, i
 ##### URL
 [http://arxiv.org/abs/1712.01443](http://arxiv.org/abs/1712.01443)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01443](http://arxiv.org/pdf/1712.01443)
+

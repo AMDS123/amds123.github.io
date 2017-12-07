@@ -20,3 +20,6 @@ We present an approach to improve statistical machine translation of image descr
 ##### URL
 [https://arxiv.org/abs/1601.03916](https://arxiv.org/abs/1601.03916)
 
+##### PDF
+[https://arxiv.org/pdf/1601.03916](https://arxiv.org/pdf/1601.03916)
+

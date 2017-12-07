@@ -20,3 +20,6 @@ In this paper, we propose a novel distance-based camera network topology inferen
 ##### URL
 [https://arxiv.org/abs/1712.00158](https://arxiv.org/abs/1712.00158)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00158](https://arxiv.org/pdf/1712.00158)
+

@@ -20,3 +20,6 @@ For object detection, the two-stage approach (e.g., Faster R-CNN) has been achie
 ##### URL
 [https://arxiv.org/abs/1711.06897](https://arxiv.org/abs/1711.06897)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06897](https://arxiv.org/pdf/1711.06897)
+

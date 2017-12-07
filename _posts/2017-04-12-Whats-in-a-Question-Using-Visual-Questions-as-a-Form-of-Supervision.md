@@ -20,3 +20,6 @@ Collecting fully annotated image datasets is challenging and expensive. Many typ
 ##### URL
 [https://arxiv.org/abs/1704.03895](https://arxiv.org/abs/1704.03895)
 
+##### PDF
+[https://arxiv.org/pdf/1704.03895](https://arxiv.org/pdf/1704.03895)
+

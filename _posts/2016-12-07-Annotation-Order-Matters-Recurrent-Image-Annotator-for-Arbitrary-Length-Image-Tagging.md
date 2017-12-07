@@ -20,3 +20,6 @@ Automatic image annotation has been an important research topic in facilitating 
 ##### URL
 [https://arxiv.org/abs/1604.05225](https://arxiv.org/abs/1604.05225)
 
+##### PDF
+[https://arxiv.org/pdf/1604.05225](https://arxiv.org/pdf/1604.05225)
+

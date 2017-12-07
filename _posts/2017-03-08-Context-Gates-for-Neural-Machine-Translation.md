@@ -20,3 +20,6 @@ In neural machine translation (NMT), generation of a target word depends on both
 ##### URL
 [https://arxiv.org/abs/1608.06043](https://arxiv.org/abs/1608.06043)
 
+##### PDF
+[https://arxiv.org/pdf/1608.06043](https://arxiv.org/pdf/1608.06043)
+

@@ -20,3 +20,6 @@ Through an optical campaign performed at 4 telescopes located in the northern an
 ##### URL
 [https://arxiv.org/abs/1206.5091](https://arxiv.org/abs/1206.5091)
 
+##### PDF
+[https://arxiv.org/pdf/1206.5091](https://arxiv.org/pdf/1206.5091)
+

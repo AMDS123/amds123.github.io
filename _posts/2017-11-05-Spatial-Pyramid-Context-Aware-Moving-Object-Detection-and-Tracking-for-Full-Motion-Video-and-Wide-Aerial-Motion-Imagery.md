@@ -20,3 +20,6 @@ A robust and fast automatic moving object detection and tracking system is essen
 ##### URL
 [https://arxiv.org/abs/1711.01656](https://arxiv.org/abs/1711.01656)
 
+##### PDF
+[https://arxiv.org/pdf/1711.01656](https://arxiv.org/pdf/1711.01656)
+

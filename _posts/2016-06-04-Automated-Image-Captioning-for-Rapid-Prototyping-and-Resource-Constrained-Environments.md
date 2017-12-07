@@ -20,3 +20,6 @@ Significant performance gains in deep learning coupled with the exponential grow
 ##### URL
 [https://arxiv.org/abs/1606.01393](https://arxiv.org/abs/1606.01393)
 
+##### PDF
+[https://arxiv.org/pdf/1606.01393](https://arxiv.org/pdf/1606.01393)
+

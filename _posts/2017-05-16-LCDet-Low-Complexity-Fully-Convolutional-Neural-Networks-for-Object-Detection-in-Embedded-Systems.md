@@ -20,3 +20,6 @@ Deep convolutional Neural Networks (CNN) are the state-of-the-art performers for
 ##### URL
 [https://arxiv.org/abs/1705.05922](https://arxiv.org/abs/1705.05922)
 
+##### PDF
+[https://arxiv.org/pdf/1705.05922](https://arxiv.org/pdf/1705.05922)
+

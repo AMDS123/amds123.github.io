@@ -20,3 +20,6 @@ In this paper we introduce a new, high-quality, dataset of images containing fru
 ##### URL
 [http://arxiv.org/abs/1712.00580](http://arxiv.org/abs/1712.00580)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00580](http://arxiv.org/pdf/1712.00580)
+

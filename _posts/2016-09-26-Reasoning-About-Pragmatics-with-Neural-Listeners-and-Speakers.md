@@ -20,3 +20,6 @@ We present a model for pragmatically describing scenes, in which contrastive beh
 ##### URL
 [https://arxiv.org/abs/1604.00562](https://arxiv.org/abs/1604.00562)
 
+##### PDF
+[https://arxiv.org/pdf/1604.00562](https://arxiv.org/pdf/1604.00562)
+

@@ -20,3 +20,6 @@ This paper describes QCRI's machine translation systems for the IWSLT 2016 evalu
 ##### URL
 [https://arxiv.org/abs/1701.03924](https://arxiv.org/abs/1701.03924)
 
+##### PDF
+[https://arxiv.org/pdf/1701.03924](https://arxiv.org/pdf/1701.03924)
+

@@ -20,3 +20,6 @@ Pooling is a ubiquitous operation in image processing algorithms that allows for
 ##### URL
 [https://arxiv.org/abs/1711.10968](https://arxiv.org/abs/1711.10968)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10968](https://arxiv.org/pdf/1711.10968)
+

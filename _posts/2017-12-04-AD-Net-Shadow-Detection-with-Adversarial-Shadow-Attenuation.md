@@ -20,3 +20,6 @@ Single image shadow detection is a very challenging problem because of the limit
 ##### URL
 [http://arxiv.org/abs/1712.01361](http://arxiv.org/abs/1712.01361)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01361](http://arxiv.org/pdf/1712.01361)
+

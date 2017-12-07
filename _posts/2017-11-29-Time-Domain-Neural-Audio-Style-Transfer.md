@@ -20,3 +20,6 @@ A recently published method for audio style transfer has shown how to extend the
 ##### URL
 [https://arxiv.org/abs/1711.11160](https://arxiv.org/abs/1711.11160)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11160](https://arxiv.org/pdf/1711.11160)
+

@@ -20,3 +20,6 @@ Magnetic resonance imaging (MRI) has been proposed as a complimentary method to 
 ##### URL
 [http://arxiv.org/abs/1704.06176](http://arxiv.org/abs/1704.06176)
 
+##### PDF
+[http://arxiv.org/pdf/1704.06176](http://arxiv.org/pdf/1704.06176)
+

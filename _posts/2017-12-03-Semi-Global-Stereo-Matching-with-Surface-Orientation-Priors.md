@@ -20,3 +20,6 @@ Semi-Global Matching (SGM) is a widely-used efficient stereo matching technique.
 ##### URL
 [http://arxiv.org/abs/1712.00818](http://arxiv.org/abs/1712.00818)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00818](http://arxiv.org/pdf/1712.00818)
+

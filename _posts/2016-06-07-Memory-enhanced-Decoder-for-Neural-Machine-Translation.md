@@ -20,3 +20,6 @@ We propose to enhance the RNN decoder in a neural machine translator (NMT) with 
 ##### URL
 [https://arxiv.org/abs/1606.02003](https://arxiv.org/abs/1606.02003)
 
+##### PDF
+[https://arxiv.org/pdf/1606.02003](https://arxiv.org/pdf/1606.02003)
+

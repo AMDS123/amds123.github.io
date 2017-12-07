@@ -20,3 +20,6 @@ Attention-based Neural Machine Translation (NMT) models suffer from attention de
 ##### URL
 [https://arxiv.org/abs/1608.02927](https://arxiv.org/abs/1608.02927)
 
+##### PDF
+[https://arxiv.org/pdf/1608.02927](https://arxiv.org/pdf/1608.02927)
+

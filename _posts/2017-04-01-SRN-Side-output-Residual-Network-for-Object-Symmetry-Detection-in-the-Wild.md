@@ -20,3 +20,6 @@ In this paper, we establish a baseline for object symmetry detection in complex 
 ##### URL
 [https://arxiv.org/abs/1703.02243](https://arxiv.org/abs/1703.02243)
 
+##### PDF
+[https://arxiv.org/pdf/1703.02243](https://arxiv.org/pdf/1703.02243)
+

@@ -20,3 +20,6 @@ Recurrent neural network architectures combining with attention mechanism, or ne
 ##### URL
 [https://arxiv.org/abs/1604.00077](https://arxiv.org/abs/1604.00077)
 
+##### PDF
+[https://arxiv.org/pdf/1604.00077](https://arxiv.org/pdf/1604.00077)
+

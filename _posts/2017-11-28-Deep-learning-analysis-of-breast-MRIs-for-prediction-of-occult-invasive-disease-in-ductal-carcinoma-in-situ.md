@@ -20,3 +20,6 @@ Purpose: To determine whether deep learning-based algorithms applied to breast M
 ##### URL
 [https://arxiv.org/abs/1711.10577](https://arxiv.org/abs/1711.10577)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10577](https://arxiv.org/pdf/1711.10577)
+

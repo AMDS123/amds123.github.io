@@ -20,3 +20,6 @@ In this work, we study the challenging problem of identifying the irregular stat
 ##### URL
 [https://arxiv.org/abs/1602.04422](https://arxiv.org/abs/1602.04422)
 
+##### PDF
+[https://arxiv.org/pdf/1602.04422](https://arxiv.org/pdf/1602.04422)
+

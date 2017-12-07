@@ -20,3 +20,6 @@ Visual Question Answering (VQA) is the task of taking as input an image and a fr
 ##### URL
 [https://arxiv.org/abs/1605.01379](https://arxiv.org/abs/1605.01379)
 
+##### PDF
+[https://arxiv.org/pdf/1605.01379](https://arxiv.org/pdf/1605.01379)
+

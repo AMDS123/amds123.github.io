@@ -20,3 +20,6 @@ The importance of organizing medical images according to their nature, applicati
 ##### URL
 [https://arxiv.org/abs/1712.01695](https://arxiv.org/abs/1712.01695)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01695](https://arxiv.org/pdf/1712.01695)
+

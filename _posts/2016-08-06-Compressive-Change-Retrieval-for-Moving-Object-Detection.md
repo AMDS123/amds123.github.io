@@ -20,3 +20,6 @@ Change detection, or anomaly detection, from street-view images acquired by an a
 ##### URL
 [https://arxiv.org/abs/1608.02051](https://arxiv.org/abs/1608.02051)
 
+##### PDF
+[https://arxiv.org/pdf/1608.02051](https://arxiv.org/pdf/1608.02051)
+

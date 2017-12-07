@@ -20,3 +20,6 @@ Displaying the large number of bands in a hyper- spectral image (HSI) on a trich
 ##### URL
 [https://arxiv.org/abs/1712.01657](https://arxiv.org/abs/1712.01657)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01657](https://arxiv.org/pdf/1712.01657)
+

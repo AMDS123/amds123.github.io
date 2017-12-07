@@ -20,3 +20,6 @@ Recent work has attempted to characterize the structure of semantic memory and t
 ##### URL
 [https://arxiv.org/abs/1711.11125](https://arxiv.org/abs/1711.11125)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11125](https://arxiv.org/pdf/1711.11125)
+

@@ -20,3 +20,6 @@ Background: Dermoscopy is one of the major imaging modalities used in the diagno
 ##### URL
 [https://arxiv.org/abs/1009.1020](https://arxiv.org/abs/1009.1020)
 
+##### PDF
+[https://arxiv.org/pdf/1009.1020](https://arxiv.org/pdf/1009.1020)
+

@@ -20,3 +20,6 @@ We address the problem of open-vocabulary object retrieval and localization, whi
 ##### URL
 [https://arxiv.org/abs/1711.09509](https://arxiv.org/abs/1711.09509)
 
+##### PDF
+[https://arxiv.org/pdf/1711.09509](https://arxiv.org/pdf/1711.09509)
+

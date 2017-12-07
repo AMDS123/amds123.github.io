@@ -20,3 +20,6 @@ Learning a classifier from ambiguously labeled face images is challenging since 
 ##### URL
 [https://arxiv.org/abs/1702.04455](https://arxiv.org/abs/1702.04455)
 
+##### PDF
+[https://arxiv.org/pdf/1702.04455](https://arxiv.org/pdf/1702.04455)
+

@@ -20,3 +20,6 @@ We introduce an inference technique to produce discriminative context-aware imag
 ##### URL
 [https://arxiv.org/abs/1701.02870](https://arxiv.org/abs/1701.02870)
 
+##### PDF
+[https://arxiv.org/pdf/1701.02870](https://arxiv.org/pdf/1701.02870)
+

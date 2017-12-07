@@ -20,3 +20,6 @@ Anticipating future actions is a key component of intelligence, specifically whe
 ##### URL
 [http://arxiv.org/abs/1709.07894](http://arxiv.org/abs/1709.07894)
 
+##### PDF
+[http://arxiv.org/pdf/1709.07894](http://arxiv.org/pdf/1709.07894)
+

@@ -20,3 +20,6 @@ Recent progress on image captioning has made it possible to generate novel sente
 ##### URL
 [https://arxiv.org/abs/1611.06607](https://arxiv.org/abs/1611.06607)
 
+##### PDF
+[https://arxiv.org/pdf/1611.06607](https://arxiv.org/pdf/1611.06607)
+

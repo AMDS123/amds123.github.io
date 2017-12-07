@@ -20,3 +20,6 @@ Sentence representation models trained only on language could potentially suffer
 ##### URL
 [http://arxiv.org/abs/1712.00609](http://arxiv.org/abs/1712.00609)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00609](http://arxiv.org/pdf/1712.00609)
+

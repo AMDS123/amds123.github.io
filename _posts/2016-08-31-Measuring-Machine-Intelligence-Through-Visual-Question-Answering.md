@@ -20,3 +20,6 @@ As machines have become more intelligent, there has been a renewed interest in m
 ##### URL
 [https://arxiv.org/abs/1608.08716](https://arxiv.org/abs/1608.08716)
 
+##### PDF
+[https://arxiv.org/pdf/1608.08716](https://arxiv.org/pdf/1608.08716)
+

@@ -20,3 +20,6 @@ This work presents an end-to-end trainable deep bidirectional LSTM (Long-Short T
 ##### URL
 [https://arxiv.org/abs/1604.00790](https://arxiv.org/abs/1604.00790)
 
+##### PDF
+[https://arxiv.org/pdf/1604.00790](https://arxiv.org/pdf/1604.00790)
+

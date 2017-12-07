@@ -20,3 +20,6 @@ We present interferometric observations resolving the CO emission in the four ga
 ##### URL
 [https://arxiv.org/abs/0712.4189](https://arxiv.org/abs/0712.4189)
 
+##### PDF
+[https://arxiv.org/pdf/0712.4189](https://arxiv.org/pdf/0712.4189)
+

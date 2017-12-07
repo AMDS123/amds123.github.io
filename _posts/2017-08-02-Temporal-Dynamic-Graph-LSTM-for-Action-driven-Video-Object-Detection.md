@@ -20,3 +20,6 @@ In this paper, we investigate a weakly-supervised object detection framework. Mo
 ##### URL
 [https://arxiv.org/abs/1708.00666](https://arxiv.org/abs/1708.00666)
 
+##### PDF
+[https://arxiv.org/pdf/1708.00666](https://arxiv.org/pdf/1708.00666)
+

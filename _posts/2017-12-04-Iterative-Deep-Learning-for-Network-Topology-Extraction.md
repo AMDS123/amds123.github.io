@@ -20,3 +20,6 @@ This paper tackles the task of estimating the topology of filamentary networks s
 ##### URL
 [http://arxiv.org/abs/1712.01217](http://arxiv.org/abs/1712.01217)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01217](http://arxiv.org/pdf/1712.01217)
+

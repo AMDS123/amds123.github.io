@@ -20,3 +20,6 @@ The unsupervised classification has a very important role in the analysis of mul
 ##### URL
 [https://arxiv.org/abs/1712.01696](https://arxiv.org/abs/1712.01696)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01696](https://arxiv.org/pdf/1712.01696)
+

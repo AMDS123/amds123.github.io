@@ -20,3 +20,6 @@ We describe our recently developed neural machine translation (NMT) system and b
 ##### URL
 [https://arxiv.org/abs/1707.07911](https://arxiv.org/abs/1707.07911)
 
+##### PDF
+[https://arxiv.org/pdf/1707.07911](https://arxiv.org/pdf/1707.07911)
+

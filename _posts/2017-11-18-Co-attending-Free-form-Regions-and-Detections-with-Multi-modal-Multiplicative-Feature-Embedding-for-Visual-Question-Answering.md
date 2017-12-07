@@ -20,3 +20,6 @@ Recently, the Visual Question Answering (VQA) task has gained increasing attenti
 ##### URL
 [https://arxiv.org/abs/1711.06794](https://arxiv.org/abs/1711.06794)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06794](https://arxiv.org/pdf/1711.06794)
+

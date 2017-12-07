@@ -20,3 +20,6 @@ This paper studies a novel discriminative part-based model to represent and reco
 ##### URL
 [https://arxiv.org/abs/1502.00741](https://arxiv.org/abs/1502.00741)
 
+##### PDF
+[https://arxiv.org/pdf/1502.00741](https://arxiv.org/pdf/1502.00741)
+

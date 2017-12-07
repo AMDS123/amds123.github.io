@@ -20,3 +20,6 @@ The task of associating images and videos with a natural language description ha
 ##### URL
 [https://arxiv.org/abs/1511.04590](https://arxiv.org/abs/1511.04590)
 
+##### PDF
+[https://arxiv.org/pdf/1511.04590](https://arxiv.org/pdf/1511.04590)
+

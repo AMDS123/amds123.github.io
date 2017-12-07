@@ -20,3 +20,6 @@ Extracting moving objects from a video sequence and estimating the background of
 ##### URL
 [https://arxiv.org/abs/1505.03566](https://arxiv.org/abs/1505.03566)
 
+##### PDF
+[https://arxiv.org/pdf/1505.03566](https://arxiv.org/pdf/1505.03566)
+

@@ -20,3 +20,6 @@ Discovering 3D arrangements of objects from single indoor images is important gi
 ##### URL
 [http://arxiv.org/abs/1710.10473](http://arxiv.org/abs/1710.10473)
 
+##### PDF
+[http://arxiv.org/pdf/1710.10473](http://arxiv.org/pdf/1710.10473)
+

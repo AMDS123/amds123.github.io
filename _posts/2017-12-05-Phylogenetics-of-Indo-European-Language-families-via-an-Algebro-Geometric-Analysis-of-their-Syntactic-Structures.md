@@ -20,3 +20,6 @@ Using Phylogenetic Algebraic Geometry, we analyze computationally the phylogenet
 ##### URL
 [http://arxiv.org/abs/1712.01719](http://arxiv.org/abs/1712.01719)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01719](http://arxiv.org/pdf/1712.01719)
+

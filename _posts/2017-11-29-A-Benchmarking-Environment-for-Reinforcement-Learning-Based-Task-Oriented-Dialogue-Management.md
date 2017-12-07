@@ -20,3 +20,6 @@ Dialogue assistants are rapidly becoming an indispensable daily aid. To avoid th
 ##### URL
 [https://arxiv.org/abs/1711.11023](https://arxiv.org/abs/1711.11023)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11023](https://arxiv.org/pdf/1711.11023)
+

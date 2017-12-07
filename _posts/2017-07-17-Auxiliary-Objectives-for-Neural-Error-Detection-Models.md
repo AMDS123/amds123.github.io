@@ -20,3 +20,6 @@ We investigate the utility of different auxiliary objectives and training strate
 ##### URL
 [https://arxiv.org/abs/1707.05227](https://arxiv.org/abs/1707.05227)
 
+##### PDF
+[https://arxiv.org/pdf/1707.05227](https://arxiv.org/pdf/1707.05227)
+

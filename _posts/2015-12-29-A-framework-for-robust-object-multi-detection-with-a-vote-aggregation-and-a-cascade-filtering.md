@@ -20,3 +20,6 @@ This paper presents a framework designed for the multi-object detection purposes
 ##### URL
 [https://arxiv.org/abs/1512.08648](https://arxiv.org/abs/1512.08648)
 
+##### PDF
+[https://arxiv.org/pdf/1512.08648](https://arxiv.org/pdf/1512.08648)
+

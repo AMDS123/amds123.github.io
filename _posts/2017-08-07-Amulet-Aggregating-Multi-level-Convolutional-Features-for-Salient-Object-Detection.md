@@ -20,3 +20,6 @@ Fully convolutional neural networks (FCNs) have shown outstanding performance in
 ##### URL
 [https://arxiv.org/abs/1708.02001](https://arxiv.org/abs/1708.02001)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02001](https://arxiv.org/pdf/1708.02001)
+

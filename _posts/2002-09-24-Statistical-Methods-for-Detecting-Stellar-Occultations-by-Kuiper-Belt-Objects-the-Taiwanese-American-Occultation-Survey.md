@@ -20,3 +20,6 @@ The Taiwanese-American Occultation Survey (TAOS) will detect objects in the Kuip
 ##### URL
 [https://arxiv.org/abs/astro-ph/0209509](https://arxiv.org/abs/astro-ph/0209509)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0209509](https://arxiv.org/pdf/astro-ph/0209509)
+

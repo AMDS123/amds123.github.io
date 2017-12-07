@@ -20,3 +20,6 @@ Object detection is an essential task for autonomous robots operating in dynamic
 ##### URL
 [https://arxiv.org/abs/1707.05733](https://arxiv.org/abs/1707.05733)
 
+##### PDF
+[https://arxiv.org/pdf/1707.05733](https://arxiv.org/pdf/1707.05733)
+

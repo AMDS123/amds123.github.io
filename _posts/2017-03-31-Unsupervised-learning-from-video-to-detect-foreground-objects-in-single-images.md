@@ -20,3 +20,6 @@ Unsupervised learning from visual data is one of the most difficult challenges i
 ##### URL
 [https://arxiv.org/abs/1703.10901](https://arxiv.org/abs/1703.10901)
 
+##### PDF
+[https://arxiv.org/pdf/1703.10901](https://arxiv.org/pdf/1703.10901)
+

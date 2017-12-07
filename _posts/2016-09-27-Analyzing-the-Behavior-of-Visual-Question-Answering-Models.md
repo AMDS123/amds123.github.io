@@ -20,3 +20,6 @@ Recently, a number of deep-learning based models have been proposed for the task
 ##### URL
 [https://arxiv.org/abs/1606.07356](https://arxiv.org/abs/1606.07356)
 
+##### PDF
+[https://arxiv.org/pdf/1606.07356](https://arxiv.org/pdf/1606.07356)
+

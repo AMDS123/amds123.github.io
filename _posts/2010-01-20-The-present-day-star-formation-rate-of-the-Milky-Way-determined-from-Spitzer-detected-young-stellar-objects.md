@@ -20,3 +20,6 @@ We present initial results from a population synthesis model aimed at determinin
 ##### URL
 [https://arxiv.org/abs/1001.3672](https://arxiv.org/abs/1001.3672)
 
+##### PDF
+[https://arxiv.org/pdf/1001.3672](https://arxiv.org/pdf/1001.3672)
+

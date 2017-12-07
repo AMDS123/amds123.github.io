@@ -20,3 +20,6 @@ We present a foveated object detector (FOD) as a biologically-inspired alternati
 ##### URL
 [https://arxiv.org/abs/1408.0814](https://arxiv.org/abs/1408.0814)
 
+##### PDF
+[https://arxiv.org/pdf/1408.0814](https://arxiv.org/pdf/1408.0814)
+

@@ -20,3 +20,6 @@ Face Super-Resolution (SR) is a domain-specific super-resolution problem. The sp
 ##### URL
 [https://arxiv.org/abs/1711.10703](https://arxiv.org/abs/1711.10703)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10703](https://arxiv.org/pdf/1711.10703)
+

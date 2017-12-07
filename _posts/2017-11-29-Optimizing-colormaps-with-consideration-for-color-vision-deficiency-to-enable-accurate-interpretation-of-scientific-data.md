@@ -20,3 +20,6 @@ Color vision deficiency (CVD) affects 8.5% of the population and leads to a diff
 ##### URL
 [https://arxiv.org/abs/1712.01662](https://arxiv.org/abs/1712.01662)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01662](https://arxiv.org/pdf/1712.01662)
+

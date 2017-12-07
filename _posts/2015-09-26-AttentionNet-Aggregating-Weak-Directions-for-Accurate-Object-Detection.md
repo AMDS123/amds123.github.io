@@ -20,3 +20,6 @@ We present a novel detection method using a deep convolutional neural network (C
 ##### URL
 [https://arxiv.org/abs/1506.07704](https://arxiv.org/abs/1506.07704)
 
+##### PDF
+[https://arxiv.org/pdf/1506.07704](https://arxiv.org/pdf/1506.07704)
+

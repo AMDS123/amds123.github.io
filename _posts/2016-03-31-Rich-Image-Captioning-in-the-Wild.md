@@ -20,3 +20,6 @@ We present an image caption system that addresses new challenges of automaticall
 ##### URL
 [https://arxiv.org/abs/1603.09016](https://arxiv.org/abs/1603.09016)
 
+##### PDF
+[https://arxiv.org/pdf/1603.09016](https://arxiv.org/pdf/1603.09016)
+

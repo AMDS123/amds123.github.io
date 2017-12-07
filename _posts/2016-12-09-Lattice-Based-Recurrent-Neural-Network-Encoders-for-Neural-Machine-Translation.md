@@ -20,3 +20,6 @@ Neural machine translation (NMT) heavily relies on word-level modelling to learn
 ##### URL
 [https://arxiv.org/abs/1609.07730](https://arxiv.org/abs/1609.07730)
 
+##### PDF
+[https://arxiv.org/pdf/1609.07730](https://arxiv.org/pdf/1609.07730)
+

@@ -20,3 +20,6 @@ In this paper, we propose several novel deep learning methods for object salienc
 ##### URL
 [https://arxiv.org/abs/1505.01173](https://arxiv.org/abs/1505.01173)
 
+##### PDF
+[https://arxiv.org/pdf/1505.01173](https://arxiv.org/pdf/1505.01173)
+

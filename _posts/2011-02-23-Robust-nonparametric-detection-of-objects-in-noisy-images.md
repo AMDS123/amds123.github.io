@@ -20,3 +20,6 @@ We propose a novel statistical hypothesis testing method for detection of object
 ##### URL
 [https://arxiv.org/abs/1102.4811](https://arxiv.org/abs/1102.4811)
 
+##### PDF
+[https://arxiv.org/pdf/1102.4811](https://arxiv.org/pdf/1102.4811)
+

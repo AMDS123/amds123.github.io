@@ -20,3 +20,6 @@ The point of this paper is to question typical assumptions in deep learning and 
 ##### URL
 [https://arxiv.org/abs/1712.01655](https://arxiv.org/abs/1712.01655)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01655](https://arxiv.org/pdf/1712.01655)
+

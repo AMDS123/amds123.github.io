@@ -20,3 +20,6 @@ We show that with an efficiency exceeding 99% one can use a monolithic total-int
 ##### URL
 [https://arxiv.org/abs/quant-ph/9908023](https://arxiv.org/abs/quant-ph/9908023)
 
+##### PDF
+[https://arxiv.org/pdf/quant-ph/9908023](https://arxiv.org/pdf/quant-ph/9908023)
+

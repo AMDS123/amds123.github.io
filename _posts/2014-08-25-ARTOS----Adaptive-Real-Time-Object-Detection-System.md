@@ -20,3 +20,6 @@ ARTOS只需点击几下即可创建，调整和应用对象检测模型。特别
 ##### URL
 [https://arxiv.org/abs/1407.2721](https://arxiv.org/abs/1407.2721)
 
+##### PDF
+[https://arxiv.org/pdf/1407.2721](https://arxiv.org/pdf/1407.2721)
+

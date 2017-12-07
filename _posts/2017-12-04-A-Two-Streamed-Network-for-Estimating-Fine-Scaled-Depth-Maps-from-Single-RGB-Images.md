@@ -20,3 +20,6 @@ Estimating depth from a single RGB image is an ill-posed and inherently ambiguou
 ##### URL
 [http://arxiv.org/abs/1607.00730](http://arxiv.org/abs/1607.00730)
 
+##### PDF
+[http://arxiv.org/pdf/1607.00730](http://arxiv.org/pdf/1607.00730)
+

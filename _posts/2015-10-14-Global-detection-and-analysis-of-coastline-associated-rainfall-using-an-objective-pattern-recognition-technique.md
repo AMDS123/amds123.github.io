@@ -20,3 +20,6 @@ Coastally associated rainfall is a common feature especially in tropical and sub
 ##### URL
 [https://arxiv.org/abs/1501.06265](https://arxiv.org/abs/1501.06265)
 
+##### PDF
+[https://arxiv.org/pdf/1501.06265](https://arxiv.org/pdf/1501.06265)
+

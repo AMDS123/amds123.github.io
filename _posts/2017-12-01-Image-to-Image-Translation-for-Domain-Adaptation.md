@@ -20,3 +20,6 @@ We propose a general framework for unsupervised domain adaptation, which allows 
 ##### URL
 [http://arxiv.org/abs/1712.00479](http://arxiv.org/abs/1712.00479)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00479](http://arxiv.org/pdf/1712.00479)
+

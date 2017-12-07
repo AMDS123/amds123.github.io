@@ -20,3 +20,6 @@ The need for large annotated image datasets for training Convolutional Neural Ne
 ##### URL
 [https://arxiv.org/abs/1706.06782](https://arxiv.org/abs/1706.06782)
 
+##### PDF
+[https://arxiv.org/pdf/1706.06782](https://arxiv.org/pdf/1706.06782)
+

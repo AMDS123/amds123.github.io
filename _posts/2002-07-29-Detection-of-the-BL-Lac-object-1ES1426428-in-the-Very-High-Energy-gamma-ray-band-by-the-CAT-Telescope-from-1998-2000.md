@@ -20,3 +20,6 @@ The BL Lac Object 1ES 1426+428, at a red-shift of z=0.129, has been monitored by
 ##### URL
 [https://arxiv.org/abs/astro-ph/0207618](https://arxiv.org/abs/astro-ph/0207618)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0207618](https://arxiv.org/pdf/astro-ph/0207618)
+

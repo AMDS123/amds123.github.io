@@ -20,3 +20,6 @@ Three-dimensional geometric data offer an excellent domain for studying represen
 ##### URL
 [http://arxiv.org/abs/1707.02392](http://arxiv.org/abs/1707.02392)
 
+##### PDF
+[http://arxiv.org/pdf/1707.02392](http://arxiv.org/pdf/1707.02392)
+

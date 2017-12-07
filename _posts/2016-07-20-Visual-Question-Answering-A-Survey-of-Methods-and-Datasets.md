@@ -20,3 +20,6 @@ Visual Question Answering (VQA) is a challenging task that has received increasi
 ##### URL
 [https://arxiv.org/abs/1607.05910](https://arxiv.org/abs/1607.05910)
 
+##### PDF
+[https://arxiv.org/pdf/1607.05910](https://arxiv.org/pdf/1607.05910)
+

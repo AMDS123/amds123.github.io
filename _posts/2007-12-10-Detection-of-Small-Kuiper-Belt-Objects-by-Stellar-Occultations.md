@@ -20,3 +20,6 @@ Knowledge of the Kuiper Belt is currently limited to those objects that can be d
 ##### URL
 [https://arxiv.org/abs/0712.1550](https://arxiv.org/abs/0712.1550)
 
+##### PDF
+[https://arxiv.org/pdf/0712.1550](https://arxiv.org/pdf/0712.1550)
+

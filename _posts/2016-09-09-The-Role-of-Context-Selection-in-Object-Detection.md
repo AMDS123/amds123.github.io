@@ -20,3 +20,6 @@ We investigate the reasons why context in object detection has limited utility b
 ##### URL
 [https://arxiv.org/abs/1609.02948](https://arxiv.org/abs/1609.02948)
 
+##### PDF
+[https://arxiv.org/pdf/1609.02948](https://arxiv.org/pdf/1609.02948)
+

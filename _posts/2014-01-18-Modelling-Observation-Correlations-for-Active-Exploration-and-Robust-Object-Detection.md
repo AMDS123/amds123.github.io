@@ -20,3 +20,6 @@ Today, mobile robots are expected to carry out increasingly complex tasks in mul
 ##### URL
 [https://arxiv.org/abs/1401.4612](https://arxiv.org/abs/1401.4612)
 
+##### PDF
+[https://arxiv.org/pdf/1401.4612](https://arxiv.org/pdf/1401.4612)
+

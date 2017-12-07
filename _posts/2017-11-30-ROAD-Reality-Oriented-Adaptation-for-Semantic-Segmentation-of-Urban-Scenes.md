@@ -20,3 +20,6 @@ Exploiting synthetic data to learn deep models has attracted increasing attentio
 ##### URL
 [https://arxiv.org/abs/1711.11556](https://arxiv.org/abs/1711.11556)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11556](https://arxiv.org/pdf/1711.11556)
+

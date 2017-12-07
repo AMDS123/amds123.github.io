@@ -20,3 +20,6 @@ We propose a new method that uses deep learning techniques to solve the inverse 
 ##### URL
 [https://arxiv.org/abs/1712.00202](https://arxiv.org/abs/1712.00202)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00202](https://arxiv.org/pdf/1712.00202)
+

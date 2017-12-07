@@ -20,3 +20,6 @@ Homographs, words with different meanings but the same surface form, have long c
 ##### URL
 [https://arxiv.org/abs/1708.06510](https://arxiv.org/abs/1708.06510)
 
+##### PDF
+[https://arxiv.org/pdf/1708.06510](https://arxiv.org/pdf/1708.06510)
+

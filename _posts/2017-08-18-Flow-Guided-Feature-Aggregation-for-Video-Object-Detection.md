@@ -20,3 +20,6 @@ Extending state-of-the-art object detectors from image to video is challenging. 
 ##### URL
 [https://arxiv.org/abs/1703.10025](https://arxiv.org/abs/1703.10025)
 
+##### PDF
+[https://arxiv.org/pdf/1703.10025](https://arxiv.org/pdf/1703.10025)
+

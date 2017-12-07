@@ -20,3 +20,6 @@ Traditional single-view object detection methods often perform worse under uncon
 ##### URL
 [https://arxiv.org/abs/1611.03968](https://arxiv.org/abs/1611.03968)
 
+##### PDF
+[https://arxiv.org/pdf/1611.03968](https://arxiv.org/pdf/1611.03968)
+

@@ -20,3 +20,6 @@ Reward augmented maximum likelihood (RAML), a simple and effective learning fram
 ##### URL
 [https://arxiv.org/abs/1705.07136](https://arxiv.org/abs/1705.07136)
 
+##### PDF
+[https://arxiv.org/pdf/1705.07136](https://arxiv.org/pdf/1705.07136)
+

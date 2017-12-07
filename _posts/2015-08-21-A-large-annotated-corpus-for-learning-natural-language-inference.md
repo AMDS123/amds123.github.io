@@ -20,3 +20,6 @@ Understanding entailment and contradiction is fundamental to understanding natur
 ##### URL
 [https://arxiv.org/abs/1508.05326](https://arxiv.org/abs/1508.05326)
 
+##### PDF
+[https://arxiv.org/pdf/1508.05326](https://arxiv.org/pdf/1508.05326)
+

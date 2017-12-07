@@ -20,3 +20,6 @@ We consider the problem of scale detection in images where a region of interest 
 ##### URL
 [https://arxiv.org/abs/1602.08574](https://arxiv.org/abs/1602.08574)
 
+##### PDF
+[https://arxiv.org/pdf/1602.08574](https://arxiv.org/pdf/1602.08574)
+

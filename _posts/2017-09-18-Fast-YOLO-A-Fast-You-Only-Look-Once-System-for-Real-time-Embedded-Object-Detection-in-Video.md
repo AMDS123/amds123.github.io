@@ -20,3 +20,6 @@ Object detection is considered one of the most challenging problems in this fiel
 ##### URL
 [https://arxiv.org/abs/1709.05943](https://arxiv.org/abs/1709.05943)
 
+##### PDF
+[https://arxiv.org/pdf/1709.05943](https://arxiv.org/pdf/1709.05943)
+

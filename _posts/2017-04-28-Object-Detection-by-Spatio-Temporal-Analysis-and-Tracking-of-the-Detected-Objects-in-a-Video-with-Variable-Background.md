@@ -20,3 +20,6 @@ In this paper we propose a novel approach for detecting and tracking objects in 
 ##### URL
 [https://arxiv.org/abs/1705.02949](https://arxiv.org/abs/1705.02949)
 
+##### PDF
+[https://arxiv.org/pdf/1705.02949](https://arxiv.org/pdf/1705.02949)
+

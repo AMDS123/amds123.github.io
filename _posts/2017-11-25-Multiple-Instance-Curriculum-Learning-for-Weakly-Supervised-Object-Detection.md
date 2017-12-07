@@ -20,3 +20,6 @@ When supervising an object detector with weakly labeled data, most existing appr
 ##### URL
 [https://arxiv.org/abs/1711.09191](https://arxiv.org/abs/1711.09191)
 
+##### PDF
+[https://arxiv.org/pdf/1711.09191](https://arxiv.org/pdf/1711.09191)
+

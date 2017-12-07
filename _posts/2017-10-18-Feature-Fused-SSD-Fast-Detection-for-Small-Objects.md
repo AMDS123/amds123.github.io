@@ -20,3 +20,6 @@ Small objects detection is a challenging task in computer vision due to its limi
 ##### URL
 [https://arxiv.org/abs/1709.05054](https://arxiv.org/abs/1709.05054)
 
+##### PDF
+[https://arxiv.org/pdf/1709.05054](https://arxiv.org/pdf/1709.05054)
+

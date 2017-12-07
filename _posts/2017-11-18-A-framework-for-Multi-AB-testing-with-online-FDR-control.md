@@ -20,3 +20,6 @@ We propose an alternative framework to existing setups for controlling false ala
 ##### URL
 [https://arxiv.org/abs/1706.05378](https://arxiv.org/abs/1706.05378)
 
+##### PDF
+[https://arxiv.org/pdf/1706.05378](https://arxiv.org/pdf/1706.05378)
+

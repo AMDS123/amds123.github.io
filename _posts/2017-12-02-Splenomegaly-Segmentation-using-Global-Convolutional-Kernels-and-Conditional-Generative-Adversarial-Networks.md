@@ -20,3 +20,6 @@ Spleen volume estimation using automated image segmentation technique may be use
 ##### URL
 [http://arxiv.org/abs/1712.00542](http://arxiv.org/abs/1712.00542)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00542](http://arxiv.org/pdf/1712.00542)
+

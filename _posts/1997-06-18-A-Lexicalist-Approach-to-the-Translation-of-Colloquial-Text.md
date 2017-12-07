@@ -20,3 +20,6 @@ Colloquial English (CE) as found in television programs or typical conversations
 ##### URL
 [https://arxiv.org/abs/cmp-lg/9706024](https://arxiv.org/abs/cmp-lg/9706024)
 
+##### PDF
+[https://arxiv.org/pdf/cmp-lg/9706024](https://arxiv.org/pdf/cmp-lg/9706024)
+

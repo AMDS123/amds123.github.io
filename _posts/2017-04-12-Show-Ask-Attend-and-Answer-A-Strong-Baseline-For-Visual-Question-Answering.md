@@ -20,3 +20,6 @@ This paper presents a new baseline for visual question answering task. Given an 
 ##### URL
 [https://arxiv.org/abs/1704.03162](https://arxiv.org/abs/1704.03162)
 
+##### PDF
+[https://arxiv.org/pdf/1704.03162](https://arxiv.org/pdf/1704.03162)
+

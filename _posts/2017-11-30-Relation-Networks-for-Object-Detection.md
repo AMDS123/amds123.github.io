@@ -20,3 +20,6 @@ Although it is well believed for years that modeling relations between objects w
 ##### URL
 [https://arxiv.org/abs/1711.11575](https://arxiv.org/abs/1711.11575)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11575](https://arxiv.org/pdf/1711.11575)
+

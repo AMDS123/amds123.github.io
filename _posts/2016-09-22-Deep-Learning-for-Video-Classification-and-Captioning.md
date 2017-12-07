@@ -20,3 +20,6 @@ Accelerated by the tremendous increase in Internet bandwidth and storage space, 
 ##### URL
 [https://arxiv.org/abs/1609.06782](https://arxiv.org/abs/1609.06782)
 
+##### PDF
+[https://arxiv.org/pdf/1609.06782](https://arxiv.org/pdf/1609.06782)
+

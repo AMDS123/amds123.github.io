@@ -20,3 +20,6 @@ The Earth observation satellites have been monitoring the earth's surface for a 
 ##### URL
 [https://arxiv.org/abs/1707.09099](https://arxiv.org/abs/1707.09099)
 
+##### PDF
+[https://arxiv.org/pdf/1707.09099](https://arxiv.org/pdf/1707.09099)
+

@@ -20,3 +20,6 @@ Brain decoding is a hot spot in cognitive science, which focuses on reconstructi
 ##### URL
 [https://arxiv.org/abs/1712.01668](https://arxiv.org/abs/1712.01668)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01668](https://arxiv.org/pdf/1712.01668)
+

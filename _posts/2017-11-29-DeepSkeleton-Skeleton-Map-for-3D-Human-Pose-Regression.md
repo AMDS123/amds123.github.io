@@ -20,3 +20,6 @@ Despite recent success on 2D human pose estimation, 3D human pose estimation sti
 ##### URL
 [https://arxiv.org/abs/1711.10796](https://arxiv.org/abs/1711.10796)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10796](https://arxiv.org/pdf/1711.10796)
+

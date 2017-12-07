@@ -20,3 +20,6 @@ We perform an automatic analysis of television news programs, based on the close
 ##### URL
 [https://arxiv.org/abs/1307.4879](https://arxiv.org/abs/1307.4879)
 
+##### PDF
+[https://arxiv.org/pdf/1307.4879](https://arxiv.org/pdf/1307.4879)
+

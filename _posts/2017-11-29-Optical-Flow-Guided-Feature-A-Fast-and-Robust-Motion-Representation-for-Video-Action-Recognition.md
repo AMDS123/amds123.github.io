@@ -20,3 +20,6 @@ Motion representation plays a vital role in human action recognition in videos. 
 ##### URL
 [https://arxiv.org/abs/1711.11152](https://arxiv.org/abs/1711.11152)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11152](https://arxiv.org/pdf/1711.11152)
+

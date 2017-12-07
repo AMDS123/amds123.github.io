@@ -20,3 +20,6 @@ Deep Convolutional Neural Networks (CNNs) have gained great success in image cla
 ##### URL
 [https://arxiv.org/abs/1409.6911](https://arxiv.org/abs/1409.6911)
 
+##### PDF
+[https://arxiv.org/pdf/1409.6911](https://arxiv.org/pdf/1409.6911)
+

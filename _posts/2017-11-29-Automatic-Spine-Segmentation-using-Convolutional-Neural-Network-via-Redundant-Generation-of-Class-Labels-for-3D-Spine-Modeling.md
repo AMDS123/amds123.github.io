@@ -20,3 +20,6 @@ There has been a significant increase from 2010 to 2016 in the number of people 
 ##### URL
 [https://arxiv.org/abs/1712.01640](https://arxiv.org/abs/1712.01640)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01640](https://arxiv.org/pdf/1712.01640)
+

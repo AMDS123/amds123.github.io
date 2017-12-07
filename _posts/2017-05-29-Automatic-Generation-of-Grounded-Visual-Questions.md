@@ -20,3 +20,6 @@ In this paper, we propose the first model to be able to generate visually ground
 ##### URL
 [https://arxiv.org/abs/1612.06530](https://arxiv.org/abs/1612.06530)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06530](https://arxiv.org/pdf/1612.06530)
+

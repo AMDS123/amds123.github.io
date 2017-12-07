@@ -20,3 +20,6 @@ We report results from the preliminary trials of Colibri, a dedicated fast-photo
 ##### URL
 [https://arxiv.org/abs/1711.00358](https://arxiv.org/abs/1711.00358)
 
+##### PDF
+[https://arxiv.org/pdf/1711.00358](https://arxiv.org/pdf/1711.00358)
+

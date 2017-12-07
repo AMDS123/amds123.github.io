@@ -20,3 +20,6 @@ Visual attention is a field with a considerable history, with eye movement contr
 ##### URL
 [https://arxiv.org/abs/1711.10959](https://arxiv.org/abs/1711.10959)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10959](https://arxiv.org/pdf/1711.10959)
+

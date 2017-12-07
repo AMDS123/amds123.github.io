@@ -20,3 +20,6 @@ This paper introduces an online model for object detection in videos designed to
 ##### URL
 [https://arxiv.org/abs/1711.06368](https://arxiv.org/abs/1711.06368)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06368](https://arxiv.org/pdf/1711.06368)
+

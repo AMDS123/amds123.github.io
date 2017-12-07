@@ -20,3 +20,6 @@ Wit is a quintessential form of rich inter-human interaction, and is often groun
 ##### URL
 [https://arxiv.org/abs/1704.08224](https://arxiv.org/abs/1704.08224)
 
+##### PDF
+[https://arxiv.org/pdf/1704.08224](https://arxiv.org/pdf/1704.08224)
+

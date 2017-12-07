@@ -20,3 +20,6 @@ Video OCR is a technique that can greatly help to locate the topics of interest 
 ##### URL
 [https://arxiv.org/abs/1109.6862](https://arxiv.org/abs/1109.6862)
 
+##### PDF
+[https://arxiv.org/pdf/1109.6862](https://arxiv.org/pdf/1109.6862)
+

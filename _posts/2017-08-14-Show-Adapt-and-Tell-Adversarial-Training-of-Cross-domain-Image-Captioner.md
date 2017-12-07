@@ -20,3 +20,6 @@ Impressive image captioning results are achieved in domains with plenty of train
 ##### URL
 [https://arxiv.org/abs/1705.00930](https://arxiv.org/abs/1705.00930)
 
+##### PDF
+[https://arxiv.org/pdf/1705.00930](https://arxiv.org/pdf/1705.00930)
+

@@ -20,3 +20,6 @@ We present the radio detection of 18 BL Lac objects from our survey of over 575 
 ##### URL
 [https://arxiv.org/abs/0907.4214](https://arxiv.org/abs/0907.4214)
 
+##### PDF
+[https://arxiv.org/pdf/0907.4214](https://arxiv.org/pdf/0907.4214)
+

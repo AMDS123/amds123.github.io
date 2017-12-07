@@ -20,3 +20,6 @@ We propose a method for learning CNN structures that is more efficient than prev
 ##### URL
 [http://arxiv.org/abs/1712.00559](http://arxiv.org/abs/1712.00559)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00559](http://arxiv.org/pdf/1712.00559)
+

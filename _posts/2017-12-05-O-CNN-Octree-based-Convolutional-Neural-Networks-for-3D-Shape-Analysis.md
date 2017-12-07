@@ -20,3 +20,6 @@ We present O-CNN, an Octree-based Convolutional Neural Network (CNN) for 3D shap
 ##### URL
 [https://arxiv.org/abs/1712.01537](https://arxiv.org/abs/1712.01537)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01537](https://arxiv.org/pdf/1712.01537)
+

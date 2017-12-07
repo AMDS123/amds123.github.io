@@ -20,3 +20,6 @@ In this paper, we present a model which takes as input a corpus of images with r
 ##### URL
 [https://arxiv.org/abs/1511.03690](https://arxiv.org/abs/1511.03690)
 
+##### PDF
+[https://arxiv.org/pdf/1511.03690](https://arxiv.org/pdf/1511.03690)
+

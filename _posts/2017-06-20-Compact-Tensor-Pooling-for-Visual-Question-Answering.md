@@ -20,3 +20,6 @@ Performing high level cognitive tasks requires the integration of feature maps w
 ##### URL
 [https://arxiv.org/abs/1706.06706](https://arxiv.org/abs/1706.06706)
 
+##### PDF
+[https://arxiv.org/pdf/1706.06706](https://arxiv.org/pdf/1706.06706)
+

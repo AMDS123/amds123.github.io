@@ -20,3 +20,6 @@ In recent years, automatic generation of image descriptions (captions), that is,
 ##### URL
 [https://arxiv.org/abs/1705.00823](https://arxiv.org/abs/1705.00823)
 
+##### PDF
+[https://arxiv.org/pdf/1705.00823](https://arxiv.org/pdf/1705.00823)
+

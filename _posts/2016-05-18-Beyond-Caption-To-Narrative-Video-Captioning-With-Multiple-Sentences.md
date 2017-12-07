@@ -20,3 +20,6 @@ Recent advances in image captioning task have led to increasing interests in vid
 ##### URL
 [https://arxiv.org/abs/1605.05440](https://arxiv.org/abs/1605.05440)
 
+##### PDF
+[https://arxiv.org/pdf/1605.05440](https://arxiv.org/pdf/1605.05440)
+

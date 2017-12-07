@@ -20,3 +20,6 @@ In this paper, we propose a model using generative adversarial net (GAN) to gene
 ##### URL
 [https://arxiv.org/abs/1712.00170](https://arxiv.org/abs/1712.00170)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00170](https://arxiv.org/pdf/1712.00170)
+

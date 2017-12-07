@@ -20,3 +20,6 @@ We present the first approach to automated audio captioning. We employ an encode
 ##### URL
 [https://arxiv.org/abs/1706.10006](https://arxiv.org/abs/1706.10006)
 
+##### PDF
+[https://arxiv.org/pdf/1706.10006](https://arxiv.org/pdf/1706.10006)
+

@@ -20,3 +20,6 @@ We present a large-scale, interferometric survey of ammonia (1,1) and (2,2) towa
 ##### URL
 [https://arxiv.org/abs/1402.4531](https://arxiv.org/abs/1402.4531)
 
+##### PDF
+[https://arxiv.org/pdf/1402.4531](https://arxiv.org/pdf/1402.4531)
+

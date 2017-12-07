@@ -20,3 +20,6 @@ This paper focuses on answering fill-in-the-blank style multiple choice question
 ##### URL
 [https://arxiv.org/abs/1608.03410](https://arxiv.org/abs/1608.03410)
 
+##### PDF
+[https://arxiv.org/pdf/1608.03410](https://arxiv.org/pdf/1608.03410)
+

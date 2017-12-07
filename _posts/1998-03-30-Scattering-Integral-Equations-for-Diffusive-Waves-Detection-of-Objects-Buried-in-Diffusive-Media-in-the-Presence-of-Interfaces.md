@@ -20,3 +20,6 @@ This paper has been withdrawn by the authors until some changes are made.
 ##### URL
 [https://arxiv.org/abs/physics/9802032](https://arxiv.org/abs/physics/9802032)
 
+##### PDF
+[https://arxiv.org/pdf/physics/9802032](https://arxiv.org/pdf/physics/9802032)
+

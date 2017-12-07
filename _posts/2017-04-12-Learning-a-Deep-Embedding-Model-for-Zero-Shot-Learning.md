@@ -20,3 +20,6 @@ Zero-shot learning (ZSL) models rely on learning a joint embedding space where b
 ##### URL
 [https://arxiv.org/abs/1611.05088](https://arxiv.org/abs/1611.05088)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05088](https://arxiv.org/pdf/1611.05088)
+

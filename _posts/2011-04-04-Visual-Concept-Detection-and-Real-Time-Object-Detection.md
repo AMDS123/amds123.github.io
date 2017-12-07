@@ -20,3 +20,6 @@ Bag-of-Words模型是在10级视觉概念检测问题上实现和尝试的。实
 ##### URL
 [https://arxiv.org/abs/1104.0582](https://arxiv.org/abs/1104.0582)
 
+##### PDF
+[https://arxiv.org/pdf/1104.0582](https://arxiv.org/pdf/1104.0582)
+

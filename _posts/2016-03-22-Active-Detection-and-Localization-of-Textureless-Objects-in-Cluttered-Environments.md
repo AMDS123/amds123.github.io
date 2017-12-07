@@ -20,3 +20,6 @@ This paper introduces an active object detection and localization framework that
 ##### URL
 [https://arxiv.org/abs/1603.07022](https://arxiv.org/abs/1603.07022)
 
+##### PDF
+[https://arxiv.org/pdf/1603.07022](https://arxiv.org/pdf/1603.07022)
+

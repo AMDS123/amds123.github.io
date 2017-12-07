@@ -20,3 +20,6 @@ We develop the first approximate inference algorithm for 1-Best (and M-Best) dec
 ##### URL
 [https://arxiv.org/abs/1705.08759](https://arxiv.org/abs/1705.08759)
 
+##### PDF
+[https://arxiv.org/pdf/1705.08759](https://arxiv.org/pdf/1705.08759)
+

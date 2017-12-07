@@ -20,3 +20,6 @@ Training object detectors with only image-level annotations is very challenging 
 ##### URL
 [https://arxiv.org/abs/1708.01723](https://arxiv.org/abs/1708.01723)
 
+##### PDF
+[https://arxiv.org/pdf/1708.01723](https://arxiv.org/pdf/1708.01723)
+

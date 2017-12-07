@@ -20,3 +20,6 @@ Image captioning often requires a large set of training image-sentence pairs. In
 ##### URL
 [https://arxiv.org/abs/1708.05271](https://arxiv.org/abs/1708.05271)
 
+##### PDF
+[https://arxiv.org/pdf/1708.05271](https://arxiv.org/pdf/1708.05271)
+

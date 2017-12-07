@@ -20,3 +20,6 @@ Visual scene decomposition into semantic entities is one of the major challenges
 ##### URL
 [https://arxiv.org/abs/1701.04284](https://arxiv.org/abs/1701.04284)
 
+##### PDF
+[https://arxiv.org/pdf/1701.04284](https://arxiv.org/pdf/1701.04284)
+

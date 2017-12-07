@@ -20,3 +20,6 @@ The status quo approach to training object detectors requires expensive bounding
 ##### URL
 [https://arxiv.org/abs/1604.05766](https://arxiv.org/abs/1604.05766)
 
+##### PDF
+[https://arxiv.org/pdf/1604.05766](https://arxiv.org/pdf/1604.05766)
+

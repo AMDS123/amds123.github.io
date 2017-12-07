@@ -20,3 +20,6 @@ Deep neural networks have been playing an essential role in many computer vision
 ##### URL
 [https://arxiv.org/abs/1711.06232](https://arxiv.org/abs/1711.06232)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06232](https://arxiv.org/pdf/1711.06232)
+

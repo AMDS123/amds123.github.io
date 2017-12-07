@@ -20,3 +20,6 @@ Pattern matching of streaming time series with lower latency under limited compu
 ##### URL
 [http://arxiv.org/abs/1710.10088](http://arxiv.org/abs/1710.10088)
 
+##### PDF
+[http://arxiv.org/pdf/1710.10088](http://arxiv.org/pdf/1710.10088)
+

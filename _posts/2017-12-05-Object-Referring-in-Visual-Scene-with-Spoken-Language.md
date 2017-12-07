@@ -20,3 +20,6 @@ Object referring has important applications, especially for human-machine intera
 ##### URL
 [http://arxiv.org/abs/1711.03800](http://arxiv.org/abs/1711.03800)
 
+##### PDF
+[http://arxiv.org/pdf/1711.03800](http://arxiv.org/pdf/1711.03800)
+

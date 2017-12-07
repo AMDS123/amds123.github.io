@@ -20,3 +20,6 @@ Many modern approaches for object detection are two-staged pipelines. The first 
 ##### URL
 [https://arxiv.org/abs/1704.08881](https://arxiv.org/abs/1704.08881)
 
+##### PDF
+[https://arxiv.org/pdf/1704.08881](https://arxiv.org/pdf/1704.08881)
+

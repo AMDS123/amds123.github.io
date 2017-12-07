@@ -20,3 +20,6 @@ This paper proposes a real-time embedded fall detection system using a DVS(Dynam
 ##### URL
 [https://arxiv.org/abs/1711.11200](https://arxiv.org/abs/1711.11200)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11200](https://arxiv.org/pdf/1711.11200)
+

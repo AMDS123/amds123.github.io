@@ -20,3 +20,6 @@ Attention-based encoder-decoder architectures such as Listen, Attend, and Spell 
 ##### URL
 [http://arxiv.org/abs/1712.01769](http://arxiv.org/abs/1712.01769)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01769](http://arxiv.org/pdf/1712.01769)
+

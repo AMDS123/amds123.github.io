@@ -20,3 +20,6 @@ This paper describes our winning entry in the ImageCLEF 2015 image sentence gene
 ##### URL
 [https://arxiv.org/abs/1605.00855](https://arxiv.org/abs/1605.00855)
 
+##### PDF
+[https://arxiv.org/pdf/1605.00855](https://arxiv.org/pdf/1605.00855)
+

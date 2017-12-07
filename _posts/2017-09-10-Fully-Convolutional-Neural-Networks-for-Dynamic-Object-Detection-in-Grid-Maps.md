@@ -20,3 +20,6 @@ Grid maps are widely used in robotics to represent obstacles in the environment 
 ##### URL
 [https://arxiv.org/abs/1709.03139](https://arxiv.org/abs/1709.03139)
 
+##### PDF
+[https://arxiv.org/pdf/1709.03139](https://arxiv.org/pdf/1709.03139)
+

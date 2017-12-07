@@ -20,3 +20,6 @@ The region-based Convolutional Neural Network (CNN) detectors such as Faster R-C
 ##### URL
 [https://arxiv.org/abs/1708.02863](https://arxiv.org/abs/1708.02863)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02863](https://arxiv.org/pdf/1708.02863)
+

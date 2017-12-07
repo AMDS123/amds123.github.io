@@ -20,3 +20,6 @@ While generative models such as Latent Dirichlet Allocation (LDA) have proven fr
 ##### URL
 [http://arxiv.org/abs/1611.10277](http://arxiv.org/abs/1611.10277)
 
+##### PDF
+[http://arxiv.org/pdf/1611.10277](http://arxiv.org/pdf/1611.10277)
+

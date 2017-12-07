@@ -20,3 +20,6 @@ In spite of the recent success of neural machine translation (NMT) in standard b
 ##### URL
 [https://arxiv.org/abs/1710.11041](https://arxiv.org/abs/1710.11041)
 
+##### PDF
+[https://arxiv.org/pdf/1710.11041](https://arxiv.org/pdf/1710.11041)
+

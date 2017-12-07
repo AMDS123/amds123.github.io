@@ -20,3 +20,6 @@ The task of generating natural language descriptions from images has received a 
 ##### URL
 [https://arxiv.org/abs/1612.07600](https://arxiv.org/abs/1612.07600)
 
+##### PDF
+[https://arxiv.org/pdf/1612.07600](https://arxiv.org/pdf/1612.07600)
+

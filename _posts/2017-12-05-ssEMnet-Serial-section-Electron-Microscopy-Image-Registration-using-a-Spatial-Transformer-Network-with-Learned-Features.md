@@ -20,3 +20,6 @@ The alignment of serial-section electron microscopy (ssEM) images is critical fo
 ##### URL
 [http://arxiv.org/abs/1707.07833](http://arxiv.org/abs/1707.07833)
 
+##### PDF
+[http://arxiv.org/pdf/1707.07833](http://arxiv.org/pdf/1707.07833)
+

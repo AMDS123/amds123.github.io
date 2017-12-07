@@ -20,3 +20,6 @@ Image segmentation from referring expressions is a joint vision and language mod
 ##### URL
 [https://arxiv.org/abs/1608.08305](https://arxiv.org/abs/1608.08305)
 
+##### PDF
+[https://arxiv.org/pdf/1608.08305](https://arxiv.org/pdf/1608.08305)
+

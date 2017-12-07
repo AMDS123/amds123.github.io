@@ -20,3 +20,6 @@ Information extraction from textual documents such as hospital records and healt
 ##### URL
 [http://arxiv.org/abs/1712.01213](http://arxiv.org/abs/1712.01213)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01213](http://arxiv.org/pdf/1712.01213)
+

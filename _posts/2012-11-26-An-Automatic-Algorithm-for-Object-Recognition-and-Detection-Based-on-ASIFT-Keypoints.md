@@ -20,3 +20,6 @@ Object recognition is an important task in image processing and computer vision.
 ##### URL
 [https://arxiv.org/abs/1211.5829](https://arxiv.org/abs/1211.5829)
 
+##### PDF
+[https://arxiv.org/pdf/1211.5829](https://arxiv.org/pdf/1211.5829)
+

@@ -20,3 +20,6 @@ This paper introduces THUMT, an open-source toolkit for neural machine translati
 ##### URL
 [https://arxiv.org/abs/1706.06415](https://arxiv.org/abs/1706.06415)
 
+##### PDF
+[https://arxiv.org/pdf/1706.06415](https://arxiv.org/pdf/1706.06415)
+

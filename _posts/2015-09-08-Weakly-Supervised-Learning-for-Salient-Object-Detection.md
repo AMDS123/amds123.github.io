@@ -20,3 +20,6 @@ Recent advances in supervised salient object detection has resulted in significa
 ##### URL
 [https://arxiv.org/abs/1501.07492](https://arxiv.org/abs/1501.07492)
 
+##### PDF
+[https://arxiv.org/pdf/1501.07492](https://arxiv.org/pdf/1501.07492)
+

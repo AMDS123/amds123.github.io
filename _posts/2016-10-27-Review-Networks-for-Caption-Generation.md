@@ -20,3 +20,6 @@ We propose a novel extension of the encoder-decoder framework, called a review n
 ##### URL
 [https://arxiv.org/abs/1605.07912](https://arxiv.org/abs/1605.07912)
 
+##### PDF
+[https://arxiv.org/pdf/1605.07912](https://arxiv.org/pdf/1605.07912)
+

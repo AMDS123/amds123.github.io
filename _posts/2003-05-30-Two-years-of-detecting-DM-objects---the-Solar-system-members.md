@@ -20,3 +20,6 @@ With a probability >99% there are grounds to believe that our works on detection
 ##### URL
 [https://arxiv.org/abs/astro-ph/0305597](https://arxiv.org/abs/astro-ph/0305597)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0305597](https://arxiv.org/pdf/astro-ph/0305597)
+

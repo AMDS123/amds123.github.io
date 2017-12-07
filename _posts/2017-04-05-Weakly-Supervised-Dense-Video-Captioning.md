@@ -20,3 +20,6 @@ This paper focuses on a novel and challenging vision task, dense video captionin
 ##### URL
 [https://arxiv.org/abs/1704.01502](https://arxiv.org/abs/1704.01502)
 
+##### PDF
+[https://arxiv.org/pdf/1704.01502](https://arxiv.org/pdf/1704.01502)
+

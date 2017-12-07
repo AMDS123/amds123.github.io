@@ -20,3 +20,6 @@ R-CNN风格的方法是一种最先进的对象检测方法，由区域提案生
 ##### URL
 [https://arxiv.org/abs/1601.06719](https://arxiv.org/abs/1601.06719)
 
+##### PDF
+[https://arxiv.org/pdf/1601.06719](https://arxiv.org/pdf/1601.06719)
+

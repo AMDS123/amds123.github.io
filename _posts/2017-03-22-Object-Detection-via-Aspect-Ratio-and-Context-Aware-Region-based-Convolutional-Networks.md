@@ -20,3 +20,6 @@ Jointly integrating aspect ratio and context has been extensively studied and sh
 ##### URL
 [https://arxiv.org/abs/1612.00534](https://arxiv.org/abs/1612.00534)
 
+##### PDF
+[https://arxiv.org/pdf/1612.00534](https://arxiv.org/pdf/1612.00534)
+

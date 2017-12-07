@@ -20,3 +20,6 @@ The visual cues from multiple support regions of different sizes and resolutions
 ##### URL
 [https://arxiv.org/abs/1610.02579](https://arxiv.org/abs/1610.02579)
 
+##### PDF
+[https://arxiv.org/pdf/1610.02579](https://arxiv.org/pdf/1610.02579)
+

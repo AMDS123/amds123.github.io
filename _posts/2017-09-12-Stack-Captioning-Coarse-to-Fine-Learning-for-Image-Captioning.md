@@ -20,3 +20,6 @@ The existing image captioning approaches typically train a one-stage sentence de
 ##### URL
 [https://arxiv.org/abs/1709.03376](https://arxiv.org/abs/1709.03376)
 
+##### PDF
+[https://arxiv.org/pdf/1709.03376](https://arxiv.org/pdf/1709.03376)
+

@@ -20,3 +20,6 @@ Predicting discharge medications right after a patient being admitted is an impo
 ##### URL
 [http://arxiv.org/abs/1711.01386](http://arxiv.org/abs/1711.01386)
 
+##### PDF
+[http://arxiv.org/pdf/1711.01386](http://arxiv.org/pdf/1711.01386)
+

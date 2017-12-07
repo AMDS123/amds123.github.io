@@ -20,3 +20,6 @@ Visual question answering as recently proposed multimodal learning task has enjo
 ##### URL
 [https://arxiv.org/abs/1708.00584](https://arxiv.org/abs/1708.00584)
 
+##### PDF
+[https://arxiv.org/pdf/1708.00584](https://arxiv.org/pdf/1708.00584)
+

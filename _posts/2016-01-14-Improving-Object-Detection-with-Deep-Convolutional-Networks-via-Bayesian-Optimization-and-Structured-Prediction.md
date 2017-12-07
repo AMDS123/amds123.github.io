@@ -20,3 +20,6 @@ Object detection systems based on the deep convolutional neural network (CNN) ha
 ##### URL
 [https://arxiv.org/abs/1504.03293](https://arxiv.org/abs/1504.03293)
 
+##### PDF
+[https://arxiv.org/pdf/1504.03293](https://arxiv.org/pdf/1504.03293)
+

@@ -20,3 +20,6 @@ Despite the recent progress in image dehazing, several problems remain largely u
 ##### URL
 [http://arxiv.org/abs/1712.00621](http://arxiv.org/abs/1712.00621)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00621](http://arxiv.org/pdf/1712.00621)
+

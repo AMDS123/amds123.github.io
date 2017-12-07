@@ -20,3 +20,6 @@ There has recently been significant interest in hard attention models for tasks 
 ##### URL
 [https://arxiv.org/abs/1705.05524](https://arxiv.org/abs/1705.05524)
 
+##### PDF
+[https://arxiv.org/pdf/1705.05524](https://arxiv.org/pdf/1705.05524)
+

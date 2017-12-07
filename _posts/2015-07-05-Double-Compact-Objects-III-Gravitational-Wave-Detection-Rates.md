@@ -20,3 +20,6 @@ The unprecedented range of second-generation gravitational-wave (GW) observatori
 ##### URL
 [https://arxiv.org/abs/1405.7016](https://arxiv.org/abs/1405.7016)
 
+##### PDF
+[https://arxiv.org/pdf/1405.7016](https://arxiv.org/pdf/1405.7016)
+

@@ -20,3 +20,6 @@ We study the contribution of binary black hole (BH-BH) mergers from the first, m
 ##### URL
 [https://arxiv.org/abs/1612.01524](https://arxiv.org/abs/1612.01524)
 
+##### PDF
+[https://arxiv.org/pdf/1612.01524](https://arxiv.org/pdf/1612.01524)
+

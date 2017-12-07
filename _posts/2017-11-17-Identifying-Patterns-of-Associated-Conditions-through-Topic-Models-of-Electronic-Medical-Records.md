@@ -20,3 +20,6 @@ Multiple adverse health conditions co-occurring in a patient are typically assoc
 ##### URL
 [https://arxiv.org/abs/1711.10960](https://arxiv.org/abs/1711.10960)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10960](https://arxiv.org/pdf/1711.10960)
+

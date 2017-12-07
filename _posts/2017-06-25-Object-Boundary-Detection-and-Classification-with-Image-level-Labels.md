@@ -20,3 +20,6 @@ Semantic boundary and edge detection aims at simultaneously detecting object edg
 ##### URL
 [https://arxiv.org/abs/1606.09187](https://arxiv.org/abs/1606.09187)
 
+##### PDF
+[https://arxiv.org/pdf/1606.09187](https://arxiv.org/pdf/1606.09187)
+

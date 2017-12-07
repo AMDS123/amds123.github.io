@@ -20,3 +20,6 @@ A very high energy (VHE) gamma-ray signal has been detected at the 5.4 sigma lev
 ##### URL
 [https://arxiv.org/abs/astro-ph/0202185](https://arxiv.org/abs/astro-ph/0202185)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0202185](https://arxiv.org/pdf/astro-ph/0202185)
+

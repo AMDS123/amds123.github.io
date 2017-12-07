@@ -20,3 +20,6 @@ In this paper, we offer an in-depth analysis about the modeling and search perfo
 ##### URL
 [https://arxiv.org/abs/1708.00563](https://arxiv.org/abs/1708.00563)
 
+##### PDF
+[https://arxiv.org/pdf/1708.00563](https://arxiv.org/pdf/1708.00563)
+

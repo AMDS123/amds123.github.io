@@ -20,3 +20,6 @@ We consider the quantum capture of nonrelativistic massive particle by the movin
 ##### URL
 [https://arxiv.org/abs/1202.2222](https://arxiv.org/abs/1202.2222)
 
+##### PDF
+[https://arxiv.org/pdf/1202.2222](https://arxiv.org/pdf/1202.2222)
+

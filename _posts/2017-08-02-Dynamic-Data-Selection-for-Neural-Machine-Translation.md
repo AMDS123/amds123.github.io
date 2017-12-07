@@ -20,3 +20,6 @@ Intelligent selection of training data has proven a successful technique to simu
 ##### URL
 [https://arxiv.org/abs/1708.00712](https://arxiv.org/abs/1708.00712)
 
+##### PDF
+[https://arxiv.org/pdf/1708.00712](https://arxiv.org/pdf/1708.00712)
+

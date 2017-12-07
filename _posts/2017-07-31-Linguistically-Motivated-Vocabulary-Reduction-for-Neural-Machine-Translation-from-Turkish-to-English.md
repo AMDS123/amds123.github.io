@@ -20,3 +20,6 @@ The necessity of using a fixed-size word vocabulary in order to control the mode
 ##### URL
 [https://arxiv.org/abs/1707.09879](https://arxiv.org/abs/1707.09879)
 
+##### PDF
+[https://arxiv.org/pdf/1707.09879](https://arxiv.org/pdf/1707.09879)
+

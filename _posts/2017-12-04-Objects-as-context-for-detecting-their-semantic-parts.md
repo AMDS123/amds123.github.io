@@ -20,3 +20,6 @@ We present a semantic part detection approach that effectively leverages object 
 ##### URL
 [http://arxiv.org/abs/1703.09529](http://arxiv.org/abs/1703.09529)
 
+##### PDF
+[http://arxiv.org/pdf/1703.09529](http://arxiv.org/pdf/1703.09529)
+

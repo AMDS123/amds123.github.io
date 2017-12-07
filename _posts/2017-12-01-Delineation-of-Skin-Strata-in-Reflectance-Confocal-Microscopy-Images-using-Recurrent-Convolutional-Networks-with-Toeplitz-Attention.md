@@ -20,3 +20,6 @@ Reflectance confocal microscopy (RCM) is an effective, non-invasive pre-screenin
 ##### URL
 [https://arxiv.org/abs/1712.00192](https://arxiv.org/abs/1712.00192)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00192](https://arxiv.org/pdf/1712.00192)
+

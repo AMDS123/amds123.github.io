@@ -20,3 +20,6 @@ Recently visual question answering (VQA) and visual question generation (VQG) ar
 ##### URL
 [https://arxiv.org/abs/1709.07192](https://arxiv.org/abs/1709.07192)
 
+##### PDF
+[https://arxiv.org/pdf/1709.07192](https://arxiv.org/pdf/1709.07192)
+

@@ -20,3 +20,6 @@ Efficient generation of high-quality object proposals is an essential step in st
 ##### URL
 [https://arxiv.org/abs/1510.01257](https://arxiv.org/abs/1510.01257)
 
+##### PDF
+[https://arxiv.org/pdf/1510.01257](https://arxiv.org/pdf/1510.01257)
+

@@ -20,3 +20,6 @@ Existing neural machine translation (NMT) models generally translate sentences i
 ##### URL
 [https://arxiv.org/abs/1711.09367](https://arxiv.org/abs/1711.09367)
 
+##### PDF
+[https://arxiv.org/pdf/1711.09367](https://arxiv.org/pdf/1711.09367)
+

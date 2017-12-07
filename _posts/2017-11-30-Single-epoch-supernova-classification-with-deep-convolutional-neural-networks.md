@@ -20,3 +20,6 @@ Supernovae Type-Ia (SNeIa) play a significant role in exploring the history of t
 ##### URL
 [https://arxiv.org/abs/1711.11526](https://arxiv.org/abs/1711.11526)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11526](https://arxiv.org/pdf/1711.11526)
+

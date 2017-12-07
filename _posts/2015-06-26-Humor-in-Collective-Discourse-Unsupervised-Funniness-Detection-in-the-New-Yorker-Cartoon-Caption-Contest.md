@@ -20,3 +20,6 @@ The New Yorker publishes a weekly captionless cartoon. More than 5,000 readers s
 ##### URL
 [https://arxiv.org/abs/1506.08126](https://arxiv.org/abs/1506.08126)
 
+##### PDF
+[https://arxiv.org/pdf/1506.08126](https://arxiv.org/pdf/1506.08126)
+

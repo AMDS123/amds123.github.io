@@ -20,3 +20,6 @@ We propose a weakly-supervised approach that takes image-sentence pairs as input
 ##### URL
 [https://arxiv.org/abs/1705.01371](https://arxiv.org/abs/1705.01371)
 
+##### PDF
+[https://arxiv.org/pdf/1705.01371](https://arxiv.org/pdf/1705.01371)
+

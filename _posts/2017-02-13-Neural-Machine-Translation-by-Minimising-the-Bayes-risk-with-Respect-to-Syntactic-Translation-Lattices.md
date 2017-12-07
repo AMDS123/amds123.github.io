@@ -20,3 +20,6 @@ We present a novel scheme to combine neural machine translation (NMT) with tradi
 ##### URL
 [https://arxiv.org/abs/1612.03791](https://arxiv.org/abs/1612.03791)
 
+##### PDF
+[https://arxiv.org/pdf/1612.03791](https://arxiv.org/pdf/1612.03791)
+

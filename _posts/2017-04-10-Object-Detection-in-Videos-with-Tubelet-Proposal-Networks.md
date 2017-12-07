@@ -20,3 +20,6 @@ Object detection in videos has drawn increasing attention recently with the intr
 ##### URL
 [https://arxiv.org/abs/1702.06355](https://arxiv.org/abs/1702.06355)
 
+##### PDF
+[https://arxiv.org/pdf/1702.06355](https://arxiv.org/pdf/1702.06355)
+

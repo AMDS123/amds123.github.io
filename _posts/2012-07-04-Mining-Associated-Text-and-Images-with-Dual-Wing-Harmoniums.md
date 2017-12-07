@@ -20,3 +20,6 @@ We propose a multi-wing harmonium model for mining multimedia data that extends 
 ##### URL
 [https://arxiv.org/abs/1207.1423](https://arxiv.org/abs/1207.1423)
 
+##### PDF
+[https://arxiv.org/pdf/1207.1423](https://arxiv.org/pdf/1207.1423)
+

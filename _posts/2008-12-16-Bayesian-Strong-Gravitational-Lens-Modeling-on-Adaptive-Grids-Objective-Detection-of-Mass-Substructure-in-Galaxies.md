@@ -20,3 +20,6 @@ We introduce a new adaptive and fully Bayesian grid-based method to model strong
 ##### URL
 [https://arxiv.org/abs/0805.0201](https://arxiv.org/abs/0805.0201)
 
+##### PDF
+[https://arxiv.org/pdf/0805.0201](https://arxiv.org/pdf/0805.0201)
+

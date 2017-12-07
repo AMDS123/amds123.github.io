@@ -20,3 +20,6 @@ Learning a joint language-visual embedding has a number of very appealing proper
 ##### URL
 [https://arxiv.org/abs/1609.08124](https://arxiv.org/abs/1609.08124)
 
+##### PDF
+[https://arxiv.org/pdf/1609.08124](https://arxiv.org/pdf/1609.08124)
+

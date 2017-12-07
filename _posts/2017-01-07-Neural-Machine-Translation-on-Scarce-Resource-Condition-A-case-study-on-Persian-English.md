@@ -20,3 +20,6 @@ Neural Machine Translation (NMT) is a new approach for Machine Translation (MT),
 ##### URL
 [https://arxiv.org/abs/1701.01854](https://arxiv.org/abs/1701.01854)
 
+##### PDF
+[https://arxiv.org/pdf/1701.01854](https://arxiv.org/pdf/1701.01854)
+

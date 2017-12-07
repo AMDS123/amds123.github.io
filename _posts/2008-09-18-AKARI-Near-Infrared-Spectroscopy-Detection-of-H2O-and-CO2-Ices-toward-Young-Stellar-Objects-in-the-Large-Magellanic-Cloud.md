@@ -20,3 +20,6 @@ We present the first results of AKARI Infrared Camera near-infrared spec- trosco
 ##### URL
 [https://arxiv.org/abs/0809.3073](https://arxiv.org/abs/0809.3073)
 
+##### PDF
+[https://arxiv.org/pdf/0809.3073](https://arxiv.org/pdf/0809.3073)
+

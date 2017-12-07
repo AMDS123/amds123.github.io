@@ -20,3 +20,6 @@ Large scale object detection with thousands of classes introduces the problem of
 ##### URL
 [https://arxiv.org/abs/1510.02949](https://arxiv.org/abs/1510.02949)
 
+##### PDF
+[https://arxiv.org/pdf/1510.02949](https://arxiv.org/pdf/1510.02949)
+

@@ -20,3 +20,6 @@ Neural Machine Translation (NMT) has shown remarkable progress over the past few
 ##### URL
 [https://arxiv.org/abs/1703.03906](https://arxiv.org/abs/1703.03906)
 
+##### PDF
+[https://arxiv.org/pdf/1703.03906](https://arxiv.org/pdf/1703.03906)
+

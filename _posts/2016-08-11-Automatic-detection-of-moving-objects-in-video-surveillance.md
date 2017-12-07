@@ -20,3 +20,6 @@ This work is in the field of video surveillance including motion detection. The 
 ##### URL
 [https://arxiv.org/abs/1608.03617](https://arxiv.org/abs/1608.03617)
 
+##### PDF
+[https://arxiv.org/pdf/1608.03617](https://arxiv.org/pdf/1608.03617)
+

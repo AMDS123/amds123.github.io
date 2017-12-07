@@ -20,3 +20,6 @@ Real-world videos often have complex dynamics; and methods for generating open-d
 ##### URL
 [https://arxiv.org/abs/1505.00487](https://arxiv.org/abs/1505.00487)
 
+##### PDF
+[https://arxiv.org/pdf/1505.00487](https://arxiv.org/pdf/1505.00487)
+

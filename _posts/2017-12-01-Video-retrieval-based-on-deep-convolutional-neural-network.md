@@ -20,3 +20,6 @@ Recently, with the enormous growth of online videos, fast video retrieval resear
 ##### URL
 [https://arxiv.org/abs/1712.00133](https://arxiv.org/abs/1712.00133)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00133](https://arxiv.org/pdf/1712.00133)
+

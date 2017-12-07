@@ -20,3 +20,6 @@ We consider the problem of learning a one-hidden-layer neural network with non-o
 ##### URL
 [http://arxiv.org/abs/1712.00779](http://arxiv.org/abs/1712.00779)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00779](http://arxiv.org/pdf/1712.00779)
+

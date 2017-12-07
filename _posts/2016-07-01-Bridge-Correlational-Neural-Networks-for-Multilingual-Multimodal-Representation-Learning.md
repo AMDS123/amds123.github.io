@@ -20,3 +20,6 @@ Recently there has been a lot of interest in learning common representations for
 ##### URL
 [https://arxiv.org/abs/1510.03519](https://arxiv.org/abs/1510.03519)
 
+##### PDF
+[https://arxiv.org/pdf/1510.03519](https://arxiv.org/pdf/1510.03519)
+

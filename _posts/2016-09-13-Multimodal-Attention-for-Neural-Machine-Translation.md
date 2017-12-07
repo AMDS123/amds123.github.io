@@ -20,3 +20,6 @@ The attention mechanism is an important part of the neural machine translation (
 ##### URL
 [https://arxiv.org/abs/1609.03976](https://arxiv.org/abs/1609.03976)
 
+##### PDF
+[https://arxiv.org/pdf/1609.03976](https://arxiv.org/pdf/1609.03976)
+

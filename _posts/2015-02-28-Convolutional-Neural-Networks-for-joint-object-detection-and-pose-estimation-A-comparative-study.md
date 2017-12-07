@@ -20,3 +20,6 @@ In this paper we study the application of convolutional neural networks for join
 ##### URL
 [https://arxiv.org/abs/1412.7190](https://arxiv.org/abs/1412.7190)
 
+##### PDF
+[https://arxiv.org/pdf/1412.7190](https://arxiv.org/pdf/1412.7190)
+

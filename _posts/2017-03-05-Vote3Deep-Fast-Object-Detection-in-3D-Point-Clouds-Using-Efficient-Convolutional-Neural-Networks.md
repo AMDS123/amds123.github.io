@@ -20,3 +20,6 @@ This paper proposes a computationally efficient approach to detecting objects na
 ##### URL
 [https://arxiv.org/abs/1609.06666](https://arxiv.org/abs/1609.06666)
 
+##### PDF
+[https://arxiv.org/pdf/1609.06666](https://arxiv.org/pdf/1609.06666)
+

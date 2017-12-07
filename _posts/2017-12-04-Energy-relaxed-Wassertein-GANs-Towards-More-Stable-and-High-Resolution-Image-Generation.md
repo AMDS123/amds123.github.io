@@ -20,3 +20,6 @@ Recently, generative adversarial networks (GANs) have achieved great impacts on 
 ##### URL
 [http://arxiv.org/abs/1712.01026](http://arxiv.org/abs/1712.01026)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01026](http://arxiv.org/pdf/1712.01026)
+

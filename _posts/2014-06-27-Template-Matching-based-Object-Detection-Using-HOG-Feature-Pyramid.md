@@ -20,3 +20,6 @@ This article provides a step by step development of designing a Object Detection
 ##### URL
 [https://arxiv.org/abs/1406.7120](https://arxiv.org/abs/1406.7120)
 
+##### PDF
+[https://arxiv.org/pdf/1406.7120](https://arxiv.org/pdf/1406.7120)
+

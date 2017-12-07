@@ -20,3 +20,6 @@ We study the colour changes induced by blending in a wormhole-like microlensing 
 ##### URL
 [https://arxiv.org/abs/gr-qc/0109041](https://arxiv.org/abs/gr-qc/0109041)
 
+##### PDF
+[https://arxiv.org/pdf/gr-qc/0109041](https://arxiv.org/pdf/gr-qc/0109041)
+

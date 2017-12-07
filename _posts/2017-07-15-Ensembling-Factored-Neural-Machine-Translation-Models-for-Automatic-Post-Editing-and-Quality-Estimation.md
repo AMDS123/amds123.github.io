@@ -20,3 +20,6 @@ This work presents a novel approach to Automatic Post-Editing (APE) and Word-Lev
 ##### URL
 [https://arxiv.org/abs/1706.05083](https://arxiv.org/abs/1706.05083)
 
+##### PDF
+[https://arxiv.org/pdf/1706.05083](https://arxiv.org/pdf/1706.05083)
+

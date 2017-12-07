@@ -20,3 +20,6 @@ We address personalization issues of image captioning, which have not been discu
 ##### URL
 [https://arxiv.org/abs/1704.06485](https://arxiv.org/abs/1704.06485)
 
+##### PDF
+[https://arxiv.org/pdf/1704.06485](https://arxiv.org/pdf/1704.06485)
+

@@ -20,3 +20,6 @@ Image cropping aims at improving the aesthetic quality of images by adjusting th
 ##### URL
 [http://arxiv.org/abs/1709.04595](http://arxiv.org/abs/1709.04595)
 
+##### PDF
+[http://arxiv.org/pdf/1709.04595](http://arxiv.org/pdf/1709.04595)
+

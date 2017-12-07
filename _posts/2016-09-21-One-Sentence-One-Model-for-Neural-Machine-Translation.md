@@ -20,3 +20,6 @@ Neural machine translation (NMT) becomes a new state-of-the-art and achieves pro
 ##### URL
 [https://arxiv.org/abs/1609.06490](https://arxiv.org/abs/1609.06490)
 
+##### PDF
+[https://arxiv.org/pdf/1609.06490](https://arxiv.org/pdf/1609.06490)
+

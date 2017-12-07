@@ -20,3 +20,6 @@ Deep convolutional neural network (CNN) based salient object detection methods h
 ##### URL
 [https://arxiv.org/abs/1706.00530](https://arxiv.org/abs/1706.00530)
 
+##### PDF
+[https://arxiv.org/pdf/1706.00530](https://arxiv.org/pdf/1706.00530)
+

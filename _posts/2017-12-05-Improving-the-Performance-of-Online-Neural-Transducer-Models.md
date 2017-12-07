@@ -20,3 +20,6 @@ Having a sequence-to-sequence model which can operate in an online fashion is im
 ##### URL
 [http://arxiv.org/abs/1712.01807](http://arxiv.org/abs/1712.01807)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01807](http://arxiv.org/pdf/1712.01807)
+

@@ -20,3 +20,6 @@ Automatically describing an image with a natural language has been an emerging c
 ##### URL
 [https://arxiv.org/abs/1611.01646](https://arxiv.org/abs/1611.01646)
 
+##### PDF
+[https://arxiv.org/pdf/1611.01646](https://arxiv.org/pdf/1611.01646)
+

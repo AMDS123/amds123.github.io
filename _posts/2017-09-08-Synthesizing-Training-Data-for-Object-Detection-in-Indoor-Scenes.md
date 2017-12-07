@@ -20,3 +20,6 @@ Detection of objects in cluttered indoor environments is one of the key enabling
 ##### URL
 [https://arxiv.org/abs/1702.07836](https://arxiv.org/abs/1702.07836)
 
+##### PDF
+[https://arxiv.org/pdf/1702.07836](https://arxiv.org/pdf/1702.07836)
+

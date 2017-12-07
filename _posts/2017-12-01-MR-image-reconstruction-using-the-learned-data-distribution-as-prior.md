@@ -20,3 +20,6 @@ MR image reconstruction from undersampled data exploits priors to compensate for
 ##### URL
 [https://arxiv.org/abs/1711.11386](https://arxiv.org/abs/1711.11386)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11386](https://arxiv.org/pdf/1711.11386)
+

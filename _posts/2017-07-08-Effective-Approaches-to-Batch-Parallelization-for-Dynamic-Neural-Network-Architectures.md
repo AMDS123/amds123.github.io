@@ -20,3 +20,6 @@ We present a simple dynamic batching approach applicable to a large class of dyn
 ##### URL
 [https://arxiv.org/abs/1707.02402](https://arxiv.org/abs/1707.02402)
 
+##### PDF
+[https://arxiv.org/pdf/1707.02402](https://arxiv.org/pdf/1707.02402)
+

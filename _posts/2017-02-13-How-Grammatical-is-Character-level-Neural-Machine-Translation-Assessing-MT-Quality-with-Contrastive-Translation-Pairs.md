@@ -20,3 +20,6 @@ Analysing translation quality in regards to specific linguistic phenomena has hi
 ##### URL
 [https://arxiv.org/abs/1612.04629](https://arxiv.org/abs/1612.04629)
 
+##### PDF
+[https://arxiv.org/pdf/1612.04629](https://arxiv.org/pdf/1612.04629)
+

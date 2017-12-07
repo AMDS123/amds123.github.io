@@ -20,3 +20,6 @@ A database of radio-quiet quasars detected with ROSAT is presented containing 84
 ##### URL
 [https://arxiv.org/abs/astro-ph/9805015](https://arxiv.org/abs/astro-ph/9805015)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/9805015](https://arxiv.org/pdf/astro-ph/9805015)
+

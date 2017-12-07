@@ -20,3 +20,6 @@ With the recent popularity of animated GIFs on social media, there is need for w
 ##### URL
 [https://arxiv.org/abs/1604.02748](https://arxiv.org/abs/1604.02748)
 
+##### PDF
+[https://arxiv.org/pdf/1604.02748](https://arxiv.org/pdf/1604.02748)
+

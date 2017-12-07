@@ -20,3 +20,6 @@ Deep convolutional neural networks have recently achieved state-of-the-art perfo
 ##### URL
 [https://arxiv.org/abs/1312.2249](https://arxiv.org/abs/1312.2249)
 
+##### PDF
+[https://arxiv.org/pdf/1312.2249](https://arxiv.org/pdf/1312.2249)
+

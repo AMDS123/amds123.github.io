@@ -20,3 +20,6 @@ Conventional attention-based Neural Machine Translation (NMT) conducts dynamic a
 ##### URL
 [https://arxiv.org/abs/1610.05011](https://arxiv.org/abs/1610.05011)
 
+##### PDF
+[https://arxiv.org/pdf/1610.05011](https://arxiv.org/pdf/1610.05011)
+

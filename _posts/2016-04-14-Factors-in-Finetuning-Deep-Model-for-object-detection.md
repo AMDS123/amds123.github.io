@@ -20,3 +20,6 @@ Finetuning from a pretrained deep model is found to yield state-of-the-art perfo
 ##### URL
 [https://arxiv.org/abs/1601.05150](https://arxiv.org/abs/1601.05150)
 
+##### PDF
+[https://arxiv.org/pdf/1601.05150](https://arxiv.org/pdf/1601.05150)
+

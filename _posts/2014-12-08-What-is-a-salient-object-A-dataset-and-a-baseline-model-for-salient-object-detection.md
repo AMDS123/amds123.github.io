@@ -20,3 +20,6 @@ Salient object detection or salient region detection models, diverging from fixa
 ##### URL
 [https://arxiv.org/abs/1412.5027](https://arxiv.org/abs/1412.5027)
 
+##### PDF
+[https://arxiv.org/pdf/1412.5027](https://arxiv.org/pdf/1412.5027)
+

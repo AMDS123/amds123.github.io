@@ -20,3 +20,6 @@ In this paper, we propose a Computer Assisted Diagnosis (CAD) system based on a 
 ##### URL
 [https://arxiv.org/abs/1711.10752](https://arxiv.org/abs/1711.10752)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10752](https://arxiv.org/pdf/1711.10752)
+

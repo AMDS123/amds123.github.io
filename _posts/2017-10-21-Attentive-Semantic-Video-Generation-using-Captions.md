@@ -20,3 +20,6 @@ This paper proposes a network architecture to perform variable length semantic v
 ##### URL
 [https://arxiv.org/abs/1708.05980](https://arxiv.org/abs/1708.05980)
 
+##### PDF
+[https://arxiv.org/pdf/1708.05980](https://arxiv.org/pdf/1708.05980)
+

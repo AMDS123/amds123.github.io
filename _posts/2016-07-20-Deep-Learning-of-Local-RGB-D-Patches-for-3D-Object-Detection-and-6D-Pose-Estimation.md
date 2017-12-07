@@ -20,3 +20,6 @@ We present a 3D object detection method that uses regressed descriptors of local
 ##### URL
 [https://arxiv.org/abs/1607.06038](https://arxiv.org/abs/1607.06038)
 
+##### PDF
+[https://arxiv.org/pdf/1607.06038](https://arxiv.org/pdf/1607.06038)
+

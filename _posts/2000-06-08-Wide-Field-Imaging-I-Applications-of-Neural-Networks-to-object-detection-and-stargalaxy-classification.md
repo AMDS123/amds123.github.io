@@ -20,3 +20,6 @@ mathjax: true
 ##### URL
 [https://arxiv.org/abs/astro-ph/0006115](https://arxiv.org/abs/astro-ph/0006115)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0006115](https://arxiv.org/pdf/astro-ph/0006115)
+

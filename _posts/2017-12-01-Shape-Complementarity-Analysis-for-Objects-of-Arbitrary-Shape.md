@@ -20,3 +20,6 @@ The basic problem of shape complementarity analysis appears fundamental to appli
 ##### URL
 [http://arxiv.org/abs/1712.00238](http://arxiv.org/abs/1712.00238)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00238](http://arxiv.org/pdf/1712.00238)
+

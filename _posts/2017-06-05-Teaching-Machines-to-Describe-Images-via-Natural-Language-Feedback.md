@@ -20,3 +20,6 @@ Robots will eventually be part of every household. It is thus critical to enable
 ##### URL
 [https://arxiv.org/abs/1706.00130](https://arxiv.org/abs/1706.00130)
 
+##### PDF
+[https://arxiv.org/pdf/1706.00130](https://arxiv.org/pdf/1706.00130)
+

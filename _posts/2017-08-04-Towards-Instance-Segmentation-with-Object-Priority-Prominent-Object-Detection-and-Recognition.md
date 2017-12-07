@@ -20,3 +20,6 @@ This manuscript introduces the problem of prominent object detection and recogni
 ##### URL
 [https://arxiv.org/abs/1704.07402](https://arxiv.org/abs/1704.07402)
 
+##### PDF
+[https://arxiv.org/pdf/1704.07402](https://arxiv.org/pdf/1704.07402)
+

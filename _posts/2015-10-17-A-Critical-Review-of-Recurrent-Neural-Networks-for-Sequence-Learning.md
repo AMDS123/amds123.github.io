@@ -20,3 +20,6 @@ Countless learning tasks require dealing with sequential data. Image captioning,
 ##### URL
 [https://arxiv.org/abs/1506.00019](https://arxiv.org/abs/1506.00019)
 
+##### PDF
+[https://arxiv.org/pdf/1506.00019](https://arxiv.org/pdf/1506.00019)
+

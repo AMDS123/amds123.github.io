@@ -20,3 +20,6 @@ Nearly all previous work on neural machine translation (NMT) has used quite rest
 ##### URL
 [https://arxiv.org/abs/1604.00788](https://arxiv.org/abs/1604.00788)
 
+##### PDF
+[https://arxiv.org/pdf/1604.00788](https://arxiv.org/pdf/1604.00788)
+

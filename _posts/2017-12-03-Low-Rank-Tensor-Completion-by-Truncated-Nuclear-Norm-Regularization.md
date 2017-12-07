@@ -20,3 +20,6 @@ Currently, low-rank tensor completion has gained cumulative attention in recover
 ##### URL
 [http://arxiv.org/abs/1712.00704](http://arxiv.org/abs/1712.00704)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00704](http://arxiv.org/pdf/1712.00704)
+

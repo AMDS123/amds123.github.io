@@ -20,3 +20,6 @@ We focus on the task of amodal 3D object detection in RGB-D images, which aims t
 ##### URL
 [https://arxiv.org/abs/1511.02300](https://arxiv.org/abs/1511.02300)
 
+##### PDF
+[https://arxiv.org/pdf/1511.02300](https://arxiv.org/pdf/1511.02300)
+

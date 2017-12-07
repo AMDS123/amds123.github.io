@@ -20,3 +20,6 @@ Together with the development of more accurate methods in Computer Vision and Na
 ##### URL
 [https://arxiv.org/abs/1610.01076](https://arxiv.org/abs/1610.01076)
 
+##### PDF
+[https://arxiv.org/pdf/1610.01076](https://arxiv.org/pdf/1610.01076)
+

@@ -20,3 +20,6 @@ This paper introduces a novel method to perform transfer learning across domains
 ##### URL
 [https://arxiv.org/abs/1711.10125](https://arxiv.org/abs/1711.10125)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10125](https://arxiv.org/pdf/1711.10125)
+

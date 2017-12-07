@@ -20,3 +20,6 @@ We describe a very simple bag-of-words baseline for visual question answering. T
 ##### URL
 [https://arxiv.org/abs/1512.02167](https://arxiv.org/abs/1512.02167)
 
+##### PDF
+[https://arxiv.org/pdf/1512.02167](https://arxiv.org/pdf/1512.02167)
+

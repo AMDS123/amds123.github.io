@@ -20,3 +20,6 @@ We report the $\gamma$-ray detection of a young radio galaxy, PKS 1718$-$649, be
 ##### URL
 [https://arxiv.org/abs/1604.01987](https://arxiv.org/abs/1604.01987)
 
+##### PDF
+[https://arxiv.org/pdf/1604.01987](https://arxiv.org/pdf/1604.01987)
+

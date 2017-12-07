@@ -20,3 +20,6 @@ Much recent progress in Vision-to-Language problems has been achieved through a 
 ##### URL
 [https://arxiv.org/abs/1603.02814](https://arxiv.org/abs/1603.02814)
 
+##### PDF
+[https://arxiv.org/pdf/1603.02814](https://arxiv.org/pdf/1603.02814)
+

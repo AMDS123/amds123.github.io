@@ -20,3 +20,6 @@ Object detection in optical remote sensing images, being a fundamental but chall
 ##### URL
 [https://arxiv.org/abs/1603.06201](https://arxiv.org/abs/1603.06201)
 
+##### PDF
+[https://arxiv.org/pdf/1603.06201](https://arxiv.org/pdf/1603.06201)
+

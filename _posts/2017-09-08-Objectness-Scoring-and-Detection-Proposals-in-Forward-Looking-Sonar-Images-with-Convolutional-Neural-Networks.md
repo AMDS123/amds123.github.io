@@ -20,3 +20,6 @@ Forward-looking sonar can capture high resolution images of underwater scenes, b
 ##### URL
 [https://arxiv.org/abs/1709.02600](https://arxiv.org/abs/1709.02600)
 
+##### PDF
+[https://arxiv.org/pdf/1709.02600](https://arxiv.org/pdf/1709.02600)
+

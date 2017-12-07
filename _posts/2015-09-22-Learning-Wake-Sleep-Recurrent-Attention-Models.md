@@ -20,3 +20,6 @@ Despite their success, convolutional neural networks are computationally expensi
 ##### URL
 [https://arxiv.org/abs/1509.06812](https://arxiv.org/abs/1509.06812)
 
+##### PDF
+[https://arxiv.org/pdf/1509.06812](https://arxiv.org/pdf/1509.06812)
+

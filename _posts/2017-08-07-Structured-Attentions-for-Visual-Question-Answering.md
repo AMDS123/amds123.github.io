@@ -20,3 +20,6 @@ Visual attention, which assigns weights to image regions according to their rele
 ##### URL
 [https://arxiv.org/abs/1708.02071](https://arxiv.org/abs/1708.02071)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02071](https://arxiv.org/pdf/1708.02071)
+

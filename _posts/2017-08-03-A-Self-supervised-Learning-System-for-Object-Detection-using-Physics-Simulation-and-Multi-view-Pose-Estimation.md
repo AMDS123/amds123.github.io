@@ -20,3 +20,6 @@ Progress has been achieved recently in object detection given advancements in de
 ##### URL
 [https://arxiv.org/abs/1703.03347](https://arxiv.org/abs/1703.03347)
 
+##### PDF
+[https://arxiv.org/pdf/1703.03347](https://arxiv.org/pdf/1703.03347)
+

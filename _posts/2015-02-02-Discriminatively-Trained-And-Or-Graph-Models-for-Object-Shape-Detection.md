@@ -20,3 +20,6 @@ In this paper, we investigate a novel reconfigurable part-based model, namely An
 ##### URL
 [https://arxiv.org/abs/1502.00341](https://arxiv.org/abs/1502.00341)
 
+##### PDF
+[https://arxiv.org/pdf/1502.00341](https://arxiv.org/pdf/1502.00341)
+

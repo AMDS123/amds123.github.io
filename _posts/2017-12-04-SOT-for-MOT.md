@@ -20,3 +20,6 @@ In this paper we present a robust tracker to solve the multiple object tracking 
 ##### URL
 [http://arxiv.org/abs/1712.01059](http://arxiv.org/abs/1712.01059)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01059](http://arxiv.org/pdf/1712.01059)
+

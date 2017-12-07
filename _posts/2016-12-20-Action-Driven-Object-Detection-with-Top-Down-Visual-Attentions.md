@@ -20,3 +20,6 @@ A dominant paradigm for deep learning based object detection relies on a "bottom
 ##### URL
 [https://arxiv.org/abs/1612.06704](https://arxiv.org/abs/1612.06704)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06704](https://arxiv.org/pdf/1612.06704)
+

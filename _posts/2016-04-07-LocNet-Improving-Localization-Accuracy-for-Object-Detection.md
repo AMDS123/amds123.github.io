@@ -20,3 +20,6 @@ We propose a novel object localization methodology with the purpose of boosting 
 ##### URL
 [https://arxiv.org/abs/1511.07763](https://arxiv.org/abs/1511.07763)
 
+##### PDF
+[https://arxiv.org/pdf/1511.07763](https://arxiv.org/pdf/1511.07763)
+

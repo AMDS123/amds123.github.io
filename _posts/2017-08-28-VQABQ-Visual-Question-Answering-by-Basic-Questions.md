@@ -20,3 +20,6 @@ Taking an image and question as the input of our method, it can output the text-
 ##### URL
 [https://arxiv.org/abs/1703.06492](https://arxiv.org/abs/1703.06492)
 
+##### PDF
+[https://arxiv.org/pdf/1703.06492](https://arxiv.org/pdf/1703.06492)
+

@@ -20,3 +20,6 @@ In this paper, we propose a multi-object detection and tracking method using dep
 ##### URL
 [https://arxiv.org/abs/1603.03783](https://arxiv.org/abs/1603.03783)
 
+##### PDF
+[https://arxiv.org/pdf/1603.03783](https://arxiv.org/pdf/1603.03783)
+

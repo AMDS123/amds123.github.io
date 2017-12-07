@@ -20,3 +20,6 @@ In this paper, we propose a new long video dataset (called Track Long and Prospe
 ##### URL
 [http://arxiv.org/abs/1712.01358](http://arxiv.org/abs/1712.01358)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01358](http://arxiv.org/pdf/1712.01358)
+

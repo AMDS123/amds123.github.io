@@ -20,3 +20,6 @@ We describe the recovery of faint Main Belt comet P/2008 R1 Garradd using severa
 ##### URL
 [https://arxiv.org/abs/1209.3833](https://arxiv.org/abs/1209.3833)
 
+##### PDF
+[https://arxiv.org/pdf/1209.3833](https://arxiv.org/pdf/1209.3833)
+

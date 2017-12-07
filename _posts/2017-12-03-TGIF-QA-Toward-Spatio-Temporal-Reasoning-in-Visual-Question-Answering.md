@@ -20,3 +20,6 @@ Vision and language understanding has emerged as a subject undergoing intense st
 ##### URL
 [http://arxiv.org/abs/1704.04497](http://arxiv.org/abs/1704.04497)
 
+##### PDF
+[http://arxiv.org/pdf/1704.04497](http://arxiv.org/pdf/1704.04497)
+

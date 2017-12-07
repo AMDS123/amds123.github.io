@@ -20,3 +20,6 @@ Urban informatics explore data science methods to address different urban issues
 ##### URL
 [https://arxiv.org/abs/1706.09308](https://arxiv.org/abs/1706.09308)
 
+##### PDF
+[https://arxiv.org/pdf/1706.09308](https://arxiv.org/pdf/1706.09308)
+

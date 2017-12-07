@@ -20,3 +20,6 @@ Visual Question Answering (VQA) is the task of answering natural-language questi
 ##### URL
 [https://arxiv.org/abs/1606.06622](https://arxiv.org/abs/1606.06622)
 
+##### PDF
+[https://arxiv.org/pdf/1606.06622](https://arxiv.org/pdf/1606.06622)
+

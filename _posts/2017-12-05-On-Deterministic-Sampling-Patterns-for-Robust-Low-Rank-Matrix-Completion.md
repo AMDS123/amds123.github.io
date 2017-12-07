@@ -20,3 +20,6 @@ In this letter, we study the deterministic sampling patterns for the completion 
 ##### URL
 [http://arxiv.org/abs/1712.01628](http://arxiv.org/abs/1712.01628)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01628](http://arxiv.org/pdf/1712.01628)
+

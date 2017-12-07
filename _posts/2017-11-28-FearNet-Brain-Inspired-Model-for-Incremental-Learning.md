@@ -20,3 +20,6 @@ Incremental class learning involves sequentially learning classes in bursts of e
 ##### URL
 [https://arxiv.org/abs/1711.10563](https://arxiv.org/abs/1711.10563)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10563](https://arxiv.org/pdf/1711.10563)
+

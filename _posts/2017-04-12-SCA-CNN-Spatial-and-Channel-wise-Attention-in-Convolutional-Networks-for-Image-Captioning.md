@@ -20,3 +20,6 @@ Visual attention has been successfully applied in structural prediction tasks su
 ##### URL
 [https://arxiv.org/abs/1611.05594](https://arxiv.org/abs/1611.05594)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05594](https://arxiv.org/pdf/1611.05594)
+

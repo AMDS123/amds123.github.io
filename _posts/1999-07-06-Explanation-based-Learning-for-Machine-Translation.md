@@ -20,3 +20,6 @@ In this paper we present an application of explanation-based learning (EBL) in t
 ##### URL
 [https://arxiv.org/abs/cs/9907008](https://arxiv.org/abs/cs/9907008)
 
+##### PDF
+[https://arxiv.org/pdf/cs/9907008](https://arxiv.org/pdf/cs/9907008)
+

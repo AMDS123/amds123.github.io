@@ -20,3 +20,6 @@ Incorporating accurate physics-based simulation into interactive design tools is
 ##### URL
 [http://arxiv.org/abs/1708.02895](http://arxiv.org/abs/1708.02895)
 
+##### PDF
+[http://arxiv.org/pdf/1708.02895](http://arxiv.org/pdf/1708.02895)
+

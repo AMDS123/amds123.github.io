@@ -20,3 +20,6 @@ In this paper, we propose a pose grammar to tackle the problem of 3D human pose 
 ##### URL
 [http://arxiv.org/abs/1710.06513](http://arxiv.org/abs/1710.06513)
 
+##### PDF
+[http://arxiv.org/pdf/1710.06513](http://arxiv.org/pdf/1710.06513)
+

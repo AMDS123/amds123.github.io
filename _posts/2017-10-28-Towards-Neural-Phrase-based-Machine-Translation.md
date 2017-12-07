@@ -20,3 +20,6 @@ In this paper, we present Neural Phrase-based Machine Translation (NPMT). Our me
 ##### URL
 [https://arxiv.org/abs/1706.05565](https://arxiv.org/abs/1706.05565)
 
+##### PDF
+[https://arxiv.org/pdf/1706.05565](https://arxiv.org/pdf/1706.05565)
+

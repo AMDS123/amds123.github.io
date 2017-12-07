@@ -20,3 +20,6 @@ In this paper we propose the construction of linguistic descriptions of images. 
 ##### URL
 [https://arxiv.org/abs/1511.03292](https://arxiv.org/abs/1511.03292)
 
+##### PDF
+[https://arxiv.org/pdf/1511.03292](https://arxiv.org/pdf/1511.03292)
+

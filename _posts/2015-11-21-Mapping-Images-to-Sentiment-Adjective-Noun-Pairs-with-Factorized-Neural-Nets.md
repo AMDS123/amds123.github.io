@@ -20,3 +20,6 @@ We consider the visual sentiment task of mapping an image to an adjective noun p
 ##### URL
 [https://arxiv.org/abs/1511.06838](https://arxiv.org/abs/1511.06838)
 
+##### PDF
+[https://arxiv.org/pdf/1511.06838](https://arxiv.org/pdf/1511.06838)
+

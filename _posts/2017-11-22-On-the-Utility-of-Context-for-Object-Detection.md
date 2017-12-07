@@ -20,3 +20,6 @@ The recurring context in which objects appear holds valuable information that ca
 ##### URL
 [https://arxiv.org/abs/1711.05471](https://arxiv.org/abs/1711.05471)
 
+##### PDF
+[https://arxiv.org/pdf/1711.05471](https://arxiv.org/pdf/1711.05471)
+

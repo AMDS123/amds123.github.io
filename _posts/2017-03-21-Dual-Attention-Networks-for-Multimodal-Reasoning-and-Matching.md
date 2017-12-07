@@ -20,3 +20,6 @@ We propose Dual Attention Networks (DANs) which jointly leverage visual and text
 ##### URL
 [https://arxiv.org/abs/1611.00471](https://arxiv.org/abs/1611.00471)
 
+##### PDF
+[https://arxiv.org/pdf/1611.00471](https://arxiv.org/pdf/1611.00471)
+

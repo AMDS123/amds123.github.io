@@ -20,3 +20,6 @@ To better select the correct training sample and obtain the robust representatio
 ##### URL
 [https://arxiv.org/abs/1712.01645](https://arxiv.org/abs/1712.01645)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01645](https://arxiv.org/pdf/1712.01645)
+

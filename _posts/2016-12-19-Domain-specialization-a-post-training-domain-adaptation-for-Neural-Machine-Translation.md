@@ -20,3 +20,6 @@ Domain adaptation is a key feature in Machine Translation. It generally encompas
 ##### URL
 [https://arxiv.org/abs/1612.06141](https://arxiv.org/abs/1612.06141)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06141](https://arxiv.org/pdf/1612.06141)
+

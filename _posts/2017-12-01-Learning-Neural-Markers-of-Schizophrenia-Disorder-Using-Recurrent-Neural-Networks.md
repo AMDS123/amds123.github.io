@@ -20,3 +20,6 @@ Smart systems that can accurately diagnose patients with mental disorders and id
 ##### URL
 [http://arxiv.org/abs/1712.00512](http://arxiv.org/abs/1712.00512)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00512](http://arxiv.org/pdf/1712.00512)
+

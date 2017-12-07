@@ -20,3 +20,6 @@ There is considerable interest in the task of automatically generating image cap
 ##### URL
 [https://arxiv.org/abs/1607.08822](https://arxiv.org/abs/1607.08822)
 
+##### PDF
+[https://arxiv.org/pdf/1607.08822](https://arxiv.org/pdf/1607.08822)
+

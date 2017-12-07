@@ -20,3 +20,6 @@ Neural machine translation (NMT) models typically operate with a fixed vocabular
 ##### URL
 [https://arxiv.org/abs/1508.07909](https://arxiv.org/abs/1508.07909)
 
+##### PDF
+[https://arxiv.org/pdf/1508.07909](https://arxiv.org/pdf/1508.07909)
+

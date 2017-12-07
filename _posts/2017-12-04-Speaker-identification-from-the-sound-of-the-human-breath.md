@@ -20,3 +20,6 @@ This paper examines the speaker identification potential of breath sounds in con
 ##### URL
 [http://arxiv.org/abs/1712.00171](http://arxiv.org/abs/1712.00171)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00171](http://arxiv.org/pdf/1712.00171)
+

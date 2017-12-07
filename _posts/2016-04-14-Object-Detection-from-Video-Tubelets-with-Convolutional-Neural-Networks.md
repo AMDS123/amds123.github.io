@@ -20,3 +20,6 @@ Deep Convolution Neural Networks (CNNs) have shown impressive performance in var
 ##### URL
 [https://arxiv.org/abs/1604.04053](https://arxiv.org/abs/1604.04053)
 
+##### PDF
+[https://arxiv.org/pdf/1604.04053](https://arxiv.org/pdf/1604.04053)
+

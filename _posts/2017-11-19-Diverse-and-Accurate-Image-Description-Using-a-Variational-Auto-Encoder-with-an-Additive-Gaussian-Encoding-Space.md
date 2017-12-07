@@ -20,3 +20,6 @@ This paper explores image caption generation using conditional variational auto-
 ##### URL
 [https://arxiv.org/abs/1711.07068](https://arxiv.org/abs/1711.07068)
 
+##### PDF
+[https://arxiv.org/pdf/1711.07068](https://arxiv.org/pdf/1711.07068)
+

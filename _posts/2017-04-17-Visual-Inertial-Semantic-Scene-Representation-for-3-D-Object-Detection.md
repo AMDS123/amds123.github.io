@@ -20,3 +20,6 @@ We describe a system to detect objects in three-dimensional space using video an
 ##### URL
 [https://arxiv.org/abs/1606.03968](https://arxiv.org/abs/1606.03968)
 
+##### PDF
+[https://arxiv.org/pdf/1606.03968](https://arxiv.org/pdf/1606.03968)
+

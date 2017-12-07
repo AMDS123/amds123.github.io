@@ -20,3 +20,6 @@ Generating a novel textual description of an image is an interesting problem tha
 ##### URL
 [https://arxiv.org/abs/1412.8419](https://arxiv.org/abs/1412.8419)
 
+##### PDF
+[https://arxiv.org/pdf/1412.8419](https://arxiv.org/pdf/1412.8419)
+

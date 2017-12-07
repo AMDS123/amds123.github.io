@@ -20,3 +20,6 @@ Video captioning has been attracting broad research attention in multimedia comm
 ##### URL
 [https://arxiv.org/abs/1606.04631](https://arxiv.org/abs/1606.04631)
 
+##### PDF
+[https://arxiv.org/pdf/1606.04631](https://arxiv.org/pdf/1606.04631)
+

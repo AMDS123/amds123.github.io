@@ -20,3 +20,6 @@ The recent progress on image recognition and language modeling is making automat
 ##### URL
 [https://arxiv.org/abs/1510.01431](https://arxiv.org/abs/1510.01431)
 
+##### PDF
+[https://arxiv.org/pdf/1510.01431](https://arxiv.org/pdf/1510.01431)
+

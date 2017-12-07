@@ -20,3 +20,6 @@ Drilling activities in the oil and gas industry have been reported over decades 
 ##### URL
 [http://arxiv.org/abs/1712.01476](http://arxiv.org/abs/1712.01476)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01476](http://arxiv.org/pdf/1712.01476)
+

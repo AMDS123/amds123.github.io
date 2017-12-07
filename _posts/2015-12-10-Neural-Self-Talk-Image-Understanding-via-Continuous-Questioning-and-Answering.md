@@ -20,3 +20,6 @@ In this paper we consider the problem of continuously discovering image contents
 ##### URL
 [https://arxiv.org/abs/1512.03460](https://arxiv.org/abs/1512.03460)
 
+##### PDF
+[https://arxiv.org/pdf/1512.03460](https://arxiv.org/pdf/1512.03460)
+

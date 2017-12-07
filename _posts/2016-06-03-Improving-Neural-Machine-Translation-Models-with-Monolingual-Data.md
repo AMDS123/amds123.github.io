@@ -20,3 +20,6 @@ Neural Machine Translation (NMT) has obtained state-of-the art performance for s
 ##### URL
 [https://arxiv.org/abs/1511.06709](https://arxiv.org/abs/1511.06709)
 
+##### PDF
+[https://arxiv.org/pdf/1511.06709](https://arxiv.org/pdf/1511.06709)
+

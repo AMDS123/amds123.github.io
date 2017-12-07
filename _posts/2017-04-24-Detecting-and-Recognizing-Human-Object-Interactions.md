@@ -20,3 +20,6 @@ To understand the visual world, a machine must not only recognize individual obj
 ##### URL
 [https://arxiv.org/abs/1704.07333](https://arxiv.org/abs/1704.07333)
 
+##### PDF
+[https://arxiv.org/pdf/1704.07333](https://arxiv.org/pdf/1704.07333)
+

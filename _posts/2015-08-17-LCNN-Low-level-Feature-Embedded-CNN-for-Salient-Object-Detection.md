@@ -20,3 +20,6 @@ In this paper, we propose a novel deep neural network framework embedded with lo
 ##### URL
 [https://arxiv.org/abs/1508.03928](https://arxiv.org/abs/1508.03928)
 
+##### PDF
+[https://arxiv.org/pdf/1508.03928](https://arxiv.org/pdf/1508.03928)
+

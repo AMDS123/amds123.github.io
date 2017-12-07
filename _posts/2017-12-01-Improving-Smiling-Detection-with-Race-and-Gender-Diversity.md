@@ -20,3 +20,6 @@ Recent progress in deep learning has been accompanied by a growing concern for w
 ##### URL
 [https://arxiv.org/abs/1712.00193](https://arxiv.org/abs/1712.00193)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00193](https://arxiv.org/pdf/1712.00193)
+

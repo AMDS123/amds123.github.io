@@ -20,3 +20,6 @@ Image compositing is a method used to generate realistic yet fake imagery by ins
 ##### URL
 [http://arxiv.org/abs/1706.01021](http://arxiv.org/abs/1706.01021)
 
+##### PDF
+[http://arxiv.org/pdf/1706.01021](http://arxiv.org/pdf/1706.01021)
+

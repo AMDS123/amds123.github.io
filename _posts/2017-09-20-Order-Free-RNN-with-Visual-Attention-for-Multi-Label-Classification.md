@@ -20,3 +20,6 @@ In this paper, we propose the joint learning attention and recurrent neural netw
 ##### URL
 [https://arxiv.org/abs/1707.05495](https://arxiv.org/abs/1707.05495)
 
+##### PDF
+[https://arxiv.org/pdf/1707.05495](https://arxiv.org/pdf/1707.05495)
+

@@ -20,3 +20,6 @@ VLA observations of large-scale HI and OH absorption in the merging galaxy of NG
 ##### URL
 [https://arxiv.org/abs/astro-ph/0702522](https://arxiv.org/abs/astro-ph/0702522)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0702522](https://arxiv.org/pdf/astro-ph/0702522)
+

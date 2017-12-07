@@ -20,3 +20,6 @@ Neural machine translation (NMT) heavily relies on an attention network to produ
 ##### URL
 [https://arxiv.org/abs/1704.08430](https://arxiv.org/abs/1704.08430)
 
+##### PDF
+[https://arxiv.org/pdf/1704.08430](https://arxiv.org/pdf/1704.08430)
+

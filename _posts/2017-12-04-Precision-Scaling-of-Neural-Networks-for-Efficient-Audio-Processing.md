@@ -20,3 +20,6 @@ While deep neural networks have shown powerful performance in many audio applica
 ##### URL
 [http://arxiv.org/abs/1712.01340](http://arxiv.org/abs/1712.01340)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01340](http://arxiv.org/pdf/1712.01340)
+

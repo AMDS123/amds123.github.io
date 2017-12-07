@@ -20,3 +20,6 @@ Generative Adversarial Networks are proved to be efficient on various kinds of i
 ##### URL
 [https://arxiv.org/abs/1711.10742](https://arxiv.org/abs/1711.10742)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10742](https://arxiv.org/pdf/1711.10742)
+

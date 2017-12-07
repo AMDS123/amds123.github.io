@@ -20,3 +20,6 @@ We propose a method for visual question answering which combines an internal rep
 ##### URL
 [https://arxiv.org/abs/1511.06973](https://arxiv.org/abs/1511.06973)
 
+##### PDF
+[https://arxiv.org/pdf/1511.06973](https://arxiv.org/pdf/1511.06973)
+

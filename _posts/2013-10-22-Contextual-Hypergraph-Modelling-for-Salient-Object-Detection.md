@@ -20,3 +20,6 @@ Salient object detection aims to locate objects that capture human attention wit
 ##### URL
 [https://arxiv.org/abs/1310.5767](https://arxiv.org/abs/1310.5767)
 
+##### PDF
+[https://arxiv.org/pdf/1310.5767](https://arxiv.org/pdf/1310.5767)
+

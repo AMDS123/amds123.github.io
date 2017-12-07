@@ -20,3 +20,6 @@ In this paper, we propose a new approach for retrieval of video segments using n
 ##### URL
 [https://arxiv.org/abs/1707.00251](https://arxiv.org/abs/1707.00251)
 
+##### PDF
+[https://arxiv.org/pdf/1707.00251](https://arxiv.org/pdf/1707.00251)
+

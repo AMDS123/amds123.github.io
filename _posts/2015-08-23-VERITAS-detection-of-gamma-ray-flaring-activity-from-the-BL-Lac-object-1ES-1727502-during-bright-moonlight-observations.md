@@ -20,3 +20,6 @@ During May 2013, a gamma-ray flare from the BL Lac object 1ES 1727+502 (z=0.055)
 ##### URL
 [https://arxiv.org/abs/1508.05551](https://arxiv.org/abs/1508.05551)
 
+##### PDF
+[https://arxiv.org/pdf/1508.05551](https://arxiv.org/pdf/1508.05551)
+

@@ -20,3 +20,6 @@ Video object detection is challenging because objects that are easily detected i
 ##### URL
 [https://arxiv.org/abs/1602.08465](https://arxiv.org/abs/1602.08465)
 
+##### PDF
+[https://arxiv.org/pdf/1602.08465](https://arxiv.org/pdf/1602.08465)
+

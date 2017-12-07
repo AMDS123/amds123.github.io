@@ -20,3 +20,6 @@ Stereo matching algorithms usually consist of four steps, including matching cos
 ##### URL
 [http://arxiv.org/abs/1712.01039](http://arxiv.org/abs/1712.01039)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01039](http://arxiv.org/pdf/1712.01039)
+

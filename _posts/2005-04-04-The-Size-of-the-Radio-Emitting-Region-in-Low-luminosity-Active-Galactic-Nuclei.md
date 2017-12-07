@@ -20,3 +20,6 @@ We have used the VLA to study radio variability among a sample of 18 low luminos
 ##### URL
 [https://arxiv.org/abs/astro-ph/0504066](https://arxiv.org/abs/astro-ph/0504066)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0504066](https://arxiv.org/pdf/astro-ph/0504066)
+

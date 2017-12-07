@@ -20,3 +20,6 @@ Despite the substantial progress in recent years, the image captioning technique
 ##### URL
 [https://arxiv.org/abs/1703.06029](https://arxiv.org/abs/1703.06029)
 
+##### PDF
+[https://arxiv.org/pdf/1703.06029](https://arxiv.org/pdf/1703.06029)
+

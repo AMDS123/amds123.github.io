@@ -20,3 +20,6 @@ Deep neural networks trained using a softmax layer at the top and the cross-entr
 ##### URL
 [http://arxiv.org/abs/1712.01727](http://arxiv.org/abs/1712.01727)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01727](http://arxiv.org/pdf/1712.01727)
+

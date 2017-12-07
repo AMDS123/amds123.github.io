@@ -20,3 +20,6 @@ This paper presents how we can achieve the state-of-the-art accuracy in multi-ca
 ##### URL
 [https://arxiv.org/abs/1608.08021](https://arxiv.org/abs/1608.08021)
 
+##### PDF
+[https://arxiv.org/pdf/1608.08021](https://arxiv.org/pdf/1608.08021)
+

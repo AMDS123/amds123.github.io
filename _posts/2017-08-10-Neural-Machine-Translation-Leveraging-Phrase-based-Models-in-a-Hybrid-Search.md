@@ -20,3 +20,6 @@ In this paper, we introduce a hybrid search for attention-based neural machine t
 ##### URL
 [https://arxiv.org/abs/1708.03271](https://arxiv.org/abs/1708.03271)
 
+##### PDF
+[https://arxiv.org/pdf/1708.03271](https://arxiv.org/pdf/1708.03271)
+

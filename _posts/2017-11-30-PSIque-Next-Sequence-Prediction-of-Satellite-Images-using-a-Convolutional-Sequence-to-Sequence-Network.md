@@ -20,3 +20,6 @@ Predicting unseen weather phenomena is an important issue for disaster managemen
 ##### URL
 [https://arxiv.org/abs/1711.10644](https://arxiv.org/abs/1711.10644)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10644](https://arxiv.org/pdf/1711.10644)
+

@@ -20,3 +20,6 @@ In this paper we discuss several forms of spatiotemporal convolutions for video 
 ##### URL
 [https://arxiv.org/abs/1711.11248](https://arxiv.org/abs/1711.11248)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11248](https://arxiv.org/pdf/1711.11248)
+

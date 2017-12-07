@@ -20,3 +20,6 @@ Suffering from the extreme training data imbalance between seen and unseen class
 ##### URL
 [http://arxiv.org/abs/1712.00981](http://arxiv.org/abs/1712.00981)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00981](http://arxiv.org/pdf/1712.00981)
+

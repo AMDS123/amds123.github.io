@@ -20,3 +20,6 @@ Recently, quaternion collaborative representation-based classification (QCRC) an
 ##### URL
 [https://arxiv.org/abs/1712.01642](https://arxiv.org/abs/1712.01642)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01642](https://arxiv.org/pdf/1712.01642)
+

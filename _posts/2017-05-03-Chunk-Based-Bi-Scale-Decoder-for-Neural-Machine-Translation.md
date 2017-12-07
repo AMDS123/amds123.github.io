@@ -20,3 +20,6 @@ In typical neural machine translation~(NMT), the decoder generates a sentence wo
 ##### URL
 [https://arxiv.org/abs/1705.01452](https://arxiv.org/abs/1705.01452)
 
+##### PDF
+[https://arxiv.org/pdf/1705.01452](https://arxiv.org/pdf/1705.01452)
+

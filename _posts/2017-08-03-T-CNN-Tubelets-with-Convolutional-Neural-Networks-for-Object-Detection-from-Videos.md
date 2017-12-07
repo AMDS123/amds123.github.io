@@ -20,3 +20,6 @@ The state-of-the-art performance for object detection has been significantly imp
 ##### URL
 [https://arxiv.org/abs/1604.02532](https://arxiv.org/abs/1604.02532)
 
+##### PDF
+[https://arxiv.org/pdf/1604.02532](https://arxiv.org/pdf/1604.02532)
+

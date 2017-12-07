@@ -20,3 +20,6 @@ We combine features extracted from pre-trained convolutional neural networks (CN
 ##### URL
 [https://arxiv.org/abs/1704.02930](https://arxiv.org/abs/1704.02930)
 
+##### PDF
+[https://arxiv.org/pdf/1704.02930](https://arxiv.org/pdf/1704.02930)
+

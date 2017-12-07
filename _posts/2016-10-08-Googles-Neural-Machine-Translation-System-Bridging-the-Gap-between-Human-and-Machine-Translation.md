@@ -20,3 +20,6 @@ Neural Machine Translation (NMT) is an end-to-end learning approach for automate
 ##### URL
 [https://arxiv.org/abs/1609.08144](https://arxiv.org/abs/1609.08144)
 
+##### PDF
+[https://arxiv.org/pdf/1609.08144](https://arxiv.org/pdf/1609.08144)
+

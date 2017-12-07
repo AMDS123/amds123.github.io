@@ -20,3 +20,6 @@ The Long Wavelength Array (LWA) will be a new multi-purpose radio telescope oper
 ##### URL
 [https://arxiv.org/abs/1206.1799](https://arxiv.org/abs/1206.1799)
 
+##### PDF
+[https://arxiv.org/pdf/1206.1799](https://arxiv.org/pdf/1206.1799)
+

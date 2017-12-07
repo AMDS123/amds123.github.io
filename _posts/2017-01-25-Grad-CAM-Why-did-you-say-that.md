@@ -20,3 +20,6 @@ We propose a technique for making Convolutional Neural Network (CNN)-based model
 ##### URL
 [https://arxiv.org/abs/1611.07450](https://arxiv.org/abs/1611.07450)
 
+##### PDF
+[https://arxiv.org/pdf/1611.07450](https://arxiv.org/pdf/1611.07450)
+

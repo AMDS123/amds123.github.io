@@ -20,3 +20,6 @@ Non-maximum suppression is an integral part of the object detection pipeline. Fi
 ##### URL
 [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
 
+##### PDF
+[https://arxiv.org/pdf/1704.04503](https://arxiv.org/pdf/1704.04503)
+

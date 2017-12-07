@@ -20,3 +20,6 @@ The success of deep learning depends on finding an architecture to fit the task.
 ##### URL
 [https://arxiv.org/abs/1703.00548](https://arxiv.org/abs/1703.00548)
 
+##### PDF
+[https://arxiv.org/pdf/1703.00548](https://arxiv.org/pdf/1703.00548)
+

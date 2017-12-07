@@ -20,3 +20,6 @@ We describe an open-source toolkit for neural machine translation (NMT). The too
 ##### URL
 [https://arxiv.org/abs/1701.02810](https://arxiv.org/abs/1701.02810)
 
+##### PDF
+[https://arxiv.org/pdf/1701.02810](https://arxiv.org/pdf/1701.02810)
+

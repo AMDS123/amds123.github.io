@@ -20,3 +20,6 @@ We present the analysis of four 3.6 cm radio continuum archival observations of 
 ##### URL
 [https://arxiv.org/abs/astro-ph/0403350](https://arxiv.org/abs/astro-ph/0403350)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0403350](https://arxiv.org/pdf/astro-ph/0403350)
+

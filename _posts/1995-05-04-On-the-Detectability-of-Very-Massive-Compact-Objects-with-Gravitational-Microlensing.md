@@ -20,3 +20,6 @@ If the dark halo of our galaxy is made of compact objects as massive as M = 10^6
 ##### URL
 [https://arxiv.org/abs/astro-ph/9505016](https://arxiv.org/abs/astro-ph/9505016)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/9505016](https://arxiv.org/pdf/astro-ph/9505016)
+

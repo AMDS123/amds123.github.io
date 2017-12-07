@@ -20,3 +20,6 @@ Neural machine translation (NMT) models are able to partially learn syntactic in
 ##### URL
 [https://arxiv.org/abs/1702.01147](https://arxiv.org/abs/1702.01147)
 
+##### PDF
+[https://arxiv.org/pdf/1702.01147](https://arxiv.org/pdf/1702.01147)
+

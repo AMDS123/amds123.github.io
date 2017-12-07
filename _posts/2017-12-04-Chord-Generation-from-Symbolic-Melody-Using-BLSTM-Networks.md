@@ -20,3 +20,6 @@ Generating a chord progression from a monophonic melody is a challenging problem
 ##### URL
 [http://arxiv.org/abs/1712.01011](http://arxiv.org/abs/1712.01011)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01011](http://arxiv.org/pdf/1712.01011)
+

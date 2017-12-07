@@ -20,3 +20,6 @@ The MAGIC telescope has observed very-high energy gamma-ray emission from the BL
 ##### URL
 [https://arxiv.org/abs/0711.1586](https://arxiv.org/abs/0711.1586)
 
+##### PDF
+[https://arxiv.org/pdf/0711.1586](https://arxiv.org/pdf/0711.1586)
+

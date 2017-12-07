@@ -20,3 +20,6 @@ About 8% of the male population of the world are affected by a determined type o
 ##### URL
 [https://arxiv.org/abs/1711.10662](https://arxiv.org/abs/1711.10662)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10662](https://arxiv.org/pdf/1711.10662)
+

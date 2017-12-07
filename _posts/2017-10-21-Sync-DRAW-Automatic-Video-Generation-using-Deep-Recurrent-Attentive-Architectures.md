@@ -20,3 +20,6 @@ This paper introduces a novel approach for generating videos called Synchronized
 ##### URL
 [https://arxiv.org/abs/1611.10314](https://arxiv.org/abs/1611.10314)
 
+##### PDF
+[https://arxiv.org/pdf/1611.10314](https://arxiv.org/pdf/1611.10314)
+

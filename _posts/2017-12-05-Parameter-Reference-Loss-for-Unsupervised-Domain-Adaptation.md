@@ -20,3 +20,6 @@ The success of deep learning in computer vision is mainly attributed to an abund
 ##### URL
 [http://arxiv.org/abs/1711.07170](http://arxiv.org/abs/1711.07170)
 
+##### PDF
+[http://arxiv.org/pdf/1711.07170](http://arxiv.org/pdf/1711.07170)
+

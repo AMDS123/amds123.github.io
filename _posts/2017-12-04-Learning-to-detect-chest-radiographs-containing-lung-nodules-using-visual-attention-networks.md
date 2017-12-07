@@ -20,3 +20,6 @@ Machine learning approaches hold great potential for the automated detection of 
 ##### URL
 [http://arxiv.org/abs/1712.00996](http://arxiv.org/abs/1712.00996)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00996](http://arxiv.org/pdf/1712.00996)
+

@@ -20,3 +20,6 @@ Attention mechanisms have attracted considerable interest in image captioning du
 ##### URL
 [https://arxiv.org/abs/1606.04621](https://arxiv.org/abs/1606.04621)
 
+##### PDF
+[https://arxiv.org/pdf/1606.04621](https://arxiv.org/pdf/1606.04621)
+

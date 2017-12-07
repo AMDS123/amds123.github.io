@@ -20,3 +20,6 @@ We introduce a generic framework that reduces the computational cost of object d
 ##### URL
 [https://arxiv.org/abs/1711.05187](https://arxiv.org/abs/1711.05187)
 
+##### PDF
+[https://arxiv.org/pdf/1711.05187](https://arxiv.org/pdf/1711.05187)
+

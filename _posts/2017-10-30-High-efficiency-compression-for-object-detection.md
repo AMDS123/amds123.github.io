@@ -20,3 +20,6 @@ Image and video compression has traditionally been tailored to human vision. How
 ##### URL
 [https://arxiv.org/abs/1710.11151](https://arxiv.org/abs/1710.11151)
 
+##### PDF
+[https://arxiv.org/pdf/1710.11151](https://arxiv.org/pdf/1710.11151)
+

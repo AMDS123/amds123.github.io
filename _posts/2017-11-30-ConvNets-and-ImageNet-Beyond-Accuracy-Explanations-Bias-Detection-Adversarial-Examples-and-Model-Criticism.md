@@ -20,3 +20,6 @@ ConvNets和Imagenet推动了图像分类深度学习的最近成功。然而，�
 ##### URL
 [https://arxiv.org/abs/1711.11443](https://arxiv.org/abs/1711.11443)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11443](https://arxiv.org/pdf/1711.11443)
+

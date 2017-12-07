@@ -20,3 +20,6 @@ Theory of Mind is the ability to attribute mental states (beliefs, intents, know
 ##### URL
 [https://arxiv.org/abs/1704.00717](https://arxiv.org/abs/1704.00717)
 
+##### PDF
+[https://arxiv.org/pdf/1704.00717](https://arxiv.org/pdf/1704.00717)
+

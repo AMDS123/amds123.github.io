@@ -20,3 +20,6 @@ The first detection of the C60 (Buckminsterfullerene) molecule in massive embedd
 ##### URL
 [https://arxiv.org/abs/1201.3542](https://arxiv.org/abs/1201.3542)
 
+##### PDF
+[https://arxiv.org/pdf/1201.3542](https://arxiv.org/pdf/1201.3542)
+

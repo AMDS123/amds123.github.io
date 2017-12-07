@@ -20,3 +20,6 @@ We present SfSNet, an end-to-end learning framework for producing an accurate de
 ##### URL
 [http://arxiv.org/abs/1712.01261](http://arxiv.org/abs/1712.01261)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01261](http://arxiv.org/pdf/1712.01261)
+

@@ -20,3 +20,6 @@ Object Detection is critical for automatic military operations. However, the per
 ##### URL
 [https://arxiv.org/abs/1712.00075](https://arxiv.org/abs/1712.00075)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00075](https://arxiv.org/pdf/1712.00075)
+

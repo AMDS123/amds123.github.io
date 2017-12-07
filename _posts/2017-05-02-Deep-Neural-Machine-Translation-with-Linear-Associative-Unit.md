@@ -20,3 +20,6 @@ Deep Neural Networks (DNNs) have provably enhanced the state-of-the-art Neural M
 ##### URL
 [https://arxiv.org/abs/1705.00861](https://arxiv.org/abs/1705.00861)
 
+##### PDF
+[https://arxiv.org/pdf/1705.00861](https://arxiv.org/pdf/1705.00861)
+

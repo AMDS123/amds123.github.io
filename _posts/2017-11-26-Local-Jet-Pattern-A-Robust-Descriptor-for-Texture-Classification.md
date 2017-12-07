@@ -20,3 +20,6 @@ Methods based on local image features have recently shown promise for texture cl
 ##### URL
 [https://arxiv.org/abs/1711.10921](https://arxiv.org/abs/1711.10921)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10921](https://arxiv.org/pdf/1711.10921)
+

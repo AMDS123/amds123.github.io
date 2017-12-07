@@ -20,3 +20,6 @@ Existing image captioning models do not generalize well to out-of-domain images 
 ##### URL
 [https://arxiv.org/abs/1612.00576](https://arxiv.org/abs/1612.00576)
 
+##### PDF
+[https://arxiv.org/pdf/1612.00576](https://arxiv.org/pdf/1612.00576)
+

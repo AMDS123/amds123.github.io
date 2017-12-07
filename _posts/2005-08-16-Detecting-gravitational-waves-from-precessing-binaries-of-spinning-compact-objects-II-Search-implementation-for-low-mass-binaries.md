@@ -20,3 +20,6 @@ Detection template families (DTFs) are built to capture the essential features o
 ##### URL
 [https://arxiv.org/abs/gr-qc/0508064](https://arxiv.org/abs/gr-qc/0508064)
 
+##### PDF
+[https://arxiv.org/pdf/gr-qc/0508064](https://arxiv.org/pdf/gr-qc/0508064)
+

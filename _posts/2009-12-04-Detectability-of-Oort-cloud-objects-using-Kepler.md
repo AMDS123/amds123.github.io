@@ -20,3 +20,6 @@ The size distribution and total mass of objects in the Oort Cloud have important
 ##### URL
 [https://arxiv.org/abs/0912.0948](https://arxiv.org/abs/0912.0948)
 
+##### PDF
+[https://arxiv.org/pdf/0912.0948](https://arxiv.org/pdf/0912.0948)
+

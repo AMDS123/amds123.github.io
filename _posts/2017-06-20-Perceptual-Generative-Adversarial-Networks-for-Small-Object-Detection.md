@@ -20,3 +20,6 @@ Detecting small objects is notoriously challenging due to their low resolution a
 ##### URL
 [https://arxiv.org/abs/1706.05274](https://arxiv.org/abs/1706.05274)
 
+##### PDF
+[https://arxiv.org/pdf/1706.05274](https://arxiv.org/pdf/1706.05274)
+

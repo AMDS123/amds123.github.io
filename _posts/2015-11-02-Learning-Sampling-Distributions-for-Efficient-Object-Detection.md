@@ -20,3 +20,6 @@ Object detection is an important task in computer vision and learning systems. M
 ##### URL
 [https://arxiv.org/abs/1508.05581](https://arxiv.org/abs/1508.05581)
 
+##### PDF
+[https://arxiv.org/pdf/1508.05581](https://arxiv.org/pdf/1508.05581)
+

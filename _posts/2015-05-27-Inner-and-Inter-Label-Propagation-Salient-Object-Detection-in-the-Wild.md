@@ -20,3 +20,6 @@ In this paper, we propose a novel label propagation based method for saliency de
 ##### URL
 [https://arxiv.org/abs/1505.07192](https://arxiv.org/abs/1505.07192)
 
+##### PDF
+[https://arxiv.org/pdf/1505.07192](https://arxiv.org/pdf/1505.07192)
+

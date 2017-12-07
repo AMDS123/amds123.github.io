@@ -20,3 +20,6 @@ Image segmentation is still an open problem especially when intensities of the i
 ##### URL
 [https://arxiv.org/abs/1712.01707](https://arxiv.org/abs/1712.01707)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01707](https://arxiv.org/pdf/1712.01707)
+

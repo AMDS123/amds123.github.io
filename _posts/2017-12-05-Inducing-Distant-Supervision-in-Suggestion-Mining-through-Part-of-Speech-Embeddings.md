@@ -20,3 +20,6 @@ Mining suggestion expressing sentences from a given text is a less investigated 
 ##### URL
 [http://arxiv.org/abs/1709.07403](http://arxiv.org/abs/1709.07403)
 
+##### PDF
+[http://arxiv.org/pdf/1709.07403](http://arxiv.org/pdf/1709.07403)
+

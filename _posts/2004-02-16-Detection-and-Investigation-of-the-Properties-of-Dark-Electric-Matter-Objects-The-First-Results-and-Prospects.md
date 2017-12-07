@@ -20,3 +20,6 @@ Negative Dark Electric Matter Objects, daemons, have been detected by means of Z
 ##### URL
 [https://arxiv.org/abs/astro-ph/0402367](https://arxiv.org/abs/astro-ph/0402367)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0402367](https://arxiv.org/pdf/astro-ph/0402367)
+

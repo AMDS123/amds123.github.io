@@ -20,3 +20,6 @@ In this paper, we propose a zoom-out-and-in network for generating object propos
 ##### URL
 [https://arxiv.org/abs/1709.04347](https://arxiv.org/abs/1709.04347)
 
+##### PDF
+[https://arxiv.org/pdf/1709.04347](https://arxiv.org/pdf/1709.04347)
+

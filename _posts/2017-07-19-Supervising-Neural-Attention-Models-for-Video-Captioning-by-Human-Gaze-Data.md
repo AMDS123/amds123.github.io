@@ -20,3 +20,6 @@ The attention mechanisms in deep neural networks are inspired by human's attenti
 ##### URL
 [https://arxiv.org/abs/1707.06029](https://arxiv.org/abs/1707.06029)
 
+##### PDF
+[https://arxiv.org/pdf/1707.06029](https://arxiv.org/pdf/1707.06029)
+

@@ -20,3 +20,6 @@ Neural machine translation (NMT) aims at solving machine translation (MT) proble
 ##### URL
 [https://arxiv.org/abs/1606.04199](https://arxiv.org/abs/1606.04199)
 
+##### PDF
+[https://arxiv.org/pdf/1606.04199](https://arxiv.org/pdf/1606.04199)
+

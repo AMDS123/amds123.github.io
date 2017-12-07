@@ -20,3 +20,6 @@ End-to-end neural network based approaches to audio modelling are generally outp
 ##### URL
 [https://arxiv.org/abs/1712.00254](https://arxiv.org/abs/1712.00254)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00254](https://arxiv.org/pdf/1712.00254)
+

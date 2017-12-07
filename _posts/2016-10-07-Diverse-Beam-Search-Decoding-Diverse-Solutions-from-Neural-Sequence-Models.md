@@ -20,3 +20,6 @@ Neural sequence models are widely used to model time-series data in many fields.
 ##### URL
 [https://arxiv.org/abs/1610.02424](https://arxiv.org/abs/1610.02424)
 
+##### PDF
+[https://arxiv.org/pdf/1610.02424](https://arxiv.org/pdf/1610.02424)
+

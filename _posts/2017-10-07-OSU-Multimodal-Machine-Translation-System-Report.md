@@ -20,3 +20,6 @@ This paper describes Oregon State University's submissions to the shared WMT'17 
 ##### URL
 [https://arxiv.org/abs/1710.02718](https://arxiv.org/abs/1710.02718)
 
+##### PDF
+[https://arxiv.org/pdf/1710.02718](https://arxiv.org/pdf/1710.02718)
+

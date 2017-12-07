@@ -20,3 +20,6 @@ An attentional mechanism has lately been used to improve neural machine translat
 ##### URL
 [https://arxiv.org/abs/1508.04025](https://arxiv.org/abs/1508.04025)
 
+##### PDF
+[https://arxiv.org/pdf/1508.04025](https://arxiv.org/pdf/1508.04025)
+

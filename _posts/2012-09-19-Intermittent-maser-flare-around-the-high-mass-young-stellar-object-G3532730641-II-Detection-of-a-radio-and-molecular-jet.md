@@ -20,3 +20,6 @@ We report the first detection of a radio-continuum and molecular jet associated 
 ##### URL
 [https://arxiv.org/abs/1209.4313](https://arxiv.org/abs/1209.4313)
 
+##### PDF
+[https://arxiv.org/pdf/1209.4313](https://arxiv.org/pdf/1209.4313)
+

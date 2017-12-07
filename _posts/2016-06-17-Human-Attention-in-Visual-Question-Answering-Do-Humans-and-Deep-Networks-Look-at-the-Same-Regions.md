@@ -20,3 +20,6 @@ We conduct large-scale studies on `human attention' in Visual Question Answering
 ##### URL
 [https://arxiv.org/abs/1606.05589](https://arxiv.org/abs/1606.05589)
 
+##### PDF
+[https://arxiv.org/pdf/1606.05589](https://arxiv.org/pdf/1606.05589)
+

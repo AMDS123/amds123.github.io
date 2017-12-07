@@ -20,3 +20,6 @@ We present maps of a large number of dense molecular gas tracers across the Cent
 ##### URL
 [https://arxiv.org/abs/1402.5066](https://arxiv.org/abs/1402.5066)
 
+##### PDF
+[https://arxiv.org/pdf/1402.5066](https://arxiv.org/pdf/1402.5066)
+

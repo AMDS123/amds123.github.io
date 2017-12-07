@@ -20,3 +20,6 @@ The problem of obtaining dense reconstruction of an object in a natural sequence
 ##### URL
 [https://arxiv.org/abs/1712.00110](https://arxiv.org/abs/1712.00110)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00110](https://arxiv.org/pdf/1712.00110)
+

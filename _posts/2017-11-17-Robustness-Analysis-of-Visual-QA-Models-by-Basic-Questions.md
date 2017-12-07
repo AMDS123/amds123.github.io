@@ -20,3 +20,6 @@ Visual Question Answering (VQA) models should have both high robustness and accu
 ##### URL
 [https://arxiv.org/abs/1709.04625](https://arxiv.org/abs/1709.04625)
 
+##### PDF
+[https://arxiv.org/pdf/1709.04625](https://arxiv.org/pdf/1709.04625)
+

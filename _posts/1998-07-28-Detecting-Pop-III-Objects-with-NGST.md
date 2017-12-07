@@ -20,3 +20,6 @@ We discuss some aspects concerning the formation and the impact of the first lum
 ##### URL
 [https://arxiv.org/abs/astro-ph/9807292](https://arxiv.org/abs/astro-ph/9807292)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/9807292](https://arxiv.org/pdf/astro-ph/9807292)
+

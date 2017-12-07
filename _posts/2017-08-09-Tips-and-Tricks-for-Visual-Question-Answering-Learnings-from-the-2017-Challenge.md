@@ -20,3 +20,6 @@ This paper presents a state-of-the-art model for visual question answering (VQA)
 ##### URL
 [https://arxiv.org/abs/1708.02711](https://arxiv.org/abs/1708.02711)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02711](https://arxiv.org/pdf/1708.02711)
+

@@ -20,3 +20,6 @@ An important logistics application of robotics involves manipulators that pick-a
 ##### URL
 [https://arxiv.org/abs/1509.01277](https://arxiv.org/abs/1509.01277)
 
+##### PDF
+[https://arxiv.org/pdf/1509.01277](https://arxiv.org/pdf/1509.01277)
+

@@ -20,3 +20,6 @@ In this project we propose a new approach for emotion recognition using web-base
 ##### URL
 [https://arxiv.org/abs/1612.05734](https://arxiv.org/abs/1612.05734)
 
+##### PDF
+[https://arxiv.org/pdf/1612.05734](https://arxiv.org/pdf/1612.05734)
+

@@ -20,3 +20,6 @@ Visual storytelling aims to generate human-level narrative language (i.e., a nat
 ##### URL
 [https://arxiv.org/abs/1606.00625](https://arxiv.org/abs/1606.00625)
 
+##### PDF
+[https://arxiv.org/pdf/1606.00625](https://arxiv.org/pdf/1606.00625)
+

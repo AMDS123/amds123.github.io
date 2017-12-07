@@ -20,3 +20,6 @@ Image captioning has been recently gaining a lot of attention thanks to the impr
 ##### URL
 [https://arxiv.org/abs/1706.08474](https://arxiv.org/abs/1706.08474)
 
+##### PDF
+[https://arxiv.org/pdf/1706.08474](https://arxiv.org/pdf/1706.08474)
+

@@ -20,3 +20,6 @@ This study aims to analyze the benefits of improved multi-scale reasoning for ob
 ##### URL
 [https://arxiv.org/abs/1505.03597](https://arxiv.org/abs/1505.03597)
 
+##### PDF
+[https://arxiv.org/pdf/1505.03597](https://arxiv.org/pdf/1505.03597)
+

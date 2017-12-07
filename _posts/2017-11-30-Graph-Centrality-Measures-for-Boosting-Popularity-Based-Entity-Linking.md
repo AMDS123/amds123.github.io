@@ -20,3 +20,6 @@ Many Entity Linking systems use collective graph-based methods to disambiguate t
 ##### URL
 [https://arxiv.org/abs/1712.00044](https://arxiv.org/abs/1712.00044)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00044](https://arxiv.org/pdf/1712.00044)
+

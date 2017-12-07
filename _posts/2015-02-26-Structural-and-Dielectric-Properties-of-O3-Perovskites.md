@@ -20,3 +20,6 @@ Using the high-resolution x-ray diffraction (XRD) analysis, scanning electron mi
 ##### URL
 [https://arxiv.org/abs/1502.07547](https://arxiv.org/abs/1502.07547)
 
+##### PDF
+[https://arxiv.org/pdf/1502.07547](https://arxiv.org/pdf/1502.07547)
+

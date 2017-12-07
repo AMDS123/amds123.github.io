@@ -20,3 +20,6 @@ Object proposals greatly benefit object detection task in recent state-of-the-ar
 ##### URL
 [https://arxiv.org/abs/1603.04146](https://arxiv.org/abs/1603.04146)
 
+##### PDF
+[https://arxiv.org/pdf/1603.04146](https://arxiv.org/pdf/1603.04146)
+

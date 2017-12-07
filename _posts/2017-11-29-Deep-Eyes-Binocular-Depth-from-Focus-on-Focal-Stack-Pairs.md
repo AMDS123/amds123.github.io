@@ -20,3 +20,6 @@ Human visual system relies on both binocular stereo cues and monocular focusness
 ##### URL
 [https://arxiv.org/abs/1711.10729](https://arxiv.org/abs/1711.10729)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10729](https://arxiv.org/pdf/1711.10729)
+

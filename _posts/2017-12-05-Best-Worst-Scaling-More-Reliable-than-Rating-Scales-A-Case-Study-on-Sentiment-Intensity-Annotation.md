@@ -20,3 +20,6 @@ Rating scales are a widely used method for data annotation; however, they presen
 ##### URL
 [http://arxiv.org/abs/1712.01765](http://arxiv.org/abs/1712.01765)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01765](http://arxiv.org/pdf/1712.01765)
+

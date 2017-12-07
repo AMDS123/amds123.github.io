@@ -20,3 +20,6 @@ We propose a parallel-data-free voice conversion (VC) method that can learn a ma
 ##### URL
 [https://arxiv.org/abs/1711.11293](https://arxiv.org/abs/1711.11293)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11293](https://arxiv.org/pdf/1711.11293)
+

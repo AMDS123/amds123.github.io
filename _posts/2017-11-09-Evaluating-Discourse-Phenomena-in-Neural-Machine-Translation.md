@@ -20,3 +20,6 @@ For machine translation to tackle discourse phenomena, models must have access t
 ##### URL
 [https://arxiv.org/abs/1711.00513](https://arxiv.org/abs/1711.00513)
 
+##### PDF
+[https://arxiv.org/pdf/1711.00513](https://arxiv.org/pdf/1711.00513)
+

@@ -20,3 +20,6 @@ RoboJam是一种用于生成音乐的机器学习系统，通过对短暂的即�
 ##### URL
 [https://arxiv.org/abs/1711.10746](https://arxiv.org/abs/1711.10746)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10746](https://arxiv.org/pdf/1711.10746)
+

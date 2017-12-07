@@ -20,3 +20,6 @@ Books are a rich source of both fine-grained information, how a character, an ob
 ##### URL
 [https://arxiv.org/abs/1506.06724](https://arxiv.org/abs/1506.06724)
 
+##### PDF
+[https://arxiv.org/pdf/1506.06724](https://arxiv.org/pdf/1506.06724)
+

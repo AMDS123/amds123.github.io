@@ -20,3 +20,6 @@ Given an image, we would like to learn to detect objects belonging to particular
 ##### URL
 [https://arxiv.org/abs/1611.07285](https://arxiv.org/abs/1611.07285)
 
+##### PDF
+[https://arxiv.org/pdf/1611.07285](https://arxiv.org/pdf/1611.07285)
+

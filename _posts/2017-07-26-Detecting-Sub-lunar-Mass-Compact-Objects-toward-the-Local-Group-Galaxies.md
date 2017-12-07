@@ -20,3 +20,6 @@ By monitoring a large number of stars in the Local Group galaxies, we can detect
 ##### URL
 [https://arxiv.org/abs/1609.04520](https://arxiv.org/abs/1609.04520)
 
+##### PDF
+[https://arxiv.org/pdf/1609.04520](https://arxiv.org/pdf/1609.04520)
+

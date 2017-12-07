@@ -20,3 +20,6 @@ R中存在的所有东西都是一个对象[Chambers2016]。本文将检查如�
 ##### URL
 [https://arxiv.org/abs/1706.08822](https://arxiv.org/abs/1706.08822)
 
+##### PDF
+[https://arxiv.org/pdf/1706.08822](https://arxiv.org/pdf/1706.08822)
+

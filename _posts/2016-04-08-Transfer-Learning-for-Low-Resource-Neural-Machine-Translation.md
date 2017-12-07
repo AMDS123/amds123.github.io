@@ -20,3 +20,6 @@ The encoder-decoder framework for neural machine translation (NMT) has been show
 ##### URL
 [https://arxiv.org/abs/1604.02201](https://arxiv.org/abs/1604.02201)
 
+##### PDF
+[https://arxiv.org/pdf/1604.02201](https://arxiv.org/pdf/1604.02201)
+

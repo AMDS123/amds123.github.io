@@ -20,3 +20,6 @@ This paper presents a new multi-view RGB-D dataset of nine kitchen scenes, each 
 ##### URL
 [https://arxiv.org/abs/1609.07826](https://arxiv.org/abs/1609.07826)
 
+##### PDF
+[https://arxiv.org/pdf/1609.07826](https://arxiv.org/pdf/1609.07826)
+

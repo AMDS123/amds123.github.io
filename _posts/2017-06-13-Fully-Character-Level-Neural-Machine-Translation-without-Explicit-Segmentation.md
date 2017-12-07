@@ -20,3 +20,6 @@ Most existing machine translation systems operate at the level of words, relying
 ##### URL
 [https://arxiv.org/abs/1610.03017](https://arxiv.org/abs/1610.03017)
 
+##### PDF
+[https://arxiv.org/pdf/1610.03017](https://arxiv.org/pdf/1610.03017)
+

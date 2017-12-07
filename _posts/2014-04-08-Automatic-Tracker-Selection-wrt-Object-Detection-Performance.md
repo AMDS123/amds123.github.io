@@ -20,3 +20,6 @@ The tracking algorithm performance depends on video content. This paper presents
 ##### URL
 [https://arxiv.org/abs/1404.2005](https://arxiv.org/abs/1404.2005)
 
+##### PDF
+[https://arxiv.org/pdf/1404.2005](https://arxiv.org/pdf/1404.2005)
+

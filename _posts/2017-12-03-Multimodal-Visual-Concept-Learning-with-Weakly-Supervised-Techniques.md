@@ -20,3 +20,6 @@ Despite the availability of a huge amount of video data accompanied by descripti
 ##### URL
 [http://arxiv.org/abs/1712.00796](http://arxiv.org/abs/1712.00796)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00796](http://arxiv.org/pdf/1712.00796)
+

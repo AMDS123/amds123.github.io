@@ -20,3 +20,6 @@ A currently active radio galaxy sits at the center of almost every strong coolin
 ##### URL
 [https://arxiv.org/abs/astro-ph/0310011](https://arxiv.org/abs/astro-ph/0310011)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0310011](https://arxiv.org/pdf/astro-ph/0310011)
+

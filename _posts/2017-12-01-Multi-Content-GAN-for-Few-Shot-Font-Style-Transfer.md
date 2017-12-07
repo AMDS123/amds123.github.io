@@ -20,3 +20,6 @@ In this work, we focus on the challenge of taking partial observations of highly
 ##### URL
 [http://arxiv.org/abs/1712.00516](http://arxiv.org/abs/1712.00516)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00516](http://arxiv.org/pdf/1712.00516)
+

@@ -20,3 +20,6 @@ In present object detection systems, the deep convolutional neural networks (CNN
 ##### URL
 [https://arxiv.org/abs/1608.01471](https://arxiv.org/abs/1608.01471)
 
+##### PDF
+[https://arxiv.org/pdf/1608.01471](https://arxiv.org/pdf/1608.01471)
+

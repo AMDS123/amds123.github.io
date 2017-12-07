@@ -20,3 +20,6 @@ Recurrent neural networks have recently been used for learning to describe image
 ##### URL
 [https://arxiv.org/abs/1608.07639](https://arxiv.org/abs/1608.07639)
 
+##### PDF
+[https://arxiv.org/pdf/1608.07639](https://arxiv.org/pdf/1608.07639)
+

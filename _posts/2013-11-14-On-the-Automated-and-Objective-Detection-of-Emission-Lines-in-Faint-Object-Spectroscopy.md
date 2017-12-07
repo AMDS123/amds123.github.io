@@ -20,3 +20,6 @@ Modern spectroscopic surveys produce large spectroscopic databases, generally wi
 ##### URL
 [https://arxiv.org/abs/1311.3667](https://arxiv.org/abs/1311.3667)
 
+##### PDF
+[https://arxiv.org/pdf/1311.3667](https://arxiv.org/pdf/1311.3667)
+

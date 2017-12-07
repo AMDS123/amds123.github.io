@@ -20,3 +20,6 @@ The availability of affordable and portable depth sensors has made scanning obje
 ##### URL
 [https://arxiv.org/abs/1712.00268](https://arxiv.org/abs/1712.00268)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00268](https://arxiv.org/pdf/1712.00268)
+

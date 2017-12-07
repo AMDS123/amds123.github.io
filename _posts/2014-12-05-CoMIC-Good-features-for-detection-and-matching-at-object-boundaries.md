@@ -20,3 +20,6 @@ Feature or interest points typically use information aggregation in 2D patches w
 ##### URL
 [https://arxiv.org/abs/1412.1957](https://arxiv.org/abs/1412.1957)
 
+##### PDF
+[https://arxiv.org/pdf/1412.1957](https://arxiv.org/pdf/1412.1957)
+

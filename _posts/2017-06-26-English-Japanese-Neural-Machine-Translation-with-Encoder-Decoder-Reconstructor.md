@@ -20,3 +20,6 @@ Neural machine translation (NMT) has recently become popular in the field of mac
 ##### URL
 [https://arxiv.org/abs/1706.08198](https://arxiv.org/abs/1706.08198)
 
+##### PDF
+[https://arxiv.org/pdf/1706.08198](https://arxiv.org/pdf/1706.08198)
+

@@ -20,3 +20,6 @@ Current image captioning methods are usually trained via (penalized) maximum lik
 ##### URL
 [https://arxiv.org/abs/1612.00370](https://arxiv.org/abs/1612.00370)
 
+##### PDF
+[https://arxiv.org/pdf/1612.00370](https://arxiv.org/pdf/1612.00370)
+

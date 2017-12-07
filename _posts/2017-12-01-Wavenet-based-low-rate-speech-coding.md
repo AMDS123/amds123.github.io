@@ -20,3 +20,6 @@ Traditional parametric coding of speech facilitates low rate but provides poor r
 ##### URL
 [http://arxiv.org/abs/1712.01120](http://arxiv.org/abs/1712.01120)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01120](http://arxiv.org/pdf/1712.01120)
+

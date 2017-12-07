@@ -20,3 +20,6 @@ Semantic classes can be either things (objects with a well-defined shape, e.g. c
 ##### URL
 [https://arxiv.org/abs/1612.03716](https://arxiv.org/abs/1612.03716)
 
+##### PDF
+[https://arxiv.org/pdf/1612.03716](https://arxiv.org/pdf/1612.03716)
+

@@ -20,3 +20,6 @@ Knowledge distillation describes a method for training a student network to perf
 ##### URL
 [https://arxiv.org/abs/1702.01802](https://arxiv.org/abs/1702.01802)
 
+##### PDF
+[https://arxiv.org/pdf/1702.01802](https://arxiv.org/pdf/1702.01802)
+

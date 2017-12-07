@@ -20,3 +20,6 @@ Visual question answering (VQA) is challenging because it requires a simultaneou
 ##### URL
 [https://arxiv.org/abs/1708.03619](https://arxiv.org/abs/1708.03619)
 
+##### PDF
+[https://arxiv.org/pdf/1708.03619](https://arxiv.org/pdf/1708.03619)
+

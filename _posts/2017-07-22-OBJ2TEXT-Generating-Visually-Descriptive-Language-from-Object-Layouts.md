@@ -20,3 +20,6 @@ Generating captions for images is a task that has recently received considerable
 ##### URL
 [https://arxiv.org/abs/1707.07102](https://arxiv.org/abs/1707.07102)
 
+##### PDF
+[https://arxiv.org/pdf/1707.07102](https://arxiv.org/pdf/1707.07102)
+

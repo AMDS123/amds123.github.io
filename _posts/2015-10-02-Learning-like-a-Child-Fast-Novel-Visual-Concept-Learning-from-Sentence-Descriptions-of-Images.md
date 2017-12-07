@@ -20,3 +20,6 @@ In this paper, we address the task of learning novel visual concepts, and their 
 ##### URL
 [https://arxiv.org/abs/1504.06692](https://arxiv.org/abs/1504.06692)
 
+##### PDF
+[https://arxiv.org/pdf/1504.06692](https://arxiv.org/pdf/1504.06692)
+

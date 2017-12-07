@@ -20,3 +20,6 @@ This paper presents the University of Cambridge submission to WMT16. Motivated b
 ##### URL
 [https://arxiv.org/abs/1606.04963](https://arxiv.org/abs/1606.04963)
 
+##### PDF
+[https://arxiv.org/pdf/1606.04963](https://arxiv.org/pdf/1606.04963)
+

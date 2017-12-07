@@ -20,3 +20,6 @@ We propose a hybrid architecture for systematically computing robust visual expl
 ##### URL
 [http://arxiv.org/abs/1712.00840](http://arxiv.org/abs/1712.00840)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00840](http://arxiv.org/pdf/1712.00840)
+

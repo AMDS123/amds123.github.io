@@ -20,3 +20,6 @@ Translating information between text and image is a fundamental problem in artif
 ##### URL
 [https://arxiv.org/abs/1703.06676](https://arxiv.org/abs/1703.06676)
 
+##### PDF
+[https://arxiv.org/pdf/1703.06676](https://arxiv.org/pdf/1703.06676)
+

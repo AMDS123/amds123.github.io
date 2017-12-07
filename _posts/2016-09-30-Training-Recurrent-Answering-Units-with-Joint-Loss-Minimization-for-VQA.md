@@ -20,3 +20,6 @@ We propose a novel algorithm for visual question answering based on a recurrent 
 ##### URL
 [https://arxiv.org/abs/1606.03647](https://arxiv.org/abs/1606.03647)
 
+##### PDF
+[https://arxiv.org/pdf/1606.03647](https://arxiv.org/pdf/1606.03647)
+

@@ -20,3 +20,6 @@ The star gamma Cep is known as a single-lined spectroscopic triple system at a d
 ##### URL
 [https://arxiv.org/abs/astro-ph/0611427](https://arxiv.org/abs/astro-ph/0611427)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0611427](https://arxiv.org/pdf/astro-ph/0611427)
+

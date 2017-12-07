@@ -20,3 +20,6 @@ Dropout Variational Inference或Dropout Sampling最近被提出作为贝叶斯�
 ##### URL
 [https://arxiv.org/abs/1710.06677](https://arxiv.org/abs/1710.06677)
 
+##### PDF
+[https://arxiv.org/pdf/1710.06677](https://arxiv.org/pdf/1710.06677)
+

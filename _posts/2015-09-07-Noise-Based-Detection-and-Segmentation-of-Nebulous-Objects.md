@@ -20,3 +20,6 @@ A noise-based non-parametric technique for detecting nebulous objects, for examp
 ##### URL
 [https://arxiv.org/abs/1505.01664](https://arxiv.org/abs/1505.01664)
 
+##### PDF
+[https://arxiv.org/pdf/1505.01664](https://arxiv.org/pdf/1505.01664)
+

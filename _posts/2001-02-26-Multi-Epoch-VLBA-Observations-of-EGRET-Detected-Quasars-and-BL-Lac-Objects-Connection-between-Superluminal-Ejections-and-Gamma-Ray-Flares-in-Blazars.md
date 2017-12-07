@@ -20,3 +20,6 @@ We examine the coincidence of times of high $\gamma$-ray flux and ejections of s
 ##### URL
 [https://arxiv.org/abs/astro-ph/0102012](https://arxiv.org/abs/astro-ph/0102012)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0102012](https://arxiv.org/pdf/astro-ph/0102012)
+

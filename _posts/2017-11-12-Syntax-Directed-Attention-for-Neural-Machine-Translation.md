@@ -20,3 +20,6 @@ Attention mechanism, including global attention and local attention, plays a key
 ##### URL
 [https://arxiv.org/abs/1711.04231](https://arxiv.org/abs/1711.04231)
 
+##### PDF
+[https://arxiv.org/pdf/1711.04231](https://arxiv.org/pdf/1711.04231)
+

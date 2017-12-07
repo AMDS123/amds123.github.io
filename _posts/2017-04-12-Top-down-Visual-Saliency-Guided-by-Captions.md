@@ -20,3 +20,6 @@ Neural image/video captioning models can generate accurate descriptions, but the
 ##### URL
 [https://arxiv.org/abs/1612.07360](https://arxiv.org/abs/1612.07360)
 
+##### PDF
+[https://arxiv.org/pdf/1612.07360](https://arxiv.org/pdf/1612.07360)
+

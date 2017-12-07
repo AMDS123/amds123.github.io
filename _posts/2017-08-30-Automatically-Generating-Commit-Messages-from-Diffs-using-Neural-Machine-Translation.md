@@ -20,3 +20,6 @@ Commit messages are a valuable resource in comprehension of software evolution, 
 ##### URL
 [https://arxiv.org/abs/1708.09492](https://arxiv.org/abs/1708.09492)
 
+##### PDF
+[https://arxiv.org/pdf/1708.09492](https://arxiv.org/pdf/1708.09492)
+

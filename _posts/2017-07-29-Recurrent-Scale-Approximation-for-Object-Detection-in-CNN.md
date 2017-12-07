@@ -20,3 +20,6 @@ Since convolutional neural network (CNN) lacks an inherent mechanism to handle l
 ##### URL
 [https://arxiv.org/abs/1707.09531](https://arxiv.org/abs/1707.09531)
 
+##### PDF
+[https://arxiv.org/pdf/1707.09531](https://arxiv.org/pdf/1707.09531)
+

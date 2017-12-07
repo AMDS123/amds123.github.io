@@ -20,3 +20,6 @@ Real-time object detection is one of the core problems in computer vision. The c
 ##### URL
 [https://arxiv.org/abs/1009.3078](https://arxiv.org/abs/1009.3078)
 
+##### PDF
+[https://arxiv.org/pdf/1009.3078](https://arxiv.org/pdf/1009.3078)
+

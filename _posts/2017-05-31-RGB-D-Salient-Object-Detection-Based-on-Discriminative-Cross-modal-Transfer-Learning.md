@@ -20,3 +20,6 @@ In this work, we propose to utilize Convolutional Neural Networks to boost the p
 ##### URL
 [https://arxiv.org/abs/1703.00122](https://arxiv.org/abs/1703.00122)
 
+##### PDF
+[https://arxiv.org/pdf/1703.00122](https://arxiv.org/pdf/1703.00122)
+

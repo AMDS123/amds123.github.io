@@ -20,3 +20,6 @@ Object detection is one of the most active areas in computer vision, which has m
 ##### URL
 [https://arxiv.org/abs/1604.04048](https://arxiv.org/abs/1604.04048)
 
+##### PDF
+[https://arxiv.org/pdf/1604.04048](https://arxiv.org/pdf/1604.04048)
+

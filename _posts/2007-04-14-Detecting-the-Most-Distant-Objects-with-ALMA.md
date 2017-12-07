@@ -20,3 +20,6 @@ Detecting and studying objects at the highest redshifts, out to the end of Cosmi
 ##### URL
 [https://arxiv.org/abs/0704.1858](https://arxiv.org/abs/0704.1858)
 
+##### PDF
+[https://arxiv.org/pdf/0704.1858](https://arxiv.org/pdf/0704.1858)
+

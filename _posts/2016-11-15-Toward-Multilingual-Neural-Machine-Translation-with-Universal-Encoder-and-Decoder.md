@@ -20,3 +20,6 @@ In this paper, we present our first attempts in building a multilingual Neural M
 ##### URL
 [https://arxiv.org/abs/1611.04798](https://arxiv.org/abs/1611.04798)
 
+##### PDF
+[https://arxiv.org/pdf/1611.04798](https://arxiv.org/pdf/1611.04798)
+

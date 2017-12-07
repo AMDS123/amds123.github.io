@@ -20,3 +20,6 @@ Gaze reflects how humans process visual scenes and is therefore increasingly use
 ##### URL
 [https://arxiv.org/abs/1608.05203](https://arxiv.org/abs/1608.05203)
 
+##### PDF
+[https://arxiv.org/pdf/1608.05203](https://arxiv.org/pdf/1608.05203)
+

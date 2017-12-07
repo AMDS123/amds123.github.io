@@ -20,3 +20,6 @@ In this paper, we propose a new approach for keypoint-based object detection. Tr
 ##### URL
 [https://arxiv.org/abs/0901.4953](https://arxiv.org/abs/0901.4953)
 
+##### PDF
+[https://arxiv.org/pdf/0901.4953](https://arxiv.org/pdf/0901.4953)
+

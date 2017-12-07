@@ -20,3 +20,6 @@ This study is a part of design of an audio system for in-house object detection 
 ##### URL
 [https://arxiv.org/abs/1307.3439](https://arxiv.org/abs/1307.3439)
 
+##### PDF
+[https://arxiv.org/pdf/1307.3439](https://arxiv.org/pdf/1307.3439)
+

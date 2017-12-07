@@ -20,3 +20,6 @@ Object tracking and localization is a complex task that typically requires proce
 ##### URL
 [https://arxiv.org/abs/1712.01635](https://arxiv.org/abs/1712.01635)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01635](https://arxiv.org/pdf/1712.01635)
+

@@ -20,3 +20,6 @@ The muscular activities caused the activation of certain AUs for every facial ex
 ##### URL
 [https://arxiv.org/abs/1712.00195](https://arxiv.org/abs/1712.00195)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00195](https://arxiv.org/pdf/1712.00195)
+

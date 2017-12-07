@@ -20,3 +20,6 @@ Flickr30k数据集已成为基于句子的图像描述的标准基准。本文�
 ##### URL
 [https://arxiv.org/abs/1505.04870](https://arxiv.org/abs/1505.04870)
 
+##### PDF
+[https://arxiv.org/pdf/1505.04870](https://arxiv.org/pdf/1505.04870)
+

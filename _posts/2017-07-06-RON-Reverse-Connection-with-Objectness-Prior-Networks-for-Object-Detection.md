@@ -20,3 +20,6 @@ We present RON, an efficient and effective framework for generic object detectio
 ##### URL
 [https://arxiv.org/abs/1707.01691](https://arxiv.org/abs/1707.01691)
 
+##### PDF
+[https://arxiv.org/pdf/1707.01691](https://arxiv.org/pdf/1707.01691)
+

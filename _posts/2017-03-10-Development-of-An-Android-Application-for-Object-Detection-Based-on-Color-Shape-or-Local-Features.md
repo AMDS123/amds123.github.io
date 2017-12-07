@@ -20,3 +20,6 @@ Object detection and recognition is an important task in many computer vision ap
 ##### URL
 [https://arxiv.org/abs/1703.03848](https://arxiv.org/abs/1703.03848)
 
+##### PDF
+[https://arxiv.org/pdf/1703.03848](https://arxiv.org/pdf/1703.03848)
+

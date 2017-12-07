@@ -20,3 +20,6 @@ We discuss a possible method for detection of dark companions of galactic object
 ##### URL
 [https://arxiv.org/abs/astro-ph/9407030](https://arxiv.org/abs/astro-ph/9407030)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/9407030](https://arxiv.org/pdf/astro-ph/9407030)
+

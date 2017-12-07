@@ -20,3 +20,6 @@ Intuitively, the appearance of true object boundaries varies from image to image
 ##### URL
 [https://arxiv.org/abs/1504.06434](https://arxiv.org/abs/1504.06434)
 
+##### PDF
+[https://arxiv.org/pdf/1504.06434](https://arxiv.org/pdf/1504.06434)
+

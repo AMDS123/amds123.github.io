@@ -20,3 +20,6 @@ Convolutional neural networks (CNNs) have become popular especially in computer 
 ##### URL
 [http://arxiv.org/abs/1712.00967](http://arxiv.org/abs/1712.00967)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00967](http://arxiv.org/pdf/1712.00967)
+

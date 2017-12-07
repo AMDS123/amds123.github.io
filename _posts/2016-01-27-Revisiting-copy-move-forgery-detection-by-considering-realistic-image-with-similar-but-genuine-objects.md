@@ -20,3 +20,6 @@ Many images, of natural or man-made scenes often contain Similar but Genuine Obj
 ##### URL
 [https://arxiv.org/abs/1601.07262](https://arxiv.org/abs/1601.07262)
 
+##### PDF
+[https://arxiv.org/pdf/1601.07262](https://arxiv.org/pdf/1601.07262)
+

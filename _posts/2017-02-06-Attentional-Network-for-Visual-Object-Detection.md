@@ -20,3 +20,6 @@ We propose augmenting deep neural networks with an attention mechanism for the v
 ##### URL
 [https://arxiv.org/abs/1702.01478](https://arxiv.org/abs/1702.01478)
 
+##### PDF
+[https://arxiv.org/pdf/1702.01478](https://arxiv.org/pdf/1702.01478)
+

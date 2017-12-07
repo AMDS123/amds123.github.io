@@ -20,3 +20,6 @@ We present a new approach for neural machine translation (NMT) using the morphol
 ##### URL
 [https://arxiv.org/abs/1609.04621](https://arxiv.org/abs/1609.04621)
 
+##### PDF
+[https://arxiv.org/pdf/1609.04621](https://arxiv.org/pdf/1609.04621)
+

@@ -20,3 +20,6 @@ Object detection often suffers from a plenty of bootless proposals, selecting hi
 ##### URL
 [https://arxiv.org/abs/1605.05904](https://arxiv.org/abs/1605.05904)
 
+##### PDF
+[https://arxiv.org/pdf/1605.05904](https://arxiv.org/pdf/1605.05904)
+

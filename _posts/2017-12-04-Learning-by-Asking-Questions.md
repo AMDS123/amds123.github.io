@@ -20,3 +20,6 @@ We introduce an interactive learning framework for the development and testing o
 ##### URL
 [http://arxiv.org/abs/1712.01238](http://arxiv.org/abs/1712.01238)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01238](http://arxiv.org/pdf/1712.01238)
+

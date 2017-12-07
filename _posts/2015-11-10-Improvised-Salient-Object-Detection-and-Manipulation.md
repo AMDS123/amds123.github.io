@@ -20,3 +20,6 @@ In case of salient subject recognition, computer algorithms have been heavily re
 ##### URL
 [https://arxiv.org/abs/1511.02999](https://arxiv.org/abs/1511.02999)
 
+##### PDF
+[https://arxiv.org/pdf/1511.02999](https://arxiv.org/pdf/1511.02999)
+

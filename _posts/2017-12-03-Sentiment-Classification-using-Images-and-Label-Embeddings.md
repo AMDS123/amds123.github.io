@@ -20,3 +20,6 @@ In this project we analysed how much semantic information images carry, and how 
 ##### URL
 [http://arxiv.org/abs/1712.00725](http://arxiv.org/abs/1712.00725)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00725](http://arxiv.org/pdf/1712.00725)
+

@@ -20,3 +20,6 @@ Even though sequence-to-sequence neural machine translation (NMT) model have ach
 ##### URL
 [https://arxiv.org/abs/1709.01766](https://arxiv.org/abs/1709.01766)
 
+##### PDF
+[https://arxiv.org/pdf/1709.01766](https://arxiv.org/pdf/1709.01766)
+

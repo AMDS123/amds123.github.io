@@ -20,3 +20,6 @@ In astronomy multiple images are frequently obtained at the same position of the
 ##### URL
 [https://arxiv.org/abs/astro-ph/0612707](https://arxiv.org/abs/astro-ph/0612707)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0612707](https://arxiv.org/pdf/astro-ph/0612707)
+

@@ -20,3 +20,6 @@ Multispectral image analysis is a relatively promising field of research with ap
 ##### URL
 [https://arxiv.org/abs/1712.01697](https://arxiv.org/abs/1712.01697)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01697](https://arxiv.org/pdf/1712.01697)
+

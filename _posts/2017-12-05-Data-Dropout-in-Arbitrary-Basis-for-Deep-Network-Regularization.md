@@ -20,3 +20,6 @@ An important problem in training deep networks with high capacity is to ensure t
 ##### URL
 [http://arxiv.org/abs/1712.00891](http://arxiv.org/abs/1712.00891)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00891](http://arxiv.org/pdf/1712.00891)
+

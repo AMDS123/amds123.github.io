@@ -20,3 +20,6 @@ The highest accuracy object detectors to date are based on a two-stage approach 
 ##### URL
 [https://arxiv.org/abs/1708.02002](https://arxiv.org/abs/1708.02002)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02002](https://arxiv.org/pdf/1708.02002)
+

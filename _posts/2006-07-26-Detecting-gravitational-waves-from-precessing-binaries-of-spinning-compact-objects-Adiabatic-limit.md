@@ -20,3 +20,6 @@ Black-hole (BH) binaries with single-BH masses m=5--20 Msun, moving on quasicirc
 ##### URL
 [https://arxiv.org/abs/gr-qc/0211087](https://arxiv.org/abs/gr-qc/0211087)
 
+##### PDF
+[https://arxiv.org/pdf/gr-qc/0211087](https://arxiv.org/pdf/gr-qc/0211087)
+

@@ -20,3 +20,6 @@ Recently, image-to-image translation has been made much progress owing to the su
 ##### URL
 [https://arxiv.org/abs/1711.10735](https://arxiv.org/abs/1711.10735)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10735](https://arxiv.org/pdf/1711.10735)
+

@@ -20,3 +20,6 @@ The common internal structure and algorithmic organization of object detection, 
 ##### URL
 [https://arxiv.org/abs/1204.2741](https://arxiv.org/abs/1204.2741)
 
+##### PDF
+[https://arxiv.org/pdf/1204.2741](https://arxiv.org/pdf/1204.2741)
+

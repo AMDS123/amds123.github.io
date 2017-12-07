@@ -20,3 +20,6 @@ The need for higher agricultural productivity has demanded the intensive use of 
 ##### URL
 [http://arxiv.org/abs/1711.07828](http://arxiv.org/abs/1711.07828)
 
+##### PDF
+[http://arxiv.org/pdf/1711.07828](http://arxiv.org/pdf/1711.07828)
+

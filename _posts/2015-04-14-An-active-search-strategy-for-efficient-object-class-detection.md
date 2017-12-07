@@ -20,3 +20,6 @@ Object class detectors typically apply a window classifier to all the windows in
 ##### URL
 [https://arxiv.org/abs/1412.3709](https://arxiv.org/abs/1412.3709)
 
+##### PDF
+[https://arxiv.org/pdf/1412.3709](https://arxiv.org/pdf/1412.3709)
+

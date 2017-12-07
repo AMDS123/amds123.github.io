@@ -20,3 +20,6 @@ We introduce Multi-Expert Region-based CNN (ME R-CNN) which is equipped with mul
 ##### URL
 [https://arxiv.org/abs/1704.01069](https://arxiv.org/abs/1704.01069)
 
+##### PDF
+[https://arxiv.org/pdf/1704.01069](https://arxiv.org/pdf/1704.01069)
+

@@ -20,3 +20,6 @@ Deep learning has achieved impressive results in many areas of Computer Vision a
 ##### URL
 [https://arxiv.org/abs/1709.08693](https://arxiv.org/abs/1709.08693)
 
+##### PDF
+[https://arxiv.org/pdf/1709.08693](https://arxiv.org/pdf/1709.08693)
+

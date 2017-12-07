@@ -20,3 +20,6 @@ We present a method that learns to answer visual questions by selecting image re
 ##### URL
 [https://arxiv.org/abs/1511.07394](https://arxiv.org/abs/1511.07394)
 
+##### PDF
+[https://arxiv.org/pdf/1511.07394](https://arxiv.org/pdf/1511.07394)
+

@@ -20,3 +20,6 @@ Weakly-supervised object detection (WOD) is a challenging problems in computer v
 ##### URL
 [https://arxiv.org/abs/1703.01290](https://arxiv.org/abs/1703.01290)
 
+##### PDF
+[https://arxiv.org/pdf/1703.01290](https://arxiv.org/pdf/1703.01290)
+

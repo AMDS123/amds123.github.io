@@ -20,3 +20,6 @@ Entity linking (EL) is the task of disambiguating mentions in text by associatin
 ##### URL
 [http://arxiv.org/abs/1712.01797](http://arxiv.org/abs/1712.01797)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01797](http://arxiv.org/pdf/1712.01797)
+

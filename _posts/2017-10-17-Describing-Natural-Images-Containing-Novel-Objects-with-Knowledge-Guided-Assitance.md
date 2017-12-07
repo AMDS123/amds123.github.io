@@ -20,3 +20,6 @@ Images in the wild encapsulate rich knowledge about varied abstract concepts and
 ##### URL
 [https://arxiv.org/abs/1710.06303](https://arxiv.org/abs/1710.06303)
 
+##### PDF
+[https://arxiv.org/pdf/1710.06303](https://arxiv.org/pdf/1710.06303)
+

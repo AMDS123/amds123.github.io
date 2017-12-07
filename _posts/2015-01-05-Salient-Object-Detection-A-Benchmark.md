@@ -20,3 +20,6 @@ We extensively compare, qualitatively and quantitatively, 40 state-of-the-art mo
 ##### URL
 [https://arxiv.org/abs/1501.02741](https://arxiv.org/abs/1501.02741)
 
+##### PDF
+[https://arxiv.org/pdf/1501.02741](https://arxiv.org/pdf/1501.02741)
+

@@ -20,3 +20,6 @@ This paper considers the task of matching images and sentences. The challenge co
 ##### URL
 [http://arxiv.org/abs/1711.05535](http://arxiv.org/abs/1711.05535)
 
+##### PDF
+[http://arxiv.org/pdf/1711.05535](http://arxiv.org/pdf/1711.05535)
+

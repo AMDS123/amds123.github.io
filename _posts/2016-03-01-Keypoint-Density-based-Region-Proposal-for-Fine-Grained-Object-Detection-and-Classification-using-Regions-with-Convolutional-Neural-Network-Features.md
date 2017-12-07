@@ -20,3 +20,6 @@ Although recent advances in regional Convolutional Neural Networks (CNNs) enable
 ##### URL
 [https://arxiv.org/abs/1603.00502](https://arxiv.org/abs/1603.00502)
 
+##### PDF
+[https://arxiv.org/pdf/1603.00502](https://arxiv.org/pdf/1603.00502)
+

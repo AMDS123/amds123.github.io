@@ -20,3 +20,6 @@ We present the design of a diffraction limited, long working distance monochroma
 ##### URL
 [https://arxiv.org/abs/physics/0108058](https://arxiv.org/abs/physics/0108058)
 
+##### PDF
+[https://arxiv.org/pdf/physics/0108058](https://arxiv.org/pdf/physics/0108058)
+

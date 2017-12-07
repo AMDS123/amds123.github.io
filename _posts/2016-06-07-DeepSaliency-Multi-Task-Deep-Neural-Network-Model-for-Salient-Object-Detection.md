@@ -20,3 +20,6 @@ A key problem in salient object detection is how to effectively model the semant
 ##### URL
 [https://arxiv.org/abs/1510.05484](https://arxiv.org/abs/1510.05484)
 
+##### PDF
+[https://arxiv.org/pdf/1510.05484](https://arxiv.org/pdf/1510.05484)
+

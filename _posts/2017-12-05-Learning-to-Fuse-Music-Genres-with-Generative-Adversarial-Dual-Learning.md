@@ -20,3 +20,6 @@ FusionGAN是一个融合了生成对抗网络和双重学习优势的新一代�
 ##### URL
 [http://arxiv.org/abs/1712.01456](http://arxiv.org/abs/1712.01456)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01456](http://arxiv.org/pdf/1712.01456)
+

@@ -20,3 +20,6 @@ We propose a Convolutional Neural Network (CNN) based algorithm - StuffNet - for
 ##### URL
 [https://arxiv.org/abs/1610.05861](https://arxiv.org/abs/1610.05861)
 
+##### PDF
+[https://arxiv.org/pdf/1610.05861](https://arxiv.org/pdf/1610.05861)
+

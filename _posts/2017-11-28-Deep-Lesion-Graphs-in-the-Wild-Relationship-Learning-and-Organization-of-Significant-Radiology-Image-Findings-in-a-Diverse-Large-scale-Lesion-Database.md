@@ -20,3 +20,6 @@ Radiologists in their daily work routinely find and annotate significant abnorma
 ##### URL
 [https://arxiv.org/abs/1711.10535](https://arxiv.org/abs/1711.10535)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10535](https://arxiv.org/pdf/1711.10535)
+

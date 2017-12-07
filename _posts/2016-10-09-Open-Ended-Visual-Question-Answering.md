@@ -20,3 +20,6 @@ This thesis report studies methods to solve Visual Question-Answering (VQA) task
 ##### URL
 [https://arxiv.org/abs/1610.02692](https://arxiv.org/abs/1610.02692)
 
+##### PDF
+[https://arxiv.org/pdf/1610.02692](https://arxiv.org/pdf/1610.02692)
+

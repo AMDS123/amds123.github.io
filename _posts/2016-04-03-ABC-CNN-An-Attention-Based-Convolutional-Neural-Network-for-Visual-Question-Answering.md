@@ -20,3 +20,6 @@ We propose a novel attention based deep learning architecture for visual questio
 ##### URL
 [https://arxiv.org/abs/1511.05960](https://arxiv.org/abs/1511.05960)
 
+##### PDF
+[https://arxiv.org/pdf/1511.05960](https://arxiv.org/pdf/1511.05960)
+

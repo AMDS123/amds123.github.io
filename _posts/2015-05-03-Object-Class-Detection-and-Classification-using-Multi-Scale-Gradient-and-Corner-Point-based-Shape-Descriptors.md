@@ -20,3 +20,6 @@ This paper presents a novel multi scale gradient and a corner point based shape 
 ##### URL
 [https://arxiv.org/abs/1505.00432](https://arxiv.org/abs/1505.00432)
 
+##### PDF
+[https://arxiv.org/pdf/1505.00432](https://arxiv.org/pdf/1505.00432)
+

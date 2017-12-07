@@ -20,3 +20,6 @@ In recent years, numerous effective multi-object tracking (MOT) methods are deve
 ##### URL
 [https://arxiv.org/abs/1511.04136](https://arxiv.org/abs/1511.04136)
 
+##### PDF
+[https://arxiv.org/pdf/1511.04136](https://arxiv.org/pdf/1511.04136)
+

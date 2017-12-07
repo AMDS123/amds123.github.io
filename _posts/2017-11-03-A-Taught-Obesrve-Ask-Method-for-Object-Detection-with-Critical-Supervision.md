@@ -20,3 +20,6 @@ Being inspired by child's learning experience - taught first and followed by obs
 ##### URL
 [https://arxiv.org/abs/1711.01043](https://arxiv.org/abs/1711.01043)
 
+##### PDF
+[https://arxiv.org/pdf/1711.01043](https://arxiv.org/pdf/1711.01043)
+

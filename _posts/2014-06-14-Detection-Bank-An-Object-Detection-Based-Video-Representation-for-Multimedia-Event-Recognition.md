@@ -20,3 +20,6 @@ While low-level image features have proven to be effective representations for v
 ##### URL
 [https://arxiv.org/abs/1405.7102](https://arxiv.org/abs/1405.7102)
 
+##### PDF
+[https://arxiv.org/pdf/1405.7102](https://arxiv.org/pdf/1405.7102)
+

@@ -20,3 +20,6 @@ Neural machine translation (NMT) has achieved notable success in recent times, h
 ##### URL
 [https://arxiv.org/abs/1708.02005](https://arxiv.org/abs/1708.02005)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02005](https://arxiv.org/pdf/1708.02005)
+

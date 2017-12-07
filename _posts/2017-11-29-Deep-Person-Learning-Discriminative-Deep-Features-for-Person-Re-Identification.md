@@ -20,3 +20,6 @@ Recently, many methods of person re-identification (Re-ID) rely on part-based fe
 ##### URL
 [https://arxiv.org/abs/1711.10658](https://arxiv.org/abs/1711.10658)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10658](https://arxiv.org/pdf/1711.10658)
+

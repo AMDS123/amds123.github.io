@@ -20,3 +20,6 @@ Modern deep neural network based object detection methods typically classify can
 ##### URL
 [https://arxiv.org/abs/1603.07415](https://arxiv.org/abs/1603.07415)
 
+##### PDF
+[https://arxiv.org/pdf/1603.07415](https://arxiv.org/pdf/1603.07415)
+

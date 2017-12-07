@@ -20,3 +20,6 @@ We propose a simple solution to use a single Neural Machine Translation (NMT) mo
 ##### URL
 [https://arxiv.org/abs/1611.04558](https://arxiv.org/abs/1611.04558)
 
+##### PDF
+[https://arxiv.org/pdf/1611.04558](https://arxiv.org/pdf/1611.04558)
+

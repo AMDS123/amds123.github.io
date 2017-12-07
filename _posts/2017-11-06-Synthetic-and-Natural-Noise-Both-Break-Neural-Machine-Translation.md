@@ -20,3 +20,6 @@ Character-based neural machine translation (NMT) models alleviate out-of-vocabul
 ##### URL
 [https://arxiv.org/abs/1711.02173](https://arxiv.org/abs/1711.02173)
 
+##### PDF
+[https://arxiv.org/pdf/1711.02173](https://arxiv.org/pdf/1711.02173)
+

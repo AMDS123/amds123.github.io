@@ -20,3 +20,6 @@ Deep learning can be an effective and efficient means to automatically detect an
 ##### URL
 [http://arxiv.org/abs/1712.01511](http://arxiv.org/abs/1712.01511)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01511](http://arxiv.org/pdf/1712.01511)
+

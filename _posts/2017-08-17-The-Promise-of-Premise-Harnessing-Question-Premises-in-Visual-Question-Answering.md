@@ -20,3 +20,6 @@ In this paper, we make a simple observation that questions about images often co
 ##### URL
 [https://arxiv.org/abs/1705.00601](https://arxiv.org/abs/1705.00601)
 
+##### PDF
+[https://arxiv.org/pdf/1705.00601](https://arxiv.org/pdf/1705.00601)
+

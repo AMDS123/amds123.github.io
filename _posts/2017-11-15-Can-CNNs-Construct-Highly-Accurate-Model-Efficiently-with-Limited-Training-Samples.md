@@ -20,3 +20,6 @@ It is well known that metamodel or surrogate modeling techniques have been widel
 ##### URL
 [https://arxiv.org/abs/1712.01639](https://arxiv.org/abs/1712.01639)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01639](https://arxiv.org/pdf/1712.01639)
+

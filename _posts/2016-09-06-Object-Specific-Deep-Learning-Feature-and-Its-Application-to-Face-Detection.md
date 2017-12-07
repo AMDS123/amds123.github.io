@@ -20,3 +20,6 @@ We present a method for discovering and exploiting object specific deep learning
 ##### URL
 [https://arxiv.org/abs/1609.01366](https://arxiv.org/abs/1609.01366)
 
+##### PDF
+[https://arxiv.org/pdf/1609.01366](https://arxiv.org/pdf/1609.01366)
+

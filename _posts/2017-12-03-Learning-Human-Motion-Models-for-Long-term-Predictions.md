@@ -20,3 +20,6 @@ We propose a new architecture for the learning of predictive spatio-temporal mot
 ##### URL
 [http://arxiv.org/abs/1704.02827](http://arxiv.org/abs/1704.02827)
 
+##### PDF
+[http://arxiv.org/pdf/1704.02827](http://arxiv.org/pdf/1704.02827)
+

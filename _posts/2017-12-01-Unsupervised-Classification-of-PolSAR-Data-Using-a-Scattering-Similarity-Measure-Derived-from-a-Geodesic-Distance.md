@@ -20,3 +20,6 @@ In this letter, we propose a novel technique for obtaining scattering components
 ##### URL
 [https://arxiv.org/abs/1712.00427](https://arxiv.org/abs/1712.00427)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00427](https://arxiv.org/pdf/1712.00427)
+

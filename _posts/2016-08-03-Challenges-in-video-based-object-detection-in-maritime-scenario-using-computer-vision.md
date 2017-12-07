@@ -20,3 +20,6 @@ This paper discusses the technical challenges in maritime image processing and m
 ##### URL
 [https://arxiv.org/abs/1608.01079](https://arxiv.org/abs/1608.01079)
 
+##### PDF
+[https://arxiv.org/pdf/1608.01079](https://arxiv.org/pdf/1608.01079)
+

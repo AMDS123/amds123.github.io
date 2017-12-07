@@ -20,3 +20,6 @@ Great strides have been made in the last two decades in determining how galaxies
 ##### URL
 [https://arxiv.org/abs/0902.4717](https://arxiv.org/abs/0902.4717)
 
+##### PDF
+[https://arxiv.org/pdf/0902.4717](https://arxiv.org/pdf/0902.4717)
+

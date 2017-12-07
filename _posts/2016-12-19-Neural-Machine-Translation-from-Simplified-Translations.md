@@ -20,3 +20,6 @@ Text simplification aims at reducing the lexical, grammatical and structural com
 ##### URL
 [https://arxiv.org/abs/1612.06139](https://arxiv.org/abs/1612.06139)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06139](https://arxiv.org/pdf/1612.06139)
+

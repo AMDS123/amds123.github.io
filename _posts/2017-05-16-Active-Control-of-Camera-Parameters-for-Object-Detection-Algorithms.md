@@ -20,3 +20,6 @@ Camera parameters not only play an important role in determining the visual qual
 ##### URL
 [https://arxiv.org/abs/1705.05685](https://arxiv.org/abs/1705.05685)
 
+##### PDF
+[https://arxiv.org/pdf/1705.05685](https://arxiv.org/pdf/1705.05685)
+

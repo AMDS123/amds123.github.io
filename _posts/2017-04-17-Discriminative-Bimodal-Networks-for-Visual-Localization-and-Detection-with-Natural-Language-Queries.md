@@ -20,3 +20,6 @@ Associating image regions with text queries has been recently explored as a new 
 ##### URL
 [https://arxiv.org/abs/1704.03944](https://arxiv.org/abs/1704.03944)
 
+##### PDF
+[https://arxiv.org/pdf/1704.03944](https://arxiv.org/pdf/1704.03944)
+

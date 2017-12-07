@@ -20,3 +20,6 @@ Object detection is a fundamental task in computer vision and has many applicati
 ##### URL
 [https://arxiv.org/abs/1210.7038](https://arxiv.org/abs/1210.7038)
 
+##### PDF
+[https://arxiv.org/pdf/1210.7038](https://arxiv.org/pdf/1210.7038)
+

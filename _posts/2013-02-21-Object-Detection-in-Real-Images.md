@@ -20,3 +20,6 @@ Object detection and recognition are important problems in computer vision. Sinc
 ##### URL
 [https://arxiv.org/abs/1302.5189](https://arxiv.org/abs/1302.5189)
 
+##### PDF
+[https://arxiv.org/pdf/1302.5189](https://arxiv.org/pdf/1302.5189)
+

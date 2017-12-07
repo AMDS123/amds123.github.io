@@ -20,3 +20,6 @@ Most of the traditional work on intrinsic image decomposition rely on deriving p
 ##### URL
 [http://arxiv.org/abs/1712.01056](http://arxiv.org/abs/1712.01056)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01056](http://arxiv.org/pdf/1712.01056)
+

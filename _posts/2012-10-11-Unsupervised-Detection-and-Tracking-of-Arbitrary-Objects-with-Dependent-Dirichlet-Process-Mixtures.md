@@ -20,3 +20,6 @@ This paper proposes a technique for the unsupervised detection and tracking of a
 ##### URL
 [https://arxiv.org/abs/1210.3288](https://arxiv.org/abs/1210.3288)
 
+##### PDF
+[https://arxiv.org/pdf/1210.3288](https://arxiv.org/pdf/1210.3288)
+

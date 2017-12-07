@@ -20,3 +20,6 @@ Video reviews are the natural evolution of written product reviews. In this pape
 ##### URL
 [https://arxiv.org/abs/1708.02420](https://arxiv.org/abs/1708.02420)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02420](https://arxiv.org/pdf/1708.02420)
+

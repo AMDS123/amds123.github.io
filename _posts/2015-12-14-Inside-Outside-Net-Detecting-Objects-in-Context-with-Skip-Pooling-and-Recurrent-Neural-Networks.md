@@ -20,3 +20,6 @@ It is well known that contextual and multi-scale representations are important f
 ##### URL
 [https://arxiv.org/abs/1512.04143](https://arxiv.org/abs/1512.04143)
 
+##### PDF
+[https://arxiv.org/pdf/1512.04143](https://arxiv.org/pdf/1512.04143)
+

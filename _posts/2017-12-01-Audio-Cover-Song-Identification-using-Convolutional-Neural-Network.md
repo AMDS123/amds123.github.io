@@ -20,3 +20,6 @@ In this paper, we propose a new approach to cover song identification using a CN
 ##### URL
 [https://arxiv.org/abs/1712.00166](https://arxiv.org/abs/1712.00166)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00166](https://arxiv.org/pdf/1712.00166)
+

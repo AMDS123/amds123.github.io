@@ -20,3 +20,6 @@ Removing camera motion blur from a single light field is a challenging task sinc
 ##### URL
 [https://arxiv.org/abs/1711.10918](https://arxiv.org/abs/1711.10918)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10918](https://arxiv.org/pdf/1711.10918)
+

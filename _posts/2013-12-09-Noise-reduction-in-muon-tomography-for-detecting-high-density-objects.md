@@ -20,3 +20,6 @@ The muon tomography technique, based on multiple Coulomb scattering of cosmic ra
 ##### URL
 [https://arxiv.org/abs/1307.6093](https://arxiv.org/abs/1307.6093)
 
+##### PDF
+[https://arxiv.org/pdf/1307.6093](https://arxiv.org/pdf/1307.6093)
+

@@ -20,3 +20,6 @@ This year, the Nara Institute of Science and Technology (NAIST)/Carnegie Mellon 
 ##### URL
 [https://arxiv.org/abs/1610.06542](https://arxiv.org/abs/1610.06542)
 
+##### PDF
+[https://arxiv.org/pdf/1610.06542](https://arxiv.org/pdf/1610.06542)
+

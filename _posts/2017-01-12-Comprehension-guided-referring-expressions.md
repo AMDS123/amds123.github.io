@@ -20,3 +20,6 @@ We consider generation and comprehension of natural language referring expressio
 ##### URL
 [https://arxiv.org/abs/1701.03439](https://arxiv.org/abs/1701.03439)
 
+##### PDF
+[https://arxiv.org/pdf/1701.03439](https://arxiv.org/pdf/1701.03439)
+

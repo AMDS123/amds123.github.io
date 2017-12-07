@@ -20,3 +20,6 @@ Increasingly many real world tasks involve data in multiple modalities or views.
 ##### URL
 [https://arxiv.org/abs/1711.06047](https://arxiv.org/abs/1711.06047)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06047](https://arxiv.org/pdf/1711.06047)
+

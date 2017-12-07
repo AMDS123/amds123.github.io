@@ -20,3 +20,6 @@ Recurrent Neural Networks can be trained to produce sequences of tokens given so
 ##### URL
 [https://arxiv.org/abs/1506.03099](https://arxiv.org/abs/1506.03099)
 
+##### PDF
+[https://arxiv.org/pdf/1506.03099](https://arxiv.org/pdf/1506.03099)
+

@@ -20,3 +20,6 @@ Current robot platforms are being employed to collaborate with humans in a wide 
 ##### URL
 [https://arxiv.org/abs/1711.02578](https://arxiv.org/abs/1711.02578)
 
+##### PDF
+[https://arxiv.org/pdf/1711.02578](https://arxiv.org/pdf/1711.02578)
+

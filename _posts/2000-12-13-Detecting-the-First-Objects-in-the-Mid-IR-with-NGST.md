@@ -20,3 +20,6 @@ We calculate the expected Mid-IR molecular hydrogen line emission from the first
 ##### URL
 [https://arxiv.org/abs/astro-ph/0005461](https://arxiv.org/abs/astro-ph/0005461)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0005461](https://arxiv.org/pdf/astro-ph/0005461)
+

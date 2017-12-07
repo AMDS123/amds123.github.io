@@ -20,3 +20,6 @@ Determining semantic similarity between academic documents is crucial to many ta
 ##### URL
 [https://arxiv.org/abs/1711.11508](https://arxiv.org/abs/1711.11508)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11508](https://arxiv.org/pdf/1711.11508)
+

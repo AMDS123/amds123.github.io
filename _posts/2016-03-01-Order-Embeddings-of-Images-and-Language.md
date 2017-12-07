@@ -20,3 +20,6 @@ Hypernymy, textual entailment, and image captioning can be seen as special cases
 ##### URL
 [https://arxiv.org/abs/1511.06361](https://arxiv.org/abs/1511.06361)
 
+##### PDF
+[https://arxiv.org/pdf/1511.06361](https://arxiv.org/pdf/1511.06361)
+

@@ -20,3 +20,6 @@ The accumulating, but small, set of large semi-major axis trans-Neptunian object
 ##### URL
 [https://arxiv.org/abs/1706.05348](https://arxiv.org/abs/1706.05348)
 
+##### PDF
+[https://arxiv.org/pdf/1706.05348](https://arxiv.org/pdf/1706.05348)
+

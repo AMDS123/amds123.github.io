@@ -20,3 +20,6 @@ Despite the recent advances in automatically describing image contents, their ap
 ##### URL
 [https://arxiv.org/abs/1603.08486](https://arxiv.org/abs/1603.08486)
 
+##### PDF
+[https://arxiv.org/pdf/1603.08486](https://arxiv.org/pdf/1603.08486)
+

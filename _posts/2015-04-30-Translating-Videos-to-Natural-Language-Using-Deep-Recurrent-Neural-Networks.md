@@ -20,3 +20,6 @@ Solving the visual symbol grounding problem has long been a goal of artificial i
 ##### URL
 [https://arxiv.org/abs/1412.4729](https://arxiv.org/abs/1412.4729)
 
+##### PDF
+[https://arxiv.org/pdf/1412.4729](https://arxiv.org/pdf/1412.4729)
+

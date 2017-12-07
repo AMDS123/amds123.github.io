@@ -20,3 +20,6 @@ Salient object detection has become an important task in many image processing a
 ##### URL
 [https://arxiv.org/abs/1506.07363](https://arxiv.org/abs/1506.07363)
 
+##### PDF
+[https://arxiv.org/pdf/1506.07363](https://arxiv.org/pdf/1506.07363)
+

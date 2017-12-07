@@ -20,3 +20,6 @@ We address the highly challenging problem of real-time 3D hand tracking based on
 ##### URL
 [http://arxiv.org/abs/1712.01057](http://arxiv.org/abs/1712.01057)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01057](http://arxiv.org/pdf/1712.01057)
+

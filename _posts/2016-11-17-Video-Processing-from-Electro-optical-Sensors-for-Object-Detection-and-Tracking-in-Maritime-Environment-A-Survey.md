@@ -20,3 +20,6 @@ We present a survey on maritime object detection and tracking approaches, which 
 ##### URL
 [https://arxiv.org/abs/1611.05842](https://arxiv.org/abs/1611.05842)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05842](https://arxiv.org/pdf/1611.05842)
+

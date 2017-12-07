@@ -20,3 +20,6 @@ We propose a simple domain adaptation method for neural networks in a supervised
 ##### URL
 [https://arxiv.org/abs/1607.00410](https://arxiv.org/abs/1607.00410)
 
+##### PDF
+[https://arxiv.org/pdf/1607.00410](https://arxiv.org/pdf/1607.00410)
+

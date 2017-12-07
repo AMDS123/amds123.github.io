@@ -20,3 +20,6 @@ The ability to ask questions is a powerful tool to gather information in order t
 ##### URL
 [https://arxiv.org/abs/1708.02760](https://arxiv.org/abs/1708.02760)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02760](https://arxiv.org/pdf/1708.02760)
+

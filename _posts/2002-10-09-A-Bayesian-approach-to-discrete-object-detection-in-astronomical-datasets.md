@@ -20,3 +20,6 @@ A Bayesian approach is presented for detecting and characterising the signal fro
 ##### URL
 [https://arxiv.org/abs/astro-ph/0204457](https://arxiv.org/abs/astro-ph/0204457)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0204457](https://arxiv.org/pdf/astro-ph/0204457)
+

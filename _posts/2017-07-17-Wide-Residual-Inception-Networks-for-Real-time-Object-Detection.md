@@ -20,3 +20,6 @@ Since convolutional neural network(CNN)models emerged,several tasks in computer 
 ##### URL
 [https://arxiv.org/abs/1702.01243](https://arxiv.org/abs/1702.01243)
 
+##### PDF
+[https://arxiv.org/pdf/1702.01243](https://arxiv.org/pdf/1702.01243)
+

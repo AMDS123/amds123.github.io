@@ -20,3 +20,6 @@ The present methodology is aimed at cross-modal machine learning and uses multid
 ##### URL
 [https://arxiv.org/abs/1712.00334](https://arxiv.org/abs/1712.00334)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00334](https://arxiv.org/pdf/1712.00334)
+

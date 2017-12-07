@@ -20,3 +20,6 @@ This paper proposes to improve visual question answering (VQA) with structured r
 ##### URL
 [https://arxiv.org/abs/1609.05600](https://arxiv.org/abs/1609.05600)
 
+##### PDF
+[https://arxiv.org/pdf/1609.05600](https://arxiv.org/pdf/1609.05600)
+

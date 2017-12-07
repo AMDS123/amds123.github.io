@@ -20,3 +20,6 @@ This paper aims at fast and high-accuracy amodal 3D object detections in RGB-D i
 ##### URL
 [https://arxiv.org/abs/1711.00238](https://arxiv.org/abs/1711.00238)
 
+##### PDF
+[https://arxiv.org/pdf/1711.00238](https://arxiv.org/pdf/1711.00238)
+

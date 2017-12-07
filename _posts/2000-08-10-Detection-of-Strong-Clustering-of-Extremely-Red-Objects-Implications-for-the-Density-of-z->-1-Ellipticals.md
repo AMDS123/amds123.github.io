@@ -20,3 +20,6 @@ We present the results of a wide-field survey for extremely red objects (EROs he
 ##### URL
 [https://arxiv.org/abs/astro-ph/0005581](https://arxiv.org/abs/astro-ph/0005581)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0005581](https://arxiv.org/pdf/astro-ph/0005581)
+

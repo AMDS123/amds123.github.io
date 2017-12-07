@@ -20,3 +20,6 @@ Attention mechanisms have been widely applied in the Visual Question Answering (
 ##### URL
 [https://arxiv.org/abs/1709.06308](https://arxiv.org/abs/1709.06308)
 
+##### PDF
+[https://arxiv.org/pdf/1709.06308](https://arxiv.org/pdf/1709.06308)
+

@@ -20,3 +20,6 @@ The ability to predict depth from a single image - using recent advances in CNNs
 ##### URL
 [https://arxiv.org/abs/1712.00175](https://arxiv.org/abs/1712.00175)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00175](https://arxiv.org/pdf/1712.00175)
+

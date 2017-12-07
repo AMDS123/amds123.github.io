@@ -20,3 +20,6 @@ Object detection is one of the major problems in computer vision, and has been e
 ##### URL
 [https://arxiv.org/abs/1711.05954](https://arxiv.org/abs/1711.05954)
 
+##### PDF
+[https://arxiv.org/pdf/1711.05954](https://arxiv.org/pdf/1711.05954)
+

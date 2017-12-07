@@ -20,3 +20,6 @@ We present a novel 3D face reconstruction technique that leverages sparse photom
 ##### URL
 [https://arxiv.org/abs/1711.10870](https://arxiv.org/abs/1711.10870)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10870](https://arxiv.org/pdf/1711.10870)
+

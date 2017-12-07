@@ -20,3 +20,6 @@ Deep models are state-of-the-art for many vision tasks including video action re
 ##### URL
 [https://arxiv.org/abs/1711.06778](https://arxiv.org/abs/1711.06778)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06778](https://arxiv.org/pdf/1711.06778)
+

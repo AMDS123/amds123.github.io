@@ -20,3 +20,6 @@ Visual question answering (or VQA) is a new and exciting problem that combines n
 ##### URL
 [https://arxiv.org/abs/1705.03865](https://arxiv.org/abs/1705.03865)
 
+##### PDF
+[https://arxiv.org/pdf/1705.03865](https://arxiv.org/pdf/1705.03865)
+

@@ -20,3 +20,6 @@ We propose a novel discriminative model that learns embeddings from multilingual
 ##### URL
 [https://arxiv.org/abs/1702.01101](https://arxiv.org/abs/1702.01101)
 
+##### PDF
+[https://arxiv.org/pdf/1702.01101](https://arxiv.org/pdf/1702.01101)
+

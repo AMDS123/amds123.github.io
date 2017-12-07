@@ -20,3 +20,6 @@ NMT系统有大量词汇量的问题。字节对编码（BPE）是解决这个�
 ##### URL
 [https://arxiv.org/abs/1707.06012](https://arxiv.org/abs/1707.06012)
 
+##### PDF
+[https://arxiv.org/pdf/1707.06012](https://arxiv.org/pdf/1707.06012)
+

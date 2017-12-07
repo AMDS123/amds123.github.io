@@ -20,3 +20,6 @@ Current top-performing object detectors depend on deep CNN backbones, such as Re
 ##### URL
 [https://arxiv.org/abs/1711.07767](https://arxiv.org/abs/1711.07767)
 
+##### PDF
+[https://arxiv.org/pdf/1711.07767](https://arxiv.org/pdf/1711.07767)
+

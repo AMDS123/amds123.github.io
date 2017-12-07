@@ -20,3 +20,6 @@ Video analytics requires operating with large amounts of data. Compressive sensi
 ##### URL
 [https://arxiv.org/abs/1705.00002](https://arxiv.org/abs/1705.00002)
 
+##### PDF
+[https://arxiv.org/pdf/1705.00002](https://arxiv.org/pdf/1705.00002)
+

@@ -20,3 +20,6 @@ We present observations of $^{13}$CO(1-0) in 17 Combined Array for Research in M
 ##### URL
 [https://arxiv.org/abs/1504.02095](https://arxiv.org/abs/1504.02095)
 
+##### PDF
+[https://arxiv.org/pdf/1504.02095](https://arxiv.org/pdf/1504.02095)
+

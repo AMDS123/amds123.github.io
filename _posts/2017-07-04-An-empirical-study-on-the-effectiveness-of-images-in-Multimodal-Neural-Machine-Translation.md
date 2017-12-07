@@ -20,3 +20,6 @@ In state-of-the-art Neural Machine Translation (NMT), an attention mechanism is 
 ##### URL
 [https://arxiv.org/abs/1707.00995](https://arxiv.org/abs/1707.00995)
 
+##### PDF
+[https://arxiv.org/pdf/1707.00995](https://arxiv.org/pdf/1707.00995)
+

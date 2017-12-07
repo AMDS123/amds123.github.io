@@ -20,3 +20,6 @@ Acronyms are omnipresent. They usually express information that is repetitive an
 ##### URL
 [http://arxiv.org/abs/1711.09271](http://arxiv.org/abs/1711.09271)
 
+##### PDF
+[http://arxiv.org/pdf/1711.09271](http://arxiv.org/pdf/1711.09271)
+

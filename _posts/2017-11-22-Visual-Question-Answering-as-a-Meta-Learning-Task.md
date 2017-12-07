@@ -20,3 +20,6 @@ The predominant approach to Visual Question Answering (VQA) demands that the mod
 ##### URL
 [https://arxiv.org/abs/1711.08105](https://arxiv.org/abs/1711.08105)
 
+##### PDF
+[https://arxiv.org/pdf/1711.08105](https://arxiv.org/pdf/1711.08105)
+

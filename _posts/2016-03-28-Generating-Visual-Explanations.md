@@ -20,3 +20,6 @@ Clearly explaining a rationale for a classification decision to an end-user can 
 ##### URL
 [https://arxiv.org/abs/1603.08507](https://arxiv.org/abs/1603.08507)
 
+##### PDF
+[https://arxiv.org/pdf/1603.08507](https://arxiv.org/pdf/1603.08507)
+

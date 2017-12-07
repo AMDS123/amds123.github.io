@@ -20,3 +20,6 @@ Do convolutional networks really need a fixed feed-forward structure? Often, a n
 ##### URL
 [https://arxiv.org/abs/1711.11503](https://arxiv.org/abs/1711.11503)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11503](https://arxiv.org/pdf/1711.11503)
+

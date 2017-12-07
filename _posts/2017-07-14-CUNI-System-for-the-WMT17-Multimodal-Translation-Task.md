@@ -20,3 +20,6 @@ In this paper, we describe our submissions to the WMT17 Multimodal Translation T
 ##### URL
 [https://arxiv.org/abs/1707.04550](https://arxiv.org/abs/1707.04550)
 
+##### PDF
+[https://arxiv.org/pdf/1707.04550](https://arxiv.org/pdf/1707.04550)
+

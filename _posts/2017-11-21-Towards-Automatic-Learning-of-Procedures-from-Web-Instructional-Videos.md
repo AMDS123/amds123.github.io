@@ -20,3 +20,6 @@ The potential for agents, whether embodied or software, to learn by observing ot
 ##### URL
 [https://arxiv.org/abs/1703.09788](https://arxiv.org/abs/1703.09788)
 
+##### PDF
+[https://arxiv.org/pdf/1703.09788](https://arxiv.org/pdf/1703.09788)
+

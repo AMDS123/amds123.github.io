@@ -20,3 +20,6 @@ We present the SCUBA Legacy Catalogues, two comprehensive sets of continuum maps
 ##### URL
 [https://arxiv.org/abs/0801.2595](https://arxiv.org/abs/0801.2595)
 
+##### PDF
+[https://arxiv.org/pdf/0801.2595](https://arxiv.org/pdf/0801.2595)
+

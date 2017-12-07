@@ -20,3 +20,6 @@ Deep neural networks have shown striking progress and obtained state-of-the-art 
 ##### URL
 [https://arxiv.org/abs/1608.08974](https://arxiv.org/abs/1608.08974)
 
+##### PDF
+[https://arxiv.org/pdf/1608.08974](https://arxiv.org/pdf/1608.08974)
+

@@ -20,3 +20,6 @@ In this paper we describe a novel framework and algorithms for discovering image
 ##### URL
 [https://arxiv.org/abs/1601.00022](https://arxiv.org/abs/1601.00022)
 
+##### PDF
+[https://arxiv.org/pdf/1601.00022](https://arxiv.org/pdf/1601.00022)
+

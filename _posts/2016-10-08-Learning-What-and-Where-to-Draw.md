@@ -20,3 +20,6 @@ Generative Adversarial Networks (GANs) have recently demonstrated the capability
 ##### URL
 [https://arxiv.org/abs/1610.02454](https://arxiv.org/abs/1610.02454)
 
+##### PDF
+[https://arxiv.org/pdf/1610.02454](https://arxiv.org/pdf/1610.02454)
+

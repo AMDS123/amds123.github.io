@@ -20,3 +20,6 @@ Human face analysis is an important task in computer vision. According to cognit
 ##### URL
 [https://arxiv.org/abs/1711.10688](https://arxiv.org/abs/1711.10688)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10688](https://arxiv.org/pdf/1711.10688)
+

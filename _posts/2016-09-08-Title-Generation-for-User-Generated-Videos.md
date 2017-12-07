@@ -20,3 +20,6 @@ A great video title describes the most salient event compactly and captures the 
 ##### URL
 [https://arxiv.org/abs/1608.07068](https://arxiv.org/abs/1608.07068)
 
+##### PDF
+[https://arxiv.org/pdf/1608.07068](https://arxiv.org/pdf/1608.07068)
+

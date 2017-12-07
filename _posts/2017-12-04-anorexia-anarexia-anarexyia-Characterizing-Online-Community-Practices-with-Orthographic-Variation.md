@@ -20,3 +20,6 @@ Distinctive linguistic practices help communities build solidarity and different
 ##### URL
 [http://arxiv.org/abs/1712.01411](http://arxiv.org/abs/1712.01411)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01411](http://arxiv.org/pdf/1712.01411)
+

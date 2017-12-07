@@ -20,3 +20,6 @@ We present constraints on products of two leptoquark (LQ) coupling constants. Th
 ##### URL
 [https://arxiv.org/abs/hep-ph/0301079](https://arxiv.org/abs/hep-ph/0301079)
 
+##### PDF
+[https://arxiv.org/pdf/hep-ph/0301079](https://arxiv.org/pdf/hep-ph/0301079)
+

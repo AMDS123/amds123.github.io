@@ -20,3 +20,6 @@ We propose "Areas of Attention", a novel attention-based model for automatic ima
 ##### URL
 [https://arxiv.org/abs/1612.01033](https://arxiv.org/abs/1612.01033)
 
+##### PDF
+[https://arxiv.org/pdf/1612.01033](https://arxiv.org/pdf/1612.01033)
+

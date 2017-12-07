@@ -20,3 +20,6 @@ Alzheimer's Disease destroys brain cells causing people to lose their memory, me
 ##### URL
 [https://arxiv.org/abs/1712.01675](https://arxiv.org/abs/1712.01675)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01675](https://arxiv.org/pdf/1712.01675)
+

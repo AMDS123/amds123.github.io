@@ -20,3 +20,6 @@ In recent years, word embeddings have been surprisingly effective at capturing i
 ##### URL
 [http://arxiv.org/abs/1712.01460](http://arxiv.org/abs/1712.01460)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01460](http://arxiv.org/pdf/1712.01460)
+

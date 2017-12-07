@@ -20,3 +20,6 @@ While neural machine translation (NMT) is making good progress in the past two y
 ##### URL
 [https://arxiv.org/abs/1611.00179](https://arxiv.org/abs/1611.00179)
 
+##### PDF
+[https://arxiv.org/pdf/1611.00179](https://arxiv.org/pdf/1611.00179)
+

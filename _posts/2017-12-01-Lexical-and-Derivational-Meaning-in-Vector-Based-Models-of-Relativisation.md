@@ -20,3 +20,6 @@ Sadrzadeh等人（2013）用有限维向量空间的Frobenius代数结构，给�
 ##### URL
 [https://arxiv.org/abs/1711.11513](https://arxiv.org/abs/1711.11513)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11513](https://arxiv.org/pdf/1711.11513)
+

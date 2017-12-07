@@ -20,3 +20,6 @@ Compared to traditional statistical machine translation (SMT), neural machine tr
 ##### URL
 [https://arxiv.org/abs/1711.00309](https://arxiv.org/abs/1711.00309)
 
+##### PDF
+[https://arxiv.org/pdf/1711.00309](https://arxiv.org/pdf/1711.00309)
+

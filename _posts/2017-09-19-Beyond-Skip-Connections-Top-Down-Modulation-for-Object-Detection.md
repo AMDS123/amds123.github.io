@@ -20,3 +20,6 @@ In recent years, we have seen tremendous progress in the field of object detecti
 ##### URL
 [https://arxiv.org/abs/1612.06851](https://arxiv.org/abs/1612.06851)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06851](https://arxiv.org/pdf/1612.06851)
+

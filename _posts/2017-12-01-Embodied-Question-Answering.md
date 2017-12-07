@@ -20,3 +20,6 @@ We present a new AI task -- Embodied Question Answering (EmbodiedQA) -- where an
 ##### URL
 [https://arxiv.org/abs/1711.11543](https://arxiv.org/abs/1711.11543)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11543](https://arxiv.org/pdf/1711.11543)
+

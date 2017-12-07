@@ -20,3 +20,6 @@ In this paper, we propose a novel domain adaptation method named "mixed fine tun
 ##### URL
 [https://arxiv.org/abs/1701.03214](https://arxiv.org/abs/1701.03214)
 
+##### PDF
+[https://arxiv.org/pdf/1701.03214](https://arxiv.org/pdf/1701.03214)
+

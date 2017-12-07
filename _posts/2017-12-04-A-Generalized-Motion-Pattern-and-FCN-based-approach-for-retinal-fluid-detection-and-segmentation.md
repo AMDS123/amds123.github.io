@@ -20,3 +20,6 @@ SD-OCT是一种用于诊断黄斑缺损的非侵入性横截面成像模式。�
 ##### URL
 [http://arxiv.org/abs/1712.01073](http://arxiv.org/abs/1712.01073)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01073](http://arxiv.org/pdf/1712.01073)
+

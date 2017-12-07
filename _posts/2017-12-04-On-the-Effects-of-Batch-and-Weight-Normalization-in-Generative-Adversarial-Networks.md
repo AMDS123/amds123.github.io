@@ -20,3 +20,6 @@ Generative adversarial networks (GANs) are highly effective unsupervised learnin
 ##### URL
 [http://arxiv.org/abs/1704.03971](http://arxiv.org/abs/1704.03971)
 
+##### PDF
+[http://arxiv.org/pdf/1704.03971](http://arxiv.org/pdf/1704.03971)
+

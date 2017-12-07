@@ -20,3 +20,6 @@ Instance segmentation has attracted recent attention in computer vision and exis
 ##### URL
 [https://arxiv.org/abs/1611.08991](https://arxiv.org/abs/1611.08991)
 
+##### PDF
+[https://arxiv.org/pdf/1611.08991](https://arxiv.org/pdf/1611.08991)
+

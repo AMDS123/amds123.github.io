@@ -20,3 +20,6 @@ Interpretability of deep neural networks (DNNs) is essential since it enables us
 ##### URL
 [https://arxiv.org/abs/1703.04096](https://arxiv.org/abs/1703.04096)
 
+##### PDF
+[https://arxiv.org/pdf/1703.04096](https://arxiv.org/pdf/1703.04096)
+

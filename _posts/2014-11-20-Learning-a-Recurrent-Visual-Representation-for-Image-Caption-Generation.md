@@ -20,3 +20,6 @@ In this paper we explore the bi-directional mapping between images and their sen
 ##### URL
 [https://arxiv.org/abs/1411.5654](https://arxiv.org/abs/1411.5654)
 
+##### PDF
+[https://arxiv.org/pdf/1411.5654](https://arxiv.org/pdf/1411.5654)
+

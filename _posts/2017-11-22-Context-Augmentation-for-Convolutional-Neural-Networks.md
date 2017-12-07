@@ -20,3 +20,6 @@ Recent enhancements of deep convolutional neural networks (ConvNets) empowered b
 ##### URL
 [https://arxiv.org/abs/1712.01653](https://arxiv.org/abs/1712.01653)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01653](https://arxiv.org/pdf/1712.01653)
+

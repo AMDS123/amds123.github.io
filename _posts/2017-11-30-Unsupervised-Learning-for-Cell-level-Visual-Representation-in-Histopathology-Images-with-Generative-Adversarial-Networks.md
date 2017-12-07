@@ -20,3 +20,6 @@ The visual attributes of cells, such as the nuclear morphology and chromatin ope
 ##### URL
 [https://arxiv.org/abs/1711.11317](https://arxiv.org/abs/1711.11317)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11317](https://arxiv.org/pdf/1711.11317)
+

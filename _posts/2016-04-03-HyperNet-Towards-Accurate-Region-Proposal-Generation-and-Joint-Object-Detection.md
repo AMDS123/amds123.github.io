@@ -20,3 +20,6 @@ Almost all of the current top-performing object detection networks employ region
 ##### URL
 [https://arxiv.org/abs/1604.00600](https://arxiv.org/abs/1604.00600)
 
+##### PDF
+[https://arxiv.org/pdf/1604.00600](https://arxiv.org/pdf/1604.00600)
+

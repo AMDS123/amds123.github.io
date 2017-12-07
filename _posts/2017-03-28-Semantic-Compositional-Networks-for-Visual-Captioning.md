@@ -20,3 +20,6 @@ A Semantic Compositional Network (SCN) is developed for image captioning, in whi
 ##### URL
 [https://arxiv.org/abs/1611.08002](https://arxiv.org/abs/1611.08002)
 
+##### PDF
+[https://arxiv.org/pdf/1611.08002](https://arxiv.org/pdf/1611.08002)
+

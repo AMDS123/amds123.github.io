@@ -20,3 +20,6 @@ We address the problem of video captioning by grounding language generation on o
 ##### URL
 [https://arxiv.org/abs/1711.06354](https://arxiv.org/abs/1711.06354)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06354](https://arxiv.org/pdf/1711.06354)
+

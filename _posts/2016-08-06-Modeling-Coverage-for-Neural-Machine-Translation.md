@@ -20,3 +20,6 @@ Attention mechanism has enhanced state-of-the-art Neural Machine Translation (NM
 ##### URL
 [https://arxiv.org/abs/1601.04811](https://arxiv.org/abs/1601.04811)
 
+##### PDF
+[https://arxiv.org/pdf/1601.04811](https://arxiv.org/pdf/1601.04811)
+

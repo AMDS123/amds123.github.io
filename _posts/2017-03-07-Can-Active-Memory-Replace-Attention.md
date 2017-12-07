@@ -20,3 +20,6 @@ Several mechanisms to focus attention of a neural network on selected parts of i
 ##### URL
 [https://arxiv.org/abs/1610.08613](https://arxiv.org/abs/1610.08613)
 
+##### PDF
+[https://arxiv.org/pdf/1610.08613](https://arxiv.org/pdf/1610.08613)
+

@@ -20,3 +20,6 @@ We investigate the association between musical chords and lyrics by analyzing a 
 ##### URL
 [http://arxiv.org/abs/1706.08609](http://arxiv.org/abs/1706.08609)
 
+##### PDF
+[http://arxiv.org/pdf/1706.08609](http://arxiv.org/pdf/1706.08609)
+

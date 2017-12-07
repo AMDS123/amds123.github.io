@@ -20,3 +20,6 @@ Sequence to sequence learning has recently emerged as a new paradigm in supervis
 ##### URL
 [https://arxiv.org/abs/1511.06114](https://arxiv.org/abs/1511.06114)
 
+##### PDF
+[https://arxiv.org/pdf/1511.06114](https://arxiv.org/pdf/1511.06114)
+

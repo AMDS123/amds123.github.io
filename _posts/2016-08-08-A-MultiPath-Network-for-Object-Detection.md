@@ -20,3 +20,6 @@ The recent COCO object detection dataset presents several new challenges for obj
 ##### URL
 [https://arxiv.org/abs/1604.02135](https://arxiv.org/abs/1604.02135)
 
+##### PDF
+[https://arxiv.org/pdf/1604.02135](https://arxiv.org/pdf/1604.02135)
+

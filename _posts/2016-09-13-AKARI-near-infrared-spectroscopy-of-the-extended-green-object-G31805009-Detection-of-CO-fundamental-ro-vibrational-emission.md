@@ -20,3 +20,6 @@ We present the results of near-infrared (2.5--5.4um) long-slit spectroscopy of t
 ##### URL
 [https://arxiv.org/abs/1608.06698](https://arxiv.org/abs/1608.06698)
 
+##### PDF
+[https://arxiv.org/pdf/1608.06698](https://arxiv.org/pdf/1608.06698)
+

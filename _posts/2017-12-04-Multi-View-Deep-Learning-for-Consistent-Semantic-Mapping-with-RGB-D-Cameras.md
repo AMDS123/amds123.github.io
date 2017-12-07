@@ -20,3 +20,6 @@ Visual scene understanding is an important capability that enables robots to pur
 ##### URL
 [http://arxiv.org/abs/1703.08866](http://arxiv.org/abs/1703.08866)
 
+##### PDF
+[http://arxiv.org/pdf/1703.08866](http://arxiv.org/pdf/1703.08866)
+

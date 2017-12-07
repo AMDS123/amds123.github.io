@@ -20,3 +20,6 @@ This paper presents a novel approach for lecture video indexing using a boosted 
 ##### URL
 [http://arxiv.org/abs/1712.00575](http://arxiv.org/abs/1712.00575)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00575](http://arxiv.org/pdf/1712.00575)
+

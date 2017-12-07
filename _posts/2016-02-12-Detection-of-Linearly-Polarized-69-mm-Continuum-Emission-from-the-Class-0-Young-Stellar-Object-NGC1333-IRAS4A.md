@@ -20,3 +20,6 @@ We report new Karl G. Jansky Very Large Array (JVLA), 0$"$.5 angular resolution 
 ##### URL
 [https://arxiv.org/abs/1602.04077](https://arxiv.org/abs/1602.04077)
 
+##### PDF
+[https://arxiv.org/pdf/1602.04077](https://arxiv.org/pdf/1602.04077)
+

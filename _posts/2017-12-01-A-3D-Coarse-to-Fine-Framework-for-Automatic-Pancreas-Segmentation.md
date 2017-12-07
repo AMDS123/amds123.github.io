@@ -20,3 +20,6 @@ In this paper, we adopt 3D CNNs to segment the pancreas in CT images. Although d
 ##### URL
 [https://arxiv.org/abs/1712.00201](https://arxiv.org/abs/1712.00201)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00201](https://arxiv.org/pdf/1712.00201)
+

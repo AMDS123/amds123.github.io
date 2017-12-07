@@ -20,3 +20,6 @@ The complex compositional structure of language makes problems at the intersecti
 ##### URL
 [https://arxiv.org/abs/1511.05099](https://arxiv.org/abs/1511.05099)
 
+##### PDF
+[https://arxiv.org/pdf/1511.05099](https://arxiv.org/pdf/1511.05099)
+

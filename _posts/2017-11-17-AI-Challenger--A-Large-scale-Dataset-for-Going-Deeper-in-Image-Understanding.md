@@ -20,3 +20,6 @@ Significant progress has been achieved in Computer Vision by leveraging large-sc
 ##### URL
 [https://arxiv.org/abs/1711.06475](https://arxiv.org/abs/1711.06475)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06475](https://arxiv.org/pdf/1711.06475)
+

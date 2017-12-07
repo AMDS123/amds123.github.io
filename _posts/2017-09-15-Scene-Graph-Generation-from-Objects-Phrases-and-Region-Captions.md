@@ -20,3 +20,6 @@ Object detection, scene graph generation and region captioning, which are three 
 ##### URL
 [https://arxiv.org/abs/1707.09700](https://arxiv.org/abs/1707.09700)
 
+##### PDF
+[https://arxiv.org/pdf/1707.09700](https://arxiv.org/pdf/1707.09700)
+

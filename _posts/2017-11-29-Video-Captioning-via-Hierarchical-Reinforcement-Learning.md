@@ -20,3 +20,6 @@ Video captioning is the task of automatically generating a textual description o
 ##### URL
 [https://arxiv.org/abs/1711.11135](https://arxiv.org/abs/1711.11135)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11135](https://arxiv.org/pdf/1711.11135)
+

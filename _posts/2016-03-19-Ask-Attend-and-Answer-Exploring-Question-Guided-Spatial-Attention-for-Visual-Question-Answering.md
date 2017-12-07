@@ -20,3 +20,6 @@ We address the problem of Visual Question Answering (VQA), which requires joint 
 ##### URL
 [https://arxiv.org/abs/1511.05234](https://arxiv.org/abs/1511.05234)
 
+##### PDF
+[https://arxiv.org/pdf/1511.05234](https://arxiv.org/pdf/1511.05234)
+

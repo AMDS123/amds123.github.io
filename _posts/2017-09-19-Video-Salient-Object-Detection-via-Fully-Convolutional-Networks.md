@@ -20,3 +20,6 @@ This paper proposes a deep learning model to efficiently detect salient regions 
 ##### URL
 [https://arxiv.org/abs/1702.00871](https://arxiv.org/abs/1702.00871)
 
+##### PDF
+[https://arxiv.org/pdf/1702.00871](https://arxiv.org/pdf/1702.00871)
+

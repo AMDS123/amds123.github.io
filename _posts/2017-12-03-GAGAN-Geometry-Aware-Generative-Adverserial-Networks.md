@@ -20,3 +20,6 @@ Deep generative models learned through adversarial training have become increasi
 ##### URL
 [http://arxiv.org/abs/1712.00684](http://arxiv.org/abs/1712.00684)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00684](http://arxiv.org/pdf/1712.00684)
+

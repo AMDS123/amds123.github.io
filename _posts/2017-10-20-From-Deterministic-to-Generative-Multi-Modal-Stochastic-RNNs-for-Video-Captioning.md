@@ -20,3 +20,6 @@ Video captioning in essential is a complex natural process, which is affected by
 ##### URL
 [https://arxiv.org/abs/1708.02478](https://arxiv.org/abs/1708.02478)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02478](https://arxiv.org/pdf/1708.02478)
+

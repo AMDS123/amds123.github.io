@@ -20,3 +20,6 @@ The ability to semantically interpret hand-drawn line sketches, although very ch
 ##### URL
 [https://arxiv.org/abs/1709.01295](https://arxiv.org/abs/1709.01295)
 
+##### PDF
+[https://arxiv.org/pdf/1709.01295](https://arxiv.org/pdf/1709.01295)
+

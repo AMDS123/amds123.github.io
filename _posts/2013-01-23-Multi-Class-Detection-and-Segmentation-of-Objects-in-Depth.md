@@ -20,3 +20,6 @@ The quality of life of many people could be improved by autonomous humanoid robo
 ##### URL
 [https://arxiv.org/abs/1301.5582](https://arxiv.org/abs/1301.5582)
 
+##### PDF
+[https://arxiv.org/pdf/1301.5582](https://arxiv.org/pdf/1301.5582)
+

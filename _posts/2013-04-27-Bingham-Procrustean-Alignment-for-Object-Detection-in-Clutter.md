@@ -20,3 +20,6 @@ A new system for object detection in cluttered RGB-D images is presented. Our ma
 ##### URL
 [https://arxiv.org/abs/1304.7399](https://arxiv.org/abs/1304.7399)
 
+##### PDF
+[https://arxiv.org/pdf/1304.7399](https://arxiv.org/pdf/1304.7399)
+

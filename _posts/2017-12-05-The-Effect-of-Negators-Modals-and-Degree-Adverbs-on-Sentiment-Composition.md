@@ -20,3 +20,6 @@ Negators, modals, and degree adverbs can significantly affect the sentiment of t
 ##### URL
 [http://arxiv.org/abs/1712.01794](http://arxiv.org/abs/1712.01794)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01794](http://arxiv.org/pdf/1712.01794)
+

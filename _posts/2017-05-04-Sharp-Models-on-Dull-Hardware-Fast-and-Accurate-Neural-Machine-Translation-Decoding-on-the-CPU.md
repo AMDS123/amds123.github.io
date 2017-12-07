@@ -20,3 +20,6 @@ Attentional sequence-to-sequence models have become the new standard for machine
 ##### URL
 [https://arxiv.org/abs/1705.01991](https://arxiv.org/abs/1705.01991)
 
+##### PDF
+[https://arxiv.org/pdf/1705.01991](https://arxiv.org/pdf/1705.01991)
+

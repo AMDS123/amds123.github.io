@@ -20,3 +20,6 @@ Motivated by the application of fact-level image understanding, we present an au
 ##### URL
 [https://arxiv.org/abs/1604.00466](https://arxiv.org/abs/1604.00466)
 
+##### PDF
+[https://arxiv.org/pdf/1604.00466](https://arxiv.org/pdf/1604.00466)
+

@@ -20,3 +20,6 @@ SSD（Single Shot Multibox Detector）是高精度，高速度的最佳物体检
 ##### URL
 [http://arxiv.org/abs/1712.00960](http://arxiv.org/abs/1712.00960)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00960](http://arxiv.org/pdf/1712.00960)
+

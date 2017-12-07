@@ -20,3 +20,6 @@ Images of the trans-Neptunian objects 1997 CQ29 and 2000 CF105 obtained with the
 ##### URL
 [https://arxiv.org/abs/astro-ph/0210593](https://arxiv.org/abs/astro-ph/0210593)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0210593](https://arxiv.org/pdf/astro-ph/0210593)
+

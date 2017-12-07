@@ -20,3 +20,6 @@ We propose AffordanceNet, a new deep learning approach to simultaneously detect 
 ##### URL
 [https://arxiv.org/abs/1709.07326](https://arxiv.org/abs/1709.07326)
 
+##### PDF
+[https://arxiv.org/pdf/1709.07326](https://arxiv.org/pdf/1709.07326)
+

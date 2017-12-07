@@ -20,3 +20,6 @@ Road extraction from aerial images has been a hot research topic in the field of
 ##### URL
 [https://arxiv.org/abs/1711.10684](https://arxiv.org/abs/1711.10684)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10684](https://arxiv.org/pdf/1711.10684)
+

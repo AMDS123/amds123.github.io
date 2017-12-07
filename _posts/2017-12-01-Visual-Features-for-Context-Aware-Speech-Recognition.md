@@ -20,3 +20,6 @@ Automatic transcriptions of consumer-generated multi-media content such as "Yout
 ##### URL
 [http://arxiv.org/abs/1712.00489](http://arxiv.org/abs/1712.00489)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00489](http://arxiv.org/pdf/1712.00489)
+

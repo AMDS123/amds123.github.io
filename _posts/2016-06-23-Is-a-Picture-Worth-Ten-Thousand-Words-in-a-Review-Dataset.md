@@ -20,3 +20,6 @@ While textual reviews have become prominent in many recommendation-based systems
 ##### URL
 [https://arxiv.org/abs/1606.07496](https://arxiv.org/abs/1606.07496)
 
+##### PDF
+[https://arxiv.org/pdf/1606.07496](https://arxiv.org/pdf/1606.07496)
+

@@ -20,3 +20,6 @@ Sequence-to-sequence models provide a simple and elegant solution for building s
 ##### URL
 [http://arxiv.org/abs/1712.01541](http://arxiv.org/abs/1712.01541)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01541](http://arxiv.org/pdf/1712.01541)
+

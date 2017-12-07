@@ -20,3 +20,6 @@ We propose a novel single shot object detection network named Detection with Enr
 ##### URL
 [https://arxiv.org/abs/1712.00433](https://arxiv.org/abs/1712.00433)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00433](https://arxiv.org/pdf/1712.00433)
+

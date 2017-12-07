@@ -20,3 +20,6 @@ We describe an approach for segmenting an image into regions that correspond to 
 ##### URL
 [https://arxiv.org/abs/1109.4683](https://arxiv.org/abs/1109.4683)
 
+##### PDF
+[https://arxiv.org/pdf/1109.4683](https://arxiv.org/pdf/1109.4683)
+

@@ -20,3 +20,6 @@ The quasi-Hilda object, 212P/2000YN30 with a cometary-like orbit, was found to d
 ##### URL
 [https://arxiv.org/abs/1305.1099](https://arxiv.org/abs/1305.1099)
 
+##### PDF
+[https://arxiv.org/pdf/1305.1099](https://arxiv.org/pdf/1305.1099)
+

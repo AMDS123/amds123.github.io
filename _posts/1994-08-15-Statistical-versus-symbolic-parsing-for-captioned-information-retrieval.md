@@ -20,3 +20,6 @@ We discuss implementation issues of MARIE-1, a mostly symbolic parser fully impl
 ##### URL
 [https://arxiv.org/abs/cmp-lg/9408008](https://arxiv.org/abs/cmp-lg/9408008)
 
+##### PDF
+[https://arxiv.org/pdf/cmp-lg/9408008](https://arxiv.org/pdf/cmp-lg/9408008)
+

@@ -20,3 +20,6 @@ Deep convolutional neural networks (CNN) have revolutionized various fields of v
 ##### URL
 [https://arxiv.org/abs/1708.06670](https://arxiv.org/abs/1708.06670)
 
+##### PDF
+[https://arxiv.org/pdf/1708.06670](https://arxiv.org/pdf/1708.06670)
+

@@ -20,3 +20,6 @@ This work explores attention models to weight the contribution of local convolut
 ##### URL
 [https://arxiv.org/abs/1711.10795](https://arxiv.org/abs/1711.10795)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10795](https://arxiv.org/pdf/1711.10795)
+

@@ -20,3 +20,6 @@ Modern deep neural networks have a large number of parameters, making them very 
 ##### URL
 [https://arxiv.org/abs/1607.04381](https://arxiv.org/abs/1607.04381)
 
+##### PDF
+[https://arxiv.org/pdf/1607.04381](https://arxiv.org/pdf/1607.04381)
+

@@ -20,3 +20,6 @@ A major challenge in Entity Linking (EL) is making effective use of contextual i
 ##### URL
 [http://arxiv.org/abs/1712.01813](http://arxiv.org/abs/1712.01813)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01813](http://arxiv.org/pdf/1712.01813)
+

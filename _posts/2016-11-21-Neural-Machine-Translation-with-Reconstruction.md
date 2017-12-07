@@ -20,3 +20,6 @@ Although end-to-end Neural Machine Translation (NMT) has achieved remarkable pro
 ##### URL
 [https://arxiv.org/abs/1611.01874](https://arxiv.org/abs/1611.01874)
 
+##### PDF
+[https://arxiv.org/pdf/1611.01874](https://arxiv.org/pdf/1611.01874)
+

@@ -20,3 +20,6 @@ Understanding indoor scenes is an important task in computer vision. This task i
 ##### URL
 [https://arxiv.org/abs/1711.10939](https://arxiv.org/abs/1711.10939)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10939](https://arxiv.org/pdf/1711.10939)
+

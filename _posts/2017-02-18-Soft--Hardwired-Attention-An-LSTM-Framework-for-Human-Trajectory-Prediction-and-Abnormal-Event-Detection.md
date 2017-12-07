@@ -20,3 +20,6 @@ As humans we possess an intuitive ability for navigation which we master through
 ##### URL
 [https://arxiv.org/abs/1702.05552](https://arxiv.org/abs/1702.05552)
 
+##### PDF
+[https://arxiv.org/pdf/1702.05552](https://arxiv.org/pdf/1702.05552)
+

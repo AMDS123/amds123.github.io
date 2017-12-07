@@ -20,3 +20,6 @@ This technical report provides extra details of the deep multimodal similarity m
 ##### URL
 [https://arxiv.org/abs/1504.03083](https://arxiv.org/abs/1504.03083)
 
+##### PDF
+[https://arxiv.org/pdf/1504.03083](https://arxiv.org/pdf/1504.03083)
+

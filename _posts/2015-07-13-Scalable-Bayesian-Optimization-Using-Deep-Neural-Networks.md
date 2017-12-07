@@ -20,3 +20,6 @@ Bayesian optimization is an effective methodology for the global optimization of
 ##### URL
 [https://arxiv.org/abs/1502.05700](https://arxiv.org/abs/1502.05700)
 
+##### PDF
+[https://arxiv.org/pdf/1502.05700](https://arxiv.org/pdf/1502.05700)
+

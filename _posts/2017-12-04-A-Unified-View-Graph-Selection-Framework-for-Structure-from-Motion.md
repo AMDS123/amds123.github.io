@@ -20,3 +20,6 @@ View-graph is an essential input to large-scale structure from motion (SfM) pipe
 ##### URL
 [http://arxiv.org/abs/1708.01125](http://arxiv.org/abs/1708.01125)
 
+##### PDF
+[http://arxiv.org/pdf/1708.01125](http://arxiv.org/pdf/1708.01125)
+

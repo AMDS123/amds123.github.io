@@ -20,3 +20,6 @@ This paper introduces a novel weighted unsupervised learning for object detectio
 ##### URL
 [https://arxiv.org/abs/1602.05920](https://arxiv.org/abs/1602.05920)
 
+##### PDF
+[https://arxiv.org/pdf/1602.05920](https://arxiv.org/pdf/1602.05920)
+

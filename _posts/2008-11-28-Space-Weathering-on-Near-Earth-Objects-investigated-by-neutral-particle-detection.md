@@ -20,3 +20,6 @@ The ion-sputtering (IS) process is active in many planetary environments in the 
 ##### URL
 [https://arxiv.org/abs/0811.4727](https://arxiv.org/abs/0811.4727)
 
+##### PDF
+[https://arxiv.org/pdf/0811.4727](https://arxiv.org/pdf/0811.4727)
+

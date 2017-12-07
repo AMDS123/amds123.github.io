@@ -20,3 +20,6 @@ Automatic video captioning is challenging due to the complex interactions in dyn
 ##### URL
 [https://arxiv.org/abs/1610.04997](https://arxiv.org/abs/1610.04997)
 
+##### PDF
+[https://arxiv.org/pdf/1610.04997](https://arxiv.org/pdf/1610.04997)
+

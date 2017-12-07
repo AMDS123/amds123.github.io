@@ -20,3 +20,6 @@ Visual dialog is a task of answering a series of inter-dependent questions given
 ##### URL
 [https://arxiv.org/abs/1709.07992](https://arxiv.org/abs/1709.07992)
 
+##### PDF
+[https://arxiv.org/pdf/1709.07992](https://arxiv.org/pdf/1709.07992)
+

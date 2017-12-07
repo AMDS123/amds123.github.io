@@ -20,3 +20,6 @@ A cloud server spent a lot of time, energy and money to train a Viola-Jones type
 ##### URL
 [https://arxiv.org/abs/1702.08318](https://arxiv.org/abs/1702.08318)
 
+##### PDF
+[https://arxiv.org/pdf/1702.08318](https://arxiv.org/pdf/1702.08318)
+

@@ -20,3 +20,6 @@ In this paper, we study object detection using a large pool of unlabeled images 
 ##### URL
 [https://arxiv.org/abs/1706.08249](https://arxiv.org/abs/1706.08249)
 
+##### PDF
+[https://arxiv.org/pdf/1706.08249](https://arxiv.org/pdf/1706.08249)
+

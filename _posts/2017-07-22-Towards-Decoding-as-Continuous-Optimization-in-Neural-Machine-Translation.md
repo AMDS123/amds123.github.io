@@ -20,3 +20,6 @@ We propose a novel decoding approach for neural machine translation (NMT) based 
 ##### URL
 [https://arxiv.org/abs/1701.02854](https://arxiv.org/abs/1701.02854)
 
+##### PDF
+[https://arxiv.org/pdf/1701.02854](https://arxiv.org/pdf/1701.02854)
+

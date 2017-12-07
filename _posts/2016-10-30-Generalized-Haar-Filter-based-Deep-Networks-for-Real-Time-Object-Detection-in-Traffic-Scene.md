@@ -20,3 +20,6 @@ Vision-based object detection is one of the fundamental functions in numerous tr
 ##### URL
 [https://arxiv.org/abs/1610.09609](https://arxiv.org/abs/1610.09609)
 
+##### PDF
+[https://arxiv.org/pdf/1610.09609](https://arxiv.org/pdf/1610.09609)
+

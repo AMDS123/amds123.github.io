@@ -20,3 +20,6 @@ Edges characterize boundaries and are therefore a problem of practical importanc
 ##### URL
 [https://arxiv.org/abs/1405.6132](https://arxiv.org/abs/1405.6132)
 
+##### PDF
+[https://arxiv.org/pdf/1405.6132](https://arxiv.org/pdf/1405.6132)
+

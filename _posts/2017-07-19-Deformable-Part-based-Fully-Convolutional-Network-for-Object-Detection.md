@@ -20,3 +20,6 @@ Existing region-based object detectors are limited to regions with fixed box geo
 ##### URL
 [https://arxiv.org/abs/1707.06175](https://arxiv.org/abs/1707.06175)
 
+##### PDF
+[https://arxiv.org/pdf/1707.06175](https://arxiv.org/pdf/1707.06175)
+

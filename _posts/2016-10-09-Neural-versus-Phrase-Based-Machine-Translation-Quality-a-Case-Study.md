@@ -20,3 +20,6 @@ Within the field of Statistical Machine Translation (SMT), the neural approach (
 ##### URL
 [https://arxiv.org/abs/1608.04631](https://arxiv.org/abs/1608.04631)
 
+##### PDF
+[https://arxiv.org/pdf/1608.04631](https://arxiv.org/pdf/1608.04631)
+

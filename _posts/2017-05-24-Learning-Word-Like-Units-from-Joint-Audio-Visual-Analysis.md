@@ -20,3 +20,6 @@ Given a collection of images and spoken audio captions, we present a method for 
 ##### URL
 [https://arxiv.org/abs/1701.07481](https://arxiv.org/abs/1701.07481)
 
+##### PDF
+[https://arxiv.org/pdf/1701.07481](https://arxiv.org/pdf/1701.07481)
+

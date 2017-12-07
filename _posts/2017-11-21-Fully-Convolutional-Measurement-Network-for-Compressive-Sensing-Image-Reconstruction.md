@@ -20,3 +20,6 @@ Recently, deep learning methods have made a significant improvement in com- pres
 ##### URL
 [https://arxiv.org/abs/1712.01641](https://arxiv.org/abs/1712.01641)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01641](https://arxiv.org/pdf/1712.01641)
+

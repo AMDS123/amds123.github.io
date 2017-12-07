@@ -20,3 +20,6 @@ Blind image quality assessment (BIQA) remains a very challenging problem due to 
 ##### URL
 [http://arxiv.org/abs/1708.08190](http://arxiv.org/abs/1708.08190)
 
+##### PDF
+[http://arxiv.org/pdf/1708.08190](http://arxiv.org/pdf/1708.08190)
+

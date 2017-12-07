@@ -20,3 +20,6 @@ Along with the prosperity of recurrent neural network in modelling sequential da
 ##### URL
 [https://arxiv.org/abs/1612.04949](https://arxiv.org/abs/1612.04949)
 
+##### PDF
+[https://arxiv.org/pdf/1612.04949](https://arxiv.org/pdf/1612.04949)
+

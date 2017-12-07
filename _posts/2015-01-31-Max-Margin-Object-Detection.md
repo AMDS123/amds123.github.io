@@ -20,3 +20,6 @@ Most object detection methods operate by applying a binary classifier to sub-win
 ##### URL
 [https://arxiv.org/abs/1502.00046](https://arxiv.org/abs/1502.00046)
 
+##### PDF
+[https://arxiv.org/pdf/1502.00046](https://arxiv.org/pdf/1502.00046)
+

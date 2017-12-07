@@ -20,3 +20,6 @@ One of the central problems in computer vision is the detection of semantically 
 ##### URL
 [https://arxiv.org/abs/1309.5401](https://arxiv.org/abs/1309.5401)
 
+##### PDF
+[https://arxiv.org/pdf/1309.5401](https://arxiv.org/pdf/1309.5401)
+

@@ -20,3 +20,6 @@ State-of-the-art approaches for image captioning require supervised training dat
 ##### URL
 [https://arxiv.org/abs/1611.05321](https://arxiv.org/abs/1611.05321)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05321](https://arxiv.org/pdf/1611.05321)
+

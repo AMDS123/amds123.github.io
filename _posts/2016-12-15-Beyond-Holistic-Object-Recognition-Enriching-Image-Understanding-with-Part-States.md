@@ -20,3 +20,6 @@ Important high-level vision tasks such as human-object interaction, image captio
 ##### URL
 [https://arxiv.org/abs/1612.07310](https://arxiv.org/abs/1612.07310)
 
+##### PDF
+[https://arxiv.org/pdf/1612.07310](https://arxiv.org/pdf/1612.07310)
+

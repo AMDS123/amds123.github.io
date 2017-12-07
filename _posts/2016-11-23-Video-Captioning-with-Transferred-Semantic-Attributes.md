@@ -20,3 +20,6 @@ Automatically generating natural language descriptions of videos plays a fundame
 ##### URL
 [https://arxiv.org/abs/1611.07675](https://arxiv.org/abs/1611.07675)
 
+##### PDF
+[https://arxiv.org/pdf/1611.07675](https://arxiv.org/pdf/1611.07675)
+

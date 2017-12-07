@@ -20,3 +20,6 @@ In this paper, we introduce Key-Value Memory Networks to a multimodal setting an
 ##### URL
 [https://arxiv.org/abs/1611.06492](https://arxiv.org/abs/1611.06492)
 
+##### PDF
+[https://arxiv.org/pdf/1611.06492](https://arxiv.org/pdf/1611.06492)
+

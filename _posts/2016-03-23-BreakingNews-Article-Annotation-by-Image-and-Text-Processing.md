@@ -20,3 +20,6 @@ Building upon recent Deep Neural Network architectures, current approaches lying
 ##### URL
 [https://arxiv.org/abs/1603.07141](https://arxiv.org/abs/1603.07141)
 
+##### PDF
+[https://arxiv.org/pdf/1603.07141](https://arxiv.org/pdf/1603.07141)
+

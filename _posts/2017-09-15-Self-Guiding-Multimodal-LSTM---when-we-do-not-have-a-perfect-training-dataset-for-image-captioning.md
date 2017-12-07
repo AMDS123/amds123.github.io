@@ -20,3 +20,6 @@ In this paper, a self-guiding multimodal LSTM (sg-LSTM) image captioning model i
 ##### URL
 [https://arxiv.org/abs/1709.05038](https://arxiv.org/abs/1709.05038)
 
+##### PDF
+[https://arxiv.org/pdf/1709.05038](https://arxiv.org/pdf/1709.05038)
+

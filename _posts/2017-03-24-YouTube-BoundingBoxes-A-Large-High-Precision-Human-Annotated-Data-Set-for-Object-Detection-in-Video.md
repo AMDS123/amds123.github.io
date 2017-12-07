@@ -20,3 +20,6 @@ We introduce a new large-scale data set of video URLs with densely-sampled objec
 ##### URL
 [https://arxiv.org/abs/1702.00824](https://arxiv.org/abs/1702.00824)
 
+##### PDF
+[https://arxiv.org/pdf/1702.00824](https://arxiv.org/pdf/1702.00824)
+

@@ -20,3 +20,6 @@ Since the first online demonstration of Neural Machine Translation (NMT) by LISA
 ##### URL
 [https://arxiv.org/abs/1610.05540](https://arxiv.org/abs/1610.05540)
 
+##### PDF
+[https://arxiv.org/pdf/1610.05540](https://arxiv.org/pdf/1610.05540)
+

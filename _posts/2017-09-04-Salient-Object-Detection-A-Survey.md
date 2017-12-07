@@ -20,3 +20,6 @@ Detecting and segmenting salient objects in natural scenes, often referred to as
 ##### URL
 [https://arxiv.org/abs/1411.5878](https://arxiv.org/abs/1411.5878)
 
+##### PDF
+[https://arxiv.org/pdf/1411.5878](https://arxiv.org/pdf/1411.5878)
+

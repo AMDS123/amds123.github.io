@@ -20,3 +20,6 @@ This paper describes the AMU-UEDIN submissions to the WMT 2016 shared task on ne
 ##### URL
 [https://arxiv.org/abs/1605.04809](https://arxiv.org/abs/1605.04809)
 
+##### PDF
+[https://arxiv.org/pdf/1605.04809](https://arxiv.org/pdf/1605.04809)
+

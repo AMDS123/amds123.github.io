@@ -20,3 +20,6 @@ Most existing zero-shot learning methods consider the problem as a visual semant
 ##### URL
 [http://arxiv.org/abs/1712.01381](http://arxiv.org/abs/1712.01381)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01381](http://arxiv.org/pdf/1712.01381)
+

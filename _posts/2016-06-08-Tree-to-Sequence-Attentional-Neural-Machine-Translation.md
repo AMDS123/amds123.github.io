@@ -20,3 +20,6 @@ Most of the existing Neural Machine Translation (NMT) models focus on the conver
 ##### URL
 [https://arxiv.org/abs/1603.06075](https://arxiv.org/abs/1603.06075)
 
+##### PDF
+[https://arxiv.org/pdf/1603.06075](https://arxiv.org/pdf/1603.06075)
+

@@ -20,3 +20,6 @@ In this paper, we introduce a novel fusion method that can enhance object detect
 ##### URL
 [https://arxiv.org/abs/1610.06907](https://arxiv.org/abs/1610.06907)
 
+##### PDF
+[https://arxiv.org/pdf/1610.06907](https://arxiv.org/pdf/1610.06907)
+

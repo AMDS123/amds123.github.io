@@ -20,3 +20,6 @@ A stream attention framework has been applied to the posterior probabilities of 
 ##### URL
 [https://arxiv.org/abs/1711.11141](https://arxiv.org/abs/1711.11141)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11141](https://arxiv.org/pdf/1711.11141)
+

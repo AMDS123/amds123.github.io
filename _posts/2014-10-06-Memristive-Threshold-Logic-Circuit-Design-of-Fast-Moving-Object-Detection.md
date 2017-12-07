@@ -20,3 +20,6 @@ Real-time detection of moving objects involves memorisation of features in the t
 ##### URL
 [https://arxiv.org/abs/1410.1267](https://arxiv.org/abs/1410.1267)
 
+##### PDF
+[https://arxiv.org/pdf/1410.1267](https://arxiv.org/pdf/1410.1267)
+

@@ -20,3 +20,6 @@ In neural image captioning systems, a recurrent neural network (RNN) is typicall
 ##### URL
 [https://arxiv.org/abs/1708.02043](https://arxiv.org/abs/1708.02043)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02043](https://arxiv.org/pdf/1708.02043)
+

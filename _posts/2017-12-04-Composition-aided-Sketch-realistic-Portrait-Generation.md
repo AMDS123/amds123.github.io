@@ -20,3 +20,6 @@ Sketch portrait generation is of wide applications including digital entertainme
 ##### URL
 [http://arxiv.org/abs/1712.00899](http://arxiv.org/abs/1712.00899)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00899](http://arxiv.org/pdf/1712.00899)
+

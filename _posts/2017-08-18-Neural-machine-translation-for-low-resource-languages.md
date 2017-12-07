@@ -20,3 +20,6 @@ Neural machine translation (NMT) approaches have improved the state of the art i
 ##### URL
 [https://arxiv.org/abs/1708.05729](https://arxiv.org/abs/1708.05729)
 
+##### PDF
+[https://arxiv.org/pdf/1708.05729](https://arxiv.org/pdf/1708.05729)
+

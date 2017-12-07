@@ -20,3 +20,6 @@ Saliency detection has been an intuitive way to provide useful cues for object d
 ##### URL
 [https://arxiv.org/abs/1302.6557](https://arxiv.org/abs/1302.6557)
 
+##### PDF
+[https://arxiv.org/pdf/1302.6557](https://arxiv.org/pdf/1302.6557)
+

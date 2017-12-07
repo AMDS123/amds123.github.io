@@ -20,3 +20,6 @@ Employing part-level features for pedestrian image description offers fine-grain
 ##### URL
 [http://arxiv.org/abs/1711.09349](http://arxiv.org/abs/1711.09349)
 
+##### PDF
+[http://arxiv.org/pdf/1711.09349](http://arxiv.org/pdf/1711.09349)
+

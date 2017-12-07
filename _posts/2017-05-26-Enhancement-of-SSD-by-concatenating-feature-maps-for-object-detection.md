@@ -20,3 +20,6 @@ We propose an object detection method that improves the accuracy of the conventi
 ##### URL
 [https://arxiv.org/abs/1705.09587](https://arxiv.org/abs/1705.09587)
 
+##### PDF
+[https://arxiv.org/pdf/1705.09587](https://arxiv.org/pdf/1705.09587)
+

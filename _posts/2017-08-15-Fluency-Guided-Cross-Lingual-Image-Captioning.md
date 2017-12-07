@@ -20,3 +20,6 @@ Image captioning has so far been explored mostly in English, as most available d
 ##### URL
 [https://arxiv.org/abs/1708.04390](https://arxiv.org/abs/1708.04390)
 
+##### PDF
+[https://arxiv.org/pdf/1708.04390](https://arxiv.org/pdf/1708.04390)
+

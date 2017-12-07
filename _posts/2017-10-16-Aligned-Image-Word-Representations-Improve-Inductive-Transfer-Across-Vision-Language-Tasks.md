@@ -20,3 +20,6 @@ An important goal of computer vision is to build systems that learn visual repre
 ##### URL
 [https://arxiv.org/abs/1704.00260](https://arxiv.org/abs/1704.00260)
 
+##### PDF
+[https://arxiv.org/pdf/1704.00260](https://arxiv.org/pdf/1704.00260)
+

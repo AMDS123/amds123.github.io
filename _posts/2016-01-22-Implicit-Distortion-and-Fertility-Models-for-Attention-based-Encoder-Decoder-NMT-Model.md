@@ -20,3 +20,6 @@ Neural machine translation has shown very promising results lately. Most NMT mod
 ##### URL
 [https://arxiv.org/abs/1601.03317](https://arxiv.org/abs/1601.03317)
 
+##### PDF
+[https://arxiv.org/pdf/1601.03317](https://arxiv.org/pdf/1601.03317)
+

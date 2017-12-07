@@ -20,3 +20,6 @@ While deep convolutional neural networks (CNN) have been successfully applied fo
 ##### URL
 [http://arxiv.org/abs/1711.08580](http://arxiv.org/abs/1711.08580)
 
+##### PDF
+[http://arxiv.org/pdf/1711.08580](http://arxiv.org/pdf/1711.08580)
+

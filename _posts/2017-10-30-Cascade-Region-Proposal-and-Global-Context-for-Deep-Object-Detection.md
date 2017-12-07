@@ -20,3 +20,6 @@ Deep region-based object detector consists of a region proposal step and a deep 
 ##### URL
 [https://arxiv.org/abs/1710.10749](https://arxiv.org/abs/1710.10749)
 
+##### PDF
+[https://arxiv.org/pdf/1710.10749](https://arxiv.org/pdf/1710.10749)
+

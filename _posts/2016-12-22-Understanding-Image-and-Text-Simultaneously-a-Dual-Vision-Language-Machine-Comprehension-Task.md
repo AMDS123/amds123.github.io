@@ -20,3 +20,6 @@ We introduce a new multi-modal task for computer systems, posed as a combined vi
 ##### URL
 [https://arxiv.org/abs/1612.07833](https://arxiv.org/abs/1612.07833)
 
+##### PDF
+[https://arxiv.org/pdf/1612.07833](https://arxiv.org/pdf/1612.07833)
+

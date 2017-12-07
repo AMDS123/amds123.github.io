@@ -20,3 +20,6 @@ In the encoder-decoder architecture for neural machine translation (NMT), the hi
 ##### URL
 [https://arxiv.org/abs/1708.01771](https://arxiv.org/abs/1708.01771)
 
+##### PDF
+[https://arxiv.org/pdf/1708.01771](https://arxiv.org/pdf/1708.01771)
+

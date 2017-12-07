@@ -20,3 +20,6 @@ We present PointFusion, a generic 3D object detection method that leverages both
 ##### URL
 [https://arxiv.org/abs/1711.10871](https://arxiv.org/abs/1711.10871)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10871](https://arxiv.org/pdf/1711.10871)
+

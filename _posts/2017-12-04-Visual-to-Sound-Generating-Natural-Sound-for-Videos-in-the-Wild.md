@@ -20,3 +20,6 @@ As two of the five traditional human senses (sight, hearing, taste, smell, and t
 ##### URL
 [http://arxiv.org/abs/1712.01393](http://arxiv.org/abs/1712.01393)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01393](http://arxiv.org/pdf/1712.01393)
+

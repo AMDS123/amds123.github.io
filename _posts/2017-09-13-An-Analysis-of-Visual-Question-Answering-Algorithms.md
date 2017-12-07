@@ -20,3 +20,6 @@ In visual question answering (VQA), an algorithm must answer text-based question
 ##### URL
 [https://arxiv.org/abs/1703.09684](https://arxiv.org/abs/1703.09684)
 
+##### PDF
+[https://arxiv.org/pdf/1703.09684](https://arxiv.org/pdf/1703.09684)
+

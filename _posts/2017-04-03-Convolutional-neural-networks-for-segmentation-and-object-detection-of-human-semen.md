@@ -20,3 +20,6 @@ We compare a set of convolutional neural network (CNN) architectures for the tas
 ##### URL
 [https://arxiv.org/abs/1704.00498](https://arxiv.org/abs/1704.00498)
 
+##### PDF
+[https://arxiv.org/pdf/1704.00498](https://arxiv.org/pdf/1704.00498)
+

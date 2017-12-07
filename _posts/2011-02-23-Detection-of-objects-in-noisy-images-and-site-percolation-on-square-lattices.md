@@ -20,3 +20,6 @@ We propose a novel probabilistic method for detection of objects in noisy images
 ##### URL
 [https://arxiv.org/abs/1102.4803](https://arxiv.org/abs/1102.4803)
 
+##### PDF
+[https://arxiv.org/pdf/1102.4803](https://arxiv.org/pdf/1102.4803)
+

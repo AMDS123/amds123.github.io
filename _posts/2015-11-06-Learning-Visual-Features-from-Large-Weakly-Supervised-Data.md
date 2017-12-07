@@ -20,3 +20,6 @@ Convolutional networks trained on large supervised dataset produce visual featur
 ##### URL
 [https://arxiv.org/abs/1511.02251](https://arxiv.org/abs/1511.02251)
 
+##### PDF
+[https://arxiv.org/pdf/1511.02251](https://arxiv.org/pdf/1511.02251)
+

@@ -20,3 +20,6 @@ Temporal common sense has applications in AI tasks such as QA, multi-document su
 ##### URL
 [https://arxiv.org/abs/1606.07493](https://arxiv.org/abs/1606.07493)
 
+##### PDF
+[https://arxiv.org/pdf/1606.07493](https://arxiv.org/pdf/1606.07493)
+

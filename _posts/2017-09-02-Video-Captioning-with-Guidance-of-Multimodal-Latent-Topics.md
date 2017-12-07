@@ -20,3 +20,6 @@ The topic diversity of open-domain videos leads to various vocabularies and ling
 ##### URL
 [https://arxiv.org/abs/1708.09667](https://arxiv.org/abs/1708.09667)
 
+##### PDF
+[https://arxiv.org/pdf/1708.09667](https://arxiv.org/pdf/1708.09667)
+

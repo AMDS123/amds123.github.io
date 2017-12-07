@@ -20,3 +20,6 @@ In this paper, we propose a novel edge preserving and multi-scale contextual neu
 ##### URL
 [https://arxiv.org/abs/1608.08029](https://arxiv.org/abs/1608.08029)
 
+##### PDF
+[https://arxiv.org/pdf/1608.08029](https://arxiv.org/pdf/1608.08029)
+

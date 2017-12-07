@@ -20,3 +20,6 @@ One of the major challenges in object detection is to propose detectors with hig
 ##### URL
 [https://arxiv.org/abs/1705.02233](https://arxiv.org/abs/1705.02233)
 
+##### PDF
+[https://arxiv.org/pdf/1705.02233](https://arxiv.org/pdf/1705.02233)
+

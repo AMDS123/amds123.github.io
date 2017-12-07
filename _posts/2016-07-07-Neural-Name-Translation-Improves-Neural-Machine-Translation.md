@@ -20,3 +20,6 @@ In order to control computational complexity, neural machine translation (NMT) s
 ##### URL
 [https://arxiv.org/abs/1607.01856](https://arxiv.org/abs/1607.01856)
 
+##### PDF
+[https://arxiv.org/pdf/1607.01856](https://arxiv.org/pdf/1607.01856)
+

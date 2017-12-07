@@ -20,3 +20,6 @@ Language Models based on recurrent neural networks have dominated recent image c
 ##### URL
 [https://arxiv.org/abs/1612.07086](https://arxiv.org/abs/1612.07086)
 
+##### PDF
+[https://arxiv.org/pdf/1612.07086](https://arxiv.org/pdf/1612.07086)
+

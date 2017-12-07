@@ -20,3 +20,6 @@ Most neural machine translation (NMT) models are based on the sequential encoder
 ##### URL
 [https://arxiv.org/abs/1707.05436](https://arxiv.org/abs/1707.05436)
 
+##### PDF
+[https://arxiv.org/pdf/1707.05436](https://arxiv.org/pdf/1707.05436)
+

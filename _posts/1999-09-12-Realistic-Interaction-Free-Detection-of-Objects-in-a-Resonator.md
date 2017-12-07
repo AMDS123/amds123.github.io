@@ -20,3 +20,6 @@ We propose a realistic device for detecting objects almost without transferring 
 ##### URL
 [https://arxiv.org/abs/quant-ph/9906102](https://arxiv.org/abs/quant-ph/9906102)
 
+##### PDF
+[https://arxiv.org/pdf/quant-ph/9906102](https://arxiv.org/pdf/quant-ph/9906102)
+

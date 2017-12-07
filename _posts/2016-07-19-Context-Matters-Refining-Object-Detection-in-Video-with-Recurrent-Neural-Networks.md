@@ -20,3 +20,6 @@ Given the vast amounts of video available online, and recent breakthroughs in ob
 ##### URL
 [https://arxiv.org/abs/1607.04648](https://arxiv.org/abs/1607.04648)
 
+##### PDF
+[https://arxiv.org/pdf/1607.04648](https://arxiv.org/pdf/1607.04648)
+

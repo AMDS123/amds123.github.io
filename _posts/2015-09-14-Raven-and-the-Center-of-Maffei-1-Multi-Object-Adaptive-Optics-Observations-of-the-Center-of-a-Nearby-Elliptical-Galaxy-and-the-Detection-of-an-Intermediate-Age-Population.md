@@ -20,3 +20,6 @@ Near-infrared (NIR) spectra that have an angular resolution of ~ 0.15 arcsec are
 ##### URL
 [https://arxiv.org/abs/1509.04338](https://arxiv.org/abs/1509.04338)
 
+##### PDF
+[https://arxiv.org/pdf/1509.04338](https://arxiv.org/pdf/1509.04338)
+

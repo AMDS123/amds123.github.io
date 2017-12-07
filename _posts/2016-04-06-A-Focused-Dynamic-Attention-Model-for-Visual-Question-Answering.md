@@ -20,3 +20,6 @@ Visual Question and Answering (VQA) problems are attracting increasing interest 
 ##### URL
 [https://arxiv.org/abs/1604.01485](https://arxiv.org/abs/1604.01485)
 
+##### PDF
+[https://arxiv.org/pdf/1604.01485](https://arxiv.org/pdf/1604.01485)
+

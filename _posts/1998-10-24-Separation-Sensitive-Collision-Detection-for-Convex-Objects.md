@@ -20,3 +20,6 @@ We develop a class of new kinetic data structures for collision detection betwee
 ##### URL
 [https://arxiv.org/abs/cs/9809035](https://arxiv.org/abs/cs/9809035)
 
+##### PDF
+[https://arxiv.org/pdf/cs/9809035](https://arxiv.org/pdf/cs/9809035)
+

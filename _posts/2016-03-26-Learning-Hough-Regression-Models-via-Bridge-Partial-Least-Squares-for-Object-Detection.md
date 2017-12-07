@@ -20,3 +20,6 @@ Popular Hough Transform-based object detection approaches usually construct an a
 ##### URL
 [https://arxiv.org/abs/1603.08092](https://arxiv.org/abs/1603.08092)
 
+##### PDF
+[https://arxiv.org/pdf/1603.08092](https://arxiv.org/pdf/1603.08092)
+

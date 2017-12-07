@@ -20,3 +20,6 @@ We present a statistical study of the detectability of lightcurves of Kuiper Bel
 ##### URL
 [https://arxiv.org/abs/astro-ph/0401300](https://arxiv.org/abs/astro-ph/0401300)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0401300](https://arxiv.org/pdf/astro-ph/0401300)
+

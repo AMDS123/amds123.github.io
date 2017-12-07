@@ -20,3 +20,6 @@ This paper presents an open tool for standardizing the evaluation process of the
 ##### URL
 [https://arxiv.org/abs/1712.01656](https://arxiv.org/abs/1712.01656)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01656](https://arxiv.org/pdf/1712.01656)
+

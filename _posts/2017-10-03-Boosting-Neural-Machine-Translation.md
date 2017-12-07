@@ -20,3 +20,6 @@ Training efficiency is one of the main problems for Neural Machine Translation (
 ##### URL
 [https://arxiv.org/abs/1612.06138](https://arxiv.org/abs/1612.06138)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06138](https://arxiv.org/pdf/1612.06138)
+

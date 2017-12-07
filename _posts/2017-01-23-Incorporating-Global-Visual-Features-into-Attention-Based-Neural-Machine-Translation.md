@@ -20,3 +20,6 @@ We introduce multi-modal, attention-based neural machine translation (NMT) model
 ##### URL
 [https://arxiv.org/abs/1701.06521](https://arxiv.org/abs/1701.06521)
 
+##### PDF
+[https://arxiv.org/pdf/1701.06521](https://arxiv.org/pdf/1701.06521)
+

@@ -20,3 +20,6 @@ We designed a gangue sorting system,and built a convolutional neural network mod
 ##### URL
 [http://arxiv.org/abs/1712.00720](http://arxiv.org/abs/1712.00720)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00720](http://arxiv.org/pdf/1712.00720)
+

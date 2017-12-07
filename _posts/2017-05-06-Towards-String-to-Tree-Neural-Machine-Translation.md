@@ -20,3 +20,6 @@ We present a simple method to incorporate syntactic information about the target
 ##### URL
 [https://arxiv.org/abs/1704.04743](https://arxiv.org/abs/1704.04743)
 
+##### PDF
+[https://arxiv.org/pdf/1704.04743](https://arxiv.org/pdf/1704.04743)
+

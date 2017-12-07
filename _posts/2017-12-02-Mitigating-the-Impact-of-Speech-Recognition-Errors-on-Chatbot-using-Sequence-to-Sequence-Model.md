@@ -20,3 +20,6 @@ We apply sequence-to-sequence model to mitigate the impact of speech recognition
 ##### URL
 [http://arxiv.org/abs/1709.07862](http://arxiv.org/abs/1709.07862)
 
+##### PDF
+[http://arxiv.org/pdf/1709.07862](http://arxiv.org/pdf/1709.07862)
+

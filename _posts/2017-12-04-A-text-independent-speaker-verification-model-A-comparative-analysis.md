@@ -20,3 +20,6 @@ The most pressing challenge in the field of voice biometrics is selecting the mo
 ##### URL
 [http://arxiv.org/abs/1712.00917](http://arxiv.org/abs/1712.00917)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00917](http://arxiv.org/pdf/1712.00917)
+

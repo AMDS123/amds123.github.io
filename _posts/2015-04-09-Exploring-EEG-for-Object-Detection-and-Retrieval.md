@@ -20,3 +20,6 @@ This paper explores the potential for using Brain Computer Interfaces (BCI) as a
 ##### URL
 [https://arxiv.org/abs/1504.02356](https://arxiv.org/abs/1504.02356)
 
+##### PDF
+[https://arxiv.org/pdf/1504.02356](https://arxiv.org/pdf/1504.02356)
+

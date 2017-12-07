@@ -20,3 +20,6 @@ Many effective supervised discriminative dictionary learning methods have been d
 ##### URL
 [https://arxiv.org/abs/1603.06121](https://arxiv.org/abs/1603.06121)
 
+##### PDF
+[https://arxiv.org/pdf/1603.06121](https://arxiv.org/pdf/1603.06121)
+

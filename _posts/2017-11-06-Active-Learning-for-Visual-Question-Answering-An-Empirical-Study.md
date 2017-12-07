@@ -20,3 +20,6 @@ We present an empirical study of active learning for Visual Question Answering, 
 ##### URL
 [https://arxiv.org/abs/1711.01732](https://arxiv.org/abs/1711.01732)
 
+##### PDF
+[https://arxiv.org/pdf/1711.01732](https://arxiv.org/pdf/1711.01732)
+

@@ -20,3 +20,6 @@ Recently, deep Convolutional Neural Networks (CNN) have demonstrated strong perf
 ##### URL
 [https://arxiv.org/abs/1705.03607](https://arxiv.org/abs/1705.03607)
 
+##### PDF
+[https://arxiv.org/pdf/1705.03607](https://arxiv.org/pdf/1705.03607)
+

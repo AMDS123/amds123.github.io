@@ -20,3 +20,6 @@ We present the SAMMI lightweight object detection method which has a high level 
 ##### URL
 [https://arxiv.org/abs/0803.1586](https://arxiv.org/abs/0803.1586)
 
+##### PDF
+[https://arxiv.org/pdf/0803.1586](https://arxiv.org/pdf/0803.1586)
+

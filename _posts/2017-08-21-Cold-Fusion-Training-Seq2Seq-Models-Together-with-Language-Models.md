@@ -20,3 +20,6 @@ Sequence-to-sequence (Seq2Seq) models with attention have excelled at tasks whic
 ##### URL
 [https://arxiv.org/abs/1708.06426](https://arxiv.org/abs/1708.06426)
 
+##### PDF
+[https://arxiv.org/pdf/1708.06426](https://arxiv.org/pdf/1708.06426)
+

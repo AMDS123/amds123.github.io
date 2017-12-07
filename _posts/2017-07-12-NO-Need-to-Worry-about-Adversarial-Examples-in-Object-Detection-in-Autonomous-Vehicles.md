@@ -20,3 +20,6 @@ It has been shown that most machine learning algorithms are susceptible to adver
 ##### URL
 [https://arxiv.org/abs/1707.03501](https://arxiv.org/abs/1707.03501)
 
+##### PDF
+[https://arxiv.org/pdf/1707.03501](https://arxiv.org/pdf/1707.03501)
+

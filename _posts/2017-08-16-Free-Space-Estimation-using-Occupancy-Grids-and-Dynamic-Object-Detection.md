@@ -20,3 +20,6 @@ In this paper we present an approach to estimate Free Space from a Stereo image 
 ##### URL
 [https://arxiv.org/abs/1708.04989](https://arxiv.org/abs/1708.04989)
 
+##### PDF
+[https://arxiv.org/pdf/1708.04989](https://arxiv.org/pdf/1708.04989)
+

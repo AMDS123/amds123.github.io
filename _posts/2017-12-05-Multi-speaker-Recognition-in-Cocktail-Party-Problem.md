@@ -20,3 +20,6 @@ This paper proposes an original statistical decision theory to accomplish a mult
 ##### URL
 [http://arxiv.org/abs/1712.01742](http://arxiv.org/abs/1712.01742)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01742](http://arxiv.org/pdf/1712.01742)
+

@@ -20,3 +20,6 @@ Building on the success of recent discriminative mid-level elements, we propose 
 ##### URL
 [https://arxiv.org/abs/1504.07284](https://arxiv.org/abs/1504.07284)
 
+##### PDF
+[https://arxiv.org/pdf/1504.07284](https://arxiv.org/pdf/1504.07284)
+

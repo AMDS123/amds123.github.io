@@ -20,3 +20,6 @@ We present an improved search for binary compact-object mergers using a network 
 ##### URL
 [https://arxiv.org/abs/1705.01513](https://arxiv.org/abs/1705.01513)
 
+##### PDF
+[https://arxiv.org/pdf/1705.01513](https://arxiv.org/pdf/1705.01513)
+

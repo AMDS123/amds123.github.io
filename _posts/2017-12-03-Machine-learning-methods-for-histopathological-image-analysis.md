@@ -20,3 +20,6 @@ Abundant accumulation of digital histopathological images has led to the increas
 ##### URL
 [http://arxiv.org/abs/1709.00786](http://arxiv.org/abs/1709.00786)
 
+##### PDF
+[http://arxiv.org/pdf/1709.00786](http://arxiv.org/pdf/1709.00786)
+

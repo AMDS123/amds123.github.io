@@ -20,3 +20,6 @@ In this paper, we propose multi-stage and deformable deep convolutional neural n
 ##### URL
 [https://arxiv.org/abs/1409.3505](https://arxiv.org/abs/1409.3505)
 
+##### PDF
+[https://arxiv.org/pdf/1409.3505](https://arxiv.org/pdf/1409.3505)
+

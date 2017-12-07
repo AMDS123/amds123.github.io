@@ -20,3 +20,6 @@ Data sets for identifying Alzheimer's disease (AD) are often relatively sparse, 
 ##### URL
 [https://arxiv.org/abs/1712.00069](https://arxiv.org/abs/1712.00069)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00069](https://arxiv.org/pdf/1712.00069)
+

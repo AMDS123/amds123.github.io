@@ -20,3 +20,6 @@ With the proliferation of mobile devices and location-based services, continuous
 ##### URL
 [https://arxiv.org/abs/1709.09287](https://arxiv.org/abs/1709.09287)
 
+##### PDF
+[https://arxiv.org/pdf/1709.09287](https://arxiv.org/pdf/1709.09287)
+

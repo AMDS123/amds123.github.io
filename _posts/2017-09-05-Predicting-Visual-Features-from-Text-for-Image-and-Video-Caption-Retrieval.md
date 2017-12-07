@@ -20,3 +20,6 @@ This paper strives to find amidst a set of sentences the one best describing the
 ##### URL
 [https://arxiv.org/abs/1709.01362](https://arxiv.org/abs/1709.01362)
 
+##### PDF
+[https://arxiv.org/pdf/1709.01362](https://arxiv.org/pdf/1709.01362)
+

@@ -20,3 +20,6 @@ This paper proposes an approach for applying GANs to NMT. We build a conditional
 ##### URL
 [https://arxiv.org/abs/1703.04887](https://arxiv.org/abs/1703.04887)
 
+##### PDF
+[https://arxiv.org/pdf/1703.04887](https://arxiv.org/pdf/1703.04887)
+

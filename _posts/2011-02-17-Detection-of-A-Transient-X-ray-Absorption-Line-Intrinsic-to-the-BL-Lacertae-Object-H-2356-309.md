@@ -20,3 +20,6 @@ Since the launch of the Einstein X-ray Observatory in the 1970s, a number of bro
 ##### URL
 [https://arxiv.org/abs/1102.3646](https://arxiv.org/abs/1102.3646)
 
+##### PDF
+[https://arxiv.org/pdf/1102.3646](https://arxiv.org/pdf/1102.3646)
+

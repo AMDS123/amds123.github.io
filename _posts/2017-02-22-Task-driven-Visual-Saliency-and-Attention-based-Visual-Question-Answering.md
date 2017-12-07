@@ -20,3 +20,6 @@ Visual question answering (VQA) has witnessed great progress since May, 2015 as 
 ##### URL
 [https://arxiv.org/abs/1702.06700](https://arxiv.org/abs/1702.06700)
 
+##### PDF
+[https://arxiv.org/pdf/1702.06700](https://arxiv.org/pdf/1702.06700)
+

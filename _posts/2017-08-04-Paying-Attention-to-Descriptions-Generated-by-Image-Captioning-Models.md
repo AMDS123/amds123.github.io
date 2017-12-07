@@ -20,3 +20,6 @@ To bridge the gap between humans and machines in image understanding and describ
 ##### URL
 [https://arxiv.org/abs/1704.07434](https://arxiv.org/abs/1704.07434)
 
+##### PDF
+[https://arxiv.org/pdf/1704.07434](https://arxiv.org/pdf/1704.07434)
+

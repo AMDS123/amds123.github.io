@@ -20,3 +20,6 @@ Existing neural machine translation systems do not explicitly model what has bee
 ##### URL
 [https://arxiv.org/abs/1711.09502](https://arxiv.org/abs/1711.09502)
 
+##### PDF
+[https://arxiv.org/pdf/1711.09502](https://arxiv.org/pdf/1711.09502)
+

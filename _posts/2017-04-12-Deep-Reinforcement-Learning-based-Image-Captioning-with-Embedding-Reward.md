@@ -20,3 +20,6 @@ Image captioning is a challenging problem owing to the complexity in understandi
 ##### URL
 [https://arxiv.org/abs/1704.03899](https://arxiv.org/abs/1704.03899)
 
+##### PDF
+[https://arxiv.org/pdf/1704.03899](https://arxiv.org/pdf/1704.03899)
+

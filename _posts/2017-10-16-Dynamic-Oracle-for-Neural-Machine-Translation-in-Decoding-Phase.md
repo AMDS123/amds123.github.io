@@ -20,3 +20,6 @@ The past several years have witnessed the rapid progress of end-to-end Neural Ma
 ##### URL
 [https://arxiv.org/abs/1709.06265](https://arxiv.org/abs/1709.06265)
 
+##### PDF
+[https://arxiv.org/pdf/1709.06265](https://arxiv.org/pdf/1709.06265)
+

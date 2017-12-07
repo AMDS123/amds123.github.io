@@ -20,3 +20,6 @@ Machine-learning algorithms offer immense possibilities in the development of se
 ##### URL
 [https://arxiv.org/abs/1509.08970](https://arxiv.org/abs/1509.08970)
 
+##### PDF
+[https://arxiv.org/pdf/1509.08970](https://arxiv.org/pdf/1509.08970)
+

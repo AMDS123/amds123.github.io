@@ -20,3 +20,6 @@ Neural Machine Translation (NMT) models usually use large target vocabulary size
 ##### URL
 [https://arxiv.org/abs/1706.03824](https://arxiv.org/abs/1706.03824)
 
+##### PDF
+[https://arxiv.org/pdf/1706.03824](https://arxiv.org/pdf/1706.03824)
+

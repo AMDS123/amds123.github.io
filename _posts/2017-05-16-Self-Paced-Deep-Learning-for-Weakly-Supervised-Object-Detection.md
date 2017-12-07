@@ -20,3 +20,6 @@ In a weakly-supervised scenario object detectors need to be trained using image-
 ##### URL
 [https://arxiv.org/abs/1605.07651](https://arxiv.org/abs/1605.07651)
 
+##### PDF
+[https://arxiv.org/pdf/1605.07651](https://arxiv.org/pdf/1605.07651)
+

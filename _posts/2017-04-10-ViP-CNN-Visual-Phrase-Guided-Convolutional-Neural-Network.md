@@ -20,3 +20,6 @@ As the intermediate level task connecting image captioning and object detection,
 ##### URL
 [https://arxiv.org/abs/1702.07191](https://arxiv.org/abs/1702.07191)
 
+##### PDF
+[https://arxiv.org/pdf/1702.07191](https://arxiv.org/pdf/1702.07191)
+

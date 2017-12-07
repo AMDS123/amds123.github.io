@@ -20,3 +20,6 @@ We present a method for performing hierarchical object detection in images guide
 ##### URL
 [https://arxiv.org/abs/1611.03718](https://arxiv.org/abs/1611.03718)
 
+##### PDF
+[https://arxiv.org/pdf/1611.03718](https://arxiv.org/pdf/1611.03718)
+

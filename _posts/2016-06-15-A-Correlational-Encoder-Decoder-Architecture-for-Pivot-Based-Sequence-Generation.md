@@ -20,3 +20,6 @@ Interlingua based Machine Translation (MT) aims to encode multiple languages int
 ##### URL
 [https://arxiv.org/abs/1606.04754](https://arxiv.org/abs/1606.04754)
 
+##### PDF
+[https://arxiv.org/pdf/1606.04754](https://arxiv.org/pdf/1606.04754)
+

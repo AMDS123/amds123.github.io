@@ -20,3 +20,6 @@ Many previous methods have showed the importance of considering semantically rel
 ##### URL
 [https://arxiv.org/abs/1703.07431](https://arxiv.org/abs/1703.07431)
 
+##### PDF
+[https://arxiv.org/pdf/1703.07431](https://arxiv.org/pdf/1703.07431)
+

@@ -20,3 +20,6 @@ Detecting compact objects by means of their gravitational lensing effect on an o
 ##### URL
 [https://arxiv.org/abs/1008.1033](https://arxiv.org/abs/1008.1033)
 
+##### PDF
+[https://arxiv.org/pdf/1008.1033](https://arxiv.org/pdf/1008.1033)
+

@@ -20,3 +20,6 @@ Spatio-temporal feature encoding is essential for encoding facial expression dyn
 ##### URL
 [https://arxiv.org/abs/1711.10914](https://arxiv.org/abs/1711.10914)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10914](https://arxiv.org/pdf/1711.10914)
+

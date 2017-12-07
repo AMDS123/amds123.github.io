@@ -20,3 +20,6 @@ We consider detecting objects in an image by iteratively selecting from a set of
 ##### URL
 [https://arxiv.org/abs/1410.7376](https://arxiv.org/abs/1410.7376)
 
+##### PDF
+[https://arxiv.org/pdf/1410.7376](https://arxiv.org/pdf/1410.7376)
+

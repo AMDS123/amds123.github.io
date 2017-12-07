@@ -20,3 +20,6 @@ We present a recurrent model for semantic instance segmentation that sequentiall
 ##### URL
 [http://arxiv.org/abs/1712.00617](http://arxiv.org/abs/1712.00617)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00617](http://arxiv.org/pdf/1712.00617)
+

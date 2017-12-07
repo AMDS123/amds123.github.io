@@ -20,3 +20,6 @@ Image captioning is an important but challenging task, applicable to virtual ass
 ##### URL
 [https://arxiv.org/abs/1711.09151](https://arxiv.org/abs/1711.09151)
 
+##### PDF
+[https://arxiv.org/pdf/1711.09151](https://arxiv.org/pdf/1711.09151)
+

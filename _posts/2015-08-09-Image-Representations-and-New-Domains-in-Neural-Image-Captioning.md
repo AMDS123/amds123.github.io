@@ -20,3 +20,6 @@ We examine the possibility that recent promising results in automatic caption ge
 ##### URL
 [https://arxiv.org/abs/1508.02091](https://arxiv.org/abs/1508.02091)
 
+##### PDF
+[https://arxiv.org/pdf/1508.02091](https://arxiv.org/pdf/1508.02091)
+

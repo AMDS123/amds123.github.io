@@ -20,3 +20,6 @@ Sparse hyperspectral unmixing from large spectral libraries has been considered 
 ##### URL
 [https://arxiv.org/abs/1712.01770](https://arxiv.org/abs/1712.01770)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01770](https://arxiv.org/pdf/1712.01770)
+

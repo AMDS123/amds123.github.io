@@ -20,3 +20,6 @@ Visual question answering (VQA) task not only bridges the gap between images and
 ##### URL
 [https://arxiv.org/abs/1606.06108](https://arxiv.org/abs/1606.06108)
 
+##### PDF
+[https://arxiv.org/pdf/1606.06108](https://arxiv.org/pdf/1606.06108)
+

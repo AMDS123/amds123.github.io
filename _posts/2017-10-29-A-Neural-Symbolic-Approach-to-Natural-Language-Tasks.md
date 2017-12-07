@@ -20,3 +20,6 @@ Deep learning (DL) has in recent years been widely used in natural language proc
 ##### URL
 [https://arxiv.org/abs/1710.11475](https://arxiv.org/abs/1710.11475)
 
+##### PDF
+[https://arxiv.org/pdf/1710.11475](https://arxiv.org/pdf/1710.11475)
+

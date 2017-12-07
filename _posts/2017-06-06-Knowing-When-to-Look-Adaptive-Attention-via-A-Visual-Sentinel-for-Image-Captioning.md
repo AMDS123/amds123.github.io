@@ -20,3 +20,6 @@ Attention-based neural encoder-decoder frameworks have been widely adopted for i
 ##### URL
 [https://arxiv.org/abs/1612.01887](https://arxiv.org/abs/1612.01887)
 
+##### PDF
+[https://arxiv.org/pdf/1612.01887](https://arxiv.org/pdf/1612.01887)
+

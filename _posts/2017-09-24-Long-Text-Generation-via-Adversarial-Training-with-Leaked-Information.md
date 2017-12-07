@@ -20,3 +20,6 @@ Automatically generating coherent and semantically meaningful text has many appl
 ##### URL
 [https://arxiv.org/abs/1709.08624](https://arxiv.org/abs/1709.08624)
 
+##### PDF
+[https://arxiv.org/pdf/1709.08624](https://arxiv.org/pdf/1709.08624)
+

@@ -20,3 +20,6 @@ We propose the task of free-form and open-ended Visual Question Answering (VQA).
 ##### URL
 [https://arxiv.org/abs/1505.00468](https://arxiv.org/abs/1505.00468)
 
+##### PDF
+[https://arxiv.org/pdf/1505.00468](https://arxiv.org/pdf/1505.00468)
+

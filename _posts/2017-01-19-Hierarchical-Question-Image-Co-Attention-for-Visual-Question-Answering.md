@@ -20,3 +20,6 @@ A number of recent works have proposed attention models for Visual Question Answ
 ##### URL
 [https://arxiv.org/abs/1606.00061](https://arxiv.org/abs/1606.00061)
 
+##### PDF
+[https://arxiv.org/pdf/1606.00061](https://arxiv.org/pdf/1606.00061)
+

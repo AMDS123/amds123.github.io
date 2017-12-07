@@ -20,3 +20,6 @@ Since 2010 IceCube observed around 50 high-energy neutrino events of cosmic orig
 ##### URL
 [https://arxiv.org/abs/1708.01540](https://arxiv.org/abs/1708.01540)
 
+##### PDF
+[https://arxiv.org/pdf/1708.01540](https://arxiv.org/pdf/1708.01540)
+

@@ -20,3 +20,6 @@ Hand pose estimation is to predict the pose parameters representing a 3D hand mo
 ##### URL
 [https://arxiv.org/abs/1711.10872](https://arxiv.org/abs/1711.10872)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10872](https://arxiv.org/pdf/1711.10872)
+

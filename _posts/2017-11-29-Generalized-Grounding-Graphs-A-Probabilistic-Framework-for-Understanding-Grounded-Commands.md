@@ -20,3 +20,6 @@ Many task domains require robots to interpret and act upon natural language comm
 ##### URL
 [http://arxiv.org/abs/1712.01097](http://arxiv.org/abs/1712.01097)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01097](http://arxiv.org/pdf/1712.01097)
+

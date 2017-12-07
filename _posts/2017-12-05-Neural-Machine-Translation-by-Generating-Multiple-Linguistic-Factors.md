@@ -20,3 +20,6 @@ Factored神经机器翻译（FNMT）建立在使用神经网络输出侧的词�
 ##### URL
 [http://arxiv.org/abs/1712.01821](http://arxiv.org/abs/1712.01821)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01821](http://arxiv.org/pdf/1712.01821)
+

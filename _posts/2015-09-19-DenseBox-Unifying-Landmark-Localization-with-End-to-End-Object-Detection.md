@@ -20,3 +20,6 @@ How can a single fully convolutional neural network (FCN) perform on object dete
 ##### URL
 [https://arxiv.org/abs/1509.04874](https://arxiv.org/abs/1509.04874)
 
+##### PDF
+[https://arxiv.org/pdf/1509.04874](https://arxiv.org/pdf/1509.04874)
+

@@ -20,3 +20,6 @@ This paper presents a framework for localization or grounding of phrases in imag
 ##### URL
 [https://arxiv.org/abs/1611.06641](https://arxiv.org/abs/1611.06641)
 
+##### PDF
+[https://arxiv.org/pdf/1611.06641](https://arxiv.org/pdf/1611.06641)
+

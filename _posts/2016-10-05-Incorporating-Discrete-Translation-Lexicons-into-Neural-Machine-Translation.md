@@ -20,3 +20,6 @@ Neural machine translation (NMT) often makes mistakes in translating low-frequen
 ##### URL
 [https://arxiv.org/abs/1606.02006](https://arxiv.org/abs/1606.02006)
 
+##### PDF
+[https://arxiv.org/pdf/1606.02006](https://arxiv.org/pdf/1606.02006)
+

@@ -20,3 +20,6 @@ The workflow of extracting features from images using convolutional neural netwo
 ##### URL
 [https://arxiv.org/abs/1603.09046](https://arxiv.org/abs/1603.09046)
 
+##### PDF
+[https://arxiv.org/pdf/1603.09046](https://arxiv.org/pdf/1603.09046)
+

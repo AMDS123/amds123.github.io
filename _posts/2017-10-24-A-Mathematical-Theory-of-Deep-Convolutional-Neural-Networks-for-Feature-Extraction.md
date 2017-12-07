@@ -20,3 +20,6 @@ Deep convolutional neural networks have led to breakthrough results in numerous 
 ##### URL
 [https://arxiv.org/abs/1512.06293](https://arxiv.org/abs/1512.06293)
 
+##### PDF
+[https://arxiv.org/pdf/1512.06293](https://arxiv.org/pdf/1512.06293)
+

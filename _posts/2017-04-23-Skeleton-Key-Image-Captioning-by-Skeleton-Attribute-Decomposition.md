@@ -20,3 +20,6 @@ Recently, there has been a lot of interest in automatically generating descripti
 ##### URL
 [https://arxiv.org/abs/1704.06972](https://arxiv.org/abs/1704.06972)
 
+##### PDF
+[https://arxiv.org/pdf/1704.06972](https://arxiv.org/pdf/1704.06972)
+

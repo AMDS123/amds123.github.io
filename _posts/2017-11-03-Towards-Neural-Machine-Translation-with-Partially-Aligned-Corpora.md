@@ -20,3 +20,6 @@ While neural machine translation (NMT) has become the new paradigm, the paramete
 ##### URL
 [https://arxiv.org/abs/1711.01006](https://arxiv.org/abs/1711.01006)
 
+##### PDF
+[https://arxiv.org/pdf/1711.01006](https://arxiv.org/pdf/1711.01006)
+

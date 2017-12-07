@@ -20,3 +20,6 @@ The best summary of a long video differs among different people due to its highl
 ##### URL
 [https://arxiv.org/abs/1702.01528](https://arxiv.org/abs/1702.01528)
 
+##### PDF
+[https://arxiv.org/pdf/1702.01528](https://arxiv.org/pdf/1702.01528)
+

@@ -20,3 +20,6 @@ Representation-based classification methods such as sparse representation-based 
 ##### URL
 [https://arxiv.org/abs/1712.01643](https://arxiv.org/abs/1712.01643)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01643](https://arxiv.org/pdf/1712.01643)
+

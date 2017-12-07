@@ -20,3 +20,6 @@ EF Eri是一个磁性灾难性变量，在过去九年中一直处于低增长�
 ##### URL
 [https://arxiv.org/abs/astro-ph/0607140](https://arxiv.org/abs/astro-ph/0607140)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0607140](https://arxiv.org/pdf/astro-ph/0607140)
+

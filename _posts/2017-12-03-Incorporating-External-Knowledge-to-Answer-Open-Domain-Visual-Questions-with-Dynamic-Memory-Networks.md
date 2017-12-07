@@ -20,3 +20,6 @@ Visual Question Answering (VQA) has attracted much attention since it offers ins
 ##### URL
 [http://arxiv.org/abs/1712.00733](http://arxiv.org/abs/1712.00733)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00733](http://arxiv.org/pdf/1712.00733)
+

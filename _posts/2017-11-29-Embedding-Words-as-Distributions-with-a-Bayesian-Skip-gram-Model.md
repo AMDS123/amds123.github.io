@@ -20,3 +20,6 @@ We introduce a method for embedding words as probability densities in a low-dime
 ##### URL
 [https://arxiv.org/abs/1711.11027](https://arxiv.org/abs/1711.11027)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11027](https://arxiv.org/pdf/1711.11027)
+

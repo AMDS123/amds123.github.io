@@ -20,3 +20,6 @@ Cascade is a widely used approach that rejects obvious negative samples at early
 ##### URL
 [https://arxiv.org/abs/1702.07054](https://arxiv.org/abs/1702.07054)
 
+##### PDF
+[https://arxiv.org/pdf/1702.07054](https://arxiv.org/pdf/1702.07054)
+

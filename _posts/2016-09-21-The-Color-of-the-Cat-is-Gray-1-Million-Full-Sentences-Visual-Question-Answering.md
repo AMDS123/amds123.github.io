@@ -20,3 +20,6 @@ Visual Question Answering (VQA) task has showcased a new stage of interaction be
 ##### URL
 [https://arxiv.org/abs/1609.06657](https://arxiv.org/abs/1609.06657)
 
+##### PDF
+[https://arxiv.org/pdf/1609.06657](https://arxiv.org/pdf/1609.06657)
+

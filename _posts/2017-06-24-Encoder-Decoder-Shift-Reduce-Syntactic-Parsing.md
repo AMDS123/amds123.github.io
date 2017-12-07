@@ -20,3 +20,6 @@ Starting from NMT, encoder-decoder neu- ral networks have been used for many NLP
 ##### URL
 [https://arxiv.org/abs/1706.07905](https://arxiv.org/abs/1706.07905)
 
+##### PDF
+[https://arxiv.org/pdf/1706.07905](https://arxiv.org/pdf/1706.07905)
+

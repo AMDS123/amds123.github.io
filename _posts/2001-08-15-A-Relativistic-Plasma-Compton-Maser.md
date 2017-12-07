@@ -20,3 +20,6 @@ A relativistic pair-plasma which contains a high excitation of electrostatic tur
 ##### URL
 [https://arxiv.org/abs/astro-ph/0108258](https://arxiv.org/abs/astro-ph/0108258)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0108258](https://arxiv.org/pdf/astro-ph/0108258)
+

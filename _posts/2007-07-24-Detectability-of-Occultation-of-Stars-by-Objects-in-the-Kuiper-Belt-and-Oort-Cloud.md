@@ -20,3 +20,6 @@ The serendipitous detection of stellar occultations by Outer Solar System object
 ##### URL
 [https://arxiv.org/abs/astro-ph/0703460](https://arxiv.org/abs/astro-ph/0703460)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0703460](https://arxiv.org/pdf/astro-ph/0703460)
+

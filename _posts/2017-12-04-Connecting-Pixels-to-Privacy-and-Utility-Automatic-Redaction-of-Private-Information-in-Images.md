@@ -20,3 +20,6 @@ Images convey a broad spectrum of personal information. If such images are share
 ##### URL
 [http://arxiv.org/abs/1712.01066](http://arxiv.org/abs/1712.01066)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01066](http://arxiv.org/pdf/1712.01066)
+

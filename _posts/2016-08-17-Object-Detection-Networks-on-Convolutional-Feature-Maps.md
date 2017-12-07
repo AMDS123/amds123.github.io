@@ -20,3 +20,6 @@ Most object detectors contain two important components: a feature extractor and 
 ##### URL
 [https://arxiv.org/abs/1504.06066](https://arxiv.org/abs/1504.06066)
 
+##### PDF
+[https://arxiv.org/pdf/1504.06066](https://arxiv.org/pdf/1504.06066)
+

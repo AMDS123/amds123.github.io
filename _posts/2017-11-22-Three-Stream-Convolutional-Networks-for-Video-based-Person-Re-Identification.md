@@ -20,3 +20,6 @@ This paper aims to develop a new architecture that can make full use of the feat
 ##### URL
 [https://arxiv.org/abs/1712.01652](https://arxiv.org/abs/1712.01652)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01652](https://arxiv.org/pdf/1712.01652)
+

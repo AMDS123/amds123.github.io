@@ -20,3 +20,6 @@ Compatibility between items, such as clothes and shoes, is a major factor among 
 ##### URL
 [http://arxiv.org/abs/1712.01262](http://arxiv.org/abs/1712.01262)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01262](http://arxiv.org/pdf/1712.01262)
+

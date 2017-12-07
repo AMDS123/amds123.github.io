@@ -20,3 +20,6 @@ One challenge that remains open in 3D deep learning is how to efficiently repres
 ##### URL
 [https://arxiv.org/abs/1711.10669](https://arxiv.org/abs/1711.10669)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10669](https://arxiv.org/pdf/1711.10669)
+

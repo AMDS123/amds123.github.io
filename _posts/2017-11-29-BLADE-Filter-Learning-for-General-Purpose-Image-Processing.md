@@ -20,3 +20,6 @@ Romano，Isidoro和Milanfar的快速而准确的图像超分辨率（RAISR）方
 ##### URL
 [https://arxiv.org/abs/1711.10700](https://arxiv.org/abs/1711.10700)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10700](https://arxiv.org/pdf/1711.10700)
+

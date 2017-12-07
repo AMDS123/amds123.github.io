@@ -20,3 +20,6 @@ Object detection aims to identify instances of semantic objects of a certain cla
 ##### URL
 [https://arxiv.org/abs/1703.00234](https://arxiv.org/abs/1703.00234)
 
+##### PDF
+[https://arxiv.org/pdf/1703.00234](https://arxiv.org/pdf/1703.00234)
+

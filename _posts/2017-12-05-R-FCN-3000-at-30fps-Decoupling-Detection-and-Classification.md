@@ -20,3 +20,6 @@ We present R-FCN-3000, a large-scale real-time object detector in which objectne
 ##### URL
 [https://arxiv.org/abs/1712.01802](https://arxiv.org/abs/1712.01802)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01802](https://arxiv.org/pdf/1712.01802)
+

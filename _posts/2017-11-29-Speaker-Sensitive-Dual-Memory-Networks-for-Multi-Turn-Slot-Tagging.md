@@ -20,3 +20,6 @@ In multi-turn dialogs, natural language understanding models can introduce obvio
 ##### URL
 [https://arxiv.org/abs/1711.10705](https://arxiv.org/abs/1711.10705)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10705](https://arxiv.org/pdf/1711.10705)
+

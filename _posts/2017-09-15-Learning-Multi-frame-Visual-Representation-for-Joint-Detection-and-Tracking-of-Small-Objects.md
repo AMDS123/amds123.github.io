@@ -20,3 +20,6 @@ Deep convolutional and recurrent neural networks have delivered significant adva
 ##### URL
 [https://arxiv.org/abs/1709.04666](https://arxiv.org/abs/1709.04666)
 
+##### PDF
+[https://arxiv.org/pdf/1709.04666](https://arxiv.org/pdf/1709.04666)
+

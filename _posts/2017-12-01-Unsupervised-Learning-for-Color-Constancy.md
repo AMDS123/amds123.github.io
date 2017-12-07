@@ -20,3 +20,6 @@ Most digital camera pipelines use color constancy methods to reduce the influenc
 ##### URL
 [https://arxiv.org/abs/1712.00436](https://arxiv.org/abs/1712.00436)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00436](https://arxiv.org/pdf/1712.00436)
+

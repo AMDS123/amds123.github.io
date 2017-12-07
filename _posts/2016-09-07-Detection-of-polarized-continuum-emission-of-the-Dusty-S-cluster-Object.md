@@ -20,3 +20,6 @@ A peculiar source in the Galactic center known as the Dusty S-cluster Object (DS
 ##### URL
 [https://arxiv.org/abs/1609.02039](https://arxiv.org/abs/1609.02039)
 
+##### PDF
+[https://arxiv.org/pdf/1609.02039](https://arxiv.org/pdf/1609.02039)
+

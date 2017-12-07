@@ -20,3 +20,6 @@ The ability to automatically detect other vehicles on the road is vital to the s
 ##### URL
 [https://arxiv.org/abs/1606.01561](https://arxiv.org/abs/1606.01561)
 
+##### PDF
+[https://arxiv.org/pdf/1606.01561](https://arxiv.org/pdf/1606.01561)
+

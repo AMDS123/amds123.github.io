@@ -20,3 +20,6 @@ The idea of video super resolution is to use different view points of a single s
 ##### URL
 [http://arxiv.org/abs/1611.07767](http://arxiv.org/abs/1611.07767)
 
+##### PDF
+[http://arxiv.org/pdf/1611.07767](http://arxiv.org/pdf/1611.07767)
+

@@ -20,3 +20,6 @@ Deep learning (DL) techniques have had unprecedented success when applied to ima
 ##### URL
 [https://arxiv.org/abs/1712.00244](https://arxiv.org/abs/1712.00244)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00244](https://arxiv.org/pdf/1712.00244)
+

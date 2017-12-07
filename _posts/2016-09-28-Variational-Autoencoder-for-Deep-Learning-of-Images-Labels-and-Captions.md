@@ -20,3 +20,6 @@ A novel variational autoencoder is developed to model images, as well as associa
 ##### URL
 [https://arxiv.org/abs/1609.08976](https://arxiv.org/abs/1609.08976)
 
+##### PDF
+[https://arxiv.org/pdf/1609.08976](https://arxiv.org/pdf/1609.08976)
+

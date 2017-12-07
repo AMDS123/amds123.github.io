@@ -20,3 +20,6 @@ Unlike traditional third-person cameras mounted on robots, a first-person camera
 ##### URL
 [https://arxiv.org/abs/1603.04908](https://arxiv.org/abs/1603.04908)
 
+##### PDF
+[https://arxiv.org/pdf/1603.04908](https://arxiv.org/pdf/1603.04908)
+

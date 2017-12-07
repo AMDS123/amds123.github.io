@@ -20,3 +20,6 @@ Saliency detection aims to detect the most attractive objects in images, which h
 ##### URL
 [https://arxiv.org/abs/1710.04071](https://arxiv.org/abs/1710.04071)
 
+##### PDF
+[https://arxiv.org/pdf/1710.04071](https://arxiv.org/pdf/1710.04071)
+

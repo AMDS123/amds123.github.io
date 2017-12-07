@@ -20,3 +20,6 @@ Visual Question Answering (VQA) emerges as one of the most fascinating topics in
 ##### URL
 [https://arxiv.org/abs/1511.05676](https://arxiv.org/abs/1511.05676)
 
+##### PDF
+[https://arxiv.org/pdf/1511.05676](https://arxiv.org/pdf/1511.05676)
+

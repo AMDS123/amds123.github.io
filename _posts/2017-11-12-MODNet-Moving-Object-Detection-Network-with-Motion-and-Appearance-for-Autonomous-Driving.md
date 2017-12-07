@@ -20,3 +20,6 @@ We propose a novel multi-task learning system that combines appearance and motio
 ##### URL
 [https://arxiv.org/abs/1709.04821](https://arxiv.org/abs/1709.04821)
 
+##### PDF
+[https://arxiv.org/pdf/1709.04821](https://arxiv.org/pdf/1709.04821)
+

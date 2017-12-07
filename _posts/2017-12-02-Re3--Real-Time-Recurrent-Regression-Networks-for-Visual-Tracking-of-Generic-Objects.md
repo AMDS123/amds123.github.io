@@ -20,3 +20,6 @@ Robust object tracking requires knowledge and understanding of the object being 
 ##### URL
 [http://arxiv.org/abs/1705.06368](http://arxiv.org/abs/1705.06368)
 
+##### PDF
+[http://arxiv.org/pdf/1705.06368](http://arxiv.org/pdf/1705.06368)
+

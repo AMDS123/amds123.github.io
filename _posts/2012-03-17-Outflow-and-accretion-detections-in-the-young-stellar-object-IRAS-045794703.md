@@ -20,3 +20,6 @@ We present Submillimeter Array observations of the young stellar object IRAS 045
 ##### URL
 [https://arxiv.org/abs/1203.3839](https://arxiv.org/abs/1203.3839)
 
+##### PDF
+[https://arxiv.org/pdf/1203.3839](https://arxiv.org/pdf/1203.3839)
+

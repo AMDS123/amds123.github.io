@@ -20,3 +20,6 @@ Answering open-ended questions is an essential capability for any intelligent ag
 ##### URL
 [https://arxiv.org/abs/1610.06620](https://arxiv.org/abs/1610.06620)
 
+##### PDF
+[https://arxiv.org/pdf/1610.06620](https://arxiv.org/pdf/1610.06620)
+

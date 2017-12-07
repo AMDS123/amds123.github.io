@@ -20,3 +20,6 @@ We report on the methods used in our recent DeepEnsembleCoco submission to the P
 ##### URL
 [https://arxiv.org/abs/1506.07224](https://arxiv.org/abs/1506.07224)
 
+##### PDF
+[https://arxiv.org/pdf/1506.07224](https://arxiv.org/pdf/1506.07224)
+

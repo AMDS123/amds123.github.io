@@ -20,3 +20,6 @@ This paper proposes a novel method to estimate the global scale of a 3D reconstr
 ##### URL
 [https://arxiv.org/abs/1705.09860](https://arxiv.org/abs/1705.09860)
 
+##### PDF
+[https://arxiv.org/pdf/1705.09860](https://arxiv.org/pdf/1705.09860)
+

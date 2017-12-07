@@ -20,3 +20,6 @@ Access to word-sentiment associations is useful for many applications, including
 ##### URL
 [http://arxiv.org/abs/1712.01741](http://arxiv.org/abs/1712.01741)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01741](http://arxiv.org/pdf/1712.01741)
+

@@ -20,3 +20,6 @@ Object detection with deep neural networks is often performed by passing a few t
 ##### URL
 [https://arxiv.org/abs/1605.03477](https://arxiv.org/abs/1605.03477)
 
+##### PDF
+[https://arxiv.org/pdf/1605.03477](https://arxiv.org/pdf/1605.03477)
+

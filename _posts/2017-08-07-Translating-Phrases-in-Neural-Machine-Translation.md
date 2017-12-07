@@ -20,3 +20,6 @@ Phrases play an important role in natural language understanding and machine tra
 ##### URL
 [https://arxiv.org/abs/1708.01980](https://arxiv.org/abs/1708.01980)
 
+##### PDF
+[https://arxiv.org/pdf/1708.01980](https://arxiv.org/pdf/1708.01980)
+

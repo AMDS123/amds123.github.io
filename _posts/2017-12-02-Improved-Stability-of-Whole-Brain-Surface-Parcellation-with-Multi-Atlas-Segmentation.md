@@ -20,3 +20,6 @@ Whole brain segmentation and cortical surface parcellation are essential in unde
 ##### URL
 [http://arxiv.org/abs/1712.00543](http://arxiv.org/abs/1712.00543)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00543](http://arxiv.org/pdf/1712.00543)
+

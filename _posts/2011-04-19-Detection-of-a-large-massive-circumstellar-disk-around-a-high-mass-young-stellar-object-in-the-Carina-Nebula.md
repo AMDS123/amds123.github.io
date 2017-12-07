@@ -20,3 +20,6 @@ mathjax: true
 ##### URL
 [https://arxiv.org/abs/1104.3706](https://arxiv.org/abs/1104.3706)
 
+##### PDF
+[https://arxiv.org/pdf/1104.3706](https://arxiv.org/pdf/1104.3706)
+

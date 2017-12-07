@@ -20,3 +20,6 @@ Part of the appeal of Visual Question Answering (VQA) is its promise to answer n
 ##### URL
 [https://arxiv.org/abs/1611.05546](https://arxiv.org/abs/1611.05546)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05546](https://arxiv.org/pdf/1611.05546)
+

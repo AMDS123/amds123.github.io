@@ -20,3 +20,6 @@ This work proposes a new, online algorithm for estimating the local scale correc
 ##### URL
 [https://arxiv.org/abs/1711.02768](https://arxiv.org/abs/1711.02768)
 
+##### PDF
+[https://arxiv.org/pdf/1711.02768](https://arxiv.org/pdf/1711.02768)
+

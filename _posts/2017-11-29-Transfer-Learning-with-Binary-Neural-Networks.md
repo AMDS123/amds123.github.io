@@ -20,3 +20,6 @@ Previous work has shown that it is possible to train deep neural networks with l
 ##### URL
 [https://arxiv.org/abs/1711.10761](https://arxiv.org/abs/1711.10761)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10761](https://arxiv.org/pdf/1711.10761)
+

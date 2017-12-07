@@ -20,3 +20,6 @@ We propose a scalable approach to learn video-based question answering (QA): ans
 ##### URL
 [https://arxiv.org/abs/1611.04021](https://arxiv.org/abs/1611.04021)
 
+##### PDF
+[https://arxiv.org/pdf/1611.04021](https://arxiv.org/pdf/1611.04021)
+

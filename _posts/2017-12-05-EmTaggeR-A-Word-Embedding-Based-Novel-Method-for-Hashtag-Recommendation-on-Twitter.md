@@ -20,3 +20,6 @@ The hashtag recommendation problem addresses recommending (suggesting) one or mo
 ##### URL
 [http://arxiv.org/abs/1712.01562](http://arxiv.org/abs/1712.01562)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01562](http://arxiv.org/pdf/1712.01562)
+

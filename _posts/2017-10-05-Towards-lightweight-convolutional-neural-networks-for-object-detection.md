@@ -20,3 +20,6 @@ We propose model with larger spatial size of feature maps and evaluate it on obj
 ##### URL
 [https://arxiv.org/abs/1707.01395](https://arxiv.org/abs/1707.01395)
 
+##### PDF
+[https://arxiv.org/pdf/1707.01395](https://arxiv.org/pdf/1707.01395)
+

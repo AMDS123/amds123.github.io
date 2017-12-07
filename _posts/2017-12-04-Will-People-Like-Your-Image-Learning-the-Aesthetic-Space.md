@@ -20,3 +20,6 @@ Rating how aesthetically pleasing an image appears is a highly complex matter an
 ##### URL
 [http://arxiv.org/abs/1611.05203](http://arxiv.org/abs/1611.05203)
 
+##### PDF
+[http://arxiv.org/pdf/1611.05203](http://arxiv.org/pdf/1611.05203)
+

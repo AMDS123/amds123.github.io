@@ -20,3 +20,6 @@ We propose a novel statistical method for detection of objects in noisy images. 
 ##### URL
 [https://arxiv.org/abs/1102.5019](https://arxiv.org/abs/1102.5019)
 
+##### PDF
+[https://arxiv.org/pdf/1102.5019](https://arxiv.org/pdf/1102.5019)
+

@@ -20,3 +20,6 @@ In interpretation of remote sensing images, it is possible that some images whic
 ##### URL
 [http://arxiv.org/abs/1512.08475](http://arxiv.org/abs/1512.08475)
 
+##### PDF
+[http://arxiv.org/pdf/1512.08475](http://arxiv.org/pdf/1512.08475)
+

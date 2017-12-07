@@ -20,3 +20,6 @@ Sequence-to-sequence translation methods based on generation with a side-conditi
 ##### URL
 [https://arxiv.org/abs/1506.00196](https://arxiv.org/abs/1506.00196)
 
+##### PDF
+[https://arxiv.org/pdf/1506.00196](https://arxiv.org/pdf/1506.00196)
+

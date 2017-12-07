@@ -20,3 +20,6 @@ Medical image registration plays an important role in determining topographic an
 ##### URL
 [https://arxiv.org/abs/1611.01730](https://arxiv.org/abs/1611.01730)
 
+##### PDF
+[https://arxiv.org/pdf/1611.01730](https://arxiv.org/pdf/1611.01730)
+

@@ -20,3 +20,6 @@ Demographic studies suggest that changes in the retinal vasculature geometry, es
 ##### URL
 [https://arxiv.org/abs/1711.10521](https://arxiv.org/abs/1711.10521)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10521](https://arxiv.org/pdf/1711.10521)
+

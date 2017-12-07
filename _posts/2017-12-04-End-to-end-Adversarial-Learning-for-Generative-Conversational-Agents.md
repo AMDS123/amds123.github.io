@@ -20,3 +20,6 @@ This paper presents a new adversarial learning method for generative conversatio
 ##### URL
 [http://arxiv.org/abs/1711.10122](http://arxiv.org/abs/1711.10122)
 
+##### PDF
+[http://arxiv.org/pdf/1711.10122](http://arxiv.org/pdf/1711.10122)
+

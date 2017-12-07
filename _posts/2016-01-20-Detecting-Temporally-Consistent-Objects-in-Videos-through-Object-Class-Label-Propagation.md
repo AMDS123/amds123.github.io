@@ -20,3 +20,6 @@ Object proposals for detecting moving or static video objects need to address is
 ##### URL
 [https://arxiv.org/abs/1601.05447](https://arxiv.org/abs/1601.05447)
 
+##### PDF
+[https://arxiv.org/pdf/1601.05447](https://arxiv.org/pdf/1601.05447)
+

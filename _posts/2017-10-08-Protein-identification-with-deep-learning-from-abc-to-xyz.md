@@ -20,3 +20,6 @@ Proteins are the main workhorses of biological functions in a cell, a tissue, or
 ##### URL
 [https://arxiv.org/abs/1710.02765](https://arxiv.org/abs/1710.02765)
 
+##### PDF
+[https://arxiv.org/pdf/1710.02765](https://arxiv.org/pdf/1710.02765)
+

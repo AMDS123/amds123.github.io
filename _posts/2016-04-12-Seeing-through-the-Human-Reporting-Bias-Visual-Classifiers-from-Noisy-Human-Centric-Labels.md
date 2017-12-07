@@ -20,3 +20,6 @@ When human annotators are given a choice about what to label in an image, they a
 ##### URL
 [https://arxiv.org/abs/1512.06974](https://arxiv.org/abs/1512.06974)
 
+##### PDF
+[https://arxiv.org/pdf/1512.06974](https://arxiv.org/pdf/1512.06974)
+

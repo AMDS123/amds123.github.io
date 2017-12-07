@@ -20,3 +20,6 @@ Taking a photo outside, can we predict the immediate future, \textit{e.g.}, how 
 ##### URL
 [http://arxiv.org/abs/1709.07592](http://arxiv.org/abs/1709.07592)
 
+##### PDF
+[http://arxiv.org/pdf/1709.07592](http://arxiv.org/pdf/1709.07592)
+

@@ -20,3 +20,6 @@ We present a probabilistic model with discrete latent variables that control the
 ##### URL
 [https://arxiv.org/abs/1712.00386](https://arxiv.org/abs/1712.00386)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00386](https://arxiv.org/pdf/1712.00386)
+

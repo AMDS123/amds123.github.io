@@ -20,3 +20,6 @@ Human actions often involve complex interactions across several inter-related ob
 ##### URL
 [https://arxiv.org/abs/1711.06330](https://arxiv.org/abs/1711.06330)
 
+##### PDF
+[https://arxiv.org/pdf/1711.06330](https://arxiv.org/pdf/1711.06330)
+

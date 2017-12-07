@@ -20,3 +20,6 @@ An "elephant in the room" for most current object detection and localization met
 ##### URL
 [https://arxiv.org/abs/1311.6758](https://arxiv.org/abs/1311.6758)
 
+##### PDF
+[https://arxiv.org/pdf/1311.6758](https://arxiv.org/pdf/1311.6758)
+

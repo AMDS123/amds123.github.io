@@ -20,3 +20,6 @@ Sentences in a well-formed text are connected to each other via various links to
 ##### URL
 [https://arxiv.org/abs/1711.11221](https://arxiv.org/abs/1711.11221)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11221](https://arxiv.org/pdf/1711.11221)
+

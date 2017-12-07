@@ -20,3 +20,6 @@ Generating high-resolution, photo-realistic images has been a long-standing goal
 ##### URL
 [https://arxiv.org/abs/1612.00005](https://arxiv.org/abs/1612.00005)
 
+##### PDF
+[https://arxiv.org/pdf/1612.00005](https://arxiv.org/pdf/1612.00005)
+

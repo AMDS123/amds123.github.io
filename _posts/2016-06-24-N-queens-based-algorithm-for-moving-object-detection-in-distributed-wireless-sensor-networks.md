@@ -20,3 +20,6 @@ The main constraint of wireless sensor networks (WSN) in enabling wireless image
 ##### URL
 [https://arxiv.org/abs/1606.07583](https://arxiv.org/abs/1606.07583)
 
+##### PDF
+[https://arxiv.org/pdf/1606.07583](https://arxiv.org/pdf/1606.07583)
+

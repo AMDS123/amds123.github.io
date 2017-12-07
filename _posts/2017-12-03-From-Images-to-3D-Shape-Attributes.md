@@ -20,3 +20,6 @@ Our goal in this paper is to investigate properties of 3D shape that can be dete
 ##### URL
 [http://arxiv.org/abs/1612.06836](http://arxiv.org/abs/1612.06836)
 
+##### PDF
+[http://arxiv.org/pdf/1612.06836](http://arxiv.org/pdf/1612.06836)
+

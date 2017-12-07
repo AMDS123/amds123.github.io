@@ -20,3 +20,6 @@ Current high-quality object detection approaches use the scheme of salience-base
 ##### URL
 [https://arxiv.org/abs/1412.1441](https://arxiv.org/abs/1412.1441)
 
+##### PDF
+[https://arxiv.org/pdf/1412.1441](https://arxiv.org/pdf/1412.1441)
+

@@ -20,3 +20,6 @@ We present an attention-based model for end-to-end handwriting recognition. Our 
 ##### URL
 [https://arxiv.org/abs/1604.03286](https://arxiv.org/abs/1604.03286)
 
+##### PDF
+[https://arxiv.org/pdf/1604.03286](https://arxiv.org/pdf/1604.03286)
+

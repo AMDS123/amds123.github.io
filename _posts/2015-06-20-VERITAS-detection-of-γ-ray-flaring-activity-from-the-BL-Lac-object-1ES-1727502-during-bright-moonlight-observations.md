@@ -20,3 +20,6 @@ During moonlit nights, observations with ground-based Cherenkov telescopes at ve
 ##### URL
 [https://arxiv.org/abs/1506.06246](https://arxiv.org/abs/1506.06246)
 
+##### PDF
+[https://arxiv.org/pdf/1506.06246](https://arxiv.org/pdf/1506.06246)
+

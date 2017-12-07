@@ -20,3 +20,6 @@ In this paper, we propose a deep part-based model (DeePM) for symbiotic object d
 ##### URL
 [https://arxiv.org/abs/1511.07131](https://arxiv.org/abs/1511.07131)
 
+##### PDF
+[https://arxiv.org/pdf/1511.07131](https://arxiv.org/pdf/1511.07131)
+

@@ -20,3 +20,6 @@ This paper presents an augmentation of MSCOCO dataset where speech is added to i
 ##### URL
 [https://arxiv.org/abs/1707.08435](https://arxiv.org/abs/1707.08435)
 
+##### PDF
+[https://arxiv.org/pdf/1707.08435](https://arxiv.org/pdf/1707.08435)
+

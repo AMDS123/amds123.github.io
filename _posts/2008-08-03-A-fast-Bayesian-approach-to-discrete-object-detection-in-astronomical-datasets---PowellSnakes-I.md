@@ -20,3 +20,6 @@ A new fast Bayesian approach is introduced for the detection of discrete objects
 ##### URL
 [https://arxiv.org/abs/0802.3916](https://arxiv.org/abs/0802.3916)
 
+##### PDF
+[https://arxiv.org/pdf/0802.3916](https://arxiv.org/pdf/0802.3916)
+

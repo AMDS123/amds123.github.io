@@ -20,3 +20,6 @@ Untangling of structures like ropes and wires by autonomous robots can be useful
 ##### URL
 [https://arxiv.org/abs/1405.4802](https://arxiv.org/abs/1405.4802)
 
+##### PDF
+[https://arxiv.org/pdf/1405.4802](https://arxiv.org/pdf/1405.4802)
+

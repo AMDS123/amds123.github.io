@@ -20,3 +20,6 @@ This paper presents a method for detecting salient objects in videos where tempo
 ##### URL
 [https://arxiv.org/abs/1708.01447](https://arxiv.org/abs/1708.01447)
 
+##### PDF
+[https://arxiv.org/pdf/1708.01447](https://arxiv.org/pdf/1708.01447)
+

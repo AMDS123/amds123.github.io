@@ -20,3 +20,6 @@ In this paper, we propose using \textit{augmented hypotheses} which consider obj
 ##### URL
 [https://arxiv.org/abs/1505.07930](https://arxiv.org/abs/1505.07930)
 
+##### PDF
+[https://arxiv.org/pdf/1505.07930](https://arxiv.org/pdf/1505.07930)
+

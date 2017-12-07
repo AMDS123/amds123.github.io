@@ -20,3 +20,6 @@ Within a supervised classification framework, labeled data are used to learn cla
 ##### URL
 [https://arxiv.org/abs/1712.00368](https://arxiv.org/abs/1712.00368)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00368](https://arxiv.org/pdf/1712.00368)
+

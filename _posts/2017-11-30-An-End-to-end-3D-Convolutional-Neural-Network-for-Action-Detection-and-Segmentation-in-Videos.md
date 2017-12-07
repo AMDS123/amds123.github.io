@@ -20,3 +20,6 @@ In this paper, we propose an end-to-end 3D CNN for action detection and segmenta
 ##### URL
 [http://arxiv.org/abs/1712.01111](http://arxiv.org/abs/1712.01111)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01111](http://arxiv.org/pdf/1712.01111)
+

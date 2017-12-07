@@ -20,3 +20,6 @@ We present our submission to the Microsoft Video to Language Challenge of genera
 ##### URL
 [https://arxiv.org/abs/1608.04959](https://arxiv.org/abs/1608.04959)
 
+##### PDF
+[https://arxiv.org/pdf/1608.04959](https://arxiv.org/pdf/1608.04959)
+

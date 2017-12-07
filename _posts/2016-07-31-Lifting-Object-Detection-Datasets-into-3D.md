@@ -20,3 +20,6 @@ While data has certainly taken the center stage in computer vision in recent yea
 ##### URL
 [https://arxiv.org/abs/1503.06465](https://arxiv.org/abs/1503.06465)
 
+##### PDF
+[https://arxiv.org/pdf/1503.06465](https://arxiv.org/pdf/1503.06465)
+

@@ -20,3 +20,6 @@ In Multimodal Neural Machine Translation (MNMT), a neural model generates a tran
 ##### URL
 [https://arxiv.org/abs/1707.01009](https://arxiv.org/abs/1707.01009)
 
+##### PDF
+[https://arxiv.org/pdf/1707.01009](https://arxiv.org/pdf/1707.01009)
+

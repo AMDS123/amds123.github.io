@@ -20,3 +20,6 @@ It has become apparent that a Gaussian center bias can serve as an important pri
 ##### URL
 [https://arxiv.org/abs/1501.03383](https://arxiv.org/abs/1501.03383)
 
+##### PDF
+[https://arxiv.org/pdf/1501.03383](https://arxiv.org/pdf/1501.03383)
+

@@ -20,3 +20,6 @@ In this paper, we present a neural network based task-oriented dialogue system t
 ##### URL
 [https://arxiv.org/abs/1711.10712](https://arxiv.org/abs/1711.10712)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10712](https://arxiv.org/pdf/1711.10712)
+

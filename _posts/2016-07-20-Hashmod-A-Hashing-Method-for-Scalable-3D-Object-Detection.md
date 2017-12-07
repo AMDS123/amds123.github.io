@@ -20,3 +20,6 @@ We present a scalable method for detecting objects and estimating their 3D poses
 ##### URL
 [https://arxiv.org/abs/1607.06062](https://arxiv.org/abs/1607.06062)
 
+##### PDF
+[https://arxiv.org/pdf/1607.06062](https://arxiv.org/pdf/1607.06062)
+

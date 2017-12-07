@@ -20,3 +20,6 @@ We present a novel object detection pipeline for localization and recognition in
 ##### URL
 [https://arxiv.org/abs/1703.04665](https://arxiv.org/abs/1703.04665)
 
+##### PDF
+[https://arxiv.org/pdf/1703.04665](https://arxiv.org/pdf/1703.04665)
+

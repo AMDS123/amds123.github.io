@@ -20,3 +20,6 @@ We are interested in counting the number of instances of object classes in natur
 ##### URL
 [https://arxiv.org/abs/1604.03505](https://arxiv.org/abs/1604.03505)
 
+##### PDF
+[https://arxiv.org/pdf/1604.03505](https://arxiv.org/pdf/1604.03505)
+

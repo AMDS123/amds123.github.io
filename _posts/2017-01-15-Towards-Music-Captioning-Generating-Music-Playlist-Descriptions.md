@@ -20,3 +20,6 @@ Descriptions are often provided along with recommendations to help users' discov
 ##### URL
 [https://arxiv.org/abs/1608.04868](https://arxiv.org/abs/1608.04868)
 
+##### PDF
+[https://arxiv.org/pdf/1608.04868](https://arxiv.org/pdf/1608.04868)
+

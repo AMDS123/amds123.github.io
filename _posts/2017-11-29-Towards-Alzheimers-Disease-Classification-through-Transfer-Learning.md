@@ -20,3 +20,6 @@ Detection of Alzheimer's Disease (AD) from neuroimaging data such as MRI through
 ##### URL
 [https://arxiv.org/abs/1711.11117](https://arxiv.org/abs/1711.11117)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11117](https://arxiv.org/pdf/1711.11117)
+

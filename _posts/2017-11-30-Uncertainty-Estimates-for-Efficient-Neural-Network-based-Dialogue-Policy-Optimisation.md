@@ -20,3 +20,6 @@ In statistical dialogue management, the dialogue manager learns a policy that ma
 ##### URL
 [https://arxiv.org/abs/1711.11486](https://arxiv.org/abs/1711.11486)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11486](https://arxiv.org/pdf/1711.11486)
+

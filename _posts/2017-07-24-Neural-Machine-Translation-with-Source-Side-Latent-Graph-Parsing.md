@@ -20,3 +20,6 @@ This paper presents a novel neural machine translation model which jointly learn
 ##### URL
 [https://arxiv.org/abs/1702.02265](https://arxiv.org/abs/1702.02265)
 
+##### PDF
+[https://arxiv.org/pdf/1702.02265](https://arxiv.org/pdf/1702.02265)
+

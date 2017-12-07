@@ -20,3 +20,6 @@ We present a method for identifying localized secondary populations in stellar v
 ##### URL
 [https://arxiv.org/abs/1208.4146](https://arxiv.org/abs/1208.4146)
 
+##### PDF
+[https://arxiv.org/pdf/1208.4146](https://arxiv.org/pdf/1208.4146)
+

@@ -20,3 +20,6 @@ We present an algorithm to search for the faint spectrum of a second star mixed 
 ##### URL
 [https://arxiv.org/abs/1412.5259](https://arxiv.org/abs/1412.5259)
 
+##### PDF
+[https://arxiv.org/pdf/1412.5259](https://arxiv.org/pdf/1412.5259)
+

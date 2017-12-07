@@ -20,3 +20,6 @@ This paper presents a state-of-the-art approach in object detection for being ap
 ##### URL
 [https://arxiv.org/abs/1707.08095](https://arxiv.org/abs/1707.08095)
 
+##### PDF
+[https://arxiv.org/pdf/1707.08095](https://arxiv.org/pdf/1707.08095)
+

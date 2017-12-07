@@ -20,3 +20,6 @@ The recent advances of convolutional detectors show impressive performance impro
 ##### URL
 [https://arxiv.org/abs/1712.00185](https://arxiv.org/abs/1712.00185)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00185](https://arxiv.org/pdf/1712.00185)
+

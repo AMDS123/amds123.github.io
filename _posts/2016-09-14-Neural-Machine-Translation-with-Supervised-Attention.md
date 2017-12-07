@@ -20,3 +20,6 @@ The attention mechanisim is appealing for neural machine translation, since it i
 ##### URL
 [https://arxiv.org/abs/1609.04186](https://arxiv.org/abs/1609.04186)
 
+##### PDF
+[https://arxiv.org/pdf/1609.04186](https://arxiv.org/pdf/1609.04186)
+

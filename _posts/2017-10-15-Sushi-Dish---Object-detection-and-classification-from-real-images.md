@@ -20,3 +20,6 @@ In conveyor belt sushi restaurants, billing is a burdened job because one has to
 ##### URL
 [https://arxiv.org/abs/1709.00751](https://arxiv.org/abs/1709.00751)
 
+##### PDF
+[https://arxiv.org/pdf/1709.00751](https://arxiv.org/pdf/1709.00751)
+

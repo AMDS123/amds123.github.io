@@ -20,3 +20,6 @@ The one-zone synchrotron-self-Compton (SSC) model aims to describe the spectral 
 ##### URL
 [https://arxiv.org/abs/1305.4597](https://arxiv.org/abs/1305.4597)
 
+##### PDF
+[https://arxiv.org/pdf/1305.4597](https://arxiv.org/pdf/1305.4597)
+

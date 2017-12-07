@@ -20,3 +20,6 @@ While there is overall agreement that future technology for organizing, browsing
 ##### URL
 [https://arxiv.org/abs/1606.07373](https://arxiv.org/abs/1606.07373)
 
+##### PDF
+[https://arxiv.org/pdf/1606.07373](https://arxiv.org/pdf/1606.07373)
+

@@ -20,3 +20,6 @@ Feature pyramids are a basic component in recognition systems for detecting obje
 ##### URL
 [https://arxiv.org/abs/1612.03144](https://arxiv.org/abs/1612.03144)
 
+##### PDF
+[https://arxiv.org/pdf/1612.03144](https://arxiv.org/pdf/1612.03144)
+

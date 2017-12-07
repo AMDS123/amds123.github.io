@@ -20,3 +20,6 @@ Recent progress has been made in using attention based encoder-decoder framework
 ##### URL
 [https://arxiv.org/abs/1706.01231](https://arxiv.org/abs/1706.01231)
 
+##### PDF
+[https://arxiv.org/pdf/1706.01231](https://arxiv.org/pdf/1706.01231)
+

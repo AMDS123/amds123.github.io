@@ -20,3 +20,6 @@ A novel efficient method for extraction of object proposals is introduced. Its "
 ##### URL
 [https://arxiv.org/abs/1504.07029](https://arxiv.org/abs/1504.07029)
 
+##### PDF
+[https://arxiv.org/pdf/1504.07029](https://arxiv.org/pdf/1504.07029)
+

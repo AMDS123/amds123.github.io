@@ -20,3 +20,6 @@ Imagenet大规模视觉识别挑战（ILSVRC）是迄今为止最重要的大数
 ##### URL
 [https://arxiv.org/abs/1409.6155](https://arxiv.org/abs/1409.6155)
 
+##### PDF
+[https://arxiv.org/pdf/1409.6155](https://arxiv.org/pdf/1409.6155)
+

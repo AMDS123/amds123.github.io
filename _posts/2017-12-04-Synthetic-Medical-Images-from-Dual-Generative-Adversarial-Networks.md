@@ -20,3 +20,6 @@ Currently there is strong interest in data-driven approaches to medical image cl
 ##### URL
 [http://arxiv.org/abs/1709.01872](http://arxiv.org/abs/1709.01872)
 
+##### PDF
+[http://arxiv.org/pdf/1709.01872](http://arxiv.org/pdf/1709.01872)
+

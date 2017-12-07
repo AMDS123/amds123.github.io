@@ -20,3 +20,6 @@ This paper introduces speech-based visual question answering (VQA), the task of 
 ##### URL
 [https://arxiv.org/abs/1705.00464](https://arxiv.org/abs/1705.00464)
 
+##### PDF
+[https://arxiv.org/pdf/1705.00464](https://arxiv.org/pdf/1705.00464)
+

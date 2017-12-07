@@ -20,3 +20,6 @@ Previous models for video captioning often use the output from a specific layer 
 ##### URL
 [https://arxiv.org/abs/1611.07837](https://arxiv.org/abs/1611.07837)
 
+##### PDF
+[https://arxiv.org/pdf/1611.07837](https://arxiv.org/pdf/1611.07837)
+

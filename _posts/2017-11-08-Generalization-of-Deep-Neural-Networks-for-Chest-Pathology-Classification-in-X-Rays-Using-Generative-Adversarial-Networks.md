@@ -20,3 +20,6 @@ Medical datasets are often highly imbalanced, over representing common medical p
 ##### URL
 [https://arxiv.org/abs/1712.01636](https://arxiv.org/abs/1712.01636)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01636](https://arxiv.org/pdf/1712.01636)
+

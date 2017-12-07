@@ -20,3 +20,6 @@ In this paper we present a fast and efficient method for the reconstruction of M
 ##### URL
 [https://arxiv.org/abs/1711.11075](https://arxiv.org/abs/1711.11075)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11075](https://arxiv.org/pdf/1711.11075)
+

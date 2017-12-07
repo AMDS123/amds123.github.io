@@ -20,3 +20,6 @@ Visual question answering is fundamentally compositional in nature---a question 
 ##### URL
 [https://arxiv.org/abs/1511.02799](https://arxiv.org/abs/1511.02799)
 
+##### PDF
+[https://arxiv.org/pdf/1511.02799](https://arxiv.org/pdf/1511.02799)
+

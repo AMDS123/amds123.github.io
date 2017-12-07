@@ -20,3 +20,6 @@ In this paper, we address the basic problem of recognizing moving objects in vid
 ##### URL
 [https://arxiv.org/abs/1707.05224](https://arxiv.org/abs/1707.05224)
 
+##### PDF
+[https://arxiv.org/pdf/1707.05224](https://arxiv.org/pdf/1707.05224)
+

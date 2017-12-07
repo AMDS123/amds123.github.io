@@ -20,3 +20,6 @@ When a gravitational lens produces two or more images of a quasar's radio jet th
 ##### URL
 [https://arxiv.org/abs/astro-ph/0203012](https://arxiv.org/abs/astro-ph/0203012)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0203012](https://arxiv.org/pdf/astro-ph/0203012)
+

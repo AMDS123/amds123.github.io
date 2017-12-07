@@ -20,3 +20,6 @@ In this paper we present a word spotting system in text lines for offline Indic 
 ##### URL
 [http://arxiv.org/abs/1712.01434](http://arxiv.org/abs/1712.01434)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01434](http://arxiv.org/pdf/1712.01434)
+

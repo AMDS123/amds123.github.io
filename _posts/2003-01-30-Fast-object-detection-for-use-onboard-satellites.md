@@ -20,3 +20,6 @@ We propose an object detection algorithm which is efficient and fast enough to b
 ##### URL
 [https://arxiv.org/abs/astro-ph/0301611](https://arxiv.org/abs/astro-ph/0301611)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0301611](https://arxiv.org/pdf/astro-ph/0301611)
+

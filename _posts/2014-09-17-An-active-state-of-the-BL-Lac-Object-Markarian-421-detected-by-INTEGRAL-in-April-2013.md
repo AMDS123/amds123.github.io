@@ -20,3 +20,6 @@ Multiwavelength variability of blazars offers indirect insight into their powerf
 ##### URL
 [https://arxiv.org/abs/1307.0558](https://arxiv.org/abs/1307.0558)
 
+##### PDF
+[https://arxiv.org/pdf/1307.0558](https://arxiv.org/pdf/1307.0558)
+

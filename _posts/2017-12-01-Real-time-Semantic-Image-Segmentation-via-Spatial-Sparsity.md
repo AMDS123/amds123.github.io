@@ -20,3 +20,6 @@ We propose an approach to semantic (image) segmentation that reduces the computa
 ##### URL
 [https://arxiv.org/abs/1712.00213](https://arxiv.org/abs/1712.00213)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00213](https://arxiv.org/pdf/1712.00213)
+

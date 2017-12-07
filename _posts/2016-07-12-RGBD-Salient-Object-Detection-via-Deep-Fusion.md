@@ -20,3 +20,6 @@ Numerous efforts have been made to design different low level saliency cues for 
 ##### URL
 [https://arxiv.org/abs/1607.03333](https://arxiv.org/abs/1607.03333)
 
+##### PDF
+[https://arxiv.org/pdf/1607.03333](https://arxiv.org/pdf/1607.03333)
+

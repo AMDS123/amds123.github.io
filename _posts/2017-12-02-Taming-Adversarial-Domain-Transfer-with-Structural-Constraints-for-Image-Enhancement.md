@@ -20,3 +20,6 @@ The goal of this work is to clarify images of traffic scenes that are degraded b
 ##### URL
 [http://arxiv.org/abs/1712.00598](http://arxiv.org/abs/1712.00598)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00598](http://arxiv.org/pdf/1712.00598)
+

@@ -20,3 +20,6 @@ Top-down saliency models produce a probability map that peaks at target location
 ##### URL
 [https://arxiv.org/abs/1611.05345](https://arxiv.org/abs/1611.05345)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05345](https://arxiv.org/pdf/1611.05345)
+

@@ -20,3 +20,6 @@ Training of neural machine translation (NMT) models usually uses mini-batches fo
 ##### URL
 [https://arxiv.org/abs/1706.05765](https://arxiv.org/abs/1706.05765)
 
+##### PDF
+[https://arxiv.org/pdf/1706.05765](https://arxiv.org/pdf/1706.05765)
+

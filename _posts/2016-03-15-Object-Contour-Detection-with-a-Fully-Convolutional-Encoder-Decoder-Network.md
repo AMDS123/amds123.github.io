@@ -20,3 +20,6 @@ We develop a deep learning algorithm for contour detection with a fully convolut
 ##### URL
 [https://arxiv.org/abs/1603.04530](https://arxiv.org/abs/1603.04530)
 
+##### PDF
+[https://arxiv.org/pdf/1603.04530](https://arxiv.org/pdf/1603.04530)
+

@@ -20,3 +20,6 @@ We present a simple approach based on pixel-wise nearest neighbors to understand
 ##### URL
 [https://arxiv.org/abs/1711.10683](https://arxiv.org/abs/1711.10683)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10683](https://arxiv.org/pdf/1711.10683)
+

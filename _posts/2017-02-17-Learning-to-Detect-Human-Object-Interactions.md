@@ -20,3 +20,6 @@ In this paper we study the problem of detecting human-object interactions (HOI) 
 ##### URL
 [https://arxiv.org/abs/1702.05448](https://arxiv.org/abs/1702.05448)
 
+##### PDF
+[https://arxiv.org/pdf/1702.05448](https://arxiv.org/pdf/1702.05448)
+

@@ -20,3 +20,6 @@ Sequence-to-sequence models have shown promising improvements on the temporal ta
 ##### URL
 [https://arxiv.org/abs/1708.02300](https://arxiv.org/abs/1708.02300)
 
+##### PDF
+[https://arxiv.org/pdf/1708.02300](https://arxiv.org/pdf/1708.02300)
+

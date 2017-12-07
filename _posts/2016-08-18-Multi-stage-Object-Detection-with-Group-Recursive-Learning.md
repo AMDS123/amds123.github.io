@@ -20,3 +20,6 @@ Most of existing detection pipelines treat object proposals independently and pr
 ##### URL
 [https://arxiv.org/abs/1608.05159](https://arxiv.org/abs/1608.05159)
 
+##### PDF
+[https://arxiv.org/pdf/1608.05159](https://arxiv.org/pdf/1608.05159)
+

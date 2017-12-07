@@ -20,3 +20,6 @@ In this paper, we address the task of detecting semantic parts on partially occl
 ##### URL
 [https://arxiv.org/abs/1707.07819](https://arxiv.org/abs/1707.07819)
 
+##### PDF
+[https://arxiv.org/pdf/1707.07819](https://arxiv.org/pdf/1707.07819)
+

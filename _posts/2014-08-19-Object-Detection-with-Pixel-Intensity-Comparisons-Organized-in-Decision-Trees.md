@@ -20,3 +20,6 @@ We describe a method for visual object detection based on an ensemble of optimiz
 ##### URL
 [https://arxiv.org/abs/1305.4537](https://arxiv.org/abs/1305.4537)
 
+##### PDF
+[https://arxiv.org/pdf/1305.4537](https://arxiv.org/pdf/1305.4537)
+

@@ -20,3 +20,6 @@ In contrast with traditional video, panoramic video enables spherical viewing di
 ##### URL
 [https://arxiv.org/abs/1709.06342](https://arxiv.org/abs/1709.06342)
 
+##### PDF
+[https://arxiv.org/pdf/1709.06342](https://arxiv.org/pdf/1709.06342)
+

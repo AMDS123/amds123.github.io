@@ -20,3 +20,6 @@ Recently it has been shown that policy-gradient methods for reinforcement learni
 ##### URL
 [https://arxiv.org/abs/1612.00563](https://arxiv.org/abs/1612.00563)
 
+##### PDF
+[https://arxiv.org/pdf/1612.00563](https://arxiv.org/pdf/1612.00563)
+

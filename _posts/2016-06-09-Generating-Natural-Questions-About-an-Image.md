@@ -20,3 +20,6 @@ There has been an explosion of work in the vision & language community during th
 ##### URL
 [https://arxiv.org/abs/1603.06059](https://arxiv.org/abs/1603.06059)
 
+##### PDF
+[https://arxiv.org/pdf/1603.06059](https://arxiv.org/pdf/1603.06059)
+

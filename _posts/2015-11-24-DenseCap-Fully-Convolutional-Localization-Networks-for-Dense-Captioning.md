@@ -20,3 +20,6 @@ We introduce the dense captioning task, which requires a computer vision system 
 ##### URL
 [https://arxiv.org/abs/1511.07571](https://arxiv.org/abs/1511.07571)
 
+##### PDF
+[https://arxiv.org/pdf/1511.07571](https://arxiv.org/pdf/1511.07571)
+

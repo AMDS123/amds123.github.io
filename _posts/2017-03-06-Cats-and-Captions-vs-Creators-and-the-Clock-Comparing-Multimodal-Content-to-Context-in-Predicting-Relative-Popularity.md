@@ -20,3 +20,6 @@ The content of today's social media is becoming more and more rich, increasingly
 ##### URL
 [https://arxiv.org/abs/1703.01725](https://arxiv.org/abs/1703.01725)
 
+##### PDF
+[https://arxiv.org/pdf/1703.01725](https://arxiv.org/pdf/1703.01725)
+

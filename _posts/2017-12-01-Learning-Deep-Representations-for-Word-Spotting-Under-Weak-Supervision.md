@@ -20,3 +20,6 @@ Convolutional Neural Networks have made their mark in various fields of computer
 ##### URL
 [https://arxiv.org/abs/1712.00250](https://arxiv.org/abs/1712.00250)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00250](https://arxiv.org/pdf/1712.00250)
+

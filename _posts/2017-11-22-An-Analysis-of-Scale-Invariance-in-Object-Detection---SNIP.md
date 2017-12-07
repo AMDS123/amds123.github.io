@@ -20,3 +20,6 @@ An analysis of different techniques for recognizing and detecting objects under 
 ##### URL
 [https://arxiv.org/abs/1711.08189](https://arxiv.org/abs/1711.08189)
 
+##### PDF
+[https://arxiv.org/pdf/1711.08189](https://arxiv.org/pdf/1711.08189)
+

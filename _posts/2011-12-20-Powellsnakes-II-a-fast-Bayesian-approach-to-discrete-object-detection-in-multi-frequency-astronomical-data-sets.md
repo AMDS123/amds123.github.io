@@ -20,3 +20,6 @@ Powellsnakes是一种用于检测嵌入在漫反射背景中的紧凑物体的�
 ##### URL
 [https://arxiv.org/abs/1112.4886](https://arxiv.org/abs/1112.4886)
 
+##### PDF
+[https://arxiv.org/pdf/1112.4886](https://arxiv.org/pdf/1112.4886)
+

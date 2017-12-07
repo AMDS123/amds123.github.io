@@ -20,3 +20,6 @@ This paper introduces the first minimal solvers that jointly solve for affine-re
 ##### URL
 [https://arxiv.org/abs/1711.11339](https://arxiv.org/abs/1711.11339)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11339](https://arxiv.org/pdf/1711.11339)
+

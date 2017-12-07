@@ -20,3 +20,6 @@ Learning image representations with ConvNets by pre-training on ImageNet has pro
 ##### URL
 [https://arxiv.org/abs/1708.05038](https://arxiv.org/abs/1708.05038)
 
+##### PDF
+[https://arxiv.org/pdf/1708.05038](https://arxiv.org/pdf/1708.05038)
+

@@ -20,3 +20,6 @@ We describe a system to automatically filter clinically significant findings fro
 ##### URL
 [http://arxiv.org/abs/1711.09313](http://arxiv.org/abs/1711.09313)
 
+##### PDF
+[http://arxiv.org/pdf/1711.09313](http://arxiv.org/pdf/1711.09313)
+

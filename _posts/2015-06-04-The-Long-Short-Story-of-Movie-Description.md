@@ -20,3 +20,6 @@ Generating descriptions for videos has many applications including assisting bli
 ##### URL
 [https://arxiv.org/abs/1506.01698](https://arxiv.org/abs/1506.01698)
 
+##### PDF
+[https://arxiv.org/pdf/1506.01698](https://arxiv.org/pdf/1506.01698)
+

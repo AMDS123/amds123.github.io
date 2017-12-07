@@ -20,3 +20,6 @@ Blind gain and phase calibration (BGPC) is a bilinear inverse problem involving 
 ##### URL
 [https://arxiv.org/abs/1712.00111](https://arxiv.org/abs/1712.00111)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00111](https://arxiv.org/pdf/1712.00111)
+

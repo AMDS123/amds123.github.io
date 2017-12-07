@@ -20,3 +20,6 @@ We introduce ParlAI (pronounced "par-lay"), an open-source software platform for
 ##### URL
 [https://arxiv.org/abs/1705.06476](https://arxiv.org/abs/1705.06476)
 
+##### PDF
+[https://arxiv.org/pdf/1705.06476](https://arxiv.org/pdf/1705.06476)
+

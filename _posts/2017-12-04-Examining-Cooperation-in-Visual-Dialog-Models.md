@@ -20,3 +20,6 @@ In this work we propose a blackbox intervention method for visual dialog models,
 ##### URL
 [http://arxiv.org/abs/1712.01329](http://arxiv.org/abs/1712.01329)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01329](http://arxiv.org/pdf/1712.01329)
+

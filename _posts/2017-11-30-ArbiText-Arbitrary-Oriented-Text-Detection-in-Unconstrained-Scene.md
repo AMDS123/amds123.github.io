@@ -20,3 +20,6 @@ Arbitrary-oriented text detection in the wild is a very challenging task, due to
 ##### URL
 [https://arxiv.org/abs/1711.11249](https://arxiv.org/abs/1711.11249)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11249](https://arxiv.org/pdf/1711.11249)
+

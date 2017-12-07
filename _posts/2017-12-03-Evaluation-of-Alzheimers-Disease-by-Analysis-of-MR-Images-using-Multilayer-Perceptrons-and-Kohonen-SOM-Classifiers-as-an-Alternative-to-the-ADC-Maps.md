@@ -20,3 +20,6 @@ Alzheimer's disease is the most common cause of dementia, yet hard to diagnose p
 ##### URL
 [http://arxiv.org/abs/1712.00712](http://arxiv.org/abs/1712.00712)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00712](http://arxiv.org/pdf/1712.00712)
+

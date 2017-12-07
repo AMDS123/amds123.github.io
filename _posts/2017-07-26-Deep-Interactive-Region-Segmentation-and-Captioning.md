@@ -20,3 +20,6 @@ With recent innovations in dense image captioning, it is now possible to describ
 ##### URL
 [https://arxiv.org/abs/1707.08364](https://arxiv.org/abs/1707.08364)
 
+##### PDF
+[https://arxiv.org/pdf/1707.08364](https://arxiv.org/pdf/1707.08364)
+

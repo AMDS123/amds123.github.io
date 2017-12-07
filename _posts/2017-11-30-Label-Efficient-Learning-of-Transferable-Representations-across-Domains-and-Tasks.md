@@ -20,3 +20,6 @@ We propose a framework that learns a representation transferable across differen
 ##### URL
 [https://arxiv.org/abs/1712.00123](https://arxiv.org/abs/1712.00123)
 
+##### PDF
+[https://arxiv.org/pdf/1712.00123](https://arxiv.org/pdf/1712.00123)
+

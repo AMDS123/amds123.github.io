@@ -20,3 +20,6 @@ Weakly supervised object detection (WSOD), which is the problem of learning dete
 ##### URL
 [https://arxiv.org/abs/1706.06768](https://arxiv.org/abs/1706.06768)
 
+##### PDF
+[https://arxiv.org/pdf/1706.06768](https://arxiv.org/pdf/1706.06768)
+

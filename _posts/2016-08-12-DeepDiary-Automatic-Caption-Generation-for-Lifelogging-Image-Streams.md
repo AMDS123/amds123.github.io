@@ -20,3 +20,6 @@ Lifelogging cameras capture everyday life from a first-person perspective, but g
 ##### URL
 [https://arxiv.org/abs/1608.03819](https://arxiv.org/abs/1608.03819)
 
+##### PDF
+[https://arxiv.org/pdf/1608.03819](https://arxiv.org/pdf/1608.03819)
+

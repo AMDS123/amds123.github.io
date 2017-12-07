@@ -20,3 +20,6 @@ We consider the gravitational magnification of light for binary systems containi
 ##### URL
 [https://arxiv.org/abs/astro-ph/0208095](https://arxiv.org/abs/astro-ph/0208095)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0208095](https://arxiv.org/pdf/astro-ph/0208095)
+

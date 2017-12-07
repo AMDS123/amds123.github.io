@@ -20,3 +20,6 @@ In this paper, we propose a simple but effective method for fast image segmentat
 ##### URL
 [http://arxiv.org/abs/1702.05650](http://arxiv.org/abs/1702.05650)
 
+##### PDF
+[http://arxiv.org/pdf/1702.05650](http://arxiv.org/pdf/1702.05650)
+

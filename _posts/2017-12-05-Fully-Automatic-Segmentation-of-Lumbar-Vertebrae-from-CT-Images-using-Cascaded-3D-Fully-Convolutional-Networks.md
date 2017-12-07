@@ -20,3 +20,6 @@ We present a method to address the challenging problem of segmentation of lumbar
 ##### URL
 [http://arxiv.org/abs/1712.01509](http://arxiv.org/abs/1712.01509)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01509](http://arxiv.org/pdf/1712.01509)
+

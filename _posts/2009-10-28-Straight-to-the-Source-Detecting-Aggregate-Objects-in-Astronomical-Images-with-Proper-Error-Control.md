@@ -20,3 +20,6 @@ The next generation of telescopes will acquire terabytes of image data on a nigh
 ##### URL
 [https://arxiv.org/abs/0910.5449](https://arxiv.org/abs/0910.5449)
 
+##### PDF
+[https://arxiv.org/pdf/0910.5449](https://arxiv.org/pdf/0910.5449)
+

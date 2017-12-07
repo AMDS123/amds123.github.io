@@ -20,3 +20,6 @@ Policy-gradient approaches to reinforcement learning have two common and undesir
 ##### URL
 [https://arxiv.org/abs/1709.09346](https://arxiv.org/abs/1709.09346)
 
+##### PDF
+[https://arxiv.org/pdf/1709.09346](https://arxiv.org/pdf/1709.09346)
+

@@ -20,3 +20,6 @@ We present a general framework and method for simultaneous detection and segment
 ##### URL
 [https://arxiv.org/abs/1605.07369](https://arxiv.org/abs/1605.07369)
 
+##### PDF
+[https://arxiv.org/pdf/1605.07369](https://arxiv.org/pdf/1605.07369)
+

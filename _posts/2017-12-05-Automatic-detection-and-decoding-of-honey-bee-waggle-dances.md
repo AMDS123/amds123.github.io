@@ -20,3 +20,6 @@ The waggle dance is one of the most popular examples of animal communication. Fo
 ##### URL
 [http://arxiv.org/abs/1708.06590](http://arxiv.org/abs/1708.06590)
 
+##### PDF
+[http://arxiv.org/pdf/1708.06590](http://arxiv.org/pdf/1708.06590)
+

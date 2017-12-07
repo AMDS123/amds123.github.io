@@ -20,3 +20,6 @@ With the rapid development of Remote Sensing acquisition techniques, there is a 
 ##### URL
 [https://arxiv.org/abs/1712.01600](https://arxiv.org/abs/1712.01600)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01600](https://arxiv.org/pdf/1712.01600)
+

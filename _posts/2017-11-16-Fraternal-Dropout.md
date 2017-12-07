@@ -20,3 +20,6 @@ Recurrent neural networks (RNNs) are important class of architectures among neur
 ##### URL
 [https://arxiv.org/abs/1711.00066](https://arxiv.org/abs/1711.00066)
 
+##### PDF
+[https://arxiv.org/pdf/1711.00066](https://arxiv.org/pdf/1711.00066)
+

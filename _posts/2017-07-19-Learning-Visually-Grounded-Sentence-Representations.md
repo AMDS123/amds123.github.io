@@ -20,3 +20,6 @@ We introduce a variety of models, trained on a supervised image captioning corpu
 ##### URL
 [https://arxiv.org/abs/1707.06320](https://arxiv.org/abs/1707.06320)
 
+##### PDF
+[https://arxiv.org/pdf/1707.06320](https://arxiv.org/pdf/1707.06320)
+

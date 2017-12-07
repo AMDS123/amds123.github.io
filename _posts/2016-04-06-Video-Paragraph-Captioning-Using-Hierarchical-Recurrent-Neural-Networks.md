@@ -20,3 +20,6 @@ We present an approach that exploits hierarchical Recurrent Neural Networks (RNN
 ##### URL
 [https://arxiv.org/abs/1510.07712](https://arxiv.org/abs/1510.07712)
 
+##### PDF
+[https://arxiv.org/pdf/1510.07712](https://arxiv.org/pdf/1510.07712)
+

@@ -20,3 +20,6 @@ Supermassive black holes at centers of clusters of galaxies strongly interact wi
 ##### URL
 [http://arxiv.org/abs/1712.00523](http://arxiv.org/abs/1712.00523)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00523](http://arxiv.org/pdf/1712.00523)
+

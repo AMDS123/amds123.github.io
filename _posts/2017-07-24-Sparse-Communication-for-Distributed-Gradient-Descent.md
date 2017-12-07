@@ -20,3 +20,6 @@ We make distributed stochastic gradient descent faster by exchanging sparse upda
 ##### URL
 [https://arxiv.org/abs/1704.05021](https://arxiv.org/abs/1704.05021)
 
+##### PDF
+[https://arxiv.org/pdf/1704.05021](https://arxiv.org/pdf/1704.05021)
+

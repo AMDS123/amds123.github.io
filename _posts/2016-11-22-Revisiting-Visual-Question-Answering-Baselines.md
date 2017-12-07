@@ -20,3 +20,6 @@ Visual question answering (VQA) is an interesting learning setting for evaluatin
 ##### URL
 [https://arxiv.org/abs/1606.08390](https://arxiv.org/abs/1606.08390)
 
+##### PDF
+[https://arxiv.org/pdf/1606.08390](https://arxiv.org/pdf/1606.08390)
+

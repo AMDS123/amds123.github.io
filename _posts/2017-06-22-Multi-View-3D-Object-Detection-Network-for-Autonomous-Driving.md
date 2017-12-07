@@ -20,3 +20,6 @@ This paper aims at high-accuracy 3D object detection in autonomous driving scena
 ##### URL
 [https://arxiv.org/abs/1611.07759](https://arxiv.org/abs/1611.07759)
 
+##### PDF
+[https://arxiv.org/pdf/1611.07759](https://arxiv.org/pdf/1611.07759)
+

@@ -20,3 +20,6 @@ We present a new technique for learning visual-semantic embeddings for cross-mod
 ##### URL
 [https://arxiv.org/abs/1707.05612](https://arxiv.org/abs/1707.05612)
 
+##### PDF
+[https://arxiv.org/pdf/1707.05612](https://arxiv.org/pdf/1707.05612)
+

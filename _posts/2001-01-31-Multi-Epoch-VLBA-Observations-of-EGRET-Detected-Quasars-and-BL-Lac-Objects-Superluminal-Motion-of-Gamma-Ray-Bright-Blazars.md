@@ -20,3 +20,6 @@ We present the results of a program to monitor the structure of the radio emissi
 ##### URL
 [https://arxiv.org/abs/astro-ph/0101570](https://arxiv.org/abs/astro-ph/0101570)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0101570](https://arxiv.org/pdf/astro-ph/0101570)
+

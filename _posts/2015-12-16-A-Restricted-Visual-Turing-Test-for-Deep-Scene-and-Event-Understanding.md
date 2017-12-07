@@ -20,3 +20,6 @@ This paper presents a restricted visual Turing test (VTT) for story-line based d
 ##### URL
 [https://arxiv.org/abs/1512.01715](https://arxiv.org/abs/1512.01715)
 
+##### PDF
+[https://arxiv.org/pdf/1512.01715](https://arxiv.org/pdf/1512.01715)
+

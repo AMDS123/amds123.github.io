@@ -20,3 +20,6 @@ In this work we formulate the problem of image captioning as a multimodal transl
 ##### URL
 [https://arxiv.org/abs/1702.05658](https://arxiv.org/abs/1702.05658)
 
+##### PDF
+[https://arxiv.org/pdf/1702.05658](https://arxiv.org/pdf/1702.05658)
+

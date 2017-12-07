@@ -20,3 +20,6 @@ It is unknown what kind of biases modern in the wild face datasets have because 
 ##### URL
 [https://arxiv.org/abs/1712.01619](https://arxiv.org/abs/1712.01619)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01619](https://arxiv.org/pdf/1712.01619)
+

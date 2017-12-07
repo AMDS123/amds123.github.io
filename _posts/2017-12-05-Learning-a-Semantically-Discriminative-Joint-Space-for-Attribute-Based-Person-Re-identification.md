@@ -20,3 +20,6 @@ Attribute based person re-identification (Re-ID) aims to search persons in large
 ##### URL
 [http://arxiv.org/abs/1712.01493](http://arxiv.org/abs/1712.01493)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01493](http://arxiv.org/pdf/1712.01493)
+

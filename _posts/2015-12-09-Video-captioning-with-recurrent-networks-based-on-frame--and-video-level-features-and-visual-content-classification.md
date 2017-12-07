@@ -20,3 +20,6 @@ In this paper, we describe the system for generating textual descriptions of sho
 ##### URL
 [https://arxiv.org/abs/1512.02949](https://arxiv.org/abs/1512.02949)
 
+##### PDF
+[https://arxiv.org/pdf/1512.02949](https://arxiv.org/pdf/1512.02949)
+

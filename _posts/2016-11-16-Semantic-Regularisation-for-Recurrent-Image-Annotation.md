@@ -20,3 +20,6 @@ The "CNN-RNN" design pattern is increasingly widely applied in a variety of imag
 ##### URL
 [https://arxiv.org/abs/1611.05490](https://arxiv.org/abs/1611.05490)
 
+##### PDF
+[https://arxiv.org/pdf/1611.05490](https://arxiv.org/pdf/1611.05490)
+

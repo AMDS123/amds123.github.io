@@ -20,3 +20,6 @@ This paper addresses the challenge of establishing a bridge between deep convolu
 ##### URL
 [https://arxiv.org/abs/1404.4316](https://arxiv.org/abs/1404.4316)
 
+##### PDF
+[https://arxiv.org/pdf/1404.4316](https://arxiv.org/pdf/1404.4316)
+

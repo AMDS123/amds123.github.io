@@ -20,3 +20,6 @@ This paper presents a co-salient object detection method to find common salient 
 ##### URL
 [https://arxiv.org/abs/1706.09650](https://arxiv.org/abs/1706.09650)
 
+##### PDF
+[https://arxiv.org/pdf/1706.09650](https://arxiv.org/pdf/1706.09650)
+

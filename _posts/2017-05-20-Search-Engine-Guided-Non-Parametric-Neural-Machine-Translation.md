@@ -20,3 +20,6 @@ In this paper, we extend an attention-based neural machine translation (NMT) mod
 ##### URL
 [https://arxiv.org/abs/1705.07267](https://arxiv.org/abs/1705.07267)
 
+##### PDF
+[https://arxiv.org/pdf/1705.07267](https://arxiv.org/pdf/1705.07267)
+

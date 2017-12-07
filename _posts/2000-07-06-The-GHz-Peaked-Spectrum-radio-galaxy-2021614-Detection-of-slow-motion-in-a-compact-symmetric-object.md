@@ -20,3 +20,6 @@ We have analysed VSOP (VLBI Space Observatory Programme) data at 5 GHz and groun
 ##### URL
 [https://arxiv.org/abs/astro-ph/0007068](https://arxiv.org/abs/astro-ph/0007068)
 
+##### PDF
+[https://arxiv.org/pdf/astro-ph/0007068](https://arxiv.org/pdf/astro-ph/0007068)
+

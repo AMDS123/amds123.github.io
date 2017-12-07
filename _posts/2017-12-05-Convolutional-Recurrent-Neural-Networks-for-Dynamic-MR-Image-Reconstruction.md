@@ -20,3 +20,6 @@ Accelerating the data acquisition of dynamic magnetic resonance imaging (MRI) le
 ##### URL
 [https://arxiv.org/abs/1712.01751](https://arxiv.org/abs/1712.01751)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01751](https://arxiv.org/pdf/1712.01751)
+

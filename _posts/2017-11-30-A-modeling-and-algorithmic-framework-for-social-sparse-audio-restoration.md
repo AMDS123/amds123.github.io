@@ -20,3 +20,6 @@ We propose a unified modeling and algorithmic framework for audio restoration pr
 ##### URL
 [https://arxiv.org/abs/1711.11259](https://arxiv.org/abs/1711.11259)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11259](https://arxiv.org/pdf/1711.11259)
+

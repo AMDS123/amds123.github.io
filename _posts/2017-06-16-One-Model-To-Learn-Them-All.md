@@ -20,3 +20,6 @@ Deep learning yields great results across many fields, from speech recognition, 
 ##### URL
 [https://arxiv.org/abs/1706.05137](https://arxiv.org/abs/1706.05137)
 
+##### PDF
+[https://arxiv.org/pdf/1706.05137](https://arxiv.org/pdf/1706.05137)
+

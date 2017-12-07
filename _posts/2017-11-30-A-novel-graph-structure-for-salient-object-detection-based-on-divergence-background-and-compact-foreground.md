@@ -20,3 +20,6 @@ In this paper, we propose an efficient and discriminative model for salient obje
 ##### URL
 [https://arxiv.org/abs/1711.11266](https://arxiv.org/abs/1711.11266)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11266](https://arxiv.org/pdf/1711.11266)
+

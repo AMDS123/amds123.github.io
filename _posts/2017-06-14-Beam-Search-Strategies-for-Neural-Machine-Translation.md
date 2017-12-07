@@ -20,3 +20,6 @@ The basic concept in Neural Machine Translation (NMT) is to train a large Neural
 ##### URL
 [https://arxiv.org/abs/1702.01806](https://arxiv.org/abs/1702.01806)
 
+##### PDF
+[https://arxiv.org/pdf/1702.01806](https://arxiv.org/pdf/1702.01806)
+

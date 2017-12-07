@@ -20,3 +20,6 @@ The circumstellar environments of objects on the asymptotic giant branch and bey
 ##### URL
 [https://arxiv.org/abs/1706.08254](https://arxiv.org/abs/1706.08254)
 
+##### PDF
+[https://arxiv.org/pdf/1706.08254](https://arxiv.org/pdf/1706.08254)
+

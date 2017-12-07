@@ -20,3 +20,6 @@ Classical deep convolutional networks increase receptive field size by either gr
 ##### URL
 [https://arxiv.org/abs/1711.11473](https://arxiv.org/abs/1711.11473)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11473](https://arxiv.org/pdf/1711.11473)
+

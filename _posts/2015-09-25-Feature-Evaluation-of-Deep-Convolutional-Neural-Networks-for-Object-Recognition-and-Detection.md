@@ -20,3 +20,6 @@ In this paper, we evaluate convolutional neural network (CNN) features using the
 ##### URL
 [https://arxiv.org/abs/1509.07627](https://arxiv.org/abs/1509.07627)
 
+##### PDF
+[https://arxiv.org/pdf/1509.07627](https://arxiv.org/pdf/1509.07627)
+

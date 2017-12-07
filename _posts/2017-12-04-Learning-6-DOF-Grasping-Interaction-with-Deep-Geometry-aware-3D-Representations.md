@@ -20,3 +20,6 @@ This paper focuses on the problem of learning 6-DOF grasping with a parallel jaw
 ##### URL
 [http://arxiv.org/abs/1708.07303](http://arxiv.org/abs/1708.07303)
 
+##### PDF
+[http://arxiv.org/pdf/1708.07303](http://arxiv.org/pdf/1708.07303)
+

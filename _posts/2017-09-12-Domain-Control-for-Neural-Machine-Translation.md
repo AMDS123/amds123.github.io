@@ -20,3 +20,6 @@ Machine translation systems are very sensitive to the domains they were trained 
 ##### URL
 [https://arxiv.org/abs/1612.06140](https://arxiv.org/abs/1612.06140)
 
+##### PDF
+[https://arxiv.org/pdf/1612.06140](https://arxiv.org/pdf/1612.06140)
+

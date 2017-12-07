@@ -20,3 +20,6 @@ We present a new method for synthesizing high-resolution photo-realistic images 
 ##### URL
 [https://arxiv.org/abs/1711.11585](https://arxiv.org/abs/1711.11585)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11585](https://arxiv.org/pdf/1711.11585)
+

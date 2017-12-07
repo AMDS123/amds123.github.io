@@ -20,3 +20,6 @@ Approximate nearest neighbor (ANN) search has achieved great success in many tas
 ##### URL
 [https://arxiv.org/abs/1711.10775](https://arxiv.org/abs/1711.10775)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10775](https://arxiv.org/pdf/1711.10775)
+

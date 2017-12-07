@@ -20,3 +20,6 @@ In this paper, we propose a novel and elegant solution to "Multi-Source Neural M
 ##### URL
 [https://arxiv.org/abs/1702.06135](https://arxiv.org/abs/1702.06135)
 
+##### PDF
+[https://arxiv.org/pdf/1702.06135](https://arxiv.org/pdf/1702.06135)
+

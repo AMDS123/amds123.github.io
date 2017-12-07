@@ -20,3 +20,6 @@ We present our preliminary work to determine if patient's vocal acoustic, lingui
 ##### URL
 [https://arxiv.org/abs/1711.11155](https://arxiv.org/abs/1711.11155)
 
+##### PDF
+[https://arxiv.org/pdf/1711.11155](https://arxiv.org/pdf/1711.11155)
+

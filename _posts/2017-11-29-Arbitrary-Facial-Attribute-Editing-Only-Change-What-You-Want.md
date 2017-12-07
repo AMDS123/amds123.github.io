@@ -20,3 +20,6 @@ Facial attribute editing aims to modify either single or multiple attributes on 
 ##### URL
 [https://arxiv.org/abs/1711.10678](https://arxiv.org/abs/1711.10678)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10678](https://arxiv.org/pdf/1711.10678)
+

@@ -20,3 +20,6 @@ Inertial sensors are present in most mobile devices nowadays and such devices ar
 ##### URL
 [http://arxiv.org/abs/1712.01429](http://arxiv.org/abs/1712.01429)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01429](http://arxiv.org/pdf/1712.01429)
+

@@ -20,3 +20,6 @@ We present an approach to training neural networks to generate sequences using a
 ##### URL
 [https://arxiv.org/abs/1607.07086](https://arxiv.org/abs/1607.07086)
 
+##### PDF
+[https://arxiv.org/pdf/1607.07086](https://arxiv.org/pdf/1607.07086)
+

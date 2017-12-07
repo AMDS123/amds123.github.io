@@ -20,3 +20,6 @@ As an initial assessment, over 480,000 labeled virtual images of normal highway 
 ##### URL
 [http://arxiv.org/abs/1712.01397](http://arxiv.org/abs/1712.01397)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01397](http://arxiv.org/pdf/1712.01397)
+

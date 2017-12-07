@@ -20,3 +20,6 @@ Recent work in computer vision has yielded impressive results in automatically d
 ##### URL
 [https://arxiv.org/abs/1706.06275](https://arxiv.org/abs/1706.06275)
 
+##### PDF
+[https://arxiv.org/pdf/1706.06275](https://arxiv.org/pdf/1706.06275)
+

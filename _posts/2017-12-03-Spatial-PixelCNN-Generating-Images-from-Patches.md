@@ -20,3 +20,6 @@ In this paper we propose Spatial PixelCNN, a conditional autoregressive model th
 ##### URL
 [http://arxiv.org/abs/1712.00714](http://arxiv.org/abs/1712.00714)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00714](http://arxiv.org/pdf/1712.00714)
+

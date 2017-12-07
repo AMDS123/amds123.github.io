@@ -20,3 +20,6 @@ Social event detection in a static image is a very challenging problem and it's 
 ##### URL
 [https://arxiv.org/abs/1612.04062](https://arxiv.org/abs/1612.04062)
 
+##### PDF
+[https://arxiv.org/pdf/1612.04062](https://arxiv.org/pdf/1612.04062)
+

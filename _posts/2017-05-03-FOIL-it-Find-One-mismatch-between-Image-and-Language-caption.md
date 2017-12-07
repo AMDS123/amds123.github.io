@@ -20,3 +20,6 @@ In this paper, we aim to understand whether current language and vision (LaVi) m
 ##### URL
 [https://arxiv.org/abs/1705.01359](https://arxiv.org/abs/1705.01359)
 
+##### PDF
+[https://arxiv.org/pdf/1705.01359](https://arxiv.org/pdf/1705.01359)
+

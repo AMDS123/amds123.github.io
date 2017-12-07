@@ -20,3 +20,6 @@ Generating natural language descriptions of images is an important capability fo
 ##### URL
 [https://arxiv.org/abs/1706.09601](https://arxiv.org/abs/1706.09601)
 
+##### PDF
+[https://arxiv.org/pdf/1706.09601](https://arxiv.org/pdf/1706.09601)
+

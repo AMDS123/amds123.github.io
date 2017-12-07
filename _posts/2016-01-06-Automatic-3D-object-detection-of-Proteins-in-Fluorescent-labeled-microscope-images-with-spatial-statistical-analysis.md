@@ -20,3 +20,6 @@ Since manual object detection is very inaccurate and time consuming, some automa
 ##### URL
 [https://arxiv.org/abs/1601.01216](https://arxiv.org/abs/1601.01216)
 
+##### PDF
+[https://arxiv.org/pdf/1601.01216](https://arxiv.org/pdf/1601.01216)
+

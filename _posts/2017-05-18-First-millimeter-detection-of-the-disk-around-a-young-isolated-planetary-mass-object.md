@@ -20,3 +20,6 @@ OTS44是已知有四个自由浮动行星之一。我们之前已经表明，这
 ##### URL
 [https://arxiv.org/abs/1705.06378](https://arxiv.org/abs/1705.06378)
 
+##### PDF
+[https://arxiv.org/pdf/1705.06378](https://arxiv.org/pdf/1705.06378)
+

@@ -20,3 +20,6 @@ In this paper, we study a new learning paradigm for Neural Machine Translation (
 ##### URL
 [https://arxiv.org/abs/1704.06933](https://arxiv.org/abs/1704.06933)
 
+##### PDF
+[https://arxiv.org/pdf/1704.06933](https://arxiv.org/pdf/1704.06933)
+

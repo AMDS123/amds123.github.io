@@ -20,3 +20,6 @@ Video caption refers to generating a descriptive sentence for a specific short v
 ##### URL
 [https://arxiv.org/abs/1711.08097](https://arxiv.org/abs/1711.08097)
 
+##### PDF
+[https://arxiv.org/pdf/1711.08097](https://arxiv.org/pdf/1711.08097)
+

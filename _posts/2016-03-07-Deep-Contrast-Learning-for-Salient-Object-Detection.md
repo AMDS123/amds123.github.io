@@ -20,3 +20,6 @@ Salient object detection has recently witnessed substantial progress due to powe
 ##### URL
 [https://arxiv.org/abs/1603.01976](https://arxiv.org/abs/1603.01976)
 
+##### PDF
+[https://arxiv.org/pdf/1603.01976](https://arxiv.org/pdf/1603.01976)
+

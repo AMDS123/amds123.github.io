@@ -20,3 +20,6 @@ We examine the effects of particular orderings of sentence pairs on the on-line 
 ##### URL
 [https://arxiv.org/abs/1707.09533](https://arxiv.org/abs/1707.09533)
 
+##### PDF
+[https://arxiv.org/pdf/1707.09533](https://arxiv.org/pdf/1707.09533)
+

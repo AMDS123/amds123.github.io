@@ -20,3 +20,6 @@ Image orientation detection requires high-level scene understanding. Humans use 
 ##### URL
 [http://arxiv.org/abs/1712.01195](http://arxiv.org/abs/1712.01195)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01195](http://arxiv.org/pdf/1712.01195)
+

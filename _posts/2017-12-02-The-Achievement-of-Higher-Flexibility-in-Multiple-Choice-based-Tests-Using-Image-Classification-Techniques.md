@@ -20,3 +20,6 @@ In spite of the high accuracy of the existing optical mark reading (OMR) systems
 ##### URL
 [http://arxiv.org/abs/1711.00972](http://arxiv.org/abs/1711.00972)
 
+##### PDF
+[http://arxiv.org/pdf/1711.00972](http://arxiv.org/pdf/1711.00972)
+

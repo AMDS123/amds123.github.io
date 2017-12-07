@@ -20,3 +20,6 @@ In this paper, we consider the use of prior knowledge within neural networks. In
 ##### URL
 [http://arxiv.org/abs/1712.00374](http://arxiv.org/abs/1712.00374)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00374](http://arxiv.org/pdf/1712.00374)
+

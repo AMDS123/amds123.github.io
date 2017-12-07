@@ -20,3 +20,6 @@ Neural Machine Translation (NMT), like many other deep learning domains, typical
 ##### URL
 [https://arxiv.org/abs/1606.09274](https://arxiv.org/abs/1606.09274)
 
+##### PDF
+[https://arxiv.org/pdf/1606.09274](https://arxiv.org/pdf/1606.09274)
+

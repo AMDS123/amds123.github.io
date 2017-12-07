@@ -20,3 +20,6 @@ Despite the recent success of neural networks in image feature learning, a major
 ##### URL
 [https://arxiv.org/abs/1611.09053](https://arxiv.org/abs/1611.09053)
 
+##### PDF
+[https://arxiv.org/pdf/1611.09053](https://arxiv.org/pdf/1611.09053)
+

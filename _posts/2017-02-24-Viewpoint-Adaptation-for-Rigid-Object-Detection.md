@@ -20,3 +20,6 @@ An object detector performs suboptimally when applied to image data taken from a
 ##### URL
 [https://arxiv.org/abs/1702.07451](https://arxiv.org/abs/1702.07451)
 
+##### PDF
+[https://arxiv.org/pdf/1702.07451](https://arxiv.org/pdf/1702.07451)
+

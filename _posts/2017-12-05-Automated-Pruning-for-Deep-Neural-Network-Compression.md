@@ -20,3 +20,6 @@ In this work we present a method to improve the pruning step of the current stat
 ##### URL
 [https://arxiv.org/abs/1712.01721](https://arxiv.org/abs/1712.01721)
 
+##### PDF
+[https://arxiv.org/pdf/1712.01721](https://arxiv.org/pdf/1712.01721)
+

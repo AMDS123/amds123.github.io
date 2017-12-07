@@ -20,3 +20,6 @@ This paper presents a robust multi-class multi-object tracking (MCMOT) formulate
 ##### URL
 [https://arxiv.org/abs/1608.08434](https://arxiv.org/abs/1608.08434)
 
+##### PDF
+[https://arxiv.org/pdf/1608.08434](https://arxiv.org/pdf/1608.08434)
+

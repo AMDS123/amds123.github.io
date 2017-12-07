@@ -20,3 +20,6 @@ Most 3D shape analysis methods use triangular meshes to discretize both the shap
 ##### URL
 [https://arxiv.org/abs/1711.10824](https://arxiv.org/abs/1711.10824)
 
+##### PDF
+[https://arxiv.org/pdf/1711.10824](https://arxiv.org/pdf/1711.10824)
+

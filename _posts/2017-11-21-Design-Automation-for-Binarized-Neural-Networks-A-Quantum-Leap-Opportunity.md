@@ -20,3 +20,6 @@ Design automation in general, and in particular logic synthesis, can play a key 
 ##### URL
 [http://arxiv.org/abs/1712.01743](http://arxiv.org/abs/1712.01743)
 
+##### PDF
+[http://arxiv.org/pdf/1712.01743](http://arxiv.org/pdf/1712.01743)
+

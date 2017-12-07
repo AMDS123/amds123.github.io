@@ -20,3 +20,6 @@ We present the IIT Bombay English-Hindi Parallel Corpus. The corpus is a compila
 ##### URL
 [https://arxiv.org/abs/1710.02855](https://arxiv.org/abs/1710.02855)
 
+##### PDF
+[https://arxiv.org/pdf/1710.02855](https://arxiv.org/pdf/1710.02855)
+

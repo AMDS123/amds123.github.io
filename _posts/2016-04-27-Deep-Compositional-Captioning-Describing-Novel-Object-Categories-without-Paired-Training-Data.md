@@ -20,3 +20,6 @@ While recent deep neural network models have achieved promising results on the i
 ##### URL
 [https://arxiv.org/abs/1511.05284](https://arxiv.org/abs/1511.05284)
 
+##### PDF
+[https://arxiv.org/pdf/1511.05284](https://arxiv.org/pdf/1511.05284)
+

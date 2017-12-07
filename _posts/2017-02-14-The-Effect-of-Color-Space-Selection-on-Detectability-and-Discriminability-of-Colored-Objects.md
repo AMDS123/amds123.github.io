@@ -20,3 +20,6 @@ In this paper, we investigate the effect of color space selection on detectabili
 ##### URL
 [https://arxiv.org/abs/1702.05421](https://arxiv.org/abs/1702.05421)
 
+##### PDF
+[https://arxiv.org/pdf/1702.05421](https://arxiv.org/pdf/1702.05421)
+

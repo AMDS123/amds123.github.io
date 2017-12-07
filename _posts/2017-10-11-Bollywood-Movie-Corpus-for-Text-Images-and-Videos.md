@@ -20,3 +20,6 @@ In past few years, several data-sets have been released for text and images. We 
 ##### URL
 [https://arxiv.org/abs/1710.04142](https://arxiv.org/abs/1710.04142)
 
+##### PDF
+[https://arxiv.org/pdf/1710.04142](https://arxiv.org/pdf/1710.04142)
+

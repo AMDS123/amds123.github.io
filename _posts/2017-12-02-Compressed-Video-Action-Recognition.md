@@ -20,3 +20,6 @@ Training robust deep video representations has proven to be much more challengin
 ##### URL
 [http://arxiv.org/abs/1712.00636](http://arxiv.org/abs/1712.00636)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00636](http://arxiv.org/pdf/1712.00636)
+

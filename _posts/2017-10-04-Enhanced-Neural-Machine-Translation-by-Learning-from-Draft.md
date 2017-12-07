@@ -20,3 +20,6 @@ Neural machine translation (NMT) has recently achieved impressive results. A pot
 ##### URL
 [https://arxiv.org/abs/1710.01789](https://arxiv.org/abs/1710.01789)
 
+##### PDF
+[https://arxiv.org/pdf/1710.01789](https://arxiv.org/pdf/1710.01789)
+

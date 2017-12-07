@@ -20,3 +20,6 @@ The goal of this paper is to perform 3D object detection in the context of auton
 ##### URL
 [https://arxiv.org/abs/1608.07711](https://arxiv.org/abs/1608.07711)
 
+##### PDF
+[https://arxiv.org/pdf/1608.07711](https://arxiv.org/pdf/1608.07711)
+

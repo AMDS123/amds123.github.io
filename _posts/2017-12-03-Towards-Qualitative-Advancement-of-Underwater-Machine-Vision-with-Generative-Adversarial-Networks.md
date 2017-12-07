@@ -20,3 +20,6 @@ Underwater machine vision attracts more attention, but the terrible quality proh
 ##### URL
 [http://arxiv.org/abs/1712.00736](http://arxiv.org/abs/1712.00736)
 
+##### PDF
+[http://arxiv.org/pdf/1712.00736](http://arxiv.org/pdf/1712.00736)
+

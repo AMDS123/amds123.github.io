@@ -20,3 +20,6 @@ Salient object detection has increasingly become a popular topic in cognitive an
 ##### URL
 [https://arxiv.org/abs/1705.08207](https://arxiv.org/abs/1705.08207)
 
+##### PDF
+[https://arxiv.org/pdf/1705.08207](https://arxiv.org/pdf/1705.08207)
+

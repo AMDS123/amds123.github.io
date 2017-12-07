@@ -20,3 +20,6 @@ In recent years, deep convolutional neural networks have achieved state of the a
 ##### URL
 [http://arxiv.org/abs/1604.00187](http://arxiv.org/abs/1604.00187)
 
+##### PDF
+[http://arxiv.org/pdf/1604.00187](http://arxiv.org/pdf/1604.00187)
+

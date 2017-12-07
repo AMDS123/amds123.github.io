@@ -20,3 +20,6 @@ Local spheroids show a relation between their masses and those of the super-mass
 ##### URL
 [https://arxiv.org/abs/0902.0370](https://arxiv.org/abs/0902.0370)
 
+##### PDF
+[https://arxiv.org/pdf/0902.0370](https://arxiv.org/pdf/0902.0370)
+

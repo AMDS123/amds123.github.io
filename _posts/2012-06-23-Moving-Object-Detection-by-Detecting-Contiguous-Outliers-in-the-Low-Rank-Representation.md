@@ -20,3 +20,6 @@ Object detection is a fundamental step for automated video analysis in many visi
 ##### URL
 [https://arxiv.org/abs/1109.0882](https://arxiv.org/abs/1109.0882)
 
+##### PDF
+[https://arxiv.org/pdf/1109.0882](https://arxiv.org/pdf/1109.0882)
+

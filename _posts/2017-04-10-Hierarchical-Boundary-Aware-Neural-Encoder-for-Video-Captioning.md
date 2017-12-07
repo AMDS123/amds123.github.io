@@ -20,3 +20,6 @@ The use of Recurrent Neural Networks for video captioning has recently gained a 
 ##### URL
 [https://arxiv.org/abs/1611.09312](https://arxiv.org/abs/1611.09312)
 
+##### PDF
+[https://arxiv.org/pdf/1611.09312](https://arxiv.org/pdf/1611.09312)
+

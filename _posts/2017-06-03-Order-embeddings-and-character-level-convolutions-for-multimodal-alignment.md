@@ -20,3 +20,6 @@ With the novel and fast advances in the area of deep neural networks, several ch
 ##### URL
 [https://arxiv.org/abs/1706.00999](https://arxiv.org/abs/1706.00999)
 
+##### PDF
+[https://arxiv.org/pdf/1706.00999](https://arxiv.org/pdf/1706.00999)
+

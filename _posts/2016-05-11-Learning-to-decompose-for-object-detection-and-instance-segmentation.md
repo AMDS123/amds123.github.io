@@ -20,3 +20,6 @@ Although deep convolutional neural networks(CNNs) have achieved remarkable resul
 ##### URL
 [https://arxiv.org/abs/1511.06449](https://arxiv.org/abs/1511.06449)
 
+##### PDF
+[https://arxiv.org/pdf/1511.06449](https://arxiv.org/pdf/1511.06449)
+

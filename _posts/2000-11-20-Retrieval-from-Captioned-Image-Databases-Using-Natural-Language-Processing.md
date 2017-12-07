@@ -20,3 +20,6 @@ It might appear that natural language processing should improve the accuracy of 
 ##### URL
 [https://arxiv.org/abs/cs/0011028](https://arxiv.org/abs/cs/0011028)
 
+##### PDF
+[https://arxiv.org/pdf/cs/0011028](https://arxiv.org/pdf/cs/0011028)
+

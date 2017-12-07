@@ -20,3 +20,6 @@ Motivated by the recent progress in generative models, we introduce a model that
 ##### URL
 [https://arxiv.org/abs/1511.02793](https://arxiv.org/abs/1511.02793)
 
+##### PDF
+[https://arxiv.org/pdf/1511.02793](https://arxiv.org/pdf/1511.02793)
+
