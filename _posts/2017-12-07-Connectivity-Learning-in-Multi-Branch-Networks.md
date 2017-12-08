@@ -3,7 +3,7 @@ layout: post
 title: "Connectivity Learning in Multi-Branch Networks"
 date: 2017-12-07 16:57:45
 categories: arXiv_CV
-tags: arXiv_CV CNN Image_Classification Classification
+tags: arXiv_CV CNN
 author: Karim Ahmed, Lorenzo Torresani
 mathjax: true
 ---

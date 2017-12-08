@@ -3,7 +3,7 @@ layout: post
 title: "Maximum Classifier Discrepancy for Unsupervised Domain Adaptation"
 date: 2017-12-07 10:49:33
 categories: arXiv_CV
-tags: arXiv_CV Adversarial Knowledge Segmentation Image_Classification Semantic_Segmentation Classification
+tags: arXiv_CV Adversarial Knowledge
 author: Kuniaki Saito, Kohei Watanabe, Yoshitaka Ushiku, Tatsuya Harada
 mathjax: true
 ---

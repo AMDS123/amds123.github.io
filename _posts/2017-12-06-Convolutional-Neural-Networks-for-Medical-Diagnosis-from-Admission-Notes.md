@@ -3,7 +3,7 @@ layout: post
 title: "Convolutional Neural Networks for Medical Diagnosis from Admission Notes"
 date: 2017-12-06 08:39:29
 categories: arXiv_CL
-tags: arXiv_CL Text_Classification CNN Classification Prediction
+tags: arXiv_CL CNN
 author: Christy Li, Dimitris Konomis, Graham Neubig, Pengtao Xie, Carol Cheng, Eric Xing
 mathjax: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using SVDD in SimpleMKL for 3D-Shapes Filtering"
 date: 2017-12-07 14:56:53
 categories: arXiv_CV
-tags: arXiv_CV Detection
+tags: arXiv_CV
 author: Ga&#xeb;lle Loosli, Hattoibe Aboubacar
 mathjax: true
 ---
