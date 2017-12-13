@@ -3,7 +3,7 @@ layout: post
 title: "Stacked Denoising Autoencoders and Transfer Learning for Immunogold Particles Detection and Recognition"
 date: 2017-12-07 19:28:05
 categories: arXiv_CV
-tags: arXiv_CV Object_Detection Transfer_Learning Detection Recognition
+tags: arXiv_CV Transfer_Learning Detection Recognition
 author: Ricardo Gamelas Sousa, Jorge M. Santos, Lu&#xed;s M. Silva, Lu&#xed;s A. Alexandre, Tiago Esteves, Sara Rocha, Paulo Monjardino, Joaquim Marques de S&#xe1;, Francisco Figueiredo, Pedro Quelhas
 mathjax: true
 ---

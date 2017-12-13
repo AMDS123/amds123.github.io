@@ -3,7 +3,7 @@ layout: post
 title: "Attention networks for image-to-text"
 date: 2017-12-11 21:57:03
 categories: arXiv_CV
-tags: arXiv_CV Attention RNN
+tags: arXiv_CV Image_Caption Attention RNN
 author: Jason Poulos, Rafael Valle
 mathjax: true
 ---
