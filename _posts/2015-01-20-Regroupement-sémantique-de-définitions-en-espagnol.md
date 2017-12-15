@@ -2,8 +2,8 @@
 layout: post
 title: "Regroupement sémantique de définitions en espagnol"
 date: 2015-01-20 19:01:20
-categories: arXiv_CL
-tags: arXiv_CL
+categories: arXiv_SD
+tags: arXiv_SD
 author: Gerardo Sierra, Juan-Manuel Torres-Moreno, Alejandro Molina
 mathjax: true
 ---
