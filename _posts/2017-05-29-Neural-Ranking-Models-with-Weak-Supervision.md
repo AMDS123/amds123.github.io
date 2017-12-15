@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural Ranking Models with Weak Supervision"
+date: 2017-05-29 11:58:34
+categories: arXiv_CL
+tags: arXiv_CL Sparse Weakly_Supervised Embedding
+author: Mostafa Dehghani, Hamed Zamani, Aliaksei Severyn, Jaap Kamps, W. Bruce Croft
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Despite the impressive improvements achieved by unsupervised deep neural networks in computer vision and NLP tasks, such improvements have not yet been observed in ranking for information retrieval. The reason may be the complexity of the ranking problem, as it is not obvious how to learn from queries and documents when no supervised signal is available. Hence, in this paper, we propose to train a neural ranking model using weak supervision, where labels are obtained automatically without human annotators or any external resources (e.g., click data). To this aim, we use the output of an unsupervised ranking model, such as BM25, as a weak supervision signal. We further train a set of simple yet effective ranking models based on feed-forward neural networks. We study their effectiveness under various learning scenarios (point-wise and pair-wise models) and using different input representations (i.e., from encoding query-document pairs into dense/sparse vectors to using word embedding representation). We train our networks using tens of millions of training instances and evaluate it on two standard collections: a homogeneous news collection(Robust) and a heterogeneous large-scale web collection (ClueWeb). Our experiments indicate that employing proper objective functions and letting the networks to learn the input representation based on weakly supervised data leads to impressive performance, with over 13% and 35% MAP improvements over the BM25 model on the Robust and the ClueWeb collections. Our findings also suggest that supervised neural ranking models can greatly benefit from pre-training on large amounts of weakly labeled data that can be easily obtained from unsupervised IR models.
+
+##### Abstract (translated by Google)
+尽管无监督深度神经网络在计算机视觉和NLP任务中取得了令人印象深刻的改进，但是在信息检索的排名中还没有观察到这种改进。原因可能是排名问题的复杂性，因为当没有监督信号可用时，如何从查询和文档中学习是不明显的。因此，在本文中，我们建议使用弱监督来训练神经排序模型，其中标签是在没有人注释者或任何外部资源（例如，点击数据）的情况下自动获得的。为此，我们使用无监督排序模型（如BM25）的输出作为弱监督信号。我们进一步训练一套基于前馈神经网络的简单而有效的排序模型。我们在各种学习场景下（逐点和逐对模型）和使用不同的输入表示法（即，将查询 - 文档对编码成稠密/稀疏矢量以使用字嵌入表示）来研究它们的有效性。我们使用数千万个训练实例训练我们的网络，并在两个标准集合上进行评估：一个同质新闻收集（Robust）和一个异构的大规模网络收集（ClueWeb）。我们的实验表明，使用适当的目标函数，让网络学习输入表示基于弱监督的数据导致了令人印象深刻的性能，超过13％和35％MAP的改进超过BM25模型在健壮和ClueWeb集合。我们的研究结果还表明，有监督的神经排序模型可以大大受益于大量的弱标记数据，可以很容易地从无监督红外模型获得的预训练。
+
+##### URL
+[https://arxiv.org/abs/1704.08803](https://arxiv.org/abs/1704.08803)
+
+##### PDF
+[https://arxiv.org/pdf/1704.08803](https://arxiv.org/pdf/1704.08803)
+
