@@ -4,7 +4,7 @@ title: "Character Sequence Models for ColorfulWords"
 date: 2016-10-28 16:08:36
 categories: arXiv_CL
 tags: arXiv_CL
-author: Kazuya Kawakami, Chris Dyer, Bryan R. Routledge, Noah A. Smith
+author: Kazuya Kawakam, Chris Dyer Bryan R. Routledge, Noah A. Smith
 mathjax: true
 ---
 
