@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plücker Correction Problem: Analysis and Improvements in Efficiency"
+title: "Plucker Correction Problem: Analysis and Improvements in Efficiency"
 date: 2016-02-18 22:22:18
 categories: arXiv_CV
 tags: arXiv_CV

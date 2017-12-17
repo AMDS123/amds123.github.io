@@ -4,7 +4,7 @@ title: "Gait Assessment for Multiple Sclerosis Patients Using Microsoft Kinect"
 date: 2015-08-10 20:09:28
 categories: arXiv_CV
 tags: arXiv_CV Relation Recognition
-author: Farnood Gholami, Daria A. Trojan, Jozsef Kovecses, Wassim M. Haddad, Behnood Gholami
+author: Farnood Gholami, Daria A. Trojan, Jozsef Kovecses, Wassim M. Haddad, Behnood Gholami
 mathjax: true
 ---
 
