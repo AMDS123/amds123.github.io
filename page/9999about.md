@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## Xinxin Zhu
 
 
 * GitHub：[AMDS123](https://github.com/AMDS123)
