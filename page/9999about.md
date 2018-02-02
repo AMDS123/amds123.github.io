@@ -9,10 +9,10 @@ type: page
 * content
 {:toc}
 
-## Xinxin Zhu
+## Author
 
-
-* GitHub：[AMDS123](https://github.com/AMDS123)
-* email：450076077@qq.com
+* Name: Xinxin Zhu
+* GitHub：[https://github.com/AMDS123](https://github.com/AMDS123)
+* Email：450076077@qq.com
 
 {% include comments.html %}
