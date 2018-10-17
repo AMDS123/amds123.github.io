@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Capsules for Object Segmentation"
+date: 2018-04-11 21:57:57
+categories: arXiv_AI
+tags: arXiv_AI Segmentation CNN Image_Classification Classification Relation Recognition
+author: Rodney LaLonde, Ulas Bagci
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Convolutional neural networks (CNNs) have shown remarkable results over the last several years for a wide range of computer vision tasks. A new architecture recently introduced by Sabour et al., referred to as a capsule networks with dynamic routing, has shown great initial results for digit recognition and small image classification. The success of capsule networks lies in their ability to preserve more information about the input by replacing max-pooling layers with convolutional strides and dynamic routing, allowing for preservation of part-whole relationships in the data. This preservation of the input is demonstrated by reconstructing the input from the output capsule vectors. Our work expands the use of capsule networks to the task of object segmentation for the first time in the literature. We extend the idea of convolutional capsules with locally-connected routing and propose the concept of deconvolutional capsules. Further, we extend the masked reconstruction to reconstruct the positive input class. The proposed convolutional-deconvolutional capsule network, called SegCaps, shows strong results for the task of object segmentation with substantial decrease in parameter space. As an example application, we applied the proposed SegCaps to segment pathological lungs from low dose CT scans and compared its accuracy and efficiency with other U-Net-based architectures. SegCaps is able to handle large image sizes (512 x 512) as opposed to baseline capsules (typically less than 32 x 32). The proposed SegCaps reduced the number of parameters of U-Net architecture by 95.4% while still providing a better segmentation accuracy.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1804.04241](https://arxiv.org/abs/1804.04241)
+
+##### PDF
+[https://arxiv.org/pdf/1804.04241](https://arxiv.org/pdf/1804.04241)
+
