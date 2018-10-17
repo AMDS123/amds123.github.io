@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning-Theoretic Foundations of Algorithm Configuration for Combinatorial Partitioning Problems"
+date: 2018-10-16 16:07:08
+categories: arXiv_AI
+tags: arXiv_AI Optimization
+author: Maria-Florina Balcan, Vaishnavh Nagarajan, Ellen Vitercik, Colin White
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Max-cut, clustering, and many other partitioning problems that are of significant importance to machine learning and other scientific fields are NP-hard, a reality that has motivated researchers to develop a wealth of approximation algorithms and heuristics. Although the best algorithm to use typically depends on the specific application domain, a worst-case analysis is often used to compare algorithms. This may be misleading if worst-case instances occur infrequently, and thus there is a demand for optimization methods which return the algorithm configuration best suited for the given application's typical inputs. We address this problem for clustering, max-cut, and other partitioning problems, such as integer quadratic programming, by designing computationally efficient and sample efficient learning algorithms which receive samples from an application-specific distribution over problem instances and learn a partitioning algorithm with high expected performance. Our algorithms learn over common integer quadratic programming and clustering algorithm families: SDP rounding algorithms and agglomerative clustering algorithms with dynamic programming. For our sample complexity analysis, we provide tight bounds on the pseudodimension of these algorithm classes, and show that surprisingly, even for classes of algorithms parameterized by a single parameter, the pseudo-dimension is superconstant. In this way, our work both contributes to the foundations of algorithm configuration and pushes the boundaries of learning theory, since the algorithm classes we analyze consist of multi-stage optimization procedures and are significantly more complex than classes typically studied in learning theory.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1611.04535](http://arxiv.org/abs/1611.04535)
+
+##### PDF
+[http://arxiv.org/pdf/1611.04535](http://arxiv.org/pdf/1611.04535)
+
