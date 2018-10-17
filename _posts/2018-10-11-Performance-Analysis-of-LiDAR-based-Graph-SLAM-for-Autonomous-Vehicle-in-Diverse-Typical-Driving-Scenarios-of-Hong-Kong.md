@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Performance Analysis of LiDAR-based Graph-SLAM for Autonomous Vehicle in Diverse Typical Driving Scenarios of Hong Kong"
+date: 2018-10-11 05:35:57
+categories: arXiv_RO
+tags: arXiv_RO Sparse Optimization SLAM Relation
+author: Weisong Wen, Li-Ta Hsu, Guohao Zhang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Robust and lane-level positioning is essential for autonomous vehicles. As an irreplaceable sensor, LiDAR can provide continuous and high frequency 6-dimensions (6D) positioning by means of mapping, in condition that enough environment features are available. In diverse urban scenarios, the environment feature availability relies heavily on the traffic (moving and static objects) and the degree of urbanization. However, the LiDAR-based positioning can be severely challenged in deep urbanized cities, such as Hong Kong, Tokyo and New York with dense traffic and tall buildings. This paper proposes to analyze the performance of LiDAR-based positioning and its reliability estimation in diverse urban scenarios to further evaluate the relationship between the performance of LiDAR-based positioning and scenarios conditions. The normal distribution transform (NDT) is employed to calculate the transformation between frames of point clouds. Then, the LiDAR odometry is performed based on the calculated continuous transformation. The state-of-art graph-based optimization is used to integrate the LiDAR odometry measurements to implement the global optimization. Experiments are implemented in different scenarios with different degrees of urbanization and traffic conditions. The results show that the performance if the LiDAR-based positioning is strongly related to the traffic condition and degree of urbanization. The LiDAR-positioning obtains best performance in sparse area with normal traffic and the worse performance in edge-urban area with 3D positioning error gradient of 0.024 m/s and 0.189 m/s respectively. The analyzed results can be a comprehensive benchmark for evaluating the performance of LiDAR-based SLAM in diverse scenarios which is significant for multi-sensor fusion of autonomous driving.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1810.04848](https://arxiv.org/abs/1810.04848)
+
+##### PDF
+[https://arxiv.org/pdf/1810.04848](https://arxiv.org/pdf/1810.04848)
+
