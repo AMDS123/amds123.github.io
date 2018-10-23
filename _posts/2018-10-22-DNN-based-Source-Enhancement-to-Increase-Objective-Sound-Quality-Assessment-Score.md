@@ -1,0 +1,25 @@
+---
+layout: post
+title: "DNN-based Source Enhancement to Increase Objective Sound Quality Assessment Score"
+date: 2018-10-22 08:34:04
+categories: arXiv_SD
+tags: arXiv_SD QA Optimization
+author: Yuma Koizumi, Kenta Niwa, Yusuke Hioka, Kazunori Kobayashi, Yoichi Haneda
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a training method for deep neural network (DNN)-based source enhancement to increase objective sound quality assessment (OSQA) scores such as the perceptual evaluation of speech quality (PESQ). In many conventional studies, DNNs have been used as a mapping function to estimate time-frequency masks and trained to minimize an analytically tractable objective function such as the mean squared error (MSE). Since OSQA scores have been used widely for sound-quality evaluation, constructing DNNs to increase OSQA scores would be better than using the minimum-MSE to create high-quality output signals. However, since most OSQA scores are not analytically tractable, \textit{i.e.}, they are black boxes, the gradient of the objective function cannot be calculated by simply applying back-propagation. To calculate the gradient of the OSQA-based objective function, we formulated a DNN optimization scheme on the basis of \textit{black-box optimization}, which is used for training a computer that plays a game. For a black-box-optimization scheme, we adopt the policy gradient method for calculating the gradient on the basis of a sampling algorithm. To simulate output signals using the sampling algorithm, DNNs are used to estimate the probability density function of the output signals that maximize OSQA scores. The OSQA scores are calculated from the simulated output signals, and the DNNs are trained to increase the probability of generating the simulated output signals that achieve high OSQA scores. Through several experiments, we found that OSQA scores significantly increased by applying the proposed method, even though the MSE was not minimized.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.09137](http://arxiv.org/abs/1810.09137)
+
+##### PDF
+[http://arxiv.org/pdf/1810.09137](http://arxiv.org/pdf/1810.09137)
+
