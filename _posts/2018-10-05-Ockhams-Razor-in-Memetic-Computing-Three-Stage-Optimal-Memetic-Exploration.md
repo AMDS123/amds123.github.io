@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Ockham's Razor in Memetic Computing: Three Stage Optimal Memetic Exploration"
+date: 2018-10-05 14:14:34
+categories: arXiv_AI
+tags: arXiv_AI Optimization
+author: G. Iacca, F. Neri, E. Mininno, Y. S. Ong, M. H. Lim
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Memetic Computing is a subject in computer science which considers complex structures as the combination of simple agents, memes, whose evolutionary interactions lead to intelligent structures capable of problem-solving. This paper focuses on Memetic Computing optimization algorithms and proposes a counter-tendency approach for algorithmic design. Research in the field tends to go in the direction of improving existing algorithms by combining different methods or through the formulation of more complicated structures. Contrary to this trend, we instead focus on simplicity, proposing a structurally simple algorithm with emphasis on processing only one solution at a time. The proposed algorithm, namely Three Stage Optimal Memetic Exploration, is composed of three memes; the first stochastic and with a long search radius, the second stochastic and with a moderate search radius and the third deterministic and with a short search radius. The bottom-up combination of the three operators by means of a natural trial and error logic, generates a robust and efficient optimizer, capable of competing with modern complex and computationally expensive algorithms. This is suggestive of the fact that complexity in algorithmic structures can be unnecessary, if not detrimental, and that simple bottom-up approaches are likely to be competitive is here invoked as an extension to Memetic Computing basing on the philosophical concept of Ockham's Razor. An extensive experimental setup on various test problems and one digital signal processing application is presented. Numerical results show that the proposed approach, despite its simplicity and low computational cost displays a very good performance on several problems, and is competitive with sophisticated algorithms representing the-state-of-the-art in computational intelligence optimization.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.08669](http://arxiv.org/abs/1810.08669)
+
+##### PDF
+[http://arxiv.org/pdf/1810.08669](http://arxiv.org/pdf/1810.08669)
+
