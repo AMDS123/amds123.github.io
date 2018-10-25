@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Incremental Deep Learning for Robust Object Detection in Unknown Cluttered Environments"
+date: 2018-10-13 17:10:41
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Knowledge Tracking Action_Recognition CNN Object_Tracking Deep_Learning Detection Recognition
+author: Dong Kyun Shin, Minhaz Uddin Ahmed, Phill Kyu Rhee
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Object detection in streaming images is a major step in different detection-based applications, such as object tracking, action recognition, robot navigation, and visual surveillance applications. In mostcases, image quality is noisy and biased, and as a result, the data distributions are disturbed and imbalanced. Most object detection approaches, such as the faster region-based convolutional neural network (Faster RCNN), Single Shot Multibox Detector with 300x300 inputs (SSD300), and You Only Look Once version 2 (YOLOv2), rely on simple sampling without considering distortions and noise under real-world changing environments, despite poor object labeling. In this paper, we propose an Incremental active semi-supervised learning (IASSL) technology for unseen object detection. It combines batch-based active learning (AL) and bin-based semi-supervised learning (SSL) to leverage the strong points of AL's exploration and SSL's exploitation capabilities. A collaborative sampling method is also adopted to measure the uncertainty and diversity of AL and the confidence in SSL. Batch-based AL allows us to select more informative, confident, and representative samples with low cost. Bin-based SSL divides streaming image samples into several bins, and each bin repeatedly transfers the discriminative knowledge of convolutional neural network (CNN) deep learning to the next bin until the performance criterion is reached. IASSL can overcome noisy and biased labels in unknown, cluttered data distributions. We obtain superior performance, compared to state-of-the-art technologies such as Faster RCNN, SSD300, and YOLOv2.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1810.10323](https://arxiv.org/abs/1810.10323)
+
+##### PDF
+[https://arxiv.org/pdf/1810.10323](https://arxiv.org/pdf/1810.10323)
+
