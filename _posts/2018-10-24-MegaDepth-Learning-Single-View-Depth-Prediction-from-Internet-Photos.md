@@ -1,0 +1,25 @@
+---
+layout: post
+title: "MegaDepth: Learning Single-View Depth Prediction from Internet Photos"
+date: 2018-10-24 02:06:36
+categories: arXiv_CV
+tags: arXiv_CV Sparse Segmentation Semantic_Segmentation Deep_Learning Prediction Relation
+author: Zhengqi Li, Noah Snavely
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Single-view depth prediction is a fundamental problem in computer vision. Recently, deep learning methods have led to significant progress, but such methods are limited by the available training data. Current datasets based on 3D sensors have key limitations, including indoor-only images (NYU), small numbers of training examples (Make3D), and sparse sampling (KITTI). We propose to use multi-view Internet photo collections, a virtually unlimited data source, to generate training data via modern structure-from-motion and multi-view stereo (MVS) methods, and present a large depth dataset called MegaDepth based on this idea. Data derived from MVS comes with its own challenges, including noise and unreconstructable objects. We address these challenges with new data cleaning methods, as well as automatically augmenting our data with ordinal depth relations generated using semantic segmentation. We validate the use of large amounts of Internet data by showing that models trained on MegaDepth exhibit strong generalization-not only to novel scenes, but also to other diverse datasets including Make3D, KITTI, and DIW, even when no images from those datasets are seen during training.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1804.00607](http://arxiv.org/abs/1804.00607)
+
+##### PDF
+[http://arxiv.org/pdf/1804.00607](http://arxiv.org/pdf/1804.00607)
+
