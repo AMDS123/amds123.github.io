@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep Predictive Coding Network with Local Recurrent Processing for Object Recognition"
+date: 2018-10-26 02:22:50
+categories: arXiv_CV
+tags: arXiv_CV Salient Attention CNN Image_Classification Classification Prediction Recognition
+author: Kuan Han, Haiguang Wen, Yizhen Zhang, Di Fu, Eugenio Culurciello, Zhongming Liu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Inspired by "predictive coding" - a theory in neuroscience, we develop a bi-directional and dynamic neural network with local recurrent processing, namely predictive coding network (PCN). Unlike feedforward-only convolutional neural networks, PCN includes both feedback connections, which carry top-down predictions, and feedforward connections, which carry bottom-up errors of prediction. Feedback and feedforward connections enable adjacent layers to interact locally and recurrently to refine representations towards minimization of layer-wise prediction errors. When unfolded over time, the recurrent processing gives rise to an increasingly deeper hierarchy of non-linear transformation, allowing a shallow network to dynamically extend itself into an arbitrarily deep network. We train and test PCN for image classification with SVHN, CIFAR and ImageNet datasets. Despite notably fewer layers and parameters, PCN achieves competitive performance compared to classical and state-of-the-art models. Further analysis shows that the internal representations in PCN converge over time and yield increasingly better accuracy in object recognition. Errors of top-down prediction also reveal visual saliency or bottom-up attention.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.07526](http://arxiv.org/abs/1805.07526)
+
+##### PDF
+[http://arxiv.org/pdf/1805.07526](http://arxiv.org/pdf/1805.07526)
+
