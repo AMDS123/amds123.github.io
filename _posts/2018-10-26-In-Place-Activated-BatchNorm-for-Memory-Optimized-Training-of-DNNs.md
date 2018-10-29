@@ -1,0 +1,25 @@
+---
+layout: post
+title: "In-Place Activated BatchNorm for Memory-Optimized Training of DNNs"
+date: 2018-10-26 07:46:48
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Image_Classification Semantic_Segmentation Classification Deep_Learning
+author: Samuel Rota Bul&#xf2;, Lorenzo Porzi, Peter Kontschieder
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this work we present In-Place Activated Batch Normalization (InPlace-ABN) - a novel approach to drastically reduce the training memory footprint of modern deep neural networks in a computationally efficient way. Our solution substitutes the conventionally used succession of BatchNorm + Activation layers with a single plugin layer, hence avoiding invasive framework surgery while providing straightforward applicability for existing deep learning frameworks. We obtain memory savings of up to 50% by dropping intermediate results and by recovering required information during the backward pass through the inversion of stored forward results, with only minor increase (0.8-2%) in computation time. Also, we demonstrate how frequently used checkpointing approaches can be made computationally as efficient as InPlace-ABN. In our experiments on image classification, we demonstrate on-par results on ImageNet-1k with state-of-the-art approaches. On the memory-demanding task of semantic segmentation, we report results for COCO-Stuff, Cityscapes and Mapillary Vistas, obtaining new state-of-the-art results on the latter without additional training data but in a single-scale and -model scenario. Code can be found at https://github.com/mapillary/inplace_abn .
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1712.02616](http://arxiv.org/abs/1712.02616)
+
+##### PDF
+[http://arxiv.org/pdf/1712.02616](http://arxiv.org/pdf/1712.02616)
+
