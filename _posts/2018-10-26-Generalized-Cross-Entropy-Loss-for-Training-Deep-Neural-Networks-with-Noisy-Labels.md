@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels"
+date: 2018-10-26 14:44:20
+categories: arXiv_CV
+tags: arXiv_CV
+author: Zhilu Zhang, Mert R. Sabuncu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks (DNNs) have achieved tremendous success in a variety of applications across many disciplines. Yet, their superior performance comes with the expensive cost of requiring correctly annotated large-scale datasets. Moreover, due to DNNs' rich capacity, errors in training labels can hamper performance. To combat this problem, mean absolute error (MAE) has recently been proposed as a noise-robust alternative to the commonly-used categorical cross entropy (CCE) loss. However, as we show in this paper, MAE can perform poorly with DNNs and challenging datasets. Here, we present a theoretically grounded set of noise-robust loss functions that can be seen as a generalization of MAE and CCE. Proposed loss functions can be readily applied with any existing DNN architecture and algorithm, while yielding good performance in a wide range of noisy label scenarios. We report results from experiments conducted with CIFAR-10, CIFAR-100 and FASHION-MNIST datasets and synthetically generated noisy labels.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.07836](http://arxiv.org/abs/1805.07836)
+
+##### PDF
+[http://arxiv.org/pdf/1805.07836](http://arxiv.org/pdf/1805.07836)
+
