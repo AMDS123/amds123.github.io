@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep Functional Dictionaries: Learning Consistent Semantic Structures on 3D Models from Functions"
+date: 2018-10-25 22:38:53
+categories: arXiv_CV
+tags: arXiv_CV Segmentation
+author: Minhyuk Sung, Hao Su, Ronald Yu, Leonidas Guibas
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Various 3D semantic attributes such as segmentation masks, geometric features, keypoints, and materials can be encoded as per-point probe functions on 3D geometries. Given a collection of related 3D shapes, we consider how to jointly analyze such probe functions over different shapes, and how to discover common latent structures using a neural network --- even in the absence of any correspondence information. Our network is trained on point cloud representations of shape geometry and associated semantic functions on that point cloud. These functions express a shared semantic understanding of the shapes but are not coordinated in any way. For example, in a segmentation task, the functions can be indicator functions of arbitrary sets of shape parts, with the particular combination involved not known to the network. Our network is able to produce a small dictionary of basis functions for each shape, a dictionary whose span includes the semantic functions provided for that shape. Even though our shapes have independent discretizations and no functional correspondences are provided, the network is able to generate latent bases, in a consistent order, that reflect the shared semantic structure among the shapes. We demonstrate the effectiveness of our technique in various segmentation and keypoint selection applications.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.09957](http://arxiv.org/abs/1805.09957)
+
+##### PDF
+[http://arxiv.org/pdf/1805.09957](http://arxiv.org/pdf/1805.09957)
+
