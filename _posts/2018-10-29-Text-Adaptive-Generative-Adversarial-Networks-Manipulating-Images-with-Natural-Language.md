@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language"
+date: 2018-10-29 01:47:09
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN
+author: Seonghyeon Nam, Yunji Kim, Seon Joo Kim
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper addresses the problem of manipulating images using natural language description. Our task aims to semantically modify visual attributes of an object in an image according to the text describing the new visual appearance. Although existing methods synthesize images having new attributes, they do not fully preserve text-irrelevant contents of the original image. In this paper, we propose the text-adaptive generative adversarial network (TAGAN) to generate semantically manipulated images while preserving text-irrelevant contents. The key to our method is the text-adaptive discriminator that creates word-level local discriminators according to input text to classify fine-grained attributes independently. With this discriminator, the generator learns to generate images where only regions that correspond to the given text are modified. Experimental results show that our method outperforms existing methods on CUB and Oxford-102 datasets, and our results were mostly preferred on a user study. Extensive analysis shows that our method is able to effectively disentangle visual attributes and produce pleasing outputs.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.11919](http://arxiv.org/abs/1810.11919)
+
+##### PDF
+[http://arxiv.org/pdf/1810.11919](http://arxiv.org/pdf/1810.11919)
+
