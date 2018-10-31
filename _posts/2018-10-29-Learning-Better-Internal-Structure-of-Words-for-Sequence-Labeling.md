@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning Better Internal Structure of Words for Sequence Labeling"
+date: 2018-10-29 22:39:49
+categories: arXiv_CL
+tags: arXiv_CL Knowledge Embedding CNN Recognition
+author: Yingwei Xin, Ethan Hart, Vibhuti Mahajan, Jean-David Ruvini
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Character-based neural models have recently proven very useful for many NLP tasks. However, there is a gap of sophistication between methods for learning representations of sentences and words. While most character models for learning representations of sentences are deep and complex, models for learning representations of words are shallow and simple. Also, in spite of considerable research on learning character embeddings, it is still not clear which kind of architecture is the best for capturing character-to-word representations. To address these questions, we first investigate the gaps between methods for learning word and sentence representations. We conduct detailed experiments and comparisons of different state-of-the-art convolutional models, and also investigate the advantages and disadvantages of their constituents. Furthermore, we propose IntNet, a funnel-shaped wide convolutional neural architecture with no down-sampling for learning representations of the internal structure of words by composing their characters from limited, supervised training corpora. We evaluate our proposed model on six sequence labeling datasets, including named entity recognition, part-of-speech tagging, and syntactic chunking. Our in-depth analysis shows that IntNet significantly outperforms other character embedding models and obtains new state-of-the-art performance without relying on any external knowledge or resources.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.12443](http://arxiv.org/abs/1810.12443)
+
+##### PDF
+[http://arxiv.org/pdf/1810.12443](http://arxiv.org/pdf/1810.12443)
+
