@@ -1,0 +1,25 @@
+---
+layout: post
+title: "DropBlock: A regularization method for convolutional networks"
+date: 2018-10-30 17:39:42
+categories: arXiv_CV
+tags: arXiv_CV Regularization CNN Classification Detection
+author: Golnaz Ghiasi, Tsung-Yi Lin, Quoc V. Le
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks often work well when they are over-parameterized and trained with a massive amount of noise and regularization, such as weight decay and dropout. Although dropout is widely used as a regularization technique for fully connected layers, it is often less effective for convolutional layers. This lack of success of dropout for convolutional layers is perhaps due to the fact that activation units in convolutional layers are spatially correlated so information can still flow through convolutional networks despite dropout. Thus a structured form of dropout is needed to regularize convolutional networks. In this paper, we introduce DropBlock, a form of structured dropout, where units in a contiguous region of a feature map are dropped together. We found that applying DropbBlock in skip connections in addition to the convolution layers increases the accuracy. Also, gradually increasing number of dropped units during training leads to better accuracy and more robust to hyperparameter choices. Extensive experiments show that DropBlock works better than dropout in regularizing convolutional networks. On ImageNet classification, ResNet-50 architecture with DropBlock achieves $78.13\%$ accuracy, which is more than $1.6\%$ improvement on the baseline. On COCO detection, DropBlock improves Average Precision of RetinaNet from $36.8\%$ to $38.4\%$.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.12890](http://arxiv.org/abs/1810.12890)
+
+##### PDF
+[http://arxiv.org/pdf/1810.12890](http://arxiv.org/pdf/1810.12890)
+
