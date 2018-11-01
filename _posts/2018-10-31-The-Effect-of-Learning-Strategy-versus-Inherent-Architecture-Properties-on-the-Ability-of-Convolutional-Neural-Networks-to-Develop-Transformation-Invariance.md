@@ -1,0 +1,25 @@
+---
+layout: post
+title: "The Effect of Learning Strategy versus Inherent Architecture Properties on the Ability of Convolutional Neural Networks to Develop Transformation Invariance"
+date: 2018-10-31 06:48:15
+categories: arXiv_CV
+tags: arXiv_CV Face CNN Recognition
+author: Megha Srivastava, Kalanit Grill-Spector
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+As object recognition becomes an increasingly common ML task, and recent research demonstrating CNNs vulnerability to attacks and small image perturbations necessitate fully understanding the foundations of object recognition. We focus on understanding the mechanisms behind how neural networks generalize to spatial transformations of complex objects. While humans excel at discriminating between objects shown at new positions, orientations, and scales, past results demonstrate that this may be limited to familiar objects - humans demonstrate low tolerance of spatial-variances for purposefully constructed novel objects. Because training artificial neural networks from scratch is similar to showing novel objects to humans, we seek to understand the factors influencing the tolerance of CNNs to spatial transformations. We conduct a thorough empirical examination of seven Convolutional Neural Network (CNN) architectures. By training on a controlled face image dataset, we measure model accuracy across different degrees of 5 transformations: position, size, rotation, Gaussian blur, and resolution transformation due to resampling. We also examine how learning strategy affects generalizability by examining how different amounts of pre-training have on model robustness. Overall, we find that the most significant contributor to transformation invariance is pre-training on a large, diverse image dataset. Moreover, while AlexNet tends to be the least robust network, VGG and ResNet architectures demonstrate higher robustness for different transformations. Along with kernel visualizations and qualitative analyses, we examine differences between learning strategy and inherent architectural properties in contributing to invariance of transformations, providing valuable information towards understanding how to achieve greater robustness to transformations in CNNs.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.13128](http://arxiv.org/abs/1810.13128)
+
+##### PDF
+[http://arxiv.org/pdf/1810.13128](http://arxiv.org/pdf/1810.13128)
+
