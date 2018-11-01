@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Iris Recognition After Death"
+date: 2018-10-31 10:37:06
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Recognition
+author: Mateusz Trokielewicz, Adam Czajka, Piotr Maciejewicz
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper presents a comprehensive study of post-mortem human iris recognition carried out for 1,200 near-infrared and 1,787 visible-light samples collected from 37 deceased individuals kept in the mortuary conditions. We used four independent iris recognition methods (three commercial and one academic) to analyze genuine and impostor comparison scores and check the dynamics of iris quality decay over a period of up to 814 hours after death. This study shows that post-mortem iris recognition may be close-to-perfect approximately 5 to 7 hours after death and occasionally is still viable even 21 days after death. These conclusions contradict the statements present in past literature that the iris is unusable as a biometrics shortly after death, and show that the dynamics of post-mortem changes to the iris that are important for biometric identification are more moderate than previously hypothesized. The paper contains a thorough medical commentary that helps to understand which post-mortem metamorphoses of the eye may impact the performance of automatic iris recognition. We also show that post-mortem iris recognition works equally well for images taken in near-infrared and when the red channel of visible-light sample is used. However, cross-wavelength matching presents significantly worse performance. This paper conforms to reproducible research and the database used in this study is made publicly available to facilitate research of post-mortem iris recognition. To our knowledge, this paper offers the most comprehensive evaluation of post-mortem iris recognition and the largest database of post-mortem iris images.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1804.01962](http://arxiv.org/abs/1804.01962)
+
+##### PDF
+[http://arxiv.org/pdf/1804.01962](http://arxiv.org/pdf/1804.01962)
+
