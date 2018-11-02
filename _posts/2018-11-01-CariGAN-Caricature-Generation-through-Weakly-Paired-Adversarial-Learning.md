@@ -1,0 +1,25 @@
+---
+layout: post
+title: "CariGAN: Caricature Generation through Weakly Paired Adversarial Learning"
+date: 2018-11-01 15:40:23
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Attention GAN Face
+author: Wenbin Li, Wei Xiong, Haofu Liao, Jing Huo, Yang Gao, Jiebo Luo
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Caricature generation is an interesting yet challenging task. The primary goal is to generate plausible caricatures with reasonable exaggerations given face images. Conventional caricature generation approaches mainly use low-level geometric transformations such as image warping to generate exaggerated images, which lack richness and diversity in terms of content and style. The recent progress in generative adversarial networks (GANs) makes it possible to learn an image-to-image transformation from data, so that richer contents and styles can be generated. However, directly applying the GAN-based models to this task leads to unsatisfactory results because there is a large variance in the caricature distribution. Moreover, some models require strictly paired training data which largely limits their usage scenarios. In this paper, we propose CariGAN overcome these problems. Instead of training on paired data, CariGAN learns transformations only from weakly paired images. Specifically, to enforce reasonable exaggeration and facial deformation, facial landmarks are adopted as an additional condition to constrain the generated image. Furthermore, an attention mechanism is introduced to encourage our model to focus on the key facial parts so that more vivid details in these regions can be generated. Finally, a Diversity Loss is proposed to encourage the model to produce diverse results to help alleviate the `mode collapse' problem of the conventional GAN-based models. Extensive experiments on a new large-scale `WebCaricature' dataset show that the proposed CariGAN can generate more plausible caricatures with larger diversity compared with the state-of-the-art models.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.00445](http://arxiv.org/abs/1811.00445)
+
+##### PDF
+[http://arxiv.org/pdf/1811.00445](http://arxiv.org/pdf/1811.00445)
+
