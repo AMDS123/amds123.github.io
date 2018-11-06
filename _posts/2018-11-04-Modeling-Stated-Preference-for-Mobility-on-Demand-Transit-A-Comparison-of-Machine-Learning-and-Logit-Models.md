@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Modeling Stated Preference for Mobility-on-Demand Transit: A Comparison of Machine Learning and Logit Models"
+date: 2018-11-04 02:55:49
+categories: arXiv_AI
+tags: arXiv_AI Survey Prediction Relation
+author: Xilei Zhao, Xiang Yan, Alan Yu, Pascal Van Hentenryck
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Logit models are usually applied when studying individual travel behavior, i.e., to predict travel mode choice and to gain behavioral insights on traveler preferences. Recently, some studies have applied machine learning to model travel mode choice and reported higher out-of-sample prediction accuracy than conventional logit models (e.g., multinomial logit). However, there has not been a comprehensive comparison between logit models and machine learning that covers both prediction and behavioral analysis. This paper aims at addressing this gap by examining the key differences in model development, evaluation, and behavioral interpretation between logit and machine-learning models for travel-mode choice modeling. To complement the theoretical discussions, we also empirically evaluated the two approaches on stated-preference survey data for a new type of transit system integrating high-frequency fixed routes and micro-transit. The results show that machine learning can produce significantly higher predictive accuracy than logit models and are better at capturing the nonlinear relationships between trip attributes and mode-choice outcomes. On the other hand, compared to the multinomial logit model, the best-performing machine-learning model, the random forest model, produces less reasonable behavioral outputs (i.e. marginal effects and elasticities) when they were computed from a standard approach. By introducing some behavioral constraints into the computation of behavioral outputs from a random forest model, however, we obtained better results that are somewhat comparable with the multinomial logit model. We believe that there is great potential in merging ideas from machine learning and conventional statistical methods to develop refined models for travel-behavior research and suggest some possible research directions.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.01315](http://arxiv.org/abs/1811.01315)
+
+##### PDF
+[http://arxiv.org/pdf/1811.01315](http://arxiv.org/pdf/1811.01315)
+
