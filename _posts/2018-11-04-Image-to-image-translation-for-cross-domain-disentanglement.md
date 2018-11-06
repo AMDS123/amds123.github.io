@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Image-to-image translation for cross-domain disentanglement"
+date: 2018-11-04 17:27:04
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN
+author: Abel Gonzalez-Garcia, Joost van de Weijer, Yoshua Bengio
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep image translation methods have recently shown excellent results, outputting high-quality images covering multiple modes of the data distribution. There has also been increased interest in disentangling the internal representations learned by deep methods to further improve their performance and achieve a finer control. In this paper, we bridge these two objectives and introduce the concept of cross-domain disentanglement. We aim to separate the internal representation into three parts. The shared part contains information for both domains. The exclusive parts, on the other hand, contain only factors of variation that are particular to each domain. We achieve this through bidirectional image translation based on Generative Adversarial Networks and cross-domain autoencoders, a novel network component. Our model offers multiple advantages. We can output diverse samples covering multiple modes of the distributions of both domains, perform domain-specific image transfer and interpolation, and cross-domain retrieval without the need of labeled data, only paired images. We compare our model to the state-of-the-art in multi-modal image translation and achieve better results for translation on challenging datasets as well as for cross-domain retrieval on realistic datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.09730](http://arxiv.org/abs/1805.09730)
+
+##### PDF
+[http://arxiv.org/pdf/1805.09730](http://arxiv.org/pdf/1805.09730)
+
