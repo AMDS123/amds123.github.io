@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A General and Adaptive Robust Loss Function"
+date: 2018-11-05 17:36:46
+categories: arXiv_CV
+tags: arXiv_CV
+author: Jonathan T. Barron
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present a generalization of the Cauchy/Lorentzian, Geman-McClure, Welsch/Leclerc, generalized Charbonnier, Charbonnier/pseudo-Huber/L1-L2, and L2 loss functions. By introducing robustness as a continous parameter, our loss function allows algorithms built around robust loss minimization to be generalized, which improves performance on basic vision tasks such as registration and clustering. Interpreting our loss as the negative log of a univariate density yields a general probability distribution that includes normal and Cauchy distributions as special cases. This probabilistic interpretation enables the training of neural networks in which the robustness of the loss automatically adapts itself during training, which improves performance on learning-based tasks such as generative image synthesis and unsupervised monocular depth estimation, without requiring any manual parameter tuning.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1701.03077](http://arxiv.org/abs/1701.03077)
+
+##### PDF
+[http://arxiv.org/pdf/1701.03077](http://arxiv.org/pdf/1701.03077)
+
