@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Concept Learning with Energy-Based Models"
+date: 2018-11-06 16:52:20
+categories: arXiv_AI
+tags: arXiv_AI Attention Optimization Inference Quantitative Relation
+author: Igor Mordatch
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Many hallmarks of human intelligence, such as generalizing from limited experience, abstract reasoning and planning, analogical reasoning, creative problem solving, and capacity for language require the ability to consolidate experience into concepts, which act as basic building blocks of understanding and reasoning. We present a framework that defines a concept by an energy function over events in the environment, as well as an attention mask over entities participating in the event. Given few demonstration events, our method uses inference-time optimization procedure to generate events involving similar concepts or identify entities involved in the concept. We evaluate our framework on learning visual, quantitative, relational, temporal concepts from demonstration events in an unsupervised manner. Our approach is able to successfully generate and identify concepts in a few-shot setting and resulting learned concepts can be reused across environments. Example videos of our results are available at sites.google.com/site/energyconceptmodels
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1811.02486](https://arxiv.org/abs/1811.02486)
+
+##### PDF
+[https://arxiv.org/pdf/1811.02486](https://arxiv.org/pdf/1811.02486)
+
