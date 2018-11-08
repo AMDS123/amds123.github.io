@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks"
+date: 2018-11-07 04:47:25
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Segmentation Prediction
+author: Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The training of many existing end-to-end steering angle prediction models heavily relies on steering angles as the supervisory signal. Without learning from much richer contexts, these methods are susceptible to the presence of sharp road curves, challenging traffic conditions, strong shadows, and severe lighting changes. In this paper, we considerably improve the accuracy and robustness of predictions through heterogeneous auxiliary networks feature mimicking, a new and effective training method that provides us with much richer contextual signals apart from steering direction. Specifically, we train our steering angle predictive model by distilling multi-layer knowledge from multiple heterogeneous auxiliary networks that perform related but different tasks, e.g., image segmentation or optical flow estimation. As opposed to multi-task learning, our method does not require expensive annotations of related tasks on the target set. This is made possible by applying contemporary off-the-shelf networks on the target set and mimicking their features in different layers after transformation. The auxiliary networks are discarded after training without affecting the runtime efficiency of our model. Our approach achieves a new state-of-the-art on Udacity and Comma.ai, outperforming the previous best by a large margin of 12.8% and 52.1%, respectively. Encouraging results are also shown on Berkeley Deep Drive (BDD) dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.02759](http://arxiv.org/abs/1811.02759)
+
+##### PDF
+[http://arxiv.org/pdf/1811.02759](http://arxiv.org/pdf/1811.02759)
+
