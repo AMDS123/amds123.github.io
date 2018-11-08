@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Collaborative Learning for Deep Neural Networks"
+date: 2018-11-07 00:06:03
+categories: arXiv_CV
+tags: arXiv_CV Regularization Knowledge Inference
+author: Guocong Song, Wei Chai
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We introduce collaborative learning in which multiple classifier heads of the same network are simultaneously trained on the same training data to improve generalization and robustness to label noise with no extra inference cost. It acquires the strengths from auxiliary training, multi-task learning and knowledge distillation. There are two important mechanisms involved in collaborative learning. First, the consensus of multiple views from different classifier heads on the same example provides supplementary information as well as regularization to each classifier, thereby improving generalization. Second, intermediate-level representation (ILR) sharing with backpropagation rescaling aggregates the gradient flows from all heads, which not only reduces training computational complexity, but also facilitates supervision to the shared layers. The empirical results on CIFAR and ImageNet datasets demonstrate that deep neural networks learned as a group in a collaborative way significantly reduce the generalization error and increase the robustness to label noise.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.11761](http://arxiv.org/abs/1805.11761)
+
+##### PDF
+[http://arxiv.org/pdf/1805.11761](http://arxiv.org/pdf/1805.11761)
+
