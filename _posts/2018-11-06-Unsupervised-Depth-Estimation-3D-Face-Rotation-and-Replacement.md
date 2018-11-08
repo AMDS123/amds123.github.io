@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Unsupervised Depth Estimation, 3D Face Rotation and Replacement"
+date: 2018-11-06 23:07:43
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Face
+author: Joel Ruben Antony Moniz, Christopher Beckham, Simon Rajotte, Sina Honari, Christopher Pal
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present an unsupervised approach for learning to estimate three dimensional (3D) facial structure from a single image while also predicting 3D viewpoint transformations that match a desired pose and facial geometry. We achieve this by inferring the depth of facial keypoints of an input image in an unsupervised manner, without using any form of ground-truth depth information. We show how it is possible to use these depths as intermediate computations within a new backpropable loss to predict the parameters of a 3D affine transformation matrix that maps inferred 3D keypoints of an input face to the corresponding 2D keypoints on a desired target facial geometry or pose. Our resulting approach, called DepthNets, can therefore be used to infer plausible 3D transformations from one face pose to another, allowing faces to be frontalized, transformed into 3D models or even warped to another pose and facial geometry. Lastly, we identify certain shortcomings with our formulation, and explore adversarial image translation techniques as a post-processing step to re-synthesize complete head shots for faces re-targeted to different poses or identities.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1803.09202](http://arxiv.org/abs/1803.09202)
+
+##### PDF
+[http://arxiv.org/pdf/1803.09202](http://arxiv.org/pdf/1803.09202)
+
