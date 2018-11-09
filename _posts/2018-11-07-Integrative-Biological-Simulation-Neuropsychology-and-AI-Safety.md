@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Integrative Biological Simulation, Neuropsychology, and AI Safety"
+date: 2018-11-07 01:38:24
+categories: arXiv_AI
+tags: arXiv_AI GAN
+author: Gopal P. Sarma, Adam Safron, Nick J. Hay
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a biologically-inspired research agenda with parallel tracks aimed at AI and AI safety. The bottom-up component consists of building a sequence of biophysically realistic simulations of simple organisms such as the nematode Caenorhabditis elegans, the fruit fly Drosophila melanogaster, and the zebrafish Danio rerio to serve as platforms for research into AI algorithms and system architectures. The top-down component consists of an approach to value alignment that grounds AI goal structures in neuropsychology. Our belief is that parallel pursuit of these tracks will inform the development of value-aligned AI systems that have been inspired by embodied organisms with sensorimotor integration. An important set of side benefits is that the research trajectories we describe here are grounded in long-standing intellectual traditions within existing research communities and funding structures. In addition, these research programs overlap with significant contemporary themes in the biological and psychological sciences such as data/model integration and reproducibility.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1811.03493](https://arxiv.org/abs/1811.03493)
+
+##### PDF
+[https://arxiv.org/pdf/1811.03493](https://arxiv.org/pdf/1811.03493)
+
