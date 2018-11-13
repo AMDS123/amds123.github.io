@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Reducing Network Agnostophobia"
+date: 2018-11-09 19:29:58
+categories: arXiv_CV
+tags: arXiv_CV Face Deep_Learning
+author: Akshay Raj Dhamija, Manuel G&#xfc;nther, Terrance E. Boult
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Agnostophobia, the fear of the unknown, can be experienced by deep learning engineers while applying their networks to real-world applications. Unfortunately, network behavior is not well defined for inputs far from a networks training set. In an uncontrolled environment, networks face many instances that are not of interest to them and have to be rejected in order to avoid a false positive. This problem has previously been tackled by researchers by either a) thresholding softmax, which by construction cannot return "none of the known classes", or b) using an additional background or garbage class. In this paper, we show that both of these approaches help, but are generally insufficient when previously unseen classes are encountered. We also introduce a new evaluation metric that focuses on comparing the performance of multiple approaches in scenarios where such unseen classes or unknowns are encountered. Our major contributions are simple yet effective Entropic Open-Set and Objectosphere losses that train networks using negative samples from some classes. These novel losses are designed to maximize entropy for unknown inputs while increasing separation in deep feature space by modifying magnitudes of known and unknown samples. Experiments on networks trained to classify classes from MNIST and CIFAR-10 show that our novel loss functions are significantly better at dealing with unknown inputs from datasets such as Devanagari, NotMNIST, CIFAR-100, and SVHN.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.04110](http://arxiv.org/abs/1811.04110)
+
+##### PDF
+[http://arxiv.org/pdf/1811.04110](http://arxiv.org/pdf/1811.04110)
+
