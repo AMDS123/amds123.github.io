@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Gradient Harmonized Single-stage Detector"
+date: 2018-11-13 09:47:52
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection GAN Classification Detection
+author: Buyu Li, Yu Liu, Xiaogang Wang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Despite the great success of two-stage detectors, single-stage detector is still a more elegant and efficient way, yet suffers from the two well-known disharmonies during training, i.e. the huge difference in quantity between positive and negative examples as well as between easy and hard examples. In this work, we first point out that the essential effect of the two disharmonies can be summarized in term of the gradient. Further, we propose a novel gradient harmonizing mechanism (GHM) to be a hedging for the disharmonies. The philosophy behind GHM can be easily embedded into both classification loss function like cross-entropy (CE) and regression loss function like smooth-$L_1$ ($SL_1$) loss. To this end, two novel loss functions called GHM-C and GHM-R are designed to balancing the gradient flow for anchor classification and bounding box refinement, respectively. Ablation study on MS COCO demonstrates that without laborious hyper-parameter tuning, both GHM-C and GHM-R can bring substantial improvement for single-stage detector. Without any whistles and bells, our model achieves 41.6 mAP on COCO test-dev set which surpasses the state-of-the-art method, Focal Loss (FL) + $SL_1$, by 0.8.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.05181](http://arxiv.org/abs/1811.05181)
+
+##### PDF
+[http://arxiv.org/pdf/1811.05181](http://arxiv.org/pdf/1811.05181)
+
