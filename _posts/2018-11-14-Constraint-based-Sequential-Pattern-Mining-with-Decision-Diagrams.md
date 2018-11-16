@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Constraint-based Sequential Pattern Mining with Decision Diagrams"
+date: 2018-11-14 21:54:58
+categories: arXiv_AI
+tags: arXiv_AI
+author: Amin Hosseininasab, Willem-Jan van Hoeve, Andre A. Cire
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Constrained sequential pattern mining aims at identifying frequent patterns on a sequential database of items while observing constraints defined over the item attributes. We introduce novel techniques for constraint-based sequential pattern mining that rely on a multi-valued decision diagram representation of the database. Specifically, our representation can accommodate multiple item attributes and various constraint types, including a number of non-monotone constraints. To evaluate the applicability of our approach, we develop an MDD-based prefix-projection algorithm and compare its performance against a typical generate-and-check variant, as well as a state-of-the-art constraint-based sequential pattern mining algorithm. Results show that our approach is competitive with or superior to these other methods in terms of scalability and efficiency.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.06086](http://arxiv.org/abs/1811.06086)
+
+##### PDF
+[http://arxiv.org/pdf/1811.06086](http://arxiv.org/pdf/1811.06086)
+
