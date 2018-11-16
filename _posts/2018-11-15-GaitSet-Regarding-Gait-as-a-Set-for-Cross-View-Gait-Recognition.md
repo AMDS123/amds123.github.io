@@ -1,0 +1,25 @@
+---
+layout: post
+title: "GaitSet: Regarding Gait as a Set for Cross-View Gait Recognition"
+date: 2018-11-15 05:23:14
+categories: arXiv_CV
+tags: arXiv_CV Recognition
+author: Hanqing Chao, Yiwei He, Junping Zhang, Jianfeng Feng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+As a unique biometric feature that can be recognized at a distance, gait has broad applications in crime prevention, forensic identification and social security. To portray a gait, existing gait recognition methods utilize either a gait template, where temporal information is hard to preserve, or a gait sequence, which must keep unnecessary sequential constraints and thus loses the flexibility of gait recognition. In this paper we present a novel perspective, where a gait is regarded as a set consisting of independent frames. We propose a new network named GaitSet to learn identity information from the set. Based on the set perspective, our method is immune to permutation of frames, and can naturally integrate frames from different videos which have been filmed under different scenarios, such as diverse viewing angles, different clothes/carrying conditions. Experiments show that under normal walking conditions, our single-model method achieves an average rank-1 accuracy of 95.0% on the CASIA-B gait dataset and an 87.1% accuracy on the OU-MVLP gait dataset. These results represent new state-of-the-art recognition accuracy. On various complex scenarios, our model exhibits a significant level of robustness. It achieves accuracies of 87.2% and 70.4% on CASIA-B under bag-carrying and coat-wearing walking conditions, respectively. These outperform the existing best methods by a large margin. The method presented can also achieve a satisfactory accuracy with a small number of frames in a test sample, e.g., 82.5% on CASIA-B with only 7 frames. The source code has been released at https://github.com/AbnerHqC/GaitSet.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.06186](http://arxiv.org/abs/1811.06186)
+
+##### PDF
+[http://arxiv.org/pdf/1811.06186](http://arxiv.org/pdf/1811.06186)
+
