@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Explicit Bias Discovery in Visual Question Answering Models"
+date: 2018-11-19 16:39:04
+categories: arXiv_CV
+tags: arXiv_CV QA Attention VQA
+author: Varun Manjunatha, Nirat Saini, Larry S. Davis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Researchers have observed that Visual Question Answering (VQA) models tend to answer questions by learning statistical biases in the data. For example, their answer to the question "What is the color of the grass?" is usually "Green", whereas a question like "What is the title of the book?" cannot be answered by inferring statistical biases. It is of interest to the community to explicitly discover such biases, both for understanding the behavior of such models, and towards debugging them. Our work address this problem. In a database, we store the words of the question, answer and visual words corresponding to regions of interest in attention maps. By running simple rule mining algorithms on this database, we discover human-interpretable rules which give us unique insight into the behavior of such models. Our results also show examples of unusual behaviors learned by models in attempting VQA tasks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.07789](http://arxiv.org/abs/1811.07789)
+
+##### PDF
+[http://arxiv.org/pdf/1811.07789](http://arxiv.org/pdf/1811.07789)
+
