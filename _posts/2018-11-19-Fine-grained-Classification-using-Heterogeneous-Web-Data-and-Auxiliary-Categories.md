@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Fine-grained Classification using Heterogeneous Web Data and Auxiliary Categories"
+date: 2018-11-19 09:28:15
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Classification
+author: Li Niu, Ashok Veeraraghavan, Ashu Sabharwal
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Fine-grained classification remains a very challenging problem, because of the absence of well-labeled training data caused by the high cost of annotating a large number of fine-grained categories. In the extreme case, given a set of test categories without any well-labeled training data, the majority of existing works can be grouped into the following two research directions: 1) crawl noisy labeled web data for the test categories as training data, which is dubbed as webly supervised learning; 2) transfer the knowledge from auxiliary categories with well-labeled training data to the test categories, which corresponds to zero-shot learning setting. Nevertheless, the above two research directions still have critical issues to be addressed. For the first direction, web data have noisy labels and considerably different data distribution from test data. For the second direction, zero-shot learning is struggling to achieve compelling results compared with conventional supervised learning. The issues of the above two directions motivate us to develop a novel approach which can jointly exploit both noisy web training data from test categories and well-labeled training data from auxiliary categories. In particular, on one hand, we crawl web data for test categories as noisy training data. On the other hand, we transfer the knowledge from auxiliary categories with well-labeled training data to test categories by virtue of free semantic information (e.g., word vector) of all categories. Moreover, given the fact that web data are generally associated with additional textual information (e.g., title and tag), we extend our method by using the surrounding textual information of web data as privileged information. Extensive experiments show the effectiveness of our proposed methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.07567](http://arxiv.org/abs/1811.07567)
+
+##### PDF
+[http://arxiv.org/pdf/1811.07567](http://arxiv.org/pdf/1811.07567)
+
