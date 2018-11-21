@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural Lander: Stable Drone Landing Control using Learned Dynamics"
+date: 2018-11-19 23:59:28
+categories: arXiv_RO
+tags: arXiv_RO Knowledge Drone
+author: Guanya Shi, Xichen Shi, Michael O&#x27;Connell, Rose Yu, Kamyar Azizzadenesheli, Animashree Anandkumar, Yisong Yue, Soon-Jo Chung
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Precise trajectory control near ground is difficult for multi-rotor drones, due to the complex ground effects caused by interactions between multi-rotor airflow and the environment. Conventional control methods often fail to properly account for these complex effects and fall short in accomplishing smooth landing. In this paper, we present a novel deep-learning-based robust nonlinear controller (Neural-Lander) that improves control performance of a quadrotor during landing. Our approach blends together a nominal dynamics model coupled with a Deep Neural Network (DNN) that learns the high-order interactions. We employ a novel application of spectral normalization to constrain the DNN to have bounded Lipschitz behavior. Leveraging this Lipschitz property, we design a nonlinear feedback linearization controller using the learned model and prove system stability with disturbance rejection. To the best of our knowledge, this is the first DNN-based nonlinear feedback controller with stability guarantees that can utilize arbitrarily large neural nets. Experimental results demonstrate that the proposed controller significantly outperforms a baseline linear proportional-derivative (PD) controller in both 1D and 3D landing cases. In particular, we show that compared to the PD controller, Neural-Lander can decrease error in z direction from 0.13m to zero, and mitigate average x and y drifts by 90% and 34% respectively, in 1D landing. Meanwhile, Neural-Lander can decrease z error from 0.12m to zero, in 3D landing. We also empirically show that the DNN generalizes well to new test inputs outside the training domain.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.08027](http://arxiv.org/abs/1811.08027)
+
+##### PDF
+[http://arxiv.org/pdf/1811.08027](http://arxiv.org/pdf/1811.08027)
+
