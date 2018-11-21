@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Semi-supervised Spatial Spectral Regularized Manifold Local Scaling Cut With HGF for Dimensionality Reduction of Hyperspectral Images"
+date: 2018-11-20 12:56:39
+categories: arXiv_CV
+tags: arXiv_CV Classification
+author: Ramanarayan Mohanty, SL Happy, Aurobinda Routray
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Hyperspectral images (HSI) contain a wealth of information over hundreds of contiguous spectral bands, making it possible to classify materials through subtle spectral discrepancies. However, the classification of this rich spectral information is accompanied by the challenges like high dimensionality, singularity, limited training samples, lack of labeled data samples, heteroscedasticity and nonlinearity. To address these challenges, we propose a semi-supervised graph based dimensionality reduction method named `semi-supervised spatial spectral regularized manifold local scaling cut' (S3RMLSC). The underlying idea of the proposed method is to exploit the limited labeled information from both the spectral and spatial domains along with the abundant unlabeled samples to facilitate the classification task by retaining the original distribution of the data. In S3RMLSC, a hierarchical guided filter (HGF) is initially used to smoothen the pixels of the HSI data to preserve the spatial pixel consistency. This step is followed by the construction of linear patches from the nonlinear manifold by using the maximal linear patch (MLP) criterion. Then the inter-patch and intra-patch dissimilarity matrices are constructed in both spectral and spatial domains by regularized manifold local scaling cut (RMLSC) and neighboring pixel manifold local scaling cut (NPMLSC) respectively. Finally, we obtain the projection matrix by optimizing the updated semi-supervised spatial-spectral between-patch and total-patch dissimilarity. The effectiveness of the proposed DR algorithm is illustrated with publicly available real-world HSI datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.08223](http://arxiv.org/abs/1811.08223)
+
+##### PDF
+[http://arxiv.org/pdf/1811.08223](http://arxiv.org/pdf/1811.08223)
+
