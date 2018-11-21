@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Do Better ImageNet Models Transfer Better?"
+date: 2018-11-19 20:14:42
+categories: arXiv_CV
+tags: arXiv_CV Regularization Image_Classification Transfer_Learning Classification Relation
+author: Simon Kornblith, Jonathon Shlens, Quoc V. Le
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Transfer learning is a cornerstone of computer vision, yet little work has been done to evaluate the relationship between architecture and transfer. An implicit hypothesis in modern computer vision research is that models that perform better on ImageNet necessarily perform better on other vision tasks. However, this hypothesis has never been systematically tested. Here, we compare the performance of 16 classification networks on 12 image classification datasets. We find that, when networks are used as fixed feature extractors or fine-tuned, there is a strong correlation between ImageNet accuracy and transfer accuracy ($r = 0.99$ and $0.96$, respectively). In the former setting, we find that this relationship is very sensitive to the way in which networks are trained on ImageNet; many common forms of regularization slightly improve ImageNet accuracy but yield penultimate layer features that are much worse for transfer learning. Additionally, we find that, on two small fine-grained image classification datasets, pretraining on ImageNet provides minimal benefits, indicating the learned features from ImageNet do not transfer well to fine-grained tasks. Together, our results show that ImageNet architectures generalize well across datasets, but ImageNet features are less general than previously suggested.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.08974](http://arxiv.org/abs/1805.08974)
+
+##### PDF
+[http://arxiv.org/pdf/1805.08974](http://arxiv.org/pdf/1805.08974)
+
