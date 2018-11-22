@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Automatic Language Identification in Texts: A Survey"
+date: 2018-11-21 11:43:29
+categories: arXiv_CL
+tags: arXiv_CL Survey
+author: Tommi Jauhiainen, Marco Lui, Marcos Zampieri, Timothy Baldwin, Krister Lind&#xe9;n
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Language identification (LI) is the problem of determining the natural language that a document or part thereof is written in. Automatic LI has been extensively researched for over fifty years. Today, LI is a key part of many text processing pipelines, as text processing techniques generally assume that the language of the input text is known. Research in this area has recently been especially active. This article provides a brief history of LI research, and an extensive survey of the features and methods used so far in the LI literature. For describing the features and methods we introduce a unified notation. We discuss evaluation methods, applications of LI, as well as off-the-shelf LI systems that do not require training by the end user. Finally, we identify open issues, survey the work to date on each issue, and propose future directions for research in LI.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1804.08186](http://arxiv.org/abs/1804.08186)
+
+##### PDF
+[http://arxiv.org/pdf/1804.08186](http://arxiv.org/pdf/1804.08186)
+
