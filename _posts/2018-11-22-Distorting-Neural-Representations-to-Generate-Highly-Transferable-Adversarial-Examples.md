@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Distorting Neural Representations to Generate Highly Transferable Adversarial Examples"
+date: 2018-11-22 04:35:26
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Object_Detection Segmentation Classification Detection Recognition
+author: Muzammal Naseer, Salman H. Khan, Shafin Rahman, Fatih Porikli
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks (DNN) can be easily fooled by adding human imperceptible perturbations to the images. These perturbed images are known as the `adversarial examples' that pose a serious threat to security and safety critical systems. A litmus test for the strength of adversarial examples is their transferability across different DNN models in a black box setting (i.i. when target model's architecture and parameters are not known to attacker). Current attack algorithms that seek to enhance adversarial transferability work on the decision level i.e. generate perturbations that alter the network decisions. This leads to two key limitations: (a) An attack is dependent on the task-specific loss function (e.g. softmax cross-entropy for object recognition) and therefore does not generalize beyond its original task. (b) The adversarial examples are specific to the network architecture and demonstrate poor transferability to other network architectures. We propose a novel approach to create adversarial examples that can broadly fool different networks on multiple tasks. Our approach is based on the following intuition: "Deep features are highly generalizable and show excellent performance across different tasks, therefore an ideal attack must create maximum distortions in the feature space to realize highly transferable examples". Specifically, for an input image, we calculate perturbations that push its feature representations furthest away from the original image features. We report extensive experiments to show how adversarial examples generalize across multiple networks across classification, object detection and segmentation tasks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.09020](http://arxiv.org/abs/1811.09020)
+
+##### PDF
+[http://arxiv.org/pdf/1811.09020](http://arxiv.org/pdf/1811.09020)
+
