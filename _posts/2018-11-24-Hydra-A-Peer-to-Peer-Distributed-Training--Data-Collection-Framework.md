@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Hydra: A Peer to Peer Distributed Training & Data Collection Framework"
+date: 2018-11-24 19:11:41
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning Deep_Learning
+author: Vaibhav Mathur, Karanbir Chahal
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The world needs diverse and unbiased data to train deep learning models. Currently data comes from a variety of sources that are unmoderated to a large extent. The outcomes of training neural networks with unverified data yields biased models with various strains of homophobia, sexism and racism. Another trend observed in the world of deep learning is the rise of distributed training. Although cloud companies provide high performance compute for training models in the form of GPU's connected with a low latency network, using these services comes at a high cost. We propose Hydra, a system that seeks to solve both of these problems in a novel manner by proposing a decentralized distributed framework which utilizes the substantial amount of idle compute of everyday electronic devices like smartphones and desktop computers for training and data collection purposes. Hydra couples a specialized distributed training framework on a network of these low powered devices with a reward scheme that incentivizes users to provide high quality data to unleash the compute capability on this training framework. Such a system has the ability to capture data from a wide variety of diverse sources which has been an issue in the current scenario of deep learning. Hydra brings in several new innovations in training on low powered devices including a fault tolerant version of the All Reduce algorithm. Furthermore we introduce a reinforcement learning policy to decide the size of training jobs on different machines on a heterogeneous cluster of devices with varying network latencies for Synchronous SGD. The novel thing about such a network is the ability of each machine to shut down and resume training capabilities at any point of time without restarting the overall training. To enable such an asynchronous behaviour we propose a communication framework inspired by the Bittorrent protocol and the Kademlia DHT.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1811.09878](https://arxiv.org/abs/1811.09878)
+
+##### PDF
+[https://arxiv.org/pdf/1811.09878](https://arxiv.org/pdf/1811.09878)
+
