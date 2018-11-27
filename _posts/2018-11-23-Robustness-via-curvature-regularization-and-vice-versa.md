@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robustness via curvature regularization, and vice versa"
+date: 2018-11-23 22:03:40
+categories: arXiv_CV
+tags: arXiv_CV Regularization Adversarial Face Classification Relation
+author: Seyed-Mohsen Moosavi-Dezfooli, Alhussein Fawzi, Jonathan Uesato, Pascal Frossard
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+State-of-the-art classifiers have been shown to be largely vulnerable to adversarial perturbations. One of the most effective strategies to improve robustness is adversarial training. In this paper, we investigate the effect of adversarial training on the geometry of the classification landscape and decision boundaries. We show in particular that adversarial training leads to a significant decrease in the curvature of the loss surface with respect to inputs, leading to a drastically more "linear" behaviour of the network. Using a locally quadratic approximation, we provide theoretical evidence on the existence of a strong relation between large robustness and small curvature. To further show the importance of reduced curvature for improving the robustness, we propose a new regularizer that directly minimizes curvature of the loss surface, and leads to adversarial robustness that is on par with adversarial training. Besides being a more efficient and principled alternative to adversarial training, the proposed regularizer confirms our claims on the importance of exhibiting quasi-linear behavior in the vicinity of data points in order to achieve robustness.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1811.09716](https://arxiv.org/abs/1811.09716)
+
+##### PDF
+[https://arxiv.org/pdf/1811.09716](https://arxiv.org/pdf/1811.09716)
+
