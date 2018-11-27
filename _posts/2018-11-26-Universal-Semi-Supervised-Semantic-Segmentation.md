@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Universal Semi-Supervised Semantic Segmentation"
+date: 2018-11-26 12:36:03
+categories: arXiv_CV
+tags: arXiv_CV Regularization Segmentation Semantic_Segmentation Quantitative
+author: Tarun Kalluri, Girish Varma, Manmohan Chandrakar, C V Jawahar
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In recent years, the need for semantic segmentation has arisen across several different applications and environments. However, the expense and redundancy of annotation often limits the quantity of labels available for training in any domain, while deployment is easier if a single model works well across domains. In this paper, we pose the novel problem of universal semi-supervised semantic segmentation and propose a solution framework, to meet the dual needs of lower annotation and deployment costs. In contrast to counterpoints such as fine tuning, joint training or unsupervised domain adaptation, universal semi-supervised segmentation ensures that across all domains: (i) a single model is deployed, (ii) unlabeled data is used, (iii) performance is improved, (iv) only a few labels are needed and (v) label spaces may differ. To address this, we minimize supervised as well as within and cross-domain unsupervised losses, introducing a novel feature alignment objective based on pixel-aware entropy regularization for the latter. We demonstrate quantitative advantages over other approaches on several combinations of segmentation datasets across different geographies (Germany, England, India) and environments (outdoors, indoors), as well as qualitative insights on the aligned representations.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1811.10323](https://arxiv.org/abs/1811.10323)
+
+##### PDF
+[https://arxiv.org/pdf/1811.10323](https://arxiv.org/pdf/1811.10323)
+
