@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robust Model-Aided Inertial Localization for Autonomous Underwater Vehicles"
+date: 2018-11-27 17:43:47
+categories: arXiv_RO
+tags: arXiv_RO
+author: Sascha Arnold, Lashika Medagoda
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper presents a manifold based Unscented Kalman Filter that applies a novel strategy for inertial, model-aiding and Acoustic Doppler Current Profiler (ADCP) measurement incorporation. The filter is capable of observing and utilizing the Earth rotation for heading estimation with a tactical grade IMU, and utilizes information from the vehicle model during DVL drop outs. The drag and thrust model-aiding accounts for the correlated nature of vehicle model parameter error by applying them as states in the filter. ADCP-aiding provides further information for the model-aiding in the case of DVL bottom-lock loss. Additionally this work was implemented using the MTK and ROCK framework in C++, and is capable of running in real-time on computing available on the FlatFish AUV. The IMU biases are estimated in a fully coupled approach in the navigation filter. Heading convergence is shown on a real-world data set. Further experiments show that the filter is capable of consistent positioning, and data denial validates the method for DVL dropouts due to very low or high altitude scenarios.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.08011](http://arxiv.org/abs/1805.08011)
+
+##### PDF
+[http://arxiv.org/pdf/1805.08011](http://arxiv.org/pdf/1805.08011)
+
