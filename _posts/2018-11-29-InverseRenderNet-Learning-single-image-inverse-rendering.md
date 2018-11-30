@@ -1,0 +1,25 @@
+---
+layout: post
+title: "InverseRenderNet: Learning single image inverse rendering"
+date: 2018-11-29 17:27:03
+categories: arXiv_CV
+tags: arXiv_CV CNN
+author: Ye Yu, William A. P. Smith
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We show how to train a fully convolutional neural network to perform inverse rendering from a single, uncontrolled image. The network takes an RGB image as input, regresses albedo and normal maps from which we compute lighting coefficients. Our network is trained using large uncontrolled image collections without ground truth. By incorporating a differentiable renderer, our network can learn from self-supervision. Since the problem is ill-posed we introduce additional supervision: 1. We learn a statistical natural illumination prior, 2. Our key insight is to perform offline multiview stereo (MVS) on images containing rich illumination variation. From the MVS pose and depth maps, we can cross project between overlapping views such that Siamese training can be used to ensure consistent estimation of photometric invariants. MVS depth also provides direct coarse supervision for normal map estimation. We believe this is the first attempt to use MVS supervision for learning inverse rendering.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.12328](http://arxiv.org/abs/1811.12328)
+
+##### PDF
+[http://arxiv.org/pdf/1811.12328](http://arxiv.org/pdf/1811.12328)
+
