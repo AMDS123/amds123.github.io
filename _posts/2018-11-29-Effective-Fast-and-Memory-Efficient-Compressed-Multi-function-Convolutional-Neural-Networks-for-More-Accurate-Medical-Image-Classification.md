@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Effective, Fast, and Memory-Efficient Compressed Multi-function Convolutional Neural Networks for More Accurate Medical Image Classification"
+date: 2018-11-29 07:33:23
+categories: arXiv_CV
+tags: arXiv_CV CNN Image_Classification Classification
+author: Luna M. Zhang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Convolutional Neural Networks (CNNs) usually use the same activation function, such as RELU, for all convolutional layers. There are performance limitations of just using RELU. In order to achieve better classification performance, reduce training and testing times, and reduce power consumption and memory usage, a new "Compressed Multi-function CNN" is developed. Google's Inception-V4, for example, is a very deep CNN that consists of 4 Inception-A blocks, 7 Inception-B blocks, and 3 Inception-C blocks. RELU is used for all convolutional layers. A new "Compressed Multi-function Inception-V4" (CMI) that can use different activation functions is created with k Inception-A blocks, m Inception-B blocks, and n Inception-C blocks where k in {1, 2, 3, 4}, m in {1, 2, 3, 4, 5, 6, 7}, n in {1, 2, 3}, and (k+m+n)&lt;14. For performance analysis, a dataset for classifying brain MRI images into one of the four stages of Alzheimer's disease is used to compare three CMI architectures with Inception-V4 in terms of F1-score, training and testing times (related to power consumption), and memory usage (model size). Overall, simulations show that the new CMI models can outperform both the commonly used Inception-V4 and Inception-V4 using different activation functions. In the future, other "Compressed Multi-function CNNs", such as "Compressed Multi-function ResNets and DenseNets" that have a reduced number of convolutional blocks using different activation functions, will be developed to further increase classification accuracy, reduce training and testing times, reduce computational power, and reduce memory usage (model size) for building more effective healthcare systems, such as implementing accurate and convenient disease diagnosis systems on mobile devices that have limited battery power and memory.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.11996](http://arxiv.org/abs/1811.11996)
+
+##### PDF
+[http://arxiv.org/pdf/1811.11996](http://arxiv.org/pdf/1811.11996)
+
