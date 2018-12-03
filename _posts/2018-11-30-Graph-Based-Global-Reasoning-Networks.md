@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Graph-Based Global Reasoning Networks"
+date: 2018-11-30 14:28:04
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Action_Recognition CNN Image_Classification Semantic_Segmentation Classification Relation Recognition
+author: Yunpeng Chen, Marcus Rohrbach, Zhicheng Yan, Shuicheng Yan, Jiashi Feng, Yannis Kalantidis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Globally modeling and reasoning over relations between regions can be beneficial for many computer vision tasks on both images and videos. Convolutional Neural Networks (CNNs) excel at modeling local relations by convolution operations, but they are typically inefficient at capturing global relations between distant regions and require stacking multiple convolution layers. In this work, we propose a new approach for reasoning globally in which a set of features are globally aggregated over the coordinate space and then projected to an interaction space where relational reasoning can be efficiently computed. After reasoning, relation-aware features are distributed back to the original coordinate space for down-stream tasks. We further present a highly efficient instantiation of the proposed approach and introduce the Global Reasoning unit (GloRe unit) that implements the coordinate-interaction space mapping by weighted global pooling and weighted broadcasting, and the relation reasoning via graph convolution on a small graph in interaction space. The proposed GloRe unit is lightweight, end-to-end trainable and can be easily plugged into existing CNNs for a wide range of tasks. Extensive experiments show our GloRe unit can consistently boost the performance of state-of-the-art backbone architectures, including ResNet, ResNeXt, SE-Net and DPN, for both 2D and 3D CNNs, on image classification, semantic segmentation and video action recognition task.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.12814](http://arxiv.org/abs/1811.12814)
+
+##### PDF
+[http://arxiv.org/pdf/1811.12814](http://arxiv.org/pdf/1811.12814)
+
