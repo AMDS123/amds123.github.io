@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Instance-level Facial Attributes Transfer with Geometry-Aware Flow"
+date: 2018-11-30 08:43:00
+categories: arXiv_CV
+tags: arXiv_CV Face
+author: Weidong Yin, Ziwei Liu, Chen Change Loy
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We address the problem of instance-level facial attribute transfer without paired training data, e.g. faithfully transferring the exact mustache from a source face to a target face. This is a more challenging task than the conventional semantic-level attribute transfer, which only preserves the generic attribute style instead of instance-level traits. We propose the use of geometry-aware flow, which serves as a well-suited representation for modeling the transformation between instance-level facial attributes. Specifically, we leverage the facial landmarks as the geometric guidance to learn the differentiable flows automatically, despite of the large pose gap existed. Geometry-aware flow is able to warp the source face attribute into the target face context and generate a warp-and-blend result. To compensate for the potential appearance gap between source and target faces, we propose a hallucination sub-network that produces an appearance residual to further refine the warp-and-blend result. Finally, a cycle-consistency framework consisting of both attribute transfer module and attribute removal module is designed, so that abundant unpaired face images can be used as training data. Extensive evaluations validate the capability of our approach in transferring instance-level facial attributes faithfully across large pose and appearance gaps. Thanks to the flow representation, our approach can readily be applied to generate realistic details on high-resolution images.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.12670](http://arxiv.org/abs/1811.12670)
+
+##### PDF
+[http://arxiv.org/pdf/1811.12670](http://arxiv.org/pdf/1811.12670)
+
