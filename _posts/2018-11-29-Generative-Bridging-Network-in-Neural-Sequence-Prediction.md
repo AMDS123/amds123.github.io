@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Generative Bridging Network in Neural Sequence Prediction"
+date: 2018-11-29 22:29:53
+categories: arXiv_AI
+tags: arXiv_AI Summarization Prediction
+author: Wenhu Chen, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, Ming Zhou
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In order to alleviate data sparsity and overfitting problems in maximum likelihood estimation (MLE) for sequence prediction tasks, we propose the Generative Bridging Network (GBN), in which a novel bridge module is introduced to assist the training of the sequence prediction model (the generator network). Unlike MLE directly maximizing the conditional likelihood, the bridge extends the point-wise ground truth to a bridge distribution conditioned on it, and the generator is optimized to minimize their KL-divergence. Three different GBNs, namely uniform GBN, language-model GBN and coaching GBN, are proposed to penalize confidence, enhance language smoothness and relieve learning burden. Experiments conducted on two recognized sequence prediction tasks (machine translation and abstractive text summarization) show that our proposed GBNs can yield significant improvements over strong baselines. Furthermore, by analyzing samples drawn from different bridges, expected influences on the generator are verified.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1706.09152](http://arxiv.org/abs/1706.09152)
+
+##### PDF
+[http://arxiv.org/pdf/1706.09152](http://arxiv.org/pdf/1706.09152)
+
