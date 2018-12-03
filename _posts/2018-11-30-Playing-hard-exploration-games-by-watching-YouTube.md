@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Playing hard exploration games by watching YouTube"
+date: 2018-11-30 15:59:27
+categories: arXiv_AI
+tags: arXiv_AI Sparse Reinforcement_Learning
+author: Yusuf Aytar, Tobias Pfaff, David Budden, Tom Le Paine, Ziyu Wang, Nando de Freitas
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep reinforcement learning methods traditionally struggle with tasks where environment rewards are particularly sparse. One successful method of guiding exploration in these domains is to imitate trajectories provided by a human demonstrator. However, these demonstrations are typically collected under artificial conditions, i.e. with access to the agent's exact environment setup and the demonstrator's action and reward trajectories. Here we propose a two-stage method that overcomes these limitations by relying on noisy, unaligned footage without access to such data. First, we learn to map unaligned videos from multiple sources to a common representation using self-supervised objectives constructed over both time and modality (i.e. vision and sound). Second, we embed a single YouTube video in this representation to construct a reward function that encourages an agent to imitate human gameplay. This method of one-shot imitation allows our agent to convincingly exceed human-level performance on the infamously hard exploration games Montezuma's Revenge, Pitfall! and Private Eye for the first time, even if the agent is not presented with any environment rewards.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.11592](http://arxiv.org/abs/1805.11592)
+
+##### PDF
+[http://arxiv.org/pdf/1805.11592](http://arxiv.org/pdf/1805.11592)
+
