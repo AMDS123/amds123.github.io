@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Snapshot Distillation: Teacher-Student Optimization in One Generation"
+date: 2018-12-01 02:08:38
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Segmentation Image_Classification Semantic_Segmentation Optimization Classification Detection
+author: Chenglin Yang, Lingxi Xie, Chi Su, Alan L. Yuille
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Optimizing a deep neural network is a fundamental task in computer vision, yet direct training methods often suffer from over-fitting. Teacher-student optimization aims at providing complementary cues from a model trained previously, but these approaches are often considerably slow due to the pipeline of training a few generations in sequence, i.e., time complexity is increased by several times. 
+ This paper presents snapshot distillation (SD), the first framework which enables teacher-student optimization in one generation. The idea of SD is very simple: instead of borrowing supervision signals from previous generations, we extract such information from earlier epochs in the same generation, meanwhile make sure that the difference between teacher and student is sufficiently large so as to prevent under-fitting. To achieve this goal, we implement SD in a cyclic learning rate policy, in which the last snapshot of each cycle is used as the teacher for all iterations in the next cycle, and the teacher signal is smoothed to provide richer information. In standard image classification benchmarks such as CIFAR100 and ILSVRC2012, SD achieves consistent accuracy gain without heavy computational overheads. We also verify that models pre-trained with SD transfers well to object detection and semantic segmentation in the PascalVOC dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.00123](http://arxiv.org/abs/1812.00123)
+
+##### PDF
+[http://arxiv.org/pdf/1812.00123](http://arxiv.org/pdf/1812.00123)
+
