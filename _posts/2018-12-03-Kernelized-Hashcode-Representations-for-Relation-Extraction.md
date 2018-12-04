@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Kernelized Hashcode Representations for Relation Extraction"
+date: 2018-12-03 17:17:25
+categories: arXiv_CL
+tags: arXiv_CL Relation_Extraction Classification Relation
+author: Sahil Garg, Aram Galstyan, Greg Ver Steeg, Irina Rish, Guillermo Cecchi, Shuyang Gao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Kernel methods have produced state-of-the-art results for a number of NLP tasks such as relation extraction, but suffer from poor scalability due to the high cost of computing kernel similarities between natural language structures. A recently proposed technique, kernelized locality-sensitive hashing (KLSH), can significantly reduce the computational cost, but is only applicable to classifiers operating on kNN graphs. Here we propose to use random subspaces of KLSH codes for efficiently constructing an explicit representation of NLP structures suitable for general classification methods. Further, we propose an approach for optimizing the KLSH model for classification problems by maximizing an approximation of mutual information between the KLSH codes (feature vectors) and the class labels. We evaluate the proposed approach on biomedical relation extraction datasets, and observe significant and robust improvements in accuracy w.r.t. state-of-the-art classifiers, along with drastic (orders-of-magnitude) speedup compared to conventional kernel methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1711.04044](http://arxiv.org/abs/1711.04044)
+
+##### PDF
+[http://arxiv.org/pdf/1711.04044](http://arxiv.org/pdf/1711.04044)
+
