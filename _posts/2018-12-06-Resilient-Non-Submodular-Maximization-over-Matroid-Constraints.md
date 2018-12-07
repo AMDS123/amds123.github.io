@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Resilient Non-Submodular Maximization over Matroid Constraints"
+date: 2018-12-06 00:59:35
+categories: arXiv_RO
+tags: arXiv_RO Optimization
+author: Vasileios Tzoumas, Ali Jadbabaie, George J. Pappas
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The control and sensing of large-scale systems results in combinatorial problems not only for sensor and actuator placement but also for scheduling or observability/controllability. Such combinatorial constraints in system design and implementation can be captured using a structure known as matroids. In particular, the algebraic structure of matroids can be exploited to develop scalable algorithms for sensor and actuator selection, along with quantifiable approximation bounds. However, in large-scale systems, sensors and actuators may fail or may be (cyber-)attacked. The objective of this paper is to focus on resilient matroid-constrained problems arising in control and sensing but in the presence of sensor and actuator failures. In general, resilient matroid-constrained problems are computationally hard. Contrary to the non-resilient case (with no failures), even though they often involve objective functions that are monotone or submodular, no scalable approximation algorithms are known for their solution. In this paper, we provide the first algorithm, that also has the following properties: First, it achieves system-wide resiliency, i.e., the algorithm is valid for any number of denial-of-service attacks or failures. Second, it is scalable, as our algorithm terminates with the same running time as state-of-the-art algorithms for (non-resilient) matroid-constrained optimization. Third, it provides provable approximation bounds on the system performance, since for monotone objective functions our algorithm guarantees a solution close to the optimal. We quantify our algorithm's approximation performance using a notion of curvature for monotone (not necessarily submodular) set functions. Finally, we support our theoretical analyses with numerical experiments, by considering a control-aware sensor selection scenario, namely, sensing-constrained robot navigation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1804.01013](http://arxiv.org/abs/1804.01013)
+
+##### PDF
+[http://arxiv.org/pdf/1804.01013](http://arxiv.org/pdf/1804.01013)
+
