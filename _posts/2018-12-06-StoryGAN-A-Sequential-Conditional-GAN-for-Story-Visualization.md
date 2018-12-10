@@ -1,0 +1,25 @@
+---
+layout: post
+title: "StoryGAN: A Sequential Conditional GAN for Story Visualization"
+date: 2018-12-06 20:10:23
+categories: arXiv_CV
+tags: arXiv_CV GAN
+author: Yitong Li, Zhe Gan, Yelong Shen, Jingjing Liu, Yu Cheng, Yuexin Wu, Lawrence Carin, David Carlson, Jianfeng Gao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this work we propose a new task called Story Visualization. Given a multi-sentence paragraph, the story is visualized by generating a sequence of images, one for each sentence. In contrast to video generation, story visualization focuses less on the continuity in generated images (frames), but more on the global consistency across dynamic scenes and characters -- a challenge that has not been addressed by any single-image or video generation methods. Therefore, we propose a new story-to-image-sequence generation model, StoryGAN, based on the sequential conditional GAN framework. Our model is unique in that it consists of a deep Context Encoder that dynamically tracks the story flow, and two discriminators at the story and image levels, respectively, to enhance the image quality and the consistency of the generated sequences. To evaluate the model, we modified existing datasets to create the CLEVR-SV and Pororo-SV datasets. Empirically, StoryGAN outperformed state-of-the-art models in image quality, contextual consistency metrics, and human evaluation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.02784](http://arxiv.org/abs/1812.02784)
+
+##### PDF
+[http://arxiv.org/pdf/1812.02784](http://arxiv.org/pdf/1812.02784)
+
