@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Classification-Reconstruction Learning for Open-Set Recognition"
+date: 2018-12-11 07:34:28
+categories: arXiv_CV
+tags: arXiv_CV Classification Detection Recognition
+author: Ryota Yoshihashi, Wen Shao, Rei Kawakami, Shaodi You, Makoto Iida, Takeshi Naemura
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Open-set classification is a problem of handling `unknown' classes that are not contained in the training dataset, whereas traditional classifiers assume that only known classes appear in the test environment. Existing open-set classifiers rely on deep networks trained in a supervised manner on known classes in the training set; this causes specialization of learned representations to known classes and makes it hard to distinguish unknowns from knowns. In contrast, we train networks for joint classification and reconstruction of input data. This enhances the learned representation so as to preserve information useful for separating unknowns from knowns, as well as to discriminate classes of knowns. Our novel Classification-Reconstruction learning for Open-Set Recognition (CROSR) utilizes latent representations for reconstruction and enables robust unknown detection without harming the known-class classification accuracy. Extensive experiments reveal that the proposed method outperforms existing deep open-set classifiers in multiple standard datasets and is robust to diverse outliers.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.04246](http://arxiv.org/abs/1812.04246)
+
+##### PDF
+[http://arxiv.org/pdf/1812.04246](http://arxiv.org/pdf/1812.04246)
+
