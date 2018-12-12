@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Adversarial Framing for Image and Video Classification"
+date: 2018-12-11 18:39:29
+categories: arXiv_AI
+tags: arXiv_AI Adversarial Video_Classification Classification
+author: Micha&#x142; Zaj&#x105;c, Konrad &#x17b;o&#x142;na, Negar Rostamzadeh, Pedro O. Pinheiro
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural networks are prone to adversarial attacks. In general, such attacks deteriorate the quality of the input by either slightly modifying most of its pixels, or by occluding it with a patch. In this paper, we propose a method that keeps the image unchanged and only adds an adversarial framing on the border of the image. We show empirically that our method is able to successfully attack state-of-the-art methods on both image and video classification problems. Notably, the proposed method results in a universal attack which is very fast at test time. Source code can be found at https://github.com/zajaczajac/adv_framing .
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.04599](http://arxiv.org/abs/1812.04599)
+
+##### PDF
+[http://arxiv.org/pdf/1812.04599](http://arxiv.org/pdf/1812.04599)
+
