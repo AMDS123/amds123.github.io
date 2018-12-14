@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Abstractive Text Summarization by Incorporating Reader Comments"
+date: 2018-12-13 13:13:23
+categories: arXiv_AI
+tags: arXiv_AI Adversarial Attention Summarization
+author: Shen Gao, Xiuying Chen, Piji Li, Zhaochun Ren, Lidong Bing, Dongyan Zhao, Rui Yan
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In neural abstractive summarization field, conventional sequence-to-sequence based models often suffer from summarizing the wrong aspect of the document with respect to the main aspect. To tackle this problem, we propose the task of reader-aware abstractive summary generation, which utilizes the reader comments to help the model produce better summary about the main aspect. Unlike traditional abstractive summarization task, reader-aware summarization confronts two main challenges: (1) Comments are informal and noisy; (2) jointly modeling the news document and the reader comments is challenging. To tackle the above challenges, we design an adversarial learning model named reader-aware summary generator (RASG), which consists of four components: (1) a sequence-to-sequence based summary generator; (2) a reader attention module capturing the reader focused aspects; (3) a supervisor modeling the semantic gap between the generated summary and reader focused aspects; (4) a goal tracker producing the goal for each generation step. The supervisor and the goal tacker are used to guide the training of our framework in an adversarial manner. Extensive experiments are conducted on our large-scale real-world text summarization dataset, and the results show that RASG achieves the state-of-the-art performance in terms of both automatic metrics and human evaluations. The experimental results also demonstrate the effectiveness of each module in our framework. We release our large-scale dataset for further research.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.05407](http://arxiv.org/abs/1812.05407)
+
+##### PDF
+[http://arxiv.org/pdf/1812.05407](http://arxiv.org/pdf/1812.05407)
+
