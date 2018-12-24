@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Dreaming neural networks: rigorous results"
+date: 2018-12-21 12:29:48
+categories: arXiv_AI
+tags: arXiv_AI
+author: Elena Agliari, Francesco Alemanno, Adriano Barra, Alberto Fachechi
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Recently a daily routine for associative neural networks has been proposed: the network Hebbian-learns during the awake state (thus behaving as a standard Hopfield model), then, during its sleep state, optimizing information storage, it consolidates pure patterns and removes spurious ones: this forces the synaptic matrix to collapse to the projector one (ultimately approaching the Kanter-Sompolinksy model). This procedure keeps the learning Hebbian-based (a biological must) but, by taking advantage of a (properly stylized) sleep phase, still reaches the maximal critical capacity (for symmetric interactions). So far this emerging picture (as well as the bulk of papers on unlearning techniques) was supported solely by mathematically-challenging routes, e.g. mainly replica-trick analysis and numerical simulations: here we rely extensively on Guerra's interpolation techniques developed for neural networks and, in particular, we extend the generalized stochastic stability approach to the case. Confining our description within the replica symmetric approximation (where the previous ones lie), the picture painted regarding this generalization (and the previously existing variations on theme) is here entirely confirmed. Further, still relying on Guerra's schemes, we develop a systematic fluctuation analysis to check where ergodicity is broken (an analysis entirely absent in previous investigations). We find that, as long as the network is awake, ergodicity is bounded by the Amit-Gutfreund-Sompolinsky critical line (as it should), but, as the network sleeps, sleeping destroys spin glass states by extending both the retrieval as well as the ergodic region: after an entire sleeping session the solely surviving regions are retrieval and ergodic ones and this allows the network to achieve the perfect retrieval regime (the number of storable patterns equals the number of neurons in the network).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.09077](http://arxiv.org/abs/1812.09077)
+
+##### PDF
+[http://arxiv.org/pdf/1812.09077](http://arxiv.org/pdf/1812.09077)
+
