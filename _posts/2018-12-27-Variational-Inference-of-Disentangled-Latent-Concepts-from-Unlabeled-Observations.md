@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Variational Inference of Disentangled Latent Concepts from Unlabeled Observations"
+date: 2018-12-27 19:25:22
+categories: arXiv_AI
+tags: arXiv_AI Inference
+author: Abhishek Kumar, Prasanna Sattigeri, Avinash Balakrishnan
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Disentangled representations, where the higher level data generative factors are reflected in disjoint latent dimensions, offer several benefits such as ease of deriving invariant representations, transferability to other tasks, interpretability, etc. We consider the problem of unsupervised learning of disentangled representations from large pool of unlabeled observations, and propose a variational inference based approach to infer disentangled latent factors. We introduce a regularizer on the expectation of the approximate posterior over observed data that encourages the disentanglement. We also propose a new disentanglement metric which is better aligned with the qualitative disentanglement observed in the decoder's output. We empirically observe significant improvement over existing methods in terms of both disentanglement and data likelihood (reconstruction quality).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1711.00848](http://arxiv.org/abs/1711.00848)
+
+##### PDF
+[http://arxiv.org/pdf/1711.00848](http://arxiv.org/pdf/1711.00848)
+
