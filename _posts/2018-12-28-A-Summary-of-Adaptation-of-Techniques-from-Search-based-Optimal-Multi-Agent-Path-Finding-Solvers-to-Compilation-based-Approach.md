@@ -1,0 +1,27 @@
+---
+layout: post
+title: "A Summary of Adaptation of Techniques from Search-based Optimal Multi-Agent Path Finding Solvers to Compilation-based Approach"
+date: 2018-12-28 00:36:29
+categories: arXiv_AI
+tags: arXiv_AI
+author: Pavel Surynek
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In the multi-agent path finding problem (MAPF) we are given a set of agents each with respective start and goal positions. The task is to find paths for all agents while avoiding collisions aiming to minimize an objective function. Two such common objective functions is the sum-of-costs and the makespan. Many optimal solvers were introduced in the past decade - two prominent categories of solvers can be distinguished: search-based solvers and compilation-based solvers. 
+ Search-based solvers were developed and tested for the sum-of-costs objective while the most prominent compilation-based solvers that are built around Boolean satisfiability (SAT) were designed for the makespan objective. Very little was known on the performance and relevance of the compilation-based approach on the sum-of-costs objective. In this paper we show how to close the gap between these cost functions in the compilation-based approach. Moreover we study applicability of various techniques developed for search-based solvers in the compilation-based approach. 
+ A part of this paper introduces a SAT-solver that is directly aimed to solve the sum-of-costs objective function. Using both a lower bound on the sum-of-costs and an upper bound on the makespan, we are able to have a reasonable number of variables in our SAT encoding. We then further improve the encoding by borrowing ideas from ICTS, a search-based solver. Experimental evaluation on several domains show that there are many scenarios where our new SAT-based methods outperforms the best variants of previous sum-of-costs search solvers - the ICTS, CBS algorithms, and ICBS algorithms.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.10851](http://arxiv.org/abs/1812.10851)
+
+##### PDF
+[http://arxiv.org/pdf/1812.10851](http://arxiv.org/pdf/1812.10851)
+
