@@ -1,0 +1,25 @@
+---
+layout: post
+title: "3D Object Detection Using Scale Invariant and Feature Reweighting Networks"
+date: 2019-01-08 10:31:38
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Sparse Segmentation Detection
+author: Xin Zhao, Zhe Liu, Ruolan Hu, Kaiqi Huang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+3D object detection plays an important role in a large number of real-world applications. It requires us to estimate the localizations and the orientations of 3D objects in real scenes. In this paper, we present a new network architecture which focuses on utilizing the front view images and frustum point clouds to generate 3D detection results. On the one hand, a PointSIFT module is utilized to improve the performance of 3D segmentation. It can capture the information from different orientations in space and the robustness to different scale shapes. On the other hand, our network obtains the useful features and suppresses the features with less information by a SENet module. This module reweights channel features and estimates the 3D bounding boxes more effectively. Our method is evaluated on both KITTI dataset for outdoor scenes and SUN-RGBD dataset for indoor scenes. The experimental results illustrate that our method achieves better performance than the state-of-the-art methods especially when point clouds are highly sparse.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.02237](http://arxiv.org/abs/1901.02237)
+
+##### PDF
+[http://arxiv.org/pdf/1901.02237](http://arxiv.org/pdf/1901.02237)
+
