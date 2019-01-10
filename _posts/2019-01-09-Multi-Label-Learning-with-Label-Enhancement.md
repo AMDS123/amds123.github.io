@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Multi-Label Learning with Label Enhancement"
+date: 2019-01-09 13:41:45
+categories: arXiv_CV
+tags: arXiv_CV
+author: Ruifeng Shao, Ning Xu, Xin Geng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The task of multi-label learning is to predict a set of relevant labels for the unseen instance. Traditional multi-label learning algorithms treat each class label as a logical indicator of whether the corresponding label is relevant or irrelevant to the instance, i.e., +1 represents relevant to the instance and -1 represents irrelevant to the instance. Such label represented by -1 or +1 is called logical label. Logical label cannot reflect different label importance. However, for real-world multi-label learning problems, the importance of each possible label is generally different. For the real applications, it is difficult to obtain the label importance information directly. Thus we need a method to reconstruct the essential label importance from the logical multilabel data. To solve this problem, we assume that each multi-label instance is described by a vector of latent real-valued labels, which can reflect the importance of the corresponding labels. Such label is called numerical label. The process of reconstructing the numerical labels from the logical multi-label data via utilizing the logical label information and the topological structure in the feature space is called Label Enhancement. In this paper, we propose a novel multi-label learning framework called LEMLL, i.e., Label Enhanced Multi-Label Learning, which incorporates regression of the numerical labels and label enhancement into a unified framework. Extensive comparative studies validate that the performance of multi-label learning can be improved significantly with label enhancement and LEMLL can effectively reconstruct latent label importance information from logical multi-label data.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1706.08323](http://arxiv.org/abs/1706.08323)
+
+##### PDF
+[http://arxiv.org/pdf/1706.08323](http://arxiv.org/pdf/1706.08323)
+
