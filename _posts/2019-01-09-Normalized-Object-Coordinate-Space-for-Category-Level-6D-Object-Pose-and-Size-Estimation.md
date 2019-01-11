@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation"
+date: 2019-01-09 23:31:40
+categories: arXiv_CV
+tags: arXiv_CV Pose_Estimation Prediction
+author: He Wang, Srinath Sridhar, Jingwei Huang, Julien Valentin, Shuran Song, Leonidas J. Guibas
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The goal of this paper is to estimate the 6D pose and dimensions of unseen object instances in an RGB-D image. Contrary to "instance-level" 6D pose estimation tasks, our problem assumes that no exact object CAD models are available during either training or testing time. To handle different and unseen object instances in a given category, we introduce a Normalized Object Coordinate Space (NOCS)---a shared canonical representation for all possible object instances within a category. Our region-based neural network is then trained to directly infer the correspondence from observed pixels to this shared object representation (NOCS) along with other object information such as class label and instance mask. These predictions can be combined with the depth map to jointly estimate the metric 6D pose and dimensions of multiple objects in a cluttered scene. To train our network, we present a new context-aware technique to generate large amounts of fully annotated mixed reality data. To further improve our model and evaluate its performance on real data, we also provide a fully annotated real-world dataset with large environment and instance variation. Extensive experiments demonstrate that the proposed method is able to robustly estimate the pose and size of unseen object instances in real environments while also achieving state-of-the-art performance on standard 6D pose estimation benchmarks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1901.02970](https://arxiv.org/abs/1901.02970)
+
+##### PDF
+[https://arxiv.org/pdf/1901.02970](https://arxiv.org/pdf/1901.02970)
+
