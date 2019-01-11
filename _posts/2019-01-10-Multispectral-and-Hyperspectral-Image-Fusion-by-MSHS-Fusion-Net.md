@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net"
+date: 2019-01-10 17:16:59
+categories: arXiv_CV
+tags: arXiv_CV Knowledge CNN Deep_Learning Quantitative
+author: Qi Xie, Minghao Zhou, Qian Zhao, Deyu Meng, Wangmeng Zuo, Zongben Xu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Hyperspectral imaging can help better understand the characteristics of different materials, compared with traditional image systems. However, only high-resolution multispectral (HrMS) and low-resolution hyperspectral (LrHS) images can generally be captured at video rate in practice. In this paper, we propose a model-based deep learning approach for merging an HrMS and LrHS images to generate a high-resolution hyperspectral (HrHS) image. In specific, we construct a novel MS/HS fusion model which takes the observation models of low-resolution images and the low-rankness knowledge along the spectral mode of HrHS image into consideration. Then we design an iterative algorithm to solve the model by exploiting the proximal gradient method. And then, by unfolding the designed algorithm, we construct a deep network, called MS/HS Fusion Net, with learning the proximal operators and model parameters by convolutional neural networks. Experimental results on simulated and real data substantiate the superiority of our method both visually and quantitatively as compared with state-of-the-art methods along this line of research.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1901.03281](https://arxiv.org/abs/1901.03281)
+
+##### PDF
+[https://arxiv.org/pdf/1901.03281](https://arxiv.org/pdf/1901.03281)
+
