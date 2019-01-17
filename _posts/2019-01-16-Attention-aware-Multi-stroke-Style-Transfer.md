@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Attention-aware Multi-stroke Style Transfer"
+date: 2019-01-16 03:40:27
+categories: arXiv_CV
+tags: arXiv_CV Salient Attention Style_Transfer
+author: Yuan Yao, Jianqiang Ren, Xuansong Xie, Weidong Liu, Yong-Jin Liu, Jun Wang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural style transfer has drawn considerable attention from both academic and industrial field. Although visual effect and efficiency have been significantly improved, existing methods are unable to coordinate spatial distribution of visual attention between the content image and stylized image, or render diverse level of detail via different brush strokes. In this paper, we tackle these limitations by developing an attention-aware multi-stroke style transfer model. We first propose to assemble self-attention mechanism into a style-agnostic reconstruction autoencoder framework, from which the attention map of a content image can be derived. By performing multi-scale style swap on content features and style features, we produce multiple feature maps reflecting different stroke patterns. A flexible fusion strategy is further presented to incorporate the salient characteristics from the attention map, which allows integrating multiple stroke patterns into different spatial regions of the output image harmoniously. We demonstrate the effectiveness of our method, as well as generate comparable stylized images with multiple stroke patterns against the state-of-the-art methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.05127](http://arxiv.org/abs/1901.05127)
+
+##### PDF
+[http://arxiv.org/pdf/1901.05127](http://arxiv.org/pdf/1901.05127)
+
