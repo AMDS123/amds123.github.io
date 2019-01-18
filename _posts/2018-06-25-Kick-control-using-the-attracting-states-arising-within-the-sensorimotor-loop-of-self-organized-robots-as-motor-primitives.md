@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Kick control: using the attracting states arising within the sensorimotor loop of self-organized robots as motor primitives"
+date: 2018-06-25 08:21:09
+categories: arXiv_RO
+tags: arXiv_RO GAN
+author: Bulcs&#xfa; S&#xe1;ndor, Michael Nowak, Tim Koglin, Laura Martin, Claudius Gros
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Self-organized robots may develop attracting states within the sensorimotor loop, that is within the phase space of neural activity, body, and environmental variables. Fixpoints, limit cycles, and chaotic attractors correspond in this setting to a non-moving robot, to directed, and to irregular locomotion respectively. Short higher-order control commands may hence be used to kick the system from one self-organized attractor robustly into the basin of attraction of a different attractor, a concept termed here as kick control. The individual sensorimotor states serve in this context as highly compliant motor primitives. 
+ We study different implementations of kick control for the case of simulated and real-world wheeled robots, for which the dynamics of the distinct wheels is generated independently by local feedback loops. The feedback loops are mediated by rate-encoding neurons disposing exclusively of propriosensoric inputs in terms of projections of the actual rotational angle of the wheel. The changes of the neural activity are then transmitted into a rotational motion by a simulated transmission rod akin to the transmission rods used for steam locomotives. 
+ We find that the self-organized attractor landscape may be morphed both by higher-level control signals, in the spirit of kick control, and by interacting with the environment. Bumping against a wall destroys the limit cycle corresponding to forward motion, with the consequence that the dynamical variables are then attracted in phase space by the limit cycle corresponding to backward moving. The robot, which does not dispose of any distance or contact sensors, hence reverses direction autonomously.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1806.09321](http://arxiv.org/abs/1806.09321)
+
+##### PDF
+[http://arxiv.org/pdf/1806.09321](http://arxiv.org/pdf/1806.09321)
+
