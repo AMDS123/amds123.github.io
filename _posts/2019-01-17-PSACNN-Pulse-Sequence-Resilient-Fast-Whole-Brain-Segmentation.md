@@ -1,0 +1,25 @@
+---
+layout: post
+title: "PSACNN: Pulse Sequence Resilient Fast Whole Brain Segmentation"
+date: 2019-01-17 19:58:39
+categories: arXiv_CV
+tags: arXiv_CV Segmentation CNN
+author: Amod Jog, Andrew Hoopes, Douglas N. Greves, Koen Van Leemput, Bruce Fischl
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+With the advent of convolutional neural networks~(CNN), supervised learning methods are increasingly being used for whole brain segmentation. However, a large, manually annotated training dataset of labeled brain images required to train such supervised methods is frequently difficult to obtain or create. In addition, existing training datasets are generally acquired with a homogeneous magnetic resonance imaging~(MRI) acquisition protocol. CNNs trained on such datasets are unable to generalize on test data with different acquisition protocols. Modern neuroimaging studies and clinical trials are necessarily multi-center initiatives with a wide variety of acquisition protocols. Despite stringent protocol harmonization practices, it is very difficult to standardize the gamut of MRI imaging parameters across scanners, field strengths, receive coils etc., that affect image contrast. In this paper we propose a CNN-based segmentation algorithm that, in addition to being highly accurate and fast, is also resilient to variation in the input acquisition. Our approach relies on building approximate forward models of pulse sequences that produce a typical test image. For a given pulse sequence, we use its forward model to generate plausible, synthetic training examples that appear as if they were acquired in a scanner with that pulse sequence. Sampling over a wide variety of pulse sequences results in a wide variety of augmented training examples that help build an image contrast invariant model. Our method trains a single CNN that can segment input MRI images with acquisition parameters as disparate as $T_1$-weighted and $T_2$-weighted contrasts with only $T_1$-weighted training data. The segmentations generated are highly accurate with state-of-the-art results~(overall Dice overlap$=0.94$), with a fast run time~($\approx$ 45 seconds), and consistent across a wide range of acquisition protocols.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.05992](http://arxiv.org/abs/1901.05992)
+
+##### PDF
+[http://arxiv.org/pdf/1901.05992](http://arxiv.org/pdf/1901.05992)
+
