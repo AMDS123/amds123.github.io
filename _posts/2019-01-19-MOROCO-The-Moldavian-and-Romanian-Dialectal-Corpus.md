@@ -1,0 +1,25 @@
+---
+layout: post
+title: "MOROCO: The Moldavian and Romanian Dialectal Corpus"
+date: 2019-01-19 15:40:08
+categories: arXiv_CL
+tags: arXiv_CL CNN Classification
+author: Andrei M. Butnaru, Radu Tudor Ionescu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this work, we introduce the MOldavian and ROmanian Dialectal COrpus (MOROCO), which is freely available for download at https://github.com/butnaruandrei/MOROCO. The corpus contains 33564 samples of text (with over 10 million tokens) collected from the news domain. The samples belong to one of the following six topics: culture, finance, politics, science, sports and tech. The data set is divided into 21719 samples for training, 5921 samples for validation and another 5924 samples for testing. For each sample, we provide corresponding dialectal and category labels. This allows us to perform empirical studies on several classification tasks such as (i) binary discrimination of Moldavian versus Romanian text samples, (ii) intra-dialect multi-class categorization by topic and (iii) cross-dialect multi-class categorization by topic. We perform experiments using a shallow approach based on string kernels, as well as a novel deep approach based on character-level convolutional neural networks containing Squeeze-and-Excitation blocks. We also present and analyze the most discriminative features of our best performing model, before and after named entity removal.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.06543](http://arxiv.org/abs/1901.06543)
+
+##### PDF
+[http://arxiv.org/pdf/1901.06543](http://arxiv.org/pdf/1901.06543)
+
