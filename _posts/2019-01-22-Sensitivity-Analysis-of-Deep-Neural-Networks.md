@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Sensitivity Analysis of Deep Neural Networks"
+date: 2019-01-22 02:14:16
+categories: arXiv_AI
+tags: arXiv_AI Adversarial Prediction
+author: Hai Shu, Hongtu Zhu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks (DNNs) have achieved superior performance in various prediction tasks, but can be very vulnerable to adversarial examples or perturbations. Therefore, it is crucial to measure the sensitivity of DNNs to various forms of perturbations in real applications. We introduce a novel perturbation manifold and its associated influence measure to quantify the effects of various perturbations on DNN classifiers. Such perturbations include various external and internal perturbations to input samples and network parameters. The proposed measure is motivated by information geometry and provides desirable invariance properties. We demonstrate that our influence measure is useful for four model building tasks: detecting potential 'outliers', analyzing the sensitivity of model architectures, comparing network sensitivity between training and test sets, and locating vulnerable areas. Experiments show reasonably good performance of the proposed measure for the popular DNN models ResNet50 and DenseNet121 on CIFAR10 and MNIST datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.07152](http://arxiv.org/abs/1901.07152)
+
+##### PDF
+[http://arxiv.org/pdf/1901.07152](http://arxiv.org/pdf/1901.07152)
+
