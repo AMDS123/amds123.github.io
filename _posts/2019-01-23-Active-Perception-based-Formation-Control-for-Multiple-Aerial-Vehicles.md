@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Active Perception based Formation Control for Multiple Aerial Vehicles"
+date: 2019-01-23 10:47:44
+categories: arXiv_RO
+tags: arXiv_RO Tracking Detection
+author: Rahul Tallamraju, Eric Price, Roman Ludwig, Kamalakar Karlapalem, Heinrich H. B&#xfc;lthoff, Michael J. Black, Aamir Ahmad
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Autonomous motion capture (mocap) systems for outdoor scenarios involving flying or mobile cameras rely on i) a robotic front-end to track and follow a human subject in real-time while he/she performs physical activities, and ii) an algorithmic back-end that estimates full body human pose and shape from the saved videos. In this paper we present a novel front-end for our aerial mocap system that consists of multiple micro aerial vehicles (MAVs) with only on-board cameras and computation. In previous work, we presented an approach for cooperative detection and tracking (CDT) of a subject using multiple MAVs. However, it did not ensure optimal view-point configurations of the MAVs to minimize the uncertainty in the person's cooperatively tracked 3D position estimate. In this article we introduce an active approach for CDT. In contrast to cooperatively tracking only the 3D positions of the person, the MAVs can now actively compute optimal local motion plans, resulting in optimal view-point configurations, which minimize the uncertainty in the tracked estimate. We achieve this by decoupling the goal of active tracking as a convex quadratic objective and non-convex constraints corresponding to angular configurations of the MAVs w.r.t. the person. We derive it using Gaussian observation model assumptions within the CDT algorithm. We also show how we embed all the non-convex constraints, including those for dynamic and static obstacle avoidance, as external control inputs in the MPC dynamics. Multiple real robot experiments and comparisons involving 3 MAVs in several challenging scenarios are presented (video link : https://youtu.be/1qWW2zWvRhA). Extensive simulation results demonstrate the scalability and robustness of our approach. ROS-based source code is also provided.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.07813](http://arxiv.org/abs/1901.07813)
+
+##### PDF
+[http://arxiv.org/pdf/1901.07813](http://arxiv.org/pdf/1901.07813)
+
