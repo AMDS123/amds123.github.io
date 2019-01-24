@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Context-Sensitive Malicious Spelling Error Correction"
+date: 2019-01-23 02:11:11
+categories: arXiv_CL
+tags: arXiv_CL Face Embedding Detection
+author: Hongyu Gong, Yuchen Li, Suma Bhat, Pramod Viswanath
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Misspelled words of the malicious kind work by changing specific keywords and are intended to thwart existing automated applications for cyber-environment control such as harassing content detection on the Internet and email spam detection. In this paper, we focus on malicious spelling correction, which requires an approach that relies on the context and the surface forms of targeted keywords. In the context of two applications--profanity detection and email spam detection--we show that malicious misspellings seriously degrade their performance. We then propose a context-sensitive approach for malicious spelling correction using word embeddings and demonstrate its superior performance compared to state-of-the-art spell checkers.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.07688](http://arxiv.org/abs/1901.07688)
+
+##### PDF
+[http://arxiv.org/pdf/1901.07688](http://arxiv.org/pdf/1901.07688)
+
