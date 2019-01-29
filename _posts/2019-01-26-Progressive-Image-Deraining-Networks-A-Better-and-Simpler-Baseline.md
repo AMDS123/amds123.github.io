@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Progressive Image Deraining Networks: A Better and Simpler Baseline"
+date: 2019-01-26 14:44:17
+categories: arXiv_CV
+tags: arXiv_CV Prediction
+author: Dongwei Ren, Wangmeng Zuo, Qinghua Hu, Pengfei Zhu, Deyu Meng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Along with the deraining performance improvement of deep networks, their structures and learning become more and more complicated and diverse, making it difficult to analyze the contribution of various network modules when developing new deraining networks. To handle this issue, this paper provides a better and simpler baseline deraining network by considering network architecture, input and output, and loss functions. Specifically, by repeatedly unfolding a shallow ResNet, progressive ResNet (PRN) is proposed to take advantage of recursive computation. A recurrent layer is further introduced to exploit the dependencies of deep features across stages, forming our progressive recurrent network (PReNet). Furthermore, intra-stage recursive computation of ResNet can be adopted in PRN and PReNet to notably reduce network parameters with graceful degradation in deraining performance. For network input and output, we take both stage-wise result and original rainy image as input to each ResNet and finally output the prediction of {residual image}. As for loss functions, single MSE or negative SSIM losses are sufficient to train PRN and PReNet. Experiments show that PRN and PReNet perform favorably on both synthetic and real rainy images. Considering its simplicity, efficiency and effectiveness, our models are expected to serve as a suitable baseline in future deraining research. The source codes are available at https://github.com/csdwren/PReNet.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.09221](http://arxiv.org/abs/1901.09221)
+
+##### PDF
+[http://arxiv.org/pdf/1901.09221](http://arxiv.org/pdf/1901.09221)
+
