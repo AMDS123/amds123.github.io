@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Deconstructing Generative Adversarial Networks"
+date: 2019-01-27 23:53:32
+categories: arXiv_AI
+tags: arXiv_AI Adversarial GAN Optimization Gradient_Descent
+author: Banghua Zhu, Jiantao Jiao, David Tse
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We deconstruct the performance of GANs into three components: 
+ 1. Formulation: we propose a perturbation view of the population target of GANs. Building on this interpretation, we show that GANs can be viewed as a generalization of the robust statistics framework, and propose a novel GAN architecture, termed as Cascade GANs, to provably recover meaningful low-dimensional generator approximations when the real distribution is high-dimensional and corrupted by outliers. 
+ 2. Generalization: given a population target of GANs, we design a systematic principle, projection under admissible distance, to design GANs to meet the population requirement using finite samples. We implement our principle in three cases to achieve polynomial and sometimes near-optimal sample complexities: (1) learning an arbitrary generator under an arbitrary pseudonorm; (2) learning a Gaussian location family under total variation distance, where we utilize our principle provide a new proof for the optimality of Tukey median viewed as GANs; (3) learning a low-dimensional Gaussian approximation of a high-dimensional arbitrary distribution under Wasserstein distance. We demonstrate a fundamental trade-off in the approximation error and statistical error in GANs, and show how to apply our principle with empirical samples to predict how many samples are sufficient for GANs in order not to suffer from the discriminator winning problem. 
+ 3. Optimization: we demonstrate alternating gradient descent is provably not even locally stable in optimizating the GAN formulation of PCA. We diagnose the problem as the minimax duality gap being non-zero, and propose a new GAN architecture whose duality gap is zero, where the value of the game is equal to the previous minimax value (not the maximin value). We prove the new GAN architecture is globally stable in optimization under alternating gradient descent.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.09465](http://arxiv.org/abs/1901.09465)
+
+##### PDF
+[http://arxiv.org/pdf/1901.09465](http://arxiv.org/pdf/1901.09465)
+
