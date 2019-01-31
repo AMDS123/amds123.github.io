@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Multigrid Backprojection Super-Resolution and Deep Filter Visualization"
+date: 2019-01-29 02:04:15
+categories: arXiv_CV
+tags: arXiv_CV Super_Resolution CNN
+author: Pablo Navarrete Michelini, Hanwen Liu, Dan Zhu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We introduce a novel deep-learning architecture for image upscaling by large factors (e.g. 4x, 8x) based on examples of pristine high-resolution images. Our target is to reconstruct high-resolution images from their downscale versions. The proposed system performs a multi-level progressive upscaling, starting from small factors (2x) and updating for higher factors (4x and 8x). The system is recursive as it repeats the same procedure at each level. It is also residual since we use the network to update the outputs of a classic upscaler. The network residuals are improved by Iterative Back-Projections (IBP) computed in the features of a convolutional network. To work in multiple levels we extend the standard back-projection algorithm using a recursion analogous to Multi-Grid algorithms commonly used as solvers of large systems of linear equations. We finally show how the network can be interpreted as a standard upsampling-and-filter upscaler with a space-variant filter that adapts to the geometry. This approach allows us to visualize how the network learns to upscale. Finally, our system reaches state of the art quality for models with relatively few number of parameters.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1809.09326](http://arxiv.org/abs/1809.09326)
+
+##### PDF
+[http://arxiv.org/pdf/1809.09326](http://arxiv.org/pdf/1809.09326)
+
