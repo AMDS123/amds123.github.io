@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Equivariant Transformer Networks"
+date: 2019-01-25 22:29:48
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Image_Classification Classification
+author: Kai Sheng Tai, Peter Bailis, Gregory Valiant
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+How can prior knowledge on the transformation invariances of a domain be incorporated into the architecture of a neural network? We propose Equivariant Transformers (ETs), a family of differentiable image-to-image mappings that improve the robustness of models towards pre-defined continuous transformation groups. Through the use of specially-derived canonical coordinate systems, ETs incorporate functions that are equivariant by construction with respect to these transformations. We show empirically that ETs can be flexibly composed to improve model robustness towards more complicated transformation groups in several parameters. On a real-world image classification task, ETs improve the sample efficiency of ResNet classifiers, achieving relative improvements in error rate of up to 15% in the limited data regime while increasing model parameter count by less than 1%.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.11399](http://arxiv.org/abs/1901.11399)
+
+##### PDF
+[http://arxiv.org/pdf/1901.11399](http://arxiv.org/pdf/1901.11399)
+
