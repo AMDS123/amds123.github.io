@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning to Clean: A GAN Perspective"
+date: 2019-01-28 09:50:54
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Recognition
+author: Monika Sharma, Abhishek Verma, Lovekesh Vig
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In the big data era, the impetus to digitize the vast reservoirs of data trapped in unstructured scanned documents such as invoices, bank documents and courier receipts has gained fresh momentum. The scanning process often results in the introduction of artifacts such as background noise, blur due to camera motion, watermarkings, coffee stains, or faded text. These artifacts pose many readability challenges to current text recognition algorithms and significantly degrade their performance. Existing learning based denoising techniques require a dataset comprising of noisy documents paired with cleaned versions. In such scenarios, a model can be trained to generate clean documents from noisy versions. However, very often in the real world such a paired dataset is not available, and all we have for training our denoising model are unpaired sets of noisy and clean images. This paper explores the use of GANs to generate denoised versions of the noisy documents. In particular, where paired information is available, we formulate the problem as an image-to-image translation task i.e, translating a document from noisy domain ( i.e., background noise, blurred, faded, watermarked ) to a target clean document using Generative Adversarial Networks (GAN). However, in the absence of paired images for training, we employed CycleGAN which is known to learn a mapping between the distributions of the noisy images to the denoised images using unpaired data to achieve image-to-image translation for cleaning the noisy documents. We compare the performance of CycleGAN for document cleaning tasks using unpaired images with a Conditional GAN trained on paired data from the same dataset. Experiments were performed on a public document dataset on which different types of noise were artificially induced, results demonstrate that CycleGAN learns a more robust mapping from the space of noisy to clean documents.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1901.11382](http://arxiv.org/abs/1901.11382)
+
+##### PDF
+[http://arxiv.org/pdf/1901.11382](http://arxiv.org/pdf/1901.11382)
+
