@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Flexible collaborative transportation by a team of rotorcraft"
+date: 2019-02-01 11:25:10
+categories: arXiv_RO
+tags: arXiv_RO Tracking
+author: Hector Garcia de Marina, Ewoud Smeur
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a combined method for the collaborative transportation of a suspended payload by a team of rotorcraft. A recent distance-based formation-motion control algorithm based on assigning distance disagreements among robots generates the acceleration signals to be tracked by the vehicles. In particular, the proposed method does not need global positions nor tracking prescribed trajectories for the motion of the members of the team. The acceleration signals are followed accurately by an Incremental Nonlinear Dynamic Inversion controller designed for rotorcraft that measures and resists the tensions from the payload. Our approach allows us to analyze the involved accelerations and forces in the system so that we can calculate the worst case conditions explicitly to guarantee a nominal performance, provided that the payload starts at rest in the 2D centroid of the formation, and it is not under significant disturbances. For example, we can calculate the maximum safe deformation of the team with respect to its desired shape. We demonstrate our method with a team of four rotorcraft carrying a suspended object two times heavier than the maximum payload for an individual. Last but not least, our proposed algorithm is available for the community in the open-source autopilot Paparazzi.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.00279](http://arxiv.org/abs/1902.00279)
+
+##### PDF
+[http://arxiv.org/pdf/1902.00279](http://arxiv.org/pdf/1902.00279)
+
