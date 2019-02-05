@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Word Embeddings for Sentiment Analysis: A Comprehensive Empirical Survey"
+date: 2019-02-02 17:04:14
+categories: arXiv_CL
+tags: arXiv_CL Sentiment Review Survey Embedding Language_Model
+author: Erion &#xc7;ano, Maurizio Morisio
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This work investigates the role of factors like training method, training corpus size and thematic relevance of texts in the performance of word embedding features on sentiment analysis of tweets, song lyrics, movie reviews and item reviews. We also explore specific training or post-processing methods that can be used to enhance the performance of word embeddings in certain tasks or domains. Our empirical observations indicate that models trained with multithematic texts that are large and rich in vocabulary are the best in answering syntactic and semantic word analogy questions. We further observe that influence of thematic relevance is stronger on movie and phone reviews, but weaker on tweets and lyrics. These two later domains are more sensitive to corpus size and training method, with Glove outperforming Word2vec. "Injecting" extra intelligence from lexicons or generating sentiment specific word embeddings are two prominent alternatives for increasing performance of word embedding features.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.00753](http://arxiv.org/abs/1902.00753)
+
+##### PDF
+[http://arxiv.org/pdf/1902.00753](http://arxiv.org/pdf/1902.00753)
+
