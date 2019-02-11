@@ -1,0 +1,27 @@
+---
+layout: post
+title: "The Long and the Short of It: Summarising Event Sequences with Serial Episodes"
+date: 2019-02-07 20:25:50
+categories: arXiv_AI
+tags: arXiv_AI
+author: Nikolaj Tatti, Jilles Vreeken
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+An ideal outcome of pattern mining is a small set of informative patterns, containing no redundancy or noise, that identifies the key structure of the data at hand. Standard frequent pattern miners do not achieve this goal, as due to the pattern explosion typically very large numbers of highly redundant patterns are returned. 
+ We pursue the ideal for sequential data, by employing a pattern set mining approach-an approach where, instead of ranking patterns individually, we consider results as a whole. Pattern set mining has been successfully applied to transactional data, but has been surprisingly under studied for sequential data. 
+ In this paper, we employ the MDL principle to identify the set of sequential patterns that summarises the data best. In particular, we formalise how to encode sequential data using sets of serial episodes, and use the encoded length as a quality score. As search strategy, we propose two approaches: the first algorithm selects a good pattern set from a large candidate set, while the second is a parameter-free any-time algorithm that mines pattern sets directly from the data. Experimentation on synthetic and real data demonstrates we efficiently discover small sets of informative patterns.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.02834](http://arxiv.org/abs/1902.02834)
+
+##### PDF
+[http://arxiv.org/pdf/1902.02834](http://arxiv.org/pdf/1902.02834)
+
