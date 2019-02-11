@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Modeling Heterogeneity in Mode-Switching Behavior Under a Mobility-on-Demand Transit System: An Interpretable Machine Learning Approach"
+date: 2019-02-08 01:15:09
+categories: arXiv_AI
+tags: arXiv_AI
+author: Xilei Zhao, Xiang Yan, Pascal Van Hentenryck
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Recent years have witnessed an increased focus on interpretability and the use of machine learning to inform policy analysis and decision making. This paper applies machine learning to examine travel behavior and, in particular, on modeling changes in travel modes when individuals are presented with a novel (on-demand) mobility option. It addresses the following question: Can machine learning be applied to model individual taste heterogeneity (preference heterogeneity for travel modes and response heterogeneity to travel attributes) in travel mode choice? This paper first develops a high-accuracy classifier to predict mode-switching behavior under a hypothetical Mobility-on-Demand Transit system (i.e., stated-preference data), which represents the case study underlying this research. We show that this classifier naturally captures individual heterogeneity available in the data. Moreover, the paper derives insights on heterogeneous switching behaviors through the generation of marginal effects and elasticities by current travel mode, partial dependence plots, and individual conditional expectation plots. The paper also proposes two new model-agnostic interpretation tools for machine learning, i.e., conditional partial dependence plots and conditional individual partial dependence plots, specifically designed to examine response heterogeneity. The results on the case study show that the machine-learning classifier, together with model-agnostic interpretation tools, provides valuable insights on travel mode switching behavior for different individuals and population segments. For example, the existing drivers are more sensitive to additional pickups than people using other travel modes, and current transit users are generally willing to share rides but reluctant to take any additional transfers.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.02904](http://arxiv.org/abs/1902.02904)
+
+##### PDF
+[http://arxiv.org/pdf/1902.02904](http://arxiv.org/pdf/1902.02904)
+
