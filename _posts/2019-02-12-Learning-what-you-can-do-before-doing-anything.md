@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning what you can do before doing anything"
+date: 2019-02-12 18:53:33
+categories: arXiv_CV
+tags: arXiv_CV Prediction
+author: Oleh Rybkin, Karl Pertsch, Konstantinos G. Derpanis, Kostas Daniilidis, Andrew Jaegle
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Intelligent agents can learn to represent the action spaces of other agents simply by observing them act. Such representations help agents quickly learn to predict the effects of their own actions on the environment and to plan complex action sequences. In this work, we address the problem of learning an agent's action space purely from visual observation. We use stochastic video prediction to learn a latent variable that captures the scene's dynamics while being minimally sensitive to the scene's static content. We introduce a loss term that encourages the network to capture the composability of visual sequences and show that it leads to representations that disentangle the structure of actions. We call the full model with composable action representations Composable Learned Action Space Predictor (CLASP). We show the applicability of our method to synthetic settings and its potential to capture action spaces in complex, realistic visual settings. When used in a semi-supervised setting, our learned representations perform comparably to existing fully supervised methods on tasks such as action-conditioned video prediction and planning in the learned action space, while requiring orders of magnitude fewer action labels. Project website: https://daniilidis-group.github.io/learned_action_spaces
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1806.09655](http://arxiv.org/abs/1806.09655)
+
+##### PDF
+[http://arxiv.org/pdf/1806.09655](http://arxiv.org/pdf/1806.09655)
+
