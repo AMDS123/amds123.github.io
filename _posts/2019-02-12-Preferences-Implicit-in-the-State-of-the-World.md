@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Preferences Implicit in the State of the World"
+date: 2019-02-12 00:50:56
+categories: arXiv_AI
+tags: arXiv_AI GAN Reinforcement_Learning
+author: Rohin Shah, Dmitrii Krasheninnikov, Jordan Alexander, Pieter Abbeel, Anca Dragan
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Reinforcement learning (RL) agents optimize only the features specified in a reward function and are indifferent to anything left out inadvertently. This means that we must not only specify what to do, but also the much larger space of what not to do. It is easy to forget these preferences, since these preferences are already satisfied in our environment. This motivates our key insight: when a robot is deployed in an environment that humans act in, the state of the environment is already optimized for what humans want. We can therefore use this implicit preference information from the state to fill in the blanks. We develop an algorithm based on Maximum Causal Entropy IRL and use it to evaluate the idea in a suite of proof-of-concept environments designed to show its properties. We find that information from the initial state can be used to infer both side effects that should be avoided as well as preferences for how the environment should be organized. Our code can be found at https://github.com/HumanCompatibleAI/rlsp.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.04198](http://arxiv.org/abs/1902.04198)
+
+##### PDF
+[http://arxiv.org/pdf/1902.04198](http://arxiv.org/pdf/1902.04198)
+
