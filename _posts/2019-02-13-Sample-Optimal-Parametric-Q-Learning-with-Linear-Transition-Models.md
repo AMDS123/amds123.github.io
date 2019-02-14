@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Sample-Optimal Parametric Q-Learning with Linear Transition Models"
+date: 2019-02-13 08:26:47
+categories: arXiv_AI
+tags: arXiv_AI
+author: Lin F. Yang, Mengdi Wang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Consider a Markov decision process (MDP) that admits a set of state-action features, which can linearly express the process's probabilistic transition model. We propose a parametric Q-learning algorithm that finds an approximate-optimal policy using a sample size proportional to the feature dimension $K$ and invariant with respect to the size of the state space. To further improve its sample efficiency, we exploit the monotonicity property and intrinsic noise structure of the Bellman operator, provided the existence of anchor state-actions that imply implicit non-negativity in the feature space. We augment the algorithm using techniques of variance reduction, monotonicity preservation, and confidence bounds. It is proved to find a policy which is $\epsilon$-optimal from any initial state with high probability using $\widetilde{O}(K/\epsilon^2(1-\gamma)^3)$ sample transitions for arbitrarily large-scale MDP with a discount factor $\gamma\in(0,1)$. A matching information-theoretical lower bound is proved, confirming the sample optimality of the proposed method with respect to all parameters (up to polylog factors).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.04779](http://arxiv.org/abs/1902.04779)
+
+##### PDF
+[http://arxiv.org/pdf/1902.04779](http://arxiv.org/pdf/1902.04779)
+
