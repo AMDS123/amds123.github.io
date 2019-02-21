@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation"
+date: 2019-02-20 02:43:02
+categories: arXiv_RO
+tags: arXiv_RO Recognition
+author: Sourav Garg, Madhu Babu V, Thanuja Dharmasiri, Stephen Hausler, Niko Suenderhauf, Swagat Kumar, Tom Drummond, Michael Milford
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Visual place recognition (VPR) - the act of recognizing a familiar visual place - becomes difficult when there is extreme environmental appearance change or viewpoint change. Particularly challenging is the scenario where both phenomena occur simultaneously, such as when returning for the first time along a road at night that was previously traversed during the day in the opposite direction. While such problems can be solved with panoramic sensors, humans solve this problem regularly with limited field of view vision and without needing to constantly turn around. In this paper, we present a new depth- and temporal-aware visual place recognition system that solves the opposing viewpoint, extreme appearance-change visual place recognition problem. Our system performs sequence-to-single matching by extracting depth-filtered keypoints using a state-of-the-art depth estimation pipeline, constructing a keypoint sequence over multiple frames from the reference dataset, and comparing those keypoints to those in a single query image. We evaluate the system on a challenging benchmark dataset and show that it consistently outperforms state-of-the-art techniques. We also develop a range of diagnostic simulation experiments that characterize the contribution of depth-filtered keypoint sequences with respect to key domain parameters including degree of appearance change and camera motion.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.07381](http://arxiv.org/abs/1902.07381)
+
+##### PDF
+[http://arxiv.org/pdf/1902.07381](http://arxiv.org/pdf/1902.07381)
+
