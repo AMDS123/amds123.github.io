@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Long-Bone Fracture Detection using Artificial Neural Networks based on Contour Features of X-ray Images"
+date: 2019-02-21 07:48:10
+categories: arXiv_CV
+tags: arXiv_CV CNN Classification Detection
+author: Alice Yi Yang, Ling Cheng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The following paper proposes two contour-based fracture detection schemes. The development of the contour-based fracture is based on the line-based fracture detection schemes proposed in <a href="https://export.arxiv.org/abs/1902.07458">arXiv:1902.07458</a>. Existing Computer Aided Diagnosis (CAD) systems commonly employs Convolutional Neural Networks (CNN), although the cost to obtain a high accuracy is the amount of training data required. The purpose of the proposed schemes is to obtain a high classification accuracy with a reduced number of training data through the use of detected contours in X-ray images. There are two contour-based fracture detection schemes. The first is the Standard Contour Histogram Feature-Based (CHFB) and the second is the improved CHFB scheme. The difference between the two schemes is the removal of the surrounding detected flesh contours from the leg region in the improved CHFB scheme. The flesh contours are automatically classified as non-fractures. The contours are further refined to give a precise representation of the image edge objects. A total of 19 features are extracted from each refined contour. 8 out of the 19 features are based on the number of occurrences for particular detected gradients in the contour. Moreover, the occurrence of the 0-degree gradient in the contours are employed for the separation of the knee, leg and foot region. The features are a summary representation of the contour, in which it is used as inputs into the Artificial Neural Network (ANN). Both Standard CHFB and improved CHFB schemes are evaluated with the same experimental set-ups. The average system accuracy for the Standard CHFB scheme is 80.7%, whilst the improved CHFB scheme has an average accuracy of 82.98%. Additionally, the hierarchical clustering technique is adopted to highlight the fractured region within the X-ray image, using extracted 0-degree gradients from fractured contours.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.07897](http://arxiv.org/abs/1902.07897)
+
+##### PDF
+[http://arxiv.org/pdf/1902.07897](http://arxiv.org/pdf/1902.07897)
+
