@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Cross-Sensor Periocular Biometrics: A Comparative Benchmark including Smartphone Authentication"
+date: 2019-02-21 16:24:40
+categories: arXiv_CV
+tags: arXiv_CV Face Recognition
+author: Fernando Alonso-Fernandez, Kiran B. Raja, R. Raghavendra, Cristoph Busch, Josef Bigun, Ruben Vera-Rodriguez, Julian Fierrez
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The massive availability of cameras and personal devices results in a wide variability between imaging conditions, producing large intra-class variations and performance drop if such images are compared for person recognition. However, as biometric solutions are extensively deployed, it will be common to replace acquisition hardware as it is damaged or newer designs appear, or to exchange information between agencies or applications in heterogeneous environments. Furthermore, variations in imaging bands can also occur. For example, faces are typically acquired in the visible (VW) spectrum, while iris images are captured in the near-infrared (NIR) spectrum. However, cross-spectrum comparison may be needed if for example a face from a surveillance camera needs to be compared against a legacy iris database. Here, we propose a multialgorithmic approach to cope with cross-sensor periocular recognition. We integrate different systems using a fusion scheme based on linear logistic regression, in which fused scores tend to be log-likelihood ratios. This allows easy combination by just summing scores of available systems. We evaluate our approach in the context of the 1st Cross-Spectral Iris/Periocular Competition, whose aim was to compare person recognition approaches when periocular data from VW and NIR images is matched. The proposed fusion approach achieves reductions in error rates of up to 20-30% in cross-spectral NIR-VW comparison, leading to an EER of 0.22% and a FRR of just 0.62% for FAR=0.01%, representing the best overall approach of the mentioned competition.. Experiments are also reported with a database of VW images from two different smartphones, achieving even higher relative improvements in performance. We also discuss our approach from the point of view of template size and computation times, with the most computationally heavy system playing an important role in the results.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.08123](http://arxiv.org/abs/1902.08123)
+
+##### PDF
+[http://arxiv.org/pdf/1902.08123](http://arxiv.org/pdf/1902.08123)
+
