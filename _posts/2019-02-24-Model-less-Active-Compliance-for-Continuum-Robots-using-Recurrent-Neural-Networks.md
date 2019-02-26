@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Model-less Active Compliance for Continuum Robots using Recurrent Neural Networks"
+date: 2019-02-24 13:32:13
+categories: arXiv_RO
+tags: arXiv_RO RNN
+author: David Jakes, Zongyuan Ge, Liao Wu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Endowing continuum robots with compliance while it is interacting with the internal environment of the human body is essential to prevent damage to the robot and the surrounding tissues. Compared with passive compliance, active compliance has the advantages in terms of increasing the force transmission ability and improving safety with monitored force output. Previous studies have demonstrated that active compliance can be achieved based on a complex model of the mechanics combined with a traditional machine learning technique such as a support vector machine. This paper proposes a recurrent neural network based approach that avoids the complexity of modeling while capturing nonlinear factors such as hysteresis, friction and delay of the electronics that are not easy to model. The approach is tested on a 3-tendon single-segment continuum robot with force sensors on each cable. Experiments are conducted to demonstrate that the continuum robot with an RNN based feed-forward controller is capable of responding to external forces quickly and entering an unknown environment compliantly.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.08943](http://arxiv.org/abs/1902.08943)
+
+##### PDF
+[http://arxiv.org/pdf/1902.08943](http://arxiv.org/pdf/1902.08943)
+
