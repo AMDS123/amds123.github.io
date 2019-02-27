@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Stereo R-CNN based 3D Object Detection for Autonomous Driving"
+date: 2019-02-26 05:19:12
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Sparse Detection
+author: Peiliang Li, Xiaozhi Chen, Shaojie Shen
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a 3D object detection method for autonomous driving by fully exploiting the sparse and dense, semantic and geometry information in stereo imagery. Our method, called Stereo R-CNN, extends Faster R-CNN for stereo inputs to simultaneously detect and associate object in left and right images. We add extra branches after stereo Region Proposal Network (RPN) to predict sparse keypoints, viewpoints, and object dimensions, which are combined with 2D left-right boxes to calculate a coarse 3D object bounding box. We then recover the accurate 3D bounding box by a region-based photometric alignment using left and right RoIs. Our method does not require depth input and 3D position supervision, however, outperforms all existing fully supervised image-based methods. Experiments on the challenging KITTI dataset show that our method outperforms the state-of-the-art stereo-based method by around 30% AP on both 3D detection and 3D localization tasks. Code will be made publicly available.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.09738](http://arxiv.org/abs/1902.09738)
+
+##### PDF
+[http://arxiv.org/pdf/1902.09738](http://arxiv.org/pdf/1902.09738)
+
