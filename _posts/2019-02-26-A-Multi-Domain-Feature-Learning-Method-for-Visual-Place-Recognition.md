@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Multi-Domain Feature Learning Method for Visual Place Recognition"
+date: 2019-02-26 17:09:49
+categories: arXiv_AI
+tags: arXiv_AI Recognition
+author: Peng Yin, Lingyun Xu, Xueqian Li, Chen Yin, Yingli Li, Rangaprasad Arun Srivatsan, Lu Li, Jianmin Ji, Yuqing He
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Visual Place Recognition (VPR) is an important component in both computer vision and robotics applications, thanks to its ability to determine whether a place has been visited and where specifically. A major challenge in VPR is to handle changes of environmental conditions including weather, season and illumination. Most VPR methods try to improve the place recognition performance by ignoring the environmental factors, leading to decreased accuracy decreases when environmental conditions change significantly, such as day versus night. To this end, we propose an end-to-end conditional visual place recognition method. Specifically, we introduce the multi-domain feature learning method (MDFL) to capture multiple attribute-descriptions for a given place, and then use a feature detaching module to separate the environmental condition-related features from those that are not. The only label required within this feature learning pipeline is the environmental condition. Evaluation of the proposed method is conducted on the multi-season \textit{NORDLAND} dataset, and the multi-weather \textit{GTAV} dataset. Experimental results show that our method improves the feature robustness against variant environmental conditions.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.10058](http://arxiv.org/abs/1902.10058)
+
+##### PDF
+[http://arxiv.org/pdf/1902.10058](http://arxiv.org/pdf/1902.10058)
+
