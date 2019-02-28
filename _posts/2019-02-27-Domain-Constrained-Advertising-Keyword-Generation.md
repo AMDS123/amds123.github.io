@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Domain-Constrained Advertising Keyword Generation"
+date: 2019-02-27 07:54:54
+categories: arXiv_CL
+tags: arXiv_CL Reinforcement_Learning
+author: Hao Zhou, Minlie Huang, Yishun Mao, Changlei Zhu, Peng Shu, Xiaoyan Zhu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Advertising (ad for short) keyword suggestion is important for sponsored search to improve online advertising and increase search revenue. There are two common challenges in this task. First, the keyword bidding problem: hot ad keywords are very expensive for most of the advertisers because more advertisers are bidding on more popular keywords, while unpopular keywords are difficult to discover. As a result, most ads have few chances to be presented to the users. Second, the inefficient ad impression issue: a large proportion of search queries, which are unpopular yet relevant to many ad keywords, have no ads presented on their search result pages. Existing retrieval-based or matching-based methods either deteriorate the bidding competition or are unable to suggest novel keywords to cover more queries, which leads to inefficient ad impressions. To address the above issues, this work investigates to use generative neural networks for keyword generation in sponsored search. Given a purchased keyword (a word sequence) as input, our model can generate a set of keywords that are not only relevant to the input but also satisfy the domain constraint which enforces that the domain category of a generated keyword is as expected. Furthermore, a reinforcement learning algorithm is proposed to adaptively utilize domain-specific information in keyword generation. Offline evaluation shows that the proposed model can generate keywords that are diverse, novel, relevant to the source keyword, and accordant with the domain constraint. Online evaluation shows that generative models can improve coverage (COV), click-through rate (CTR), and revenue per mille (RPM) substantially in sponsored search.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.10374](http://arxiv.org/abs/1902.10374)
+
+##### PDF
+[http://arxiv.org/pdf/1902.10374](http://arxiv.org/pdf/1902.10374)
+
