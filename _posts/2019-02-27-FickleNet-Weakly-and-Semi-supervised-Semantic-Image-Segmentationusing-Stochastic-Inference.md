@@ -1,0 +1,25 @@
+---
+layout: post
+title: "FickleNet: Weakly and Semi-supervised Semantic Image Segmentationusing Stochastic Inference"
+date: 2019-02-27 09:59:21
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Weakly_Supervised CNN Image_Classification Inference Classification
+author: Jungbeom Lee, Eunji Kim, Sungmin Lee, Jangho Lee, Sungroh Yoon
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The main obstacle to weakly supervised semantic image segmentation is the difficulty of obtaining pixel-level information from coarse image-level annotations. Most methods based on image-level annotations use localization maps obtained from the classifier, but these only focus on the small discriminative parts of objects and do not capture precise boundaries. FickleNet explores diverse combinations of locations on feature maps created by generic deep neural networks. It selects hidden units randomly and then uses them to obtain activation scores for image classification. FickleNet implicitly learns the coherence of each location in the feature maps, resulting in a localization map which identifies both discriminative and other parts of objects. The ensemble effects are obtained from a single network by selecting random hidden unit pairs, which means that a variety of localization maps are generated from a single image. Our approach does not require any additional training steps and only adds a simple layer to a standard convolutional neural network; nevertheless it outperforms recent comparable techniques on the Pascal VOC 2012 benchmark in both weakly and semi-supervised settings.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.10421](http://arxiv.org/abs/1902.10421)
+
+##### PDF
+[http://arxiv.org/pdf/1902.10421](http://arxiv.org/pdf/1902.10421)
+
