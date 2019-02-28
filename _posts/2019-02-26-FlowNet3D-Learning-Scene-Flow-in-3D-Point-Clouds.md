@@ -1,0 +1,25 @@
+---
+layout: post
+title: "FlowNet3D: Learning Scene Flow in 3D Point Clouds"
+date: 2019-02-26 19:40:43
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Embedding
+author: Xingyu Liu, Charles R. Qi, Leonidas J. Guibas
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Many applications in robotics and human-computer interaction can benefit from understanding 3D motion of points in a dynamic environment, widely noted as scene flow. While most previous methods focus on stereo and RGB-D images as input, few try to estimate scene flow directly from point clouds. In this work, we propose a novel deep neural network named $FlowNet3D$ that learns scene flow from point clouds in an end-to-end fashion. Our network simultaneously learns deep hierarchical features of point clouds and flow embeddings that represent point motions, supported by two newly proposed learning layers for point sets. We evaluate the network on both challenging synthetic data from FlyingThings3D and real Lidar scans from KITTI. Trained on synthetic data only, our network successfully generalizes to real scans, outperforming various baselines and showing competitive results to the prior art. We also demonstrate two applications of our scene flow output (scan registration and motion segmentation) to show its potential wide use cases.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1806.01411](http://arxiv.org/abs/1806.01411)
+
+##### PDF
+[http://arxiv.org/pdf/1806.01411](http://arxiv.org/pdf/1806.01411)
+
