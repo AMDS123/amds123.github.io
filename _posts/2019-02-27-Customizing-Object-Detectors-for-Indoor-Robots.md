@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Customizing Object Detectors for Indoor Robots"
+date: 2019-02-27 18:11:10
+categories: arXiv_RO
+tags: arXiv_RO Object_Detection Face CNN Detection
+author: Saif Alabachi, Gita Sukthankar, Rahul Sukthankar
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Object detection models based on convolutional neural networks (CNNs) demonstrate impressive performance when trained on large-scale labeled datasets. While a generic object detector trained on such a dataset performs adequately in applications where the input data is similar to user photographs, the detector performs poorly on small objects, particularly ones with limited training data or imaged from uncommon viewpoints. Also, a specific room will have many objects that are missed by standard object detectors, frustrating a robot that continually operates in the same indoor environment. 
+ This paper describes a system for rapidly creating customized object detectors. Data is collected from a quadcopter that is teleoperated with an interactive interface. Once an object is selected, the quadcopter autonomously photographs the object from multiple viewpoints to %create training data that is used by DUNet (Dense Upscaled Net), collect data to train DUNet (Dense Upscaled Network), our proposed model for learning customized object detectors from scratch given limited data. Our experiments compare the performance of learning models from scratch with DUNet vs.\ fine tuning existing state of the art object detectors, both on our indoor robotics domain and on standard datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.10671](http://arxiv.org/abs/1902.10671)
+
+##### PDF
+[http://arxiv.org/pdf/1902.10671](http://arxiv.org/pdf/1902.10671)
+
