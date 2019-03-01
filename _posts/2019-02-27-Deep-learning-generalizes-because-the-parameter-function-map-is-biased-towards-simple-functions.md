@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep learning generalizes because the parameter-function map is biased towards simple functions"
+date: 2019-02-27 23:40:35
+categories: arXiv_AI
+tags: arXiv_AI Regularization CNN Deep_Learning
+author: Guillermo Valle-P&#xe9;rez, Chico Q. Camargo, Ard A. Louis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks (DNNs) generalize remarkably well without explicit regularization even in the strongly over-parametrized regime where classical learning theory would instead predict that they would severely overfit. While many proposals for some kind of implicit regularization have been made to rationalise this success, there is no consensus for the fundamental reason why DNNs do not strongly overfit. In this paper, we provide a new explanation. By applying a very general probability-complexity bound recently derived from algorithmic information theory (AIT), we argue that the parameter-function map of many DNNs should be exponentially biased towards simple functions. We then provide clear evidence for this strong simplicity bias in a model DNN for Boolean functions, as well as in much larger fully connected and convolutional networks applied to CIFAR10 and MNIST. As the target functions in many real problems are expected to be highly structured, this intrinsic simplicity bias helps explain why deep networks generalize well on real world problems. This picture also facilitates a novel PAC-Bayes approach where the prior is taken over the DNN input-output function space, rather than the more conventional prior over parameter space. If we assume that the training algorithm samples parameters close to uniformly within the zero-error region then the PAC-Bayes theorem can be used to guarantee good expected generalization for target functions producing high-likelihood training sets. By exploiting recently discovered connections between DNNs and Gaussian processes to estimate the marginal likelihood, we produce relatively tight generalization PAC-Bayes error bounds which correlate well with the true error on realistic datasets such as MNIST and CIFAR10 and for architectures including convolutional and fully connected networks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.08522](http://arxiv.org/abs/1805.08522)
+
+##### PDF
+[http://arxiv.org/pdf/1805.08522](http://arxiv.org/pdf/1805.08522)
+
