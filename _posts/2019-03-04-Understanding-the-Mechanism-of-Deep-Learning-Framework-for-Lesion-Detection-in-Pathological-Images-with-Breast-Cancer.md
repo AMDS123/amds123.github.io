@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Understanding the Mechanism of Deep Learning Framework for Lesion Detection in Pathological Images with Breast Cancer"
+date: 2019-03-04 13:01:38
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Classification Deep_Learning Detection Relation
+author: Wei-Wen Hsu, Chung-Hao Chen, Chang Hoa, Yu-Ling Hou, Xiang Gao, Yun Shao, Xueli Zhang, Jingjing Wang, Tao He, Yanghong Tai
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The computer-aided detection (CADe) systems are developed to assist pathologists in slide assessment, increasing diagnosis efficiency and reducing missing inspections. Many studies have shown such a CADe system with deep learning approaches outperforms the one using conventional methods that rely on hand-crafted features based on field-knowledge. However, most developers who adopted deep learning models directly focused on the efficacy of outcomes, without providing comprehensive explanations on why their proposed frameworks can work effectively. In this study, we designed four experiments to verify the consecutive concepts, showing that the deep features learned from pathological patches are interpretable by domain knowledge of pathology and enlightening for clinical diagnosis in the task of lesion detection. The experimental results show the activation features work as morphological descriptors for specific cells or tissues, which agree with the clinical rules in classification. That is, the deep learning framework not only detects the distribution of tumor cells but also recognizes lymphocytes, collagen fibers, and some other non-cell structural tissues. Most of the characteristics learned by the deep learning models have summarized the detection rules that can be recognized by the experienced pathologists, whereas there are still some features may not be intuitive to domain experts but discriminative in classification for machines. Those features are worthy to be further studied in order to find out the reasonable correlations to pathological knowledge, from which pathological experts may draw inspirations for exploring new characteristics in diagnosis.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.01214](http://arxiv.org/abs/1903.01214)
+
+##### PDF
+[http://arxiv.org/pdf/1903.01214](http://arxiv.org/pdf/1903.01214)
+
