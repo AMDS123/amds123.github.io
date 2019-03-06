@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Unsupervised Domain-Specific Deblurring via Disentangled Representations"
+date: 2019-03-05 00:00:27
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Face
+author: Boyu Lu, Jun-Cheng Chen, Rama Chellappa
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Image deblurring aims to restore the latent sharp images from the corresponding blurred ones. In this paper, we present an unsupervised method for domain-specific single-image deblurring based on disentangled representations. The disentanglement is achieved by splitting the content and blur features in a blurred image using content encoders and blur encoders. We enforce a KL divergence loss to regularize the distribution range of extracted blur attributes such that little content information is contained. Meanwhile, to handle the unpaired training data, a blurring branch and the cycle-consistency loss are added to guarantee that the content structures of the deblurred results match the original images. We also add an adversarial loss on deblurred results to generate visually realistic images and a perceptual loss to further mitigate the artifacts. We perform extensive experiments on the tasks of face and text deblurring using both synthetic datasets and real images, and achieve improved results compared to recent state-of-the-art deblurring methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1903.01594](https://arxiv.org/abs/1903.01594)
+
+##### PDF
+[https://arxiv.org/pdf/1903.01594](https://arxiv.org/pdf/1903.01594)
+
