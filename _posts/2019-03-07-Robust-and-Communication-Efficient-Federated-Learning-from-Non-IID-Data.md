@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robust and Communication-Efficient Federated Learning from Non-IID Data"
+date: 2019-03-07 13:10:30
+categories: arXiv_AI
+tags: arXiv_AI Sparse Deep_Learning
+author: Felix Sattler, Simon Wiedemann, Klaus-Robert M&#xfc;ller, Wojciech Samek
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Federated Learning allows multiple parties to jointly train a deep learning model on their combined data, without any of the participants having to reveal their local data to a centralized server. This form of privacy-preserving collaborative learning however comes at the cost of a significant communication overhead during training. To address this problem, several compression methods have been proposed in the distributed training literature that can reduce the amount of required communication by up to three orders of magnitude. These existing methods however are only of limited utility in the Federated Learning setting, as they either only compress the upstream communication from the clients to the server (leaving the downstream communication uncompressed) or only perform well under idealized conditions such as iid distribution of the client data, which typically can not be found in Federated Learning. In this work, we propose Sparse Ternary Compression (STC), a new compression framework that is specifically designed to meet the requirements of the Federated Learning environment. Our experiments on four different learning tasks demonstrate that STC distinctively outperforms Federated Averaging in common Federated Learning scenarios where clients either a) hold non-iid data, b) use small batch sizes during training, or where c) the number of clients is large and the participation rate in every communication round is low. We furthermore show that even if the clients hold iid data and use medium sized batches for training, STC still behaves pareto-superior to Federated Averaging in the sense that it achieves fixed target accuracies on our benchmarks within both fewer training iterations and a smaller communication budget.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.02891](http://arxiv.org/abs/1903.02891)
+
+##### PDF
+[http://arxiv.org/pdf/1903.02891](http://arxiv.org/pdf/1903.02891)
+
