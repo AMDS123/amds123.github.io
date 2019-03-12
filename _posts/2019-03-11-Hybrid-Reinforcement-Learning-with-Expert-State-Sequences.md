@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Hybrid Reinforcement Learning with Expert State Sequences"
+date: 2019-03-11 03:28:13
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning Optimization Inference
+author: Xiaoxiao Guo, Shiyu Chang, Mo Yu, Gerald Tesauro, Murray Campbell
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Existing imitation learning approaches often require that the complete demonstration data, including sequences of actions and states, are available. In this paper, we consider a more realistic and difficult scenario where a reinforcement learning agent only has access to the state sequences of an expert, while the expert actions are unobserved. We propose a novel tensor-based model to infer the unobserved actions of the expert state sequences. The policy of the agent is then optimized via a hybrid objective combining reinforcement learning and imitation learning. We evaluated our hybrid approach on an illustrative domain and Atari games. The empirical results show that (1) the agents are able to leverage state expert sequences to learn faster than pure reinforcement learning baselines, (2) our tensor-based action inference model is advantageous compared to standard deep neural networks in inferring expert actions, and (3) the hybrid policy optimization objective is robust against noise in expert state sequences.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.04110](http://arxiv.org/abs/1903.04110)
+
+##### PDF
+[http://arxiv.org/pdf/1903.04110](http://arxiv.org/pdf/1903.04110)
+
