@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them"
+date: 2019-03-09 19:56:47
+categories: arXiv_CL
+tags: arXiv_CL Embedding
+author: Hila Gonen, Yoav Goldberg
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Word embeddings are widely used in NLP for a vast range of tasks. It was shown that word embeddings derived from text corpora reflect gender biases in society. This phenomenon is pervasive and consistent across different word embedding models, causing serious concern. Several recent works tackle this problem, and propose methods for significantly reducing this gender bias in word embeddings, demonstrating convincing results. However, we argue that this removal is superficial. While the bias is indeed substantially reduced according to the provided bias definition, the actual effect is mostly hiding the bias, not removing it. The gender bias information is still reflected in the distances between "gender-neutralized" words in the debiased embeddings, and can be recovered from them. We present a series of experiments to support this claim, for two debiasing methods. We conclude that existing bias removal techniques are insufficient, and should not be trusted for providing gender-neutral modeling.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1903.03862](https://arxiv.org/abs/1903.03862)
+
+##### PDF
+[https://arxiv.org/pdf/1903.03862](https://arxiv.org/pdf/1903.03862)
+
