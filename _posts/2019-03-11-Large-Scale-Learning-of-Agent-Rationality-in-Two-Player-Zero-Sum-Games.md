@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Large Scale Learning of Agent Rationality in Two-Player Zero-Sum Games"
+date: 2019-03-11 02:15:02
+categories: arXiv_AI
+tags: arXiv_AI Face
+author: Chun Kai Ling, Fei Fang, J. Zico Kolter
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+With the recent advances in solving large, zero-sum extensive form games, there is a growing interest in the inverse problem of inferring underlying game parameters given only access to agent actions. Although a recent work provides a powerful differentiable end-to-end learning frameworks which embed a game solver within a deep-learning framework, allowing unknown game parameters to be learned via backpropagation, this framework faces significant limitations when applied to boundedly rational human agents and large scale problems, leading to poor practicality. In this paper, we address these limitations and propose a framework that is applicable for more practical settings. First, seeking to learn the rationality of human agents in complex two-player zero-sum games, we draw upon well-known ideas in decision theory to obtain a concise and interpretable agent behavior model, and derive solvers and gradients for end-to-end learning. Second, to scale up to large, real-world scenarios, we propose an efficient first-order primal-dual method which exploits the structure of extensive-form games, yielding significantly faster computation for both game solving and gradient computation. When tested on randomly generated games, we report speedups of orders of magnitude over previous approaches. We also demonstrate the effectiveness of our model on both real-world one-player settings and synthetic data.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.04101](http://arxiv.org/abs/1903.04101)
+
+##### PDF
+[http://arxiv.org/pdf/1903.04101](http://arxiv.org/pdf/1903.04101)
+
