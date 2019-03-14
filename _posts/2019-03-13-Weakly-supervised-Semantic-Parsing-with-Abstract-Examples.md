@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Weakly-supervised Semantic Parsing with Abstract Examples"
+date: 2019-03-13 09:30:38
+categories: arXiv_AI
+tags: arXiv_AI
+author: Omer Goldman, Veronica Latcinnik, Udi Naveh, Amir Globerson, Jonathan Berant
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Training semantic parsers from weak supervision (denotations) rather than strong supervision (programs) complicates training in two ways. First, a large search space of potential programs needs to be explored at training time to find a correct program. Second, spurious programs that accidentally lead to a correct denotation add noise to training. In this work we propose that in closed worlds with clear semantic types, one can substantially alleviate these problems by utilizing an abstract representation, where tokens in both the language utterance and program are lifted to an abstract form. We show that these abstractions can be defined with a handful of lexical rules and that they result in sharing between different examples that alleviates the difficulties in training. To test our approach, we develop the first semantic parser for CNLVR, a challenging visual reasoning dataset, where the search space is large and overcoming spuriousness is critical, because denotations are either TRUE or FALSE, and thus random programs are likely to lead to a correct denotation. Our method substantially improves performance, and reaches 82.5% accuracy, a 14.7% absolute accuracy improvement compared to the best reported accuracy so far.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1711.05240](http://arxiv.org/abs/1711.05240)
+
+##### PDF
+[http://arxiv.org/pdf/1711.05240](http://arxiv.org/pdf/1711.05240)
+
