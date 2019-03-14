@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Privacy Preserving Image-Based Localization"
+date: 2019-03-13 16:12:04
+categories: arXiv_CV
+tags: arXiv_CV Pose_Estimation
+author: Pablo Speciale, Johannes L. Sch&#xf6;nberger, Sing Bing Kang, Sudipta N. Sinha, Marc Pollefeys
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Image-based localization is a core component of many augmented/mixed reality (AR/MR) and autonomous robotic systems. Current localization systems rely on the persistent storage of 3D point clouds of the scene to enable camera pose estimation, but such data reveals potentially sensitive scene information. This gives rise to significant privacy risks, especially as for many applications 3D mapping is a background process that the user might not be fully aware of. We pose the following question: How can we avoid disclosing confidential information about the captured 3D scene, and yet allow reliable camera pose estimation? This paper proposes the first solution to what we call privacy preserving image-based localization. The key idea of our approach is to lift the map representation from a 3D point cloud to a 3D line cloud. This novel representation obfuscates the underlying scene geometry while providing sufficient geometric constraints to enable robust and accurate 6-DOF camera pose estimation. Extensive experiments on several datasets and localization scenarios underline the high practical relevance of our proposed approach.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.05572](http://arxiv.org/abs/1903.05572)
+
+##### PDF
+[http://arxiv.org/pdf/1903.05572](http://arxiv.org/pdf/1903.05572)
+
