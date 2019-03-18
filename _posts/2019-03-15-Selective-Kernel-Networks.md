@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Selective Kernel Networks"
+date: 2019-03-15 15:04:22
+categories: arXiv_CV
+tags: arXiv_CV Attention CNN
+author: Xiang Li, Wenhai Wang, Xiaolin Hu, Jian Yang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In standard Convolutional Neural Networks (CNNs), the receptive fields of artificial neurons in each layer are designed to share the same size. It is well-known in the neuroscience community that the receptive field size of visual cortical neurons are modulated by the stimulus, which has been rarely considered in constructing CNNs. We propose a dynamic selection mechanism in CNNs that allows each neuron to adaptively adjust its receptive field size based on multiple scales of input information. A building block called Selective Kernel (SK) unit is designed, in which multiple branches with different kernel sizes are fused using softmax attention that is guided by the information in these branches. Different attentions on these branches yield different sizes of the effective receptive fields of neurons in the fusion layer. Multiple SK units are stacked to a deep network termed Selective Kernel Networks (SKNets). On the ImageNet and CIFAR benchmarks, we empirically show that SKNet outperforms the existing state-of-the-art architectures with lower model complexity. Detailed analyses show that the neurons in SKNet can capture target objects with different scales, which verifies the capability of neurons for adaptively adjusting their recpeitve field sizes according to the input. The code and models are available at https://github.com/implus/SKNet.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.06586](http://arxiv.org/abs/1903.06586)
+
+##### PDF
+[http://arxiv.org/pdf/1903.06586](http://arxiv.org/pdf/1903.06586)
+
