@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Inserting Videos into Videos"
+date: 2019-03-15 14:30:22
+categories: arXiv_CV
+tags: arXiv_CV Re-identification Adversarial Segmentation Tracking Person_Re-identification Object_Tracking
+author: Donghoon Lee, Tomas Pfister, Ming-Hsuan Yang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we introduce a new problem of manipulating a given video by inserting other videos into it. Our main task is, given an object video and a scene video, to insert the object video at a user-specified location in the scene video so that the resulting video looks realistic. We aim to handle different object motions and complex backgrounds without expensive segmentation annotations. As it is difficult to collect training pairs for this problem, we synthesize fake training pairs that can provide helpful supervisory signals when training a neural network with unpaired real data. The proposed network architecture can take both real and fake pairs as input and perform both supervised and unsupervised training in an adversarial learning scheme. To synthesize a realistic video, the network renders each frame based on the current input and previous frames. Within this framework, we observe that injecting noise into previous frames while generating the current frame stabilizes training. We conduct experiments on real-world videos in object tracking and person re-identification benchmark datasets. Experimental results demonstrate that the proposed algorithm is able to synthesize long sequences of realistic videos with a given object video inserted.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.06571](http://arxiv.org/abs/1903.06571)
+
+##### PDF
+[http://arxiv.org/pdf/1903.06571](http://arxiv.org/pdf/1903.06571)
+
