@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Ontology Based Global and Collective Motion Patterns for Event Classification in Basketball Videos"
+date: 2019-03-16 04:52:02
+categories: arXiv_CV
+tags: arXiv_CV Ontology CNN RNN Classification
+author: Lifang Wu, Zhou Yang, Jiaoyu He, Meng Jian, Yaowen Xu, Dezhong Xu, Chang Wen Chen
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In multi-person videos, especially team sport videos, a semantic event is usually represented as a confrontation between two teams of players, which can be represented as collective motion. In broadcast basketball videos, specific camera motions are used to present specific events. Therefore, a semantic event in broadcast basketball videos is closely related to both the global motion (camera motion) and the collective motion. A semantic event in basketball videos can be generally divided into three stages: pre-event, event occurrence (event-occ), and post-event. In this paper, we propose an ontology-based global and collective motion pattern (On_GCMP) algorithm for basketball event classification. First, a two-stage GCMP based event classification scheme is proposed. The GCMP is extracted using optical flow. The two-stage scheme progressively combines a five-class event classification algorithm on event-occs and a two-class event classification algorithm on pre-events. Both algorithms utilize sequential convolutional neural networks (CNNs) and long short-term memory (LSTM) networks to extract the spatial and temporal features of GCMP for event classification. Second, we utilize post-event segments to predict success/failure using deep features of images in the video frames (RGB_DF_VF) based algorithms. Finally the event classification results and success/failure classification results are integrated to obtain the final results. To evaluate the proposed scheme, we collected a new dataset called NCAA+, which is automatically obtained from the NCAA dataset by extending the fixed length of video clips forward and backward of the corresponding semantic events. The experimental results demonstrate that the proposed scheme achieves the mean average precision of 59.22% on NCAA+. It is higher by 7.62% than state-of-the-art on NCAA.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.06879](http://arxiv.org/abs/1903.06879)
+
+##### PDF
+[http://arxiv.org/pdf/1903.06879](http://arxiv.org/pdf/1903.06879)
+
