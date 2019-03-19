@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Understanding the Limitations of CNN-based Absolute Camera Pose Regression"
+date: 2019-03-18 15:24:11
+categories: arXiv_CV
+tags: arXiv_CV Image_Retrieval Pose_Estimation CNN Prediction SLAM
+author: Torsten Sattler, Qunjie Zhou, Marc Pollefeys, Laura Leal-Taixe
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Visual localization is the task of accurate camera pose estimation in a known scene. It is a key problem in computer vision and robotics, with applications including self-driving cars, Structure-from-Motion, SLAM, and Mixed Reality. Traditionally, the localization problem has been tackled using 3D geometry. Recently, end-to-end approaches based on convolutional neural networks have become popular. These methods learn to directly regress the camera pose from an input image. However, they do not achieve the same level of pose accuracy as 3D structure-based methods. To understand this behavior, we develop a theoretical model for camera pose regression. We use our model to predict failure cases for pose regression techniques and verify our predictions through experiments. We furthermore use our model to show that pose regression is more closely related to pose approximation via image retrieval than to accurate pose estimation via 3D structure. A key result is that current approaches do not consistently outperform a handcrafted image retrieval baseline. This clearly shows that additional research is needed before pose regression algorithms are ready to compete with structure-based methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.07504](http://arxiv.org/abs/1903.07504)
+
+##### PDF
+[http://arxiv.org/pdf/1903.07504](http://arxiv.org/pdf/1903.07504)
+
