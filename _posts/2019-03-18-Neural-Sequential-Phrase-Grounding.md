@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural Sequential Phrase Grounding"
+date: 2019-03-18 18:52:09
+categories: arXiv_CV
+tags: arXiv_CV Embedding RNN
+author: Pelin Dogan, Leonid Sigal, Markus Gross
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose an end-to-end approach for phrase grounding in images. Unlike prior methods that typically attempt to ground each phrase independently by building an image-text embedding, our architecture formulates grounding of multiple phrases as a sequential and contextual process. Specifically, we encode region proposals and all phrases into two stacks of LSTM cells, along with so-far grounded phrase-region pairs. These LSTM stacks collectively capture context for grounding of the next phrase. The resulting architecture, which we call SeqGROUND, supports many-to-many matching by allowing an image region to be matched to multiple phrases and vice versa. We show competitive performance on the Flickr30K benchmark dataset and, through ablation studies, validate the efficacy of sequential grounding as well as individual design choices in our model architecture.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.07669](http://arxiv.org/abs/1903.07669)
+
+##### PDF
+[http://arxiv.org/pdf/1903.07669](http://arxiv.org/pdf/1903.07669)
+
