@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Auto-conditioned Recurrent Mixture Density Networks for Learning Generalizable Robot Skills"
+date: 2019-03-20 01:04:12
+categories: arXiv_RO
+tags: arXiv_RO
+author: Hejia Zhang, Eric Heiden, Stefanos Nikolaidis, Joseph J. Lim, Gaurav S. Sukhatme
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Personal robots assisting humans must perform complex manipulation tasks that are typically difficult to specify in traditional motion planning pipelines, where multiple objectives must be met and the high-level context be taken into consideration. Learning from demonstration (LfD) provides a promising way to learn these kind of complex manipulation skills even from non-technical users. However, it is challenging for existing LfD methods to efficiently learn skills that can generalize to task specifications that are not covered by demonstrations. In this paper, we introduce a state transition model (STM) that generates joint-space trajectories by imitating motions from expert behavior. Given a few demonstrations, we show in real robot experiments that the learned STM can quickly generalize to unseen tasks and synthesize motions having longer time horizons than the expert trajectories. Compared to conventional motion planners, our approach enables the robot to accomplish complex behaviors from high-level instructions without laborious hand-engineering of planning objectives, while being able to adapt to changing goals during the skill execution. In conjunction with a trajectory optimizer, our STM can construct a high-quality skeleton of a trajectory that can be further improved in smoothness and precision. In combination with a learned inverse dynamics model, we additionally present results where the STM is used as a high-level planner. 
+ A video of our experiments is available at https://youtu.be/85DX9Ojq-90
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.00146](http://arxiv.org/abs/1810.00146)
+
+##### PDF
+[http://arxiv.org/pdf/1810.00146](http://arxiv.org/pdf/1810.00146)
+
