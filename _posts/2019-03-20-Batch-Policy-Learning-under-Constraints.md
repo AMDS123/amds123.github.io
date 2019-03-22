@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Batch Policy Learning under Constraints"
+date: 2019-03-20 21:01:22
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning
+author: Hoang M. Le, Cameron Voloshin, Yisong Yue
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+When learning policies for real-world domains, two important questions arise: (i) how to efficiently use pre-collected off-policy, non-optimal behavior data; and (ii) how to mediate among different competing objectives and constraints. We thus study the problem of batch policy learning under multiple constraints, and offer a systematic solution. We first propose a flexible meta-algorithm that admits any batch reinforcement learning and online learning procedure as subroutines. We then present a specific algorithmic instantiation and provide performance guarantees for the main objective and all constraints. To certify constraint satisfaction, we propose a new and simple method for off-policy policy evaluation (OPE) and derive PAC-style bounds. Our algorithm achieves strong empirical results in different domains, including in a challenging problem of simulated car driving subject to multiple constraints such as lane keeping and smooth driving. We also show experimentally that our OPE method outperforms other popular OPE techniques on a standalone basis, especially in a high-dimensional setting.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.08738](http://arxiv.org/abs/1903.08738)
+
+##### PDF
+[http://arxiv.org/pdf/1903.08738](http://arxiv.org/pdf/1903.08738)
+
