@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration"
+date: 2019-03-21 03:09:19
+categories: arXiv_CV
+tags: arXiv_CV
+author: Xing Liu, Masanori Suganuma, Zhun Sun, Takayuki Okatani
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we study design of deep neural networks for tasks of image restoration. We propose a novel style of residual connections dubbed "dual residual connection", which exploits the potential of paired operations, e.g., up- and down-sampling or convolution with large- and small-size kernels. We design a modular block implementing this connection style; it is equipped with two containers to which arbitrary paired operations are inserted. Adopting the "unraveled" view of the residual networks proposed by Veit et al., we point out that a stack of the proposed modular blocks allows the first operation in a block interact with the second operation in any subsequent blocks. Specifying the two operations in each of the stacked blocks, we build a complete network for each individual task of image restoration. We experimentally evaluate the proposed approach on five image restoration tasks using nine datasets. The results show that the proposed networks with properly chosen paired operations outperform previous methods on almost all of the tasks and datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.08817](http://arxiv.org/abs/1903.08817)
+
+##### PDF
+[http://arxiv.org/pdf/1903.08817](http://arxiv.org/pdf/1903.08817)
+
