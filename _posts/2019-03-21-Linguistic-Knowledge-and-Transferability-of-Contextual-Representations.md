@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Linguistic Knowledge and Transferability of Contextual Representations"
+date: 2019-03-21 07:19:45
+categories: arXiv_CL
+tags: arXiv_CL Knowledge RNN Language_Model
+author: Nelson F. Liu, Matt Gardner, Yonatan Belinkov, Matthew Peters, Noah A. Smith
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Contextual word representations derived from large-scale neural language models are successful across a diverse set of NLP tasks, suggesting that they encode useful and transferable features of language. To shed light on the linguistic knowledge they capture, we study the representations produced by several recent pretrained contextualizers (variants of ELMo, the OpenAI transformer LM, and BERT) with a suite of sixteen diverse probing tasks. We find that linear models trained on top of frozen contextual representations are competitive with state-of-the-art task-specific models in many cases, but fail on tasks requiring fine-grained linguistic knowledge (e.g., conjunct identification). To investigate the transferability of contextual word representations, we quantify differences in the transferability of individual layers within contextualizers, especially between RNNs and transformers. For instance, higher layers of RNNs are more task-specific, while transformer layers do not exhibit the same monotonic trend. In addition, to better understand what makes contextual word representations transferable, we compare language model pretraining with eleven supervised pretraining tasks. For any given task, pretraining on a closely related task yields better performance than language model pretraining (which is better on average) when the pretraining dataset is fixed. However, language model pretraining on more data gives the best results.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.08855](http://arxiv.org/abs/1903.08855)
+
+##### PDF
+[http://arxiv.org/pdf/1903.08855](http://arxiv.org/pdf/1903.08855)
+
