@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Networks for Joint Affine and Non-parametric Image Registration"
+date: 2019-03-21 02:35:42
+categories: arXiv_CV
+tags: arXiv_CV
+author: Zhengyang Shen, Xu Han, Zhenlin Xu, Marc Niethammer
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We introduce an end-to-end deep-learning framework for 3D medical image registration. In contrast to existing approaches, our framework combines two registration methods: an affine registration and a vector momentum-parameterized stationary velocity field (vSVF) model. Specifically, it consists of three stages. In the first stage, a multi-step affine network predicts affine transform parameters. In the second stage, we use a Unet-like network to generate a momentum, from which a velocity field can be computed via smoothing. Finally, in the third stage, we employ a self-iterable map-based vSVF component to provide a non-parametric refinement based on the current estimate of the transformation map. Once the model is trained, a registration is completed in one forward pass. To evaluate the performance, we conducted longitudinal and cross-subject experiments on 3D magnetic resonance images (MRI) of the knee of the Osteoarthritis Initiative (OAI) dataset. Results show that our framework achieves comparable performance to state-of-the-art medical image registration approaches, but it is much faster, with a better control of transformation regularity including the ability to produce approximately symmetric transformations, and combining affine and non-parametric registration.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.08811](http://arxiv.org/abs/1903.08811)
+
+##### PDF
+[http://arxiv.org/pdf/1903.08811](http://arxiv.org/pdf/1903.08811)
+
