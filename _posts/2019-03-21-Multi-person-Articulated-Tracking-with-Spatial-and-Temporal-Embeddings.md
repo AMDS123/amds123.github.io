@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Multi-person Articulated Tracking with Spatial and Temporal Embeddings"
+date: 2019-03-21 19:42:27
+categories: arXiv_CV
+tags: arXiv_CV Pose_Estimation Tracking Embedding Object_Tracking Detection
+author: Sheng Jin, Wentao Liu, Wanli Ouyang, Chen Qian
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a unified framework for multi-person pose estimation and tracking. Our framework consists of two main components,~\ie~SpatialNet and TemporalNet. The SpatialNet accomplishes body part detection and part-level data association in a single frame, while the TemporalNet groups human instances in consecutive frames into trajectories. Specifically, besides body part detection heatmaps, SpatialNet also predicts the Keypoint Embedding (KE) and Spatial Instance Embedding (SIE) for body part association. We model the grouping procedure into a differentiable Pose-Guided Grouping (PGG) module to make the whole part detection and grouping pipeline fully end-to-end trainable. TemporalNet extends spatial grouping of keypoints to temporal grouping of human instances. Given human proposals from two consecutive frames, TemporalNet exploits both appearance features encoded in Human Embedding (HE) and temporally consistent geometric features embodied in Temporal Instance Embedding (TIE) for robust tracking. Extensive experiments demonstrate the effectiveness of our proposed model. Remarkably, we demonstrate substantial improvements over the state-of-the-art pose tracking method from 65.4\% to 71.8\% Multi-Object Tracking Accuracy (MOTA) on the ICCV'17 PoseTrack Dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.09214](http://arxiv.org/abs/1903.09214)
+
+##### PDF
+[http://arxiv.org/pdf/1903.09214](http://arxiv.org/pdf/1903.09214)
+
