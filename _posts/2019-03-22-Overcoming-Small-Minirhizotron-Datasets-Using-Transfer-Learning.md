@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Overcoming Small Minirhizotron Datasets Using Transfer Learning"
+date: 2019-03-22 03:40:25
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Transfer_Learning
+author: Weihuang Xu, Guohao Yu, Alina Zare, Brendan Zurweller, Diane Rowland, Joel Reyes-Cabrera, Felix B Fritschi, Roser Matamala, Thomas E. Juenger
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Minirhizotron technology is widely used for studying the development of roots. Such systems collect visible-wavelength color imagery of plant roots in-situ by scanning an imaging system within a clear tube driven into the soil. Automated analysis of root systems could facilitate new scientific discoveries that would be critical to address the world's pressing food, resource, and climate issues. A key component of automated analysis of plant roots from imagery is the automated pixel-level segmentation of roots from their surrounding soil. Supervised learning techniques appear to be an appropriate tool for the challenge due to varying local soil and root conditions, however, lack of enough annotated training data is a major limitation due to the error-prone and time-consuming manually labeling process. In this paper, we investigate the use of deep neural networks based on the U-net architecture for automated, precise pixel-wise root segmentation in minirhizotron imagery. We compiled two minirhizotron image datasets to accomplish this study: one with 17,550 peanut root images and another with 28 switchgrass root images. Both datasets were paired with manually labeled ground truth masks. We trained three neural networks with different architectures on the larger peanut root dataset to explore the effect of the neural network depth on segmentation performance. To tackle the more limited switchgrass root dataset, we showed that models initialized with features pre-trained on the peanut dataset and then fine-tuned on the switchgrass dataset can improve segmentation performance significantly. We obtained 99\% segmentation accuracy in switchgrass imagery using only 21 training images. We also observed that features pre-trained on a closely related but relatively moderate size dataset like our peanut dataset are more effective than features pre-trained on the large but unrelated ImageNet dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.09344](http://arxiv.org/abs/1903.09344)
+
+##### PDF
+[http://arxiv.org/pdf/1903.09344](http://arxiv.org/pdf/1903.09344)
+
