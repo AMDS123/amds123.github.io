@@ -1,0 +1,25 @@
+---
+layout: post
+title: "High-Precision Online Markerless Stereo Extrinsic Calibration"
+date: 2019-03-26 06:52:14
+categories: arXiv_RO
+tags: arXiv_RO Sparse Optimization
+author: Yonggen Ling, Shaojie Shen
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Stereo cameras and dense stereo matching algorithms are core components for many robotic applications due to their abilities to directly obtain dense depth measurements and their robustness against changes in lighting conditions. However, the performance of dense depth estimation relies heavily on accurate stereo extrinsic calibration. In this work, we present a real-time markerless approach for obtaining high-precision stereo extrinsic calibration using a novel 5-DOF (degrees-of-freedom) and nonlinear optimization on a manifold, which captures the observability property of vision-only stereo calibration. Our method minimizes epipolar errors between spatial per-frame sparse natural features.It does not require temporal feature correspondences, making it not only invariant to dynamic scenes and illumination changes, but also able to run significantly faster than standard bundle adjustment-based approaches. We introduce a principled method to determine if the calibration converges to the required level of accuracy, and show through online experiments that our approach achieves a level of accuracy that is comparable to offline marker-based calibration methods. Our method refines stereo extrinsic to the accuracy that is sufficient for block matching-based dense disparity computation. It provides a cost-effective way to improve the reliability of stereo vision systems for long-term autonomy.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.10705](http://arxiv.org/abs/1903.10705)
+
+##### PDF
+[http://arxiv.org/pdf/1903.10705](http://arxiv.org/pdf/1903.10705)
+
