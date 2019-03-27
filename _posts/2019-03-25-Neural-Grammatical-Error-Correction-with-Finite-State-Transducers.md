@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural Grammatical Error Correction with Finite State Transducers"
+date: 2019-03-25 23:05:11
+categories: arXiv_CL
+tags: arXiv_CL Language_Model
+author: Felix Stahlberg, Christopher Bryant, Bill Byrne
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Grammatical error correction (GEC) is one of the areas in natural language processing in which purely neural models have not yet superseded more traditional symbolic models. Hybrid systems combining phrase-based statistical machine translation (SMT) and neural sequence models are currently among the most effective approaches to GEC. However, both SMT and neural sequence-to-sequence models require large amounts of annotated data. Language model based GEC (LM-GEC) is a promising alternative which does not rely on annotated training data. We show how to improve LM-GEC by applying modelling techniques based on finite state transducers. We report further gains by rescoring with neural language models. We show that our methods developed for LM-GEC can also be used with SMT systems if annotated training data is available. Our best system outperforms the best published result on the CoNLL-2014 test set, and achieves far better relative improvements over the SMT baselines than previous hybrid systems.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.10625](http://arxiv.org/abs/1903.10625)
+
+##### PDF
+[http://arxiv.org/pdf/1903.10625](http://arxiv.org/pdf/1903.10625)
+
