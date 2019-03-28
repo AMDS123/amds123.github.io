@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Does My Rebuttal Matter? Insights from a Major NLP Conference"
+date: 2019-03-27 12:00:20
+categories: arXiv_AI
+tags: arXiv_AI Review Quantitative
+author: Yang Gao, Steffen Eger, Ilia Kuznetsov, Iryna Gurevych, Yusuke Miyao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Peer review is a core element of the scientific process, particularly in conference-centered fields such as ML and NLP. However, only few studies have evaluated its properties empirically. Aiming to fill this gap, we present a corpus that contains over 4k reviews and 1.2k author responses from ACL-2018. We quantitatively and qualitatively assess the corpus. This includes a pilot study on paper weaknesses given by reviewers and on quality of author responses. We then focus on the role of the rebuttal phase, and propose a novel task to predict after-rebuttal (i.e., final) scores from initial reviews and author responses. Although author responses do have a marginal (and statistically significant) influence on the final scores, especially for borderline papers, our results suggest that a reviewer's final score is largely determined by her initial score and the distance to the other reviewers' initial scores. In this context, we discuss the conformity bias inherent to peer reviewing, a bias that has largely been overlooked in previous research. We hope our analyses will help better assess the usefulness of the rebuttal phase in NLP conferences.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.11367](http://arxiv.org/abs/1903.11367)
+
+##### PDF
+[http://arxiv.org/pdf/1903.11367](http://arxiv.org/pdf/1903.11367)
+
