@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Rethinking Knowledge Graph Propagation for Zero-Shot Learning"
+date: 2019-03-27 17:26:38
+categories: arXiv_CV
+tags: arXiv_CV Knowledge_Graph Knowledge Face CNN Relation
+author: Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Graph convolutional neural networks have recently shown great potential for the task of zero-shot learning. These models are highly sample efficient as related concepts in the graph structure share statistical strength allowing generalization to new classes when faced with a lack of data. However, multi-layer architectures, which are required to propagate knowledge to distant nodes in the graph, dilute the knowledge by performing extensive Laplacian smoothing at each layer and thereby consequently decrease performance. In order to still enjoy the benefit brought by the graph structure while preventing dilution of knowledge from distant nodes, we propose a Dense Graph Propagation (DGP) module with carefully designed direct links among distant nodes. DGP allows us to exploit the hierarchical graph structure of the knowledge graph through additional connections. These connections are added based on a node's relationship to its ancestors and descendants. A weighting scheme is further used to weigh their contribution depending on the distance to the node to improve information propagation in the graph. Combined with finetuning of the representations in a two-stage training approach our method outperforms state-of-the-art zero-shot learning approaches.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.11724](http://arxiv.org/abs/1805.11724)
+
+##### PDF
+[http://arxiv.org/pdf/1805.11724](http://arxiv.org/pdf/1805.11724)
+
