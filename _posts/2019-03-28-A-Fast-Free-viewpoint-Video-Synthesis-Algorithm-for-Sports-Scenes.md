@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Fast Free-viewpoint Video Synthesis Algorithm for Sports Scenes"
+date: 2019-03-28 05:02:30
+categories: arXiv_CV
+tags: arXiv_CV Sparse Face
+author: Jun Chen, Ryosuke Watanabe, Keisuke Nonaka, Tomoaki Konno, Hiroshi Sankoh, Sei Naito
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we report on a parallel freeviewpoint video synthesis algorithm that can efficiently reconstruct a high-quality 3D scene representation of sports scenes. The proposed method focuses on a scene that is captured by multiple synchronized cameras featuring wide-baselines. The following strategies are introduced to accelerate the production of a free-viewpoint video taking the improvement of visual quality into account: (1) a sparse point cloud is reconstructed using a volumetric visual hull approach, and an exact 3D ROI is found for each object using an efficient connected components labeling algorithm. Next, the reconstruction of a dense point cloud is accelerated by implementing visual hull only in the ROIs; (2) an accurate polyhedral surface mesh is built by estimating the exact intersections between grid cells and the visual hull; (3) the appearance of the reconstructed presentation is reproduced in a view-dependent manner that respectively renders the non-occluded and occluded region with the nearest camera and its neighboring cameras. The production for volleyball and judo sequences demonstrates the effectiveness of our method in terms of both execution time and visual quality.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.11785](http://arxiv.org/abs/1903.11785)
+
+##### PDF
+[http://arxiv.org/pdf/1903.11785](http://arxiv.org/pdf/1903.11785)
+
