@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Outlier-Robust Spatial Perception: Hardness, General-Purpose Algorithms, and Guarantees"
+date: 2019-03-27 20:12:37
+categories: arXiv_CV
+tags: arXiv_CV Pose_Estimation SLAM
+author: Vasileios Tzoumas, Pasquale Antonante, Luca Carlone
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Spatial perception is the backbone of many robotics applications, and spans a broad range of research problems, including localization and mapping, point cloud alignment, and relative pose estimation from camera images. Robust spatial perception is jeopardized by the presence of incorrect data association, and in general, outliers. Although techniques to handle outliers do exist, they can fail in unpredictable manners (e.g., RANSAC, robust estimators), or can have exponential runtime (e.g., branch-and-bound). In this paper, we advance the state of the art in outlier rejection by making three contributions. First, we show that even a simple linear instance of outlier rejection is inapproximable: in the worst-case one cannot design a quasi-polynomial time algorithm that computes an approximate solution efficiently. Our second contribution is to provide the first per-instance sub-optimality bounds to assess the approximation quality of a given outlier rejection outcome. Our third contribution is to propose a simple general-purpose algorithm, named adaptive trimming, to remove outliers. Our algorithm leverages recently-proposed global solvers that are able to solve outlier-free problems, and iteratively removes measurements with large errors. We demonstrate the proposed algorithm on three spatial perception problems: 3D registration, two-view geometry, and SLAM. The results show that our algorithm outperforms several state-of-the-art methods across applications while being a general-purpose method.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1903.11683](http://arxiv.org/abs/1903.11683)
+
+##### PDF
+[http://arxiv.org/pdf/1903.11683](http://arxiv.org/pdf/1903.11683)
+
