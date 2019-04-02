@@ -1,0 +1,25 @@
+---
+layout: post
+title: "EventNet: Asynchronous Recursive Event Processing"
+date: 2019-04-01 07:08:14
+categories: arXiv_CV
+tags: arXiv_CV Sparse Inference
+author: Yusuke Sekikawa, Kosuke Hara, Hideo Saito
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Event cameras are bio-inspired vision sensors that mimic retinas to asynchronously report per-pixel intensity changes rather than outputting an actual intensity image at regular intervals. This new paradigm of image sensor offers significant potential advantages; namely, sparse and non-redundant data representation. Unfortunately, however, most of the existing artificial neural network architectures, such as a CNN, require dense synchronous input data, and therefore, cannot make use of the sparseness of the data. We propose EventNet, a neural network designed for real-time processing of asynchronous event streams in a recursive and event-wise manner. EventNet models dependence of the output on tens of thousands of causal events recursively using a novel temporal coding scheme. As a result, at inference time, our network operates in an event-wise manner that is realized with very few sum-of-the-product operations---look-up table and temporal feature aggregation---which enables processing of 1 mega or more events per second on standard CPU. In experiments using real data, we demonstrated the real-time performance and robustness of our framework.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.07045](http://arxiv.org/abs/1812.07045)
+
+##### PDF
+[http://arxiv.org/pdf/1812.07045](http://arxiv.org/pdf/1812.07045)
+
