@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Conversation Model Fine-Tuning for Classifying Client Utterances in Counseling Dialogues"
+date: 2019-03-31 07:30:47
+categories: arXiv_CL
+tags: arXiv_CL Attention Classification Language_Model
+author: Sungjoon Park, Donghyun Kim, Alice Oh
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The recent surge of text-based online counseling applications enables us to collect and analyze interactions between counselors and clients. A dataset of those interactions can be used to learn to automatically classify the client utterances into categories that help counselors in diagnosing client status and predicting counseling outcome. With proper anonymization, we collect counselor-client dialogues, define meaningful categories of client utterances with professional counselors, and develop a novel neural network model for classifying the client utterances. The central idea of our model, ConvMFiT, is a pre-trained conversation model which consists of a general language model built from an out-of-domain corpus and two role-specific language models built from unlabeled in-domain dialogues. The classification result shows that ConvMFiT outperforms state-of-the-art comparison models. Further, the attention weights in the learned model confirm that the model finds expected linguistic patterns for each category.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.00350](http://arxiv.org/abs/1904.00350)
+
+##### PDF
+[http://arxiv.org/pdf/1904.00350](http://arxiv.org/pdf/1904.00350)
+
