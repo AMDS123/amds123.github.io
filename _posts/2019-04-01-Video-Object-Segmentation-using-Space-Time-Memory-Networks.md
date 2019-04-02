@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Video Object Segmentation using Space-Time Memory Networks"
+date: 2019-04-01 07:27:24
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Prediction Memory_Networks
+author: Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a novel solution for semi-supervised video object segmentation. By the nature of the problem, available cues (e.g. video frame(s) with object masks) become richer with the intermediate predictions. However, the existing methods are unable to fully exploit this rich source of information. We resolve the issue by leveraging memory networks and learn to read relevant information from all available sources. In our framework, the past frames with object masks form an external memory, and the current frame as the query is segmented using the mask information in the memory. Specifically, the query and the memory are densely matched in the feature space, covering all the space-time pixel locations in a feed-forward fashion. Contrast to the previous approaches, the abundant use of the guidance information allows us to better handle the challenges such as appearance changes and occlussions. We validate our method on the latest benchmark sets and achieved the state-of-the-art performance (overall score of 79.4 on Youtube-VOS val set, J of 88.7 and 79.2 on DAVIS 2016/2017 val set respectively) while having a fast runtime (0.16 second/frame on DAVIS 2016 val set).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.00607](http://arxiv.org/abs/1904.00607)
+
+##### PDF
+[http://arxiv.org/pdf/1904.00607](http://arxiv.org/pdf/1904.00607)
+
