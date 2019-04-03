@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Semantics Disentangling for Text-to-Image Generation"
+date: 2019-04-02 15:08:51
+categories: arXiv_CV
+tags: arXiv_CV Embedding
+author: Guojun Yin, Bin Liu, Lu Sheng, Nenghai Yu, Xiaogang Wang, Jing Shao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Synthesizing photo-realistic images from text descriptions is a challenging problem. Previous studies have shown remarkable progresses on visual quality of the generated images. In this paper, we consider semantics from the input text descriptions in helping render photo-realistic images. However, diverse linguistic expressions pose challenges in extracting consistent semantics even they depict the same thing. To this end, we propose a novel photo-realistic text-to-image generation model that implicitly disentangles semantics to both fulfill the high-level semantic consistency and low-level semantic diversity. To be specific, we design (1) a Siamese mechanism in the discriminator to learn consistent high-level semantics, and (2) a visual-semantic embedding strategy by semantic-conditioned batch normalization to find diverse low-level semantics. Extensive experiments and ablation studies on CUB and MS-COCO datasets demonstrate the superiority of the proposed method in comparison to state-of-the-art methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.01480](http://arxiv.org/abs/1904.01480)
+
+##### PDF
+[http://arxiv.org/pdf/1904.01480](http://arxiv.org/pdf/1904.01480)
+
