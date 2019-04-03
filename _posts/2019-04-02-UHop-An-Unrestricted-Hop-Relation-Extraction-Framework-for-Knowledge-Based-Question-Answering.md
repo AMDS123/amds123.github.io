@@ -1,0 +1,25 @@
+---
+layout: post
+title: "UHop: An Unrestricted-Hop Relation Extraction Framework for Knowledge-Based Question Answering"
+date: 2019-04-02 07:08:25
+categories: arXiv_CL
+tags: arXiv_CL Knowledge_Graph Knowledge Relation_Extraction Relation
+author: Zi-Yuan Chen, Chih-Hung Chang, Yi-Pei Chen, Jijnasa Nayak, Lun-Wei Ku
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In relation extraction for knowledge-based question answering, searching from one entity to another entity via a single relation is called "one hop". In related work, an exhaustive search from all one-hop relations, two-hop relations, and so on to the max-hop relations in the knowledge graph is necessary but expensive. Therefore, the number of hops is generally restricted to two or three. In this paper, we propose UHop, an unrestricted-hop framework which relaxes this restriction by use of a transition-based search framework to replace the relation-chain-based search one. We conduct experiments on conventional 1- and 2-hop questions as well as lengthy questions, including datasets such as WebQSP, PathQuestion, and Grid World. Results show that the proposed framework enables the ability to halt, works well with state-of-the-art models, achieves competitive performance without exhaustive searches, and opens the performance gap for long relation paths.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.01246](http://arxiv.org/abs/1904.01246)
+
+##### PDF
+[http://arxiv.org/pdf/1904.01246](http://arxiv.org/pdf/1904.01246)
+
