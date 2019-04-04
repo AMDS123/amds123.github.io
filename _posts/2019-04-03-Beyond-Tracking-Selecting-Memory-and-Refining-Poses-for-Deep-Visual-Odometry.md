@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry"
+date: 2019-04-03 10:11:22
+categories: arXiv_CV
+tags: arXiv_CV Attention Tracking
+author: Fei Xue, Xin Wang, Shunkai Li, Qiuyuan Wang, Junqiu Wang, Hongbin Zha
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Most previous learning-based visual odometry (VO) methods take VO as a pure tracking problem. In contrast, we present a VO framework by incorporating two additional components called Memory and Refining. The Memory component preserves global information by employing an adaptive and efficient selection strategy. The Refining component ameliorates previous results with the contexts stored in the Memory by adopting a spatial-temporal attention mechanism for feature distilling. Experiments on the KITTI and TUM-RGBD benchmark datasets demonstrate that our method outperforms state-of-the-art learning-based methods by a large margin and produces competitive results against classic monocular VO approaches. Especially, our model achieves outstanding performance in challenging scenarios such as texture-less regions and abrupt motions, where classic VO algorithms tend to fail.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1904.01892](https://arxiv.org/abs/1904.01892)
+
+##### PDF
+[https://arxiv.org/pdf/1904.01892](https://arxiv.org/pdf/1904.01892)
+
