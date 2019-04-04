@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robust Model Predictive Control of Irrigation Systems with Active Uncertainty Learning and Data Analytics"
+date: 2019-03-28 00:09:43
+categories: arXiv_AI
+tags: arXiv_AI
+author: Chao Shang, Wei-Han Chen, Abraham Duncan Stroock, Fengqi You
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We develop a novel data-driven robust model predictive control (DDRMPC) approach for automatic control of irrigation systems. The fundamental idea is to integrate both mechanistic models, which describe dynamics in soil moisture variations, and data-driven models, which characterize uncertainty in forecast errors of evapotranspiration and precipitation, into a holistic systems control framework. To better capture the support of uncertainty distribution, we take a new learning-based approach by constructing uncertainty sets from historical data. For evapotranspiration forecast error, the support vector clustering-based uncertainty set is adopted, which can be conveniently built from historical data. As for precipitation forecast errors, we analyze the dependence of their distribution on forecast values, and further design a tailored uncertainty set based on the properties of this type of uncertainty. In this way, the overall uncertainty distribution can be elaborately described, which finally contributes to rational and efficient control decisions. To assure the quality of data-driven uncertainty sets, a training-calibration scheme is used to provide theoretical performance guarantees. A generalized affine decision rule is adopted to obtain tractable approximations of optimal control problems, thereby ensuring the practicability of DDRMPC. Case studies using real data show that, DDRMPC can reliably maintain soil moisture above the safety level and avoid crop devastation. The proposed DDRMPC approach leads to a 40\% reduction of total water consumption compared to the fine-tuned open-loop control strategy. In comparison with the carefully tuned rule-based control and certainty equivalent model predictive control, the proposed DDRMPC approach can significantly reduce the total water consumption and improve the control performance.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.05947](http://arxiv.org/abs/1810.05947)
+
+##### PDF
+[http://arxiv.org/pdf/1810.05947](http://arxiv.org/pdf/1810.05947)
+
