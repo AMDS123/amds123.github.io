@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Patchwork: A Patch-wise Attention Network for Efficient Object Detection and Segmentation in Video Streams"
+date: 2019-04-03 05:58:42
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Segmentation Attention Prediction Detection
+author: Yuning Chai
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Recent advances in single-frame object detection and segmentation techniques have motivated a wide range of works to extend these methods to process video streams. In this paper, we explore the idea of hard attention aimed for latency-sensitive applications. Instead of reasoning about every frame separately, our method selects and only processes a small sub-window of the frame. Our technique then makes predictions for the full frame based on the sub-windows from previous frames and the update from the current sub-window. The latency reduction by this hard attention mechanism comes at the cost of degraded accuracy. We made two contributions to address this. First, we propose a specialized memory cell that recovers lost context when processing sub-windows. Secondly, we adopt a Q-learning-based policy training strategy that enables our approach to intelligently select the sub-windows such that the staleness in the memory hurts the performance the least. Our experiments suggest that our approach reduces the latency by approximately four times without significantly sacrificing the accuracy on the ImageNet VID video object detection dataset and the DAVIS video object segmentation dataset. We further demonstrate that we can reinvest the saved computation into other parts of the network, and thus resulting in an accuracy increase at a comparable computational cost as the original system and beating other recently proposed state-of-the-art methods in the low latency range.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1904.01784](https://arxiv.org/abs/1904.01784)
+
+##### PDF
+[https://arxiv.org/pdf/1904.01784](https://arxiv.org/pdf/1904.01784)
+
