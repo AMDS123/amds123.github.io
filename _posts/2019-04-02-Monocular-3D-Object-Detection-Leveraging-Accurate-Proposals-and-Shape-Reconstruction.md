@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction"
+date: 2019-04-02 22:25:29
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Detection Relation
+author: Jason Ku, Alex D. Pon, Steven L. Waslander
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present MonoPSR, a monocular 3D object detection method that leverages proposals and shape reconstruction. First, using the fundamental relations of a pinhole camera model, detections from a mature 2D object detector are used to generate a 3D proposal per object in a scene. The 3D location of these proposals prove to be quite accurate, which greatly reduces the difficulty of regressing the final 3D bounding box detection. Simultaneously, a point cloud is predicted in an object centered coordinate system to learn local scale and shape information. However, the key challenge is how to exploit shape information to guide 3D localization. As such, we devise aggregate losses, including a novel projection alignment loss, to jointly optimize these tasks in the neural network to improve 3D localization accuracy. We validate our method on the KITTI benchmark where we set new state-of-the-art results among published monocular methods, including the harder pedestrian and cyclist classes, while maintaining efficient run-time.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1904.01690](https://arxiv.org/abs/1904.01690)
+
+##### PDF
+[https://arxiv.org/pdf/1904.01690](https://arxiv.org/pdf/1904.01690)
+
