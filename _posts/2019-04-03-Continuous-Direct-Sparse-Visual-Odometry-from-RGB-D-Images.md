@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Continuous Direct Sparse Visual Odometry from RGB-D Images"
+date: 2019-04-03 23:25:01
+categories: arXiv_AI
+tags: arXiv_AI Sparse Tracking
+author: Maani Ghaffari, William Clark, Anthony Bloch, Ryan M. Eustice, Jessy W. Grizzle
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper reports on a novel formulation and evaluation of visual odometry from RGB-D images. Assuming a static scene, the developed theoretical framework generalizes the widely used direct energy formulation (photometric error minimization) technique for obtaining a rigid body transformation that aligns two overlapping RGB-D images to a continuous formulation. The continuity is achieved through functional treatment of the problem and representing the process models over RGB-D images in a reproducing kernel Hilbert space; consequently, the registration is not limited to the specific image resolution and the framework is fully analytical with a closed-form derivation of the gradient. We solve the problem by maximizing the inner product between two functions defined over RGB-D images, while the continuous action of the rigid body motion Lie group is captured through the integration of the flow in the corresponding Lie algebra. Energy-based approaches have been extremely successful and the developed framework in this paper shares many of their desired properties such as the parallel structure on both CPUs and GPUs, sparsity, semi-dense tracking, avoiding explicit data association which is computationally expensive, and possible extensions to the simultaneous localization and mapping frameworks. The evaluations on experimental data and comparison with the energy-based formulation of the problem confirm the effectiveness of the proposed technique, especially, when the lack of structure and texture in the environment is evident.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.02266](http://arxiv.org/abs/1904.02266)
+
+##### PDF
+[http://arxiv.org/pdf/1904.02266](http://arxiv.org/pdf/1904.02266)
+
