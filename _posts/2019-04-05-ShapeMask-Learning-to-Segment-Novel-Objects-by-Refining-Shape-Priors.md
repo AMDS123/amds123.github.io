@@ -1,0 +1,25 @@
+---
+layout: post
+title: "ShapeMask: Learning to Segment Novel Objects by Refining Shape Priors"
+date: 2019-04-05 19:03:26
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Embedding Inference Prediction Detection
+author: Weicheng Kuo, Anelia Angelova, Jitendra Malik, Tsung-Yi Lin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Instance segmentation aims to detect and segment individual objects in a scene. Most existing methods rely on precise mask annotations of every category. However, it is difficult and costly to segment objects in novel categories because a large number of mask annotations is required. We introduce ShapeMask, which learns the intermediate concept of object shape to address the problem of generalization in instance segmentation to novel categories. ShapeMask starts with a bounding box detection and gradually refines it by first estimating the shape of the detected object through a collection of shape priors. Next, ShapeMask refines the coarse shape into an instance level mask by learning instance embeddings. The shape priors provide a strong cue for object-like prediction, and the instance embeddings model the instance specific appearance information. ShapeMask significantly outperforms the state-of-the-art by 6.4 and 3.8 AP when learning across categories, and obtains competitive performance in the fully supervised setting. It is also robust to inaccurate detections, decreased model capacity, and small training data. Moreover, it runs efficiently with 150ms inference time and trains within 11 hours on TPUs. With a larger backbone model, ShapeMask increases the gap with state-of-the-art to 9.4 and 6.2 AP across categories. Code will be released.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.03239](http://arxiv.org/abs/1904.03239)
+
+##### PDF
+[http://arxiv.org/pdf/1904.03239](http://arxiv.org/pdf/1904.03239)
+
