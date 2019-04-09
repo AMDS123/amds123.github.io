@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Streamlined Dense Video Captioning"
+date: 2019-04-08 07:17:30
+categories: arXiv_CV
+tags: arXiv_CV Video_Caption Reinforcement_Learning Caption
+author: Jonghwan Mun, Linjie Yang, Zhou Ren, Ning Xu, Bohyung Han
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Dense video captioning is an extremely challenging task since accurate and coherent description of events in a video requires holistic understanding of video contents as well as contextual reasoning of individual events. Most existing approaches handle this problem by first detecting event proposals from a video and then captioning on a subset of the proposals. As a result, the generated sentences are prone to be redundant or inconsistent since they fail to consider temporal dependency between events. To tackle this challenge, we propose a novel dense video captioning framework, which models temporal dependency across events in a video explicitly and leverages visual and linguistic context from prior events for coherent storytelling. This objective is achieved by 1) integrating an event sequence generation network to select a sequence of event proposals adaptively, and 2) feeding the sequence of event proposals to our sequential video captioning network, which is trained by reinforcement learning with two-level rewards at both event and episode levels for better context modeling. The proposed technique achieves outstanding performances on ActivityNet Captions dataset in most metrics.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.03870](http://arxiv.org/abs/1904.03870)
+
+##### PDF
+[http://arxiv.org/pdf/1904.03870](http://arxiv.org/pdf/1904.03870)
+
