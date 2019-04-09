@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Meta-Learning with Differentiable Convex Optimization"
+date: 2019-04-07 22:23:42
+categories: arXiv_CV
+tags: arXiv_CV Embedding Optimization Classification Recognition
+author: Kwonjoon Lee, Subhransu Maji, Avinash Ravichandran, Stefano Soatto
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Many meta-learning approaches for few-shot learning rely on simple base learners such as nearest-neighbor classifiers. However, even in the few-shot regime, discriminatively trained linear predictors can offer better generalization. We propose to use these predictors as base learners to learn representations for few-shot learning and show they offer better tradeoffs between feature size and performance across a range of few-shot recognition benchmarks. Our objective is to learn feature embeddings that generalize well under a linear classification rule for novel categories. To efficiently solve the objective, we exploit two properties of linear classifiers: implicit differentiation of the optimality conditions of the convex problem and the dual formulation of the optimization problem. This allows us to use high-dimensional embeddings with improved generalization at a modest increase in computational overhead. Our approach, named MetaOptNet, achieves state-of-the-art performance on miniImageNet, tieredImageNet, CIFAR-FS, and FC100 few-shot learning benchmarks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.03758](http://arxiv.org/abs/1904.03758)
+
+##### PDF
+[http://arxiv.org/pdf/1904.03758](http://arxiv.org/pdf/1904.03758)
+
