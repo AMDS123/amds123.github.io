@@ -1,0 +1,25 @@
+---
+layout: post
+title: "LP-3DCNN: Unveiling Local Phase in 3D Convolutional Neural Networks"
+date: 2019-04-06 17:26:15
+categories: arXiv_CV
+tags: arXiv_CV Action_Recognition CNN Recognition
+author: Sudhakar Kumawat, Shanmuganathan Raman
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Traditional 3D Convolutional Neural Networks (CNNs) are computationally expensive, memory intensive, prone to overfit, and most importantly, there is a need to improve their feature learning capabilities. To address these issues, we propose Rectified Local Phase Volume (ReLPV) block, an efficient alternative to the standard 3D convolutional layer. The ReLPV block extracts the phase in a 3D local neighborhood (e.g., 3x3x3) of each position of the input map to obtain the feature maps. The phase is extracted by computing 3D Short Term Fourier Transform (STFT) at multiple fixed low frequency points in the 3D local neighborhood of each position. These feature maps at different frequency points are then linearly combined after passing them through an activation function. The ReLPV block provides significant parameter savings of at least, 3^3 to 13^3 times compared to the standard 3D convolutional layer with the filter sizes 3x3x3 to 13x13x13, respectively. We show that the feature learning capabilities of the ReLPV block are significantly better than the standard 3D convolutional layer. Furthermore, it produces consistently better results across different 3D data representations. We achieve state-of-the-art accuracy on the volumetric ModelNet10 and ModelNet40 datasets while utilizing only 11% parameters of the current state-of-the-art. We also improve the state-of-the-art on the UCF-101 split-1 action recognition dataset by 5.68% (when trained from scratch) while using only 15% of the parameters of the state-of-the-art. The project webpage is available at https://sites.google.com/view/lp-3dcnn/home.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.03498](http://arxiv.org/abs/1904.03498)
+
+##### PDF
+[http://arxiv.org/pdf/1904.03498](http://arxiv.org/pdf/1904.03498)
+
