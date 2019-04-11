@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Identification of Predictive Sub-Phenotypes of Acute Kidney Injury using Structured and Unstructured Electronic Health Record Data with Memory Networks"
+date: 2019-04-10 03:22:34
+categories: arXiv_CV
+tags: arXiv_CV Deep_Learning Prediction Memory_Networks
+author: Zhenxing Xu, Jingyuan Chou, Xi Sheryl Zhang, Yuan Luo, Tamara Isakova, Prakash Adekkanattu, Jessica S. Ancker, Guoqian Jiang, Richard C. Kiefer, Jennifer A. Pacheco, Luke V. Rasmussen, Jyotishman Pathak, Fei Wang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Acute Kidney Injury (AKI) is a common clinical syndrome characterized by the rapid loss of kidney excretory function, which aggravates the clinical severity of other diseases in a large number of hospitalized patients. Accurate early prediction of AKI can enable in-time interventions and treatments. However, AKI is highly heterogeneous, thus identification of AKI sub-phenotypes can lead to an improved understanding of the disease pathophysiology and development of more targeted clinical interventions. This study used a memory network-based deep learning approach to discover predictive AKI sub-phenotypes using structured and unstructured electronic health record (EHR) data of patients before AKI diagnosis. We leveraged a real world critical care EHR corpus including 37,486 ICU stays. Our approach identified three distinct sub-phenotypes: sub-phenotype I is with an average age of 63.03$ \pm 17.25 $ years, and is characterized by mild loss of kidney excretory function (Serum Creatinne (SCr) $1.55\pm 0.34$ mg/dL, estimated Glomerular Filtration Rate Test (eGFR) $107.65\pm 54.98$ mL/min/1.73$m^2$). These patients are more likely to develop stage I AKI. Sub-phenotype II is with average age 66.81$ \pm 10.43 $ years, and was characterized by severe loss of kidney excretory function (SCr $1.96\pm 0.49$ mg/dL, eGFR $82.19\pm 55.92$ mL/min/1.73$m^2$). These patients are more likely to develop stage III AKI. Sub-phenotype III is with average age 65.07$ \pm 11.32 $ years, and was characterized moderate loss of kidney excretory function and thus more likely to develop stage II AKI (SCr $1.69\pm 0.32$ mg/dL, eGFR $93.97\pm 56.53$ mL/min/1.73$m^2$). Both SCr and eGFR are significantly different across the three sub-phenotypes with statistical testing plus postdoc analysis, and the conclusion still holds after age adjustment.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1904.04990](https://arxiv.org/abs/1904.04990)
+
+##### PDF
+[https://arxiv.org/pdf/1904.04990](https://arxiv.org/pdf/1904.04990)
+
