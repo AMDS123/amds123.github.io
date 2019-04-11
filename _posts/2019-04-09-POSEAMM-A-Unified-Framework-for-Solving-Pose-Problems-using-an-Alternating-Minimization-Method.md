@@ -1,0 +1,25 @@
+---
+layout: post
+title: "POSEAMM: A Unified Framework for Solving Pose Problems using an Alternating Minimization Method"
+date: 2019-04-09 18:31:18
+categories: arXiv_CV
+tags: arXiv_CV Pose_Estimation Optimization
+author: Joao Campos, Joao R. Cardoso, Pedro Miraldo
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Pose estimation is one of the most important problems in computer vision. It can be divided in two different categories -- absolute and relative -- and may involve two different types of camera models: central and non-central. State-of-the-art methods have been designed to solve separately these problems. This paper presents a unified framework that is able to solve any pose problem by alternating optimization techniques between two set of parameters, rotation and translation. In order to make this possible, it is necessary to define an objective function that captures the problem at hand. Since the objective function will depend on the rotation and translation it is not possible to solve it as a simple minimization problem. Hence the use of Alternating Minimization methods, in which the function will be alternatively minimized with respect to the rotation and the translation. We show how to use our framework in three distinct pose problems. Our methods are then benchmarked with both synthetic and real data, showing their better balance between computational time and accuracy.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.04858](http://arxiv.org/abs/1904.04858)
+
+##### PDF
+[http://arxiv.org/pdf/1904.04858](http://arxiv.org/pdf/1904.04858)
+
