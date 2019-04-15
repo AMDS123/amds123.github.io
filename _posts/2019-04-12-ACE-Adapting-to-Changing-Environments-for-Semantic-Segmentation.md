@@ -1,0 +1,25 @@
+---
+layout: post
+title: "ACE: Adapting to Changing Environments for Semantic Segmentation"
+date: 2019-04-12 15:15:15
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Segmentation Semantic_Segmentation
+author: Zuxuan Wu, Xin Wang, Joseph E. Gonzalez, Tom Goldstein, Larry S. Davis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks exhibit exceptional accuracy when they are trained and tested on the same data distributions. However, neural classifiers are often extremely brittle when confronted with domain shift---changes in the input distribution that occur over time. We present ACE, a framework for semantic segmentation that dynamically adapts to changing environments over the time. By aligning the distribution of labeled training data from the original source domain with the distribution of incoming data in a shifted domain, ACE synthesizes labeled training data for environments as it sees them. This stylized data is then used to update a segmentation model so that it performs well in new environments. To avoid forgetting knowledge from past environments, we introduce a memory that stores feature statistics from previously seen domains. These statistics can be used to replay images in any of the previously observed domains, thus preventing catastrophic forgetting. In addition to standard batch training using stochastic gradient decent (SGD), we also experiment with fast adaptation methods based on adaptive meta-learning. Extensive experiments are conducted on two datasets from SYNTHIA, the results demonstrate the effectiveness of the proposed approach when adapting to a number of tasks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.06268](http://arxiv.org/abs/1904.06268)
+
+##### PDF
+[http://arxiv.org/pdf/1904.06268](http://arxiv.org/pdf/1904.06268)
+
