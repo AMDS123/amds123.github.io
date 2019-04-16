@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Phrase-Based & Neural Unsupervised Machine Translation"
+date: 2018-08-13 22:50:37
+categories: arXiv_CL
+tags: arXiv_CL NMT Language_Model
+author: Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, Marc'Aurelio Ranzato
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Machine translation systems achieve near human-level performance on some languages, yet their effectiveness strongly relies on the availability of large amounts of parallel sentences, which hinders their applicability to the majority of language pairs. This work investigates how to learn to translate when having access to only large monolingual corpora in each language. We propose two model variants, a neural and a phrase-based model. Both versions leverage a careful initialization of the parameters, the denoising effect of language models and automatic generation of parallel data by iterative back-translation. These models are significantly better than methods from the literature, while being simpler and having fewer hyper-parameters. On the widely used WMT'14 English-French and WMT'16 German-English benchmarks, our models respectively obtain 28.1 and 25.2 BLEU points without using a single parallel sentence, outperforming the state of the art by more than 11 BLEU points. On low-resource languages like English-Urdu and English-Romanian, our methods achieve even better results than semi-supervised and supervised approaches leveraging the paucity of available bitexts. Our code for NMT and PBSMT is publicly available.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1804.07755](https://arxiv.org/abs/1804.07755)
+
+##### PDF
+[https://arxiv.org/pdf/1804.07755](https://arxiv.org/pdf/1804.07755)
+
