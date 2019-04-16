@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robust Cross-View Gait Identification with Evidence: A Discriminant Gait GAN Approach on 10000 People"
+date: 2018-11-26 16:37:29
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Face Deep_Learning Recognition
+author: BingZhang Hu, Yan Gao, Yu Guan, Yang Long, Nicholas Lane, Thomas Ploetz
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Gait is an important biometric trait for surveillance and forensic applications, which can be used to identify individuals at a large distance through CCTV cameras. However, it is very difficult to develop robust automated gait recognition systems, since gait may be affected by many covariate factors such as clothing, walking surface, walking speed, camera view angle, etc. Out of them, large view angle was deemed as the most challenging factor since it may alter the overall gait appearance substantially. Recently, some deep learning approaches (such as CNNs) have been employed to extract view-invariant features, and achieved encouraging results on small datasets. However, they do not scale well to large dataset, and the performance decreases significantly w.r.t. number of subjects, which is impractical to large-scale surveillance applications. To address this issue, in this work we propose a Discriminant Gait Generative Adversarial Network (DiGGAN) framework, which not only can learn view-invariant gait features for cross-view gait recognition tasks, but also can be used to reconstruct the gait templates in all views --- serving as important evidences for forensic applications. We evaluated our DiGGAN framework on the world's largest multi-view OU-MVLP dataset (which includes more than 10000 subjects), and our method outperforms state-of-the-art algorithms significantly on various cross-view gait identification scenarios (e.g., cooperative/uncooperative mode). Our DiGGAN framework also has the best results on the popular CASIA-B dataset, and it shows great generalisation capability across different datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1811.10493](https://arxiv.org/abs/1811.10493)
+
+##### PDF
+[https://arxiv.org/pdf/1811.10493](https://arxiv.org/pdf/1811.10493)
+
