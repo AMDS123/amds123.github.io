@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Pseudo Mask Augmented Object Detection"
+date: 2018-03-27 02:36:38
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Segmentation Inference Detection
+author: Xiangyun Zhao, Shuang Liang, Yichen Wei
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this work, we present a novel and effective framework to facilitate object detection with the instance-level segmentation information that is only supervised by bounding box annotation. Starting from the joint object detection and instance segmentation network, we propose to recursively estimate the pseudo ground-truth object masks from the instance-level object segmentation network training, and then enhance the detection network with top-down segmentation feedbacks. The pseudo ground truth mask and network parameters are optimized alternatively to mutually benefit each other. To obtain the promising pseudo masks in each iteration, we embed a graphical inference that incorporates the low-level image appearance consistency and the bounding box annotations to refine the segmentation masks predicted by the segmentation network. Our approach progressively improves the object detection performance by incorporating the detailed pixel-wise information learned from the weakly-supervised segmentation network. Extensive evaluation on the detection task in PASCAL VOC 2007 and 2012 [12] verifies that the proposed approach is effective.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1803.05858](https://arxiv.org/abs/1803.05858)
+
+##### PDF
+[https://arxiv.org/pdf/1803.05858](https://arxiv.org/pdf/1803.05858)
+
