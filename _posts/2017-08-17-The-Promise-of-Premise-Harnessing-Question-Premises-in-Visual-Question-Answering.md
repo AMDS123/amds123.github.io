@@ -1,0 +1,25 @@
+---
+layout: post
+title: "The Promise of Premise: Harnessing Question Premises in Visual Question Answering"
+date: 2017-08-17 18:12:18
+categories: arXiv_CV
+tags: arXiv_CV QA Prediction Detection Relation VQA
+author: Aroma Mahendru, Viraj Prabhu, Akrit Mohapatra, Dhruv Batra, Stefan Lee
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we make a simple observation that questions about images often contain premises - objects and relationships implied by the question - and that reasoning about premises can help Visual Question Answering (VQA) models respond more intelligently to irrelevant or previously unseen questions. When presented with a question that is irrelevant to an image, state-of-the-art VQA models will still answer purely based on learned language biases, resulting in non-sensical or even misleading answers. We note that a visual question is irrelevant to an image if at least one of its premises is false (i.e. not depicted in the image). We leverage this observation to construct a dataset for Question Relevance Prediction and Explanation (QRPE) by searching for false premises. We train novel question relevance detection models and show that models that reason about premises consistently outperform models that do not. We also find that forcing standard VQA models to reason about premises during training can lead to improvements on tasks requiring compositional reasoning.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1705.00601](https://arxiv.org/abs/1705.00601)
+
+##### PDF
+[https://arxiv.org/pdf/1705.00601](https://arxiv.org/pdf/1705.00601)
+
