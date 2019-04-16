@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Explicit Spatial Encoding for Deep Local Descriptors"
+date: 2019-04-15 17:03:50
+categories: arXiv_CV
+tags: arXiv_CV CNN
+author: Arun Mukundan, Giorgos Tolias, Ondrej Chum
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a kernelized deep local-patch descriptor based on efficient match kernels of neural network activations. Response of each receptive field is encoded together with its spatial location using explicit feature maps. Two location parametrizations, Cartesian and polar, are used to provide robustness to a different types of canonical patch misalignment. Additionally, we analyze how the conventional architecture, i.e. a fully connected layer attached after the convolutional part, encodes responses in a spatially variant way. In contrary, explicit spatial encoding is used in our descriptor, whose potential applications are not limited to local-patches. We evaluate the descriptor on standard benchmarks. Both versions, encoding 32x32 or 64x64 patches, consistently outperform all other methods on all benchmarks. The number of parameters of the model is independent of the input patch resolution.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.07190](http://arxiv.org/abs/1904.07190)
+
+##### PDF
+[http://arxiv.org/pdf/1904.07190](http://arxiv.org/pdf/1904.07190)
+
