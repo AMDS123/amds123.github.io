@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Detection of 40-48 GHz dust continuum linear polarization towards the Class 0 young stellar object IRAS 16293-2422"
+date: 2018-05-05 07:01:47
+categories: arXiv_CV
+tags: arXiv_CV Face Detection
+author: Hauyu Baobab Liu, Yasuhiro Hasegawa, Tao-Chung Ching, Shih-Ping Lai, Naomi Hirano, Ramprasad Rao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We performed the new JVLA full polarization observations at 40-48 GHz (6.3-7.5 mm) towards the nearby ($d$ $=$147$\pm$3.4 pc) Class 0 YSO IRAS 16293-2422, and compare with the previous SMA observations reported by Rao et al. (2009; 2014). We observed the quasar J1407+2827 which is weakly polarized and can be used as a leakage term calibrator for $<$9 GHz observations, to gauge the potential residual polarization leakage after calibration. We did not detect Stokes Q, U, and V intensities from the observations of J1407+2827, and constrain (3-$\sigma$) the residual polarization leakage after calibration to be $\lesssim$0.3\%. We detect linear polarization from one of the two binary components of our target source, IRAS\,16293-2422\,B. The derived polarization position angles from our observations are in excellent agreement with those detected from the previous observations of the SMA, implying that on the spatial scale we are probing ($\sim$50-1000 au), the physical mechanisms for polarizing the continuum emission do not vary significantly over the wavelength range of $\sim$0.88-7.5 mm. We hypothesize that the observed polarization position angles trace the magnetic field which converges from large scale to an approximately face-on rotating accretion flow. In this scenario, magnetic field is predominantly poloidal on $>$100 au scales, and becomes toroidal on smaller scales. However, this interpretation remains uncertain due to the high dust optical depths at the central region of IRAS\,16293-2422\,B and the uncertain temperature profile. We suggest that dust polarization at wavelengths comparable or longer than 7\,mm may still trace interstellar magnetic field. Future sensitive observations of dust polarization in the fully optically thin regime will have paramount importance for unambiguously resolving the magnetic field configuration.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1805.02012](https://arxiv.org/abs/1805.02012)
+
+##### PDF
+[https://arxiv.org/pdf/1805.02012](https://arxiv.org/pdf/1805.02012)
+
