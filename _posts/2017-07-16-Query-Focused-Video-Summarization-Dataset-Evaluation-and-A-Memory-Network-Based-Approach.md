@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Query-Focused Video Summarization: Dataset, Evaluation, and A Memory Network Based Approach"
+date: 2017-07-16 23:11:28
+categories: arXiv_CV
+tags: arXiv_CV Summarization
+author: Aidean Sharghi, Jacob S. Laurel, Boqing Gong
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Recent years have witnessed a resurgence of interest in video summarization. However, one of the main obstacles to the research on video summarization is the user subjectivity - users have various preferences over the summaries. The subjectiveness causes at least two problems. First, no single video summarizer fits all users unless it interacts with and adapts to the individual users. Second, it is very challenging to evaluate the performance of a video summarizer. To tackle the first problem, we explore the recently proposed query-focused video summarization which introduces user preferences in the form of text queries about the video into the summarization process. We propose a memory network parameterized sequential determinantal point process in order to attend the user query onto different video frames and shots. To address the second challenge, we contend that a good evaluation metric for video summarization should focus on the semantic information that humans can perceive rather than the visual features or temporal overlaps. To this end, we collect dense per-video-shot concept annotations, compile a new dataset, and suggest an efficient evaluation method defined upon the concept annotations. We conduct extensive experiments contrasting our video summarizer to existing ones and present detailed analyses about the dataset and the new evaluation method.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1707.04960](https://arxiv.org/abs/1707.04960)
+
+##### PDF
+[https://arxiv.org/pdf/1707.04960](https://arxiv.org/pdf/1707.04960)
+
