@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Recurrent Orthogonal Networks and Long-Memory Tasks"
+date: 2017-03-15 17:45:08
+categories: arXiv_CV
+tags: arXiv_CV Optimization RNN
+author: Mikael Henaff, Arthur Szlam, Yann LeCun
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Although RNNs have been shown to be powerful tools for processing sequential data, finding architectures or optimization strategies that allow them to model very long term dependencies is still an active area of research. In this work, we carefully analyze two synthetic datasets originally outlined in (Hochreiter and Schmidhuber, 1997) which are used to evaluate the ability of RNNs to store information over many time steps. We explicitly construct RNN solutions to these problems, and using these constructions, illuminate both the problems themselves and the way in which RNNs store different types of information in their hidden states. These constructions furthermore explain the success of recent methods that specify unitary initializations or constraints on the transition matrices.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1602.06662](https://arxiv.org/abs/1602.06662)
+
+##### PDF
+[https://arxiv.org/pdf/1602.06662](https://arxiv.org/pdf/1602.06662)
+
