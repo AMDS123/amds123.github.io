@@ -1,0 +1,25 @@
+---
+layout: post
+title: "MEC: Memory-efficient Convolution for Deep Neural Network"
+date: 2017-06-21 13:00:39
+categories: arXiv_CV
+tags: arXiv_CV
+author: Minsik Cho, Daniel Brand
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Convolution is a critical component in modern deep neural networks, thus several algorithms for convolution have been developed. Direct convolution is simple but suffers from poor performance. As an alternative, multiple indirect methods have been proposed including im2col-based convolution, FFT-based convolution, or Winograd-based algorithm. However, all these indirect methods have high memory-overhead, which creates performance degradation and offers a poor trade-off between performance and memory consumption. In this work, we propose a memory-efficient convolution or MEC with compact lowering, which reduces memory-overhead substantially and accelerates convolution process. MEC lowers the input matrix in a simple yet efficient/compact way (i.e., much less memory-overhead), and then executes multiple small matrix multiplications in parallel to get convolution completed. Additionally, the reduced memory footprint improves memory sub-system efficiency, improving performance. Our experimental results show that MEC reduces memory consumption significantly with good speedup on both mobile and server platforms, compared with other indirect convolution algorithms.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1706.06873](https://arxiv.org/abs/1706.06873)
+
+##### PDF
+[https://arxiv.org/pdf/1706.06873](https://arxiv.org/pdf/1706.06873)
+
