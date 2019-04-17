@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Temporal Cycle-Consistency Learning"
+date: 2019-04-16 17:49:50
+categories: arXiv_CV
+tags: arXiv_CV Embedding Represenation_Learning Classification Detection
+author: Debidatta Dwibedi, Yusuf Aytar, Jonathan Tompson, Pierre Sermanet, Andrew Zisserman
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We introduce a self-supervised representation learning method based on the task of temporal alignment between videos. The method trains a network using temporal cycle consistency (TCC), a differentiable cycle-consistency loss that can be used to find correspondences across time in multiple videos. The resulting per-frame embeddings can be used to align videos by simply matching frames using the nearest-neighbors in the learned embedding space. 
+ To evaluate the power of the embeddings, we densely label the Pouring and Penn Action video datasets for action phases. We show that (i) the learned embeddings enable few-shot classification of these action phases, significantly reducing the supervised training requirements; and (ii) TCC is complementary to other methods of self-supervised learning in videos, such as Shuffle and Learn and Time-Contrastive Networks. The embeddings are also used for a number of applications based on alignment (dense temporal correspondence) between video pairs, including transfer of metadata of synchronized modalities between videos (sounds, temporal semantic labels), synchronized playback of multiple videos, and anomaly detection. Project webpage: https://sites.google.com/view/temporal-cycle-consistency .
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.07846](http://arxiv.org/abs/1904.07846)
+
+##### PDF
+[http://arxiv.org/pdf/1904.07846](http://arxiv.org/pdf/1904.07846)
+
