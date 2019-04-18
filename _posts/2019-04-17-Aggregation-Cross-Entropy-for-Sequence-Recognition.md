@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Aggregation Cross-Entropy for Sequence Recognition"
+date: 2019-04-17 17:03:48
+categories: arXiv_CV
+tags: arXiv_CV Attention Inference Prediction Recognition
+author: Zecheng Xie, Yaoxiong Huang, Yuanzhi Zhu, Lianwen Jin, Yuliang Liu, Lele Xie
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we propose a novel method, aggregation cross-entropy (ACE), for sequence recognition from a brand new perspective. The ACE loss function exhibits competitive performance to CTC and the attention mechanism, with much quicker implementation (as it involves only four fundamental formulas), faster inference\back-propagation (approximately O(1) in parallel), less storage requirement (no parameter and negligible runtime memory), and convenient employment (by replacing CTC with ACE). Furthermore, the proposed ACE loss function exhibits two noteworthy properties: (1) it can be directly applied for 2D prediction by flattening the 2D prediction into 1D prediction as the input and (2) it requires only characters and their numbers in the sequence annotation for supervision, which allows it to advance beyond sequence recognition, e.g., counting problem. The code is publicly available at https://github.com/summerlvsong/Aggregation-Cross-Entropy.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.08364](http://arxiv.org/abs/1904.08364)
+
+##### PDF
+[http://arxiv.org/pdf/1904.08364](http://arxiv.org/pdf/1904.08364)
+
