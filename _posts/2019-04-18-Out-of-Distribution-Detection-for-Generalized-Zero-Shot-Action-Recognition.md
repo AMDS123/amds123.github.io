@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Out-of-Distribution Detection for Generalized Zero-Shot Action Recognition"
+date: 2019-04-18 11:37:23
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Object_Detection Knowledge GAN Action_Recognition Classification Detection Recognition
+author: Devraj Mandal, Sanath Narayan, Saikumar Dwivedi, Vikram Gupta, Shuaib Ahmed, Fahad Shahbaz Khan, Ling Shao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Generalized zero-shot action recognition is a challenging problem, where the task is to recognize new action categories that are unavailable during the training stage, in addition to the seen action categories. Existing approaches suffer from the inherent bias of the learned classifier towards the seen action categories. As a consequence, unseen category samples are incorrectly classified as belonging to one of the seen action categories. In this paper, we set out to tackle this issue by arguing for a separate treatment of seen and unseen action categories in generalized zero-shot action recognition. We introduce an out-of-distribution detector that determines whether the video features belong to a seen or unseen action category. To train our out-of-distribution detector, video features for unseen action categories are synthesized using generative adversarial networks trained on seen action category features. To the best of our knowledge, we are the first to propose an out-of-distribution detector based GZSL framework for action recognition in videos. Experiments are performed on three action recognition datasets: Olympic Sports, HMDB51 and UCF101. For generalized zero-shot action recognition, our proposed approach outperforms the baseline (f-CLSWGAN) with absolute gains (in classification accuracy) of 7.0%, 3.4%, and 4.9%, respectively, on these datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.08703](http://arxiv.org/abs/1904.08703)
+
+##### PDF
+[http://arxiv.org/pdf/1904.08703](http://arxiv.org/pdf/1904.08703)
+
