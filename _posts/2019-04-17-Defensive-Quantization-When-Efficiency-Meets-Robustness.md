@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Defensive Quantization: When Efficiency Meets Robustness"
+date: 2019-04-17 18:23:24
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Inference Deep_Learning
+author: Ji Lin, Chuang Gan, Song Han
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural network quantization is becoming an industry standard to efficiently deploy deep learning models on hardware platforms, such as CPU, GPU, TPU, and FPGAs. However, we observe that the conventional quantization approaches are vulnerable to adversarial attacks. This paper aims to raise people's awareness about the security of the quantized models, and we designed a novel quantization methodology to jointly optimize the efficiency and robustness of deep learning models. We first conduct an empirical study to show that vanilla quantization suffers more from adversarial attacks. We observe that the inferior robustness comes from the error amplification effect, where the quantization operation further enlarges the distance caused by amplified noise. Then we propose a novel Defensive Quantization (DQ) method by controlling the Lipschitz constant of the network during quantization, such that the magnitude of the adversarial noise remains non-expansive during inference. Extensive experiments on CIFAR-10 and SVHN datasets demonstrate that our new quantization method can defend neural networks against adversarial examples, and even achieves superior robustness than their full-precision counterparts while maintaining the same hardware efficiency as vanilla quantization approaches. As a by-product, DQ can also improve the accuracy of quantized models without adversarial attack.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.08444](http://arxiv.org/abs/1904.08444)
+
+##### PDF
+[http://arxiv.org/pdf/1904.08444](http://arxiv.org/pdf/1904.08444)
+
