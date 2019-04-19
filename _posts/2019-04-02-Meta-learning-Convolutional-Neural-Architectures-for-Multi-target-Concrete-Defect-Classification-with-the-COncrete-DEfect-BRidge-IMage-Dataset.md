@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Meta-learning Convolutional Neural Architectures for Multi-target Concrete Defect Classification with the COncrete DEfect BRidge IMage Dataset"
+date: 2019-04-02 13:08:33
+categories: arXiv_CV
+tags: arXiv_CV Face Reinforcement_Learning CNN Classification Recognition
+author: Martin Mundt, Sagnik Majumder, Sreenivas Murali, Panagiotis Panetsos, Visvanathan Ramesh
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Recognition of defects in concrete infrastructure, especially in bridges, is a costly and time consuming crucial first step in the assessment of the structural integrity. Large variation in appearance of the concrete material, changing illumination and weather conditions, a variety of possible surface markings as well as the possibility for different types of defects to overlap, make it a challenging real-world task. In this work we introduce the novel COncrete DEfect BRidge IMage dataset (CODEBRIM) for multi-target classification of five commonly appearing concrete defects. We investigate and compare two reinforcement learning based meta-learning approaches, MetaQNN and efficient neural architecture search, to find suitable convolutional neural network architectures for this challenging multi-class multi-target task. We show that learned architectures have fewer overall parameters in addition to yielding better multi-target accuracy in comparison to popular neural architectures from the literature evaluated in the context of our application.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.08486](http://arxiv.org/abs/1904.08486)
+
+##### PDF
+[http://arxiv.org/pdf/1904.08486](http://arxiv.org/pdf/1904.08486)
+
