@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT"
+date: 2019-04-19 04:45:44
+categories: arXiv_CL
+tags: arXiv_CL Inference Classification
+author: Shijie Wu, Mark Dredze
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Pretrained contextual representation models (Peters et al., 2018; Devlin et al., 2018) have pushed forward the state-of-the-art on many NLP tasks. A new release of BERT (Devlin, 2018) includes a model simultaneously pretrained on 104 languages with impressive performance for zero-shot cross-lingual transfer on a natural language inference task. This paper explores the broader cross-lingual potential of mBERT (multilingual) as a zero shot language transfer model on 5 NLP tasks covering a total of 39 languages from various language families: NLI, document classification, NER, POS tagging, and dependency parsing. We compare mBERT with the best-published methods for zero-shot cross-lingual transfer and find mBERT competitive on each task. Additionally, we investigate the most effective strategy for utilizing mBERT in this manner, determine to what extent mBERT generalizes away from language specific features, and measure factors that influence cross-lingual transfer.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.09077](http://arxiv.org/abs/1904.09077)
+
+##### PDF
+[http://arxiv.org/pdf/1904.09077](http://arxiv.org/pdf/1904.09077)
+
