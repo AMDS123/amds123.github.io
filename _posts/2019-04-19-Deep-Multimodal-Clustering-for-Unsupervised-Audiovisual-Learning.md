@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep Multimodal Clustering for Unsupervised Audiovisual Learning"
+date: 2019-04-19 07:36:17
+categories: arXiv_CV
+tags: arXiv_CV CNN Detection
+author: Di Hu, Feiping Nie, Xuelong Li
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The seen birds twitter, the running cars accompany with noise, etc. These naturally audiovisual correspondences provide the possibilities to explore and understand the outside world. However, the mixed multiple objects and sounds make it intractable to perform efficient matching in the unconstrained environment. To settle this problem, we propose to adequately excavate audio and visual components and perform elaborate correspondence learning among them. Concretely, a novel unsupervised audiovisual learning model is proposed, named as \Deep Multimodal Clustering (DMC), that synchronously performs sets of clustering with multimodal vectors of convolutional maps in different shared spaces for capturing multiple audiovisual correspondences. And such integrated multimodal clustering network can be effectively trained with max-margin loss in the end-to-end fashion. Amounts of experiments in feature evaluation and audiovisual tasks are performed. The results demonstrate that DMC can learn effective unimodal representation, with which the classifier can even outperform human performance. Further, DMC shows noticeable performance in sound localization, multisource detection, and audiovisual understanding.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1807.03094](http://arxiv.org/abs/1807.03094)
+
+##### PDF
+[http://arxiv.org/pdf/1807.03094](http://arxiv.org/pdf/1807.03094)
+
