@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Cubic LSTMs for Video Prediction"
+date: 2019-04-20 07:45:08
+categories: arXiv_CV
+tags: arXiv_CV RNN Prediction
+author: Hehe Fan, Linchao Zhu, Yi Yang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Predicting future frames in videos has become a promising direction of research for both computer vision and robot learning communities. The core of this problem involves moving object capture and future motion prediction. While object capture specifies which objects are moving in videos, motion prediction describes their future dynamics. Motivated by this analysis, we propose a Cubic Long Short-Term Memory (CubicLSTM) unit for video prediction. CubicLSTM consists of three branches, i.e., a spatial branch for capturing moving objects, a temporal branch for processing motions, and an output branch for combining the first two branches to generate predicted frames. Stacking multiple CubicLSTM units along the spatial branch and output branch, and then evolving along the temporal branch can form a cubic recurrent neural network (CubicRNN). Experiment shows that CubicRNN produces more accurate video predictions than prior methods on both synthetic and real-world datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.09412](http://arxiv.org/abs/1904.09412)
+
+##### PDF
+[http://arxiv.org/pdf/1904.09412](http://arxiv.org/pdf/1904.09412)
+
