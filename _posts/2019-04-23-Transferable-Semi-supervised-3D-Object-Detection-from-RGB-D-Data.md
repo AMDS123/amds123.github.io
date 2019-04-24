@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Transferable Semi-supervised 3D Object Detection from RGB-D Data"
+date: 2019-04-23 13:24:15
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Inference Detection
+author: Yew Siang Tang, Gim Hee Lee
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We investigate the direction of training a 3D object detector for new object classes from only 2D bounding box labels of these new classes, while simultaneously transferring information from 3D bounding box labels of the existing classes. To this end, we propose a transferable semi-supervised 3D object detection model that learns a 3D object detector network from training data with two disjoint sets of object classes - a set of strong classes with both 2D and 3D box labels, and another set of weak classes with only 2D box labels. In particular, we suggest a relaxed reprojection loss, box prior loss and a Box-to-Point Cloud Fit network that allow us to effectively transfer useful 3D information from the strong classes to the weak classes during training, and consequently, enable the network to detect 3D objects in the weak classes during inference. Experimental results show that our proposed algorithm outperforms baseline approaches and achieves promising results compared to fully-supervised approaches on the SUN-RGBD and KITTI datasets. Furthermore, we show that our Box-to-Point Cloud Fit network improves performances of the fully-supervised approaches on both datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.10300](http://arxiv.org/abs/1904.10300)
+
+##### PDF
+[http://arxiv.org/pdf/1904.10300](http://arxiv.org/pdf/1904.10300)
+
