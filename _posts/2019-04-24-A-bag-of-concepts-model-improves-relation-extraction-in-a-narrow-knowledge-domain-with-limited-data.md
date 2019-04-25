@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A bag-of-concepts model improves relation extraction in a narrow knowledge domain with limited data"
+date: 2019-04-24 11:06:54
+categories: arXiv_CL
+tags: arXiv_CL Knowledge Relation_Extraction Embedding Relation
+author: Jiyu Chen, Karin Verspoor, Zenan Zhai
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper focuses on a traditional relation extraction task in the context of limited annotated data and a narrow knowledge domain. We explore this task with a clinical corpus consisting of 200 breast cancer follow-up treatment letters in which 16 distinct types of relations are annotated. We experiment with an approach to extracting typed relations called window-bounded co-occurrence (WBC), which uses an adjustable context window around entity mentions of a relevant type, and compare its performance with a more typical intra-sentential co-occurrence baseline. We further introduce a new bag-of-concepts (BoC) approach to feature engineering based on the state-of-the-art word embeddings and word synonyms. We demonstrate the competitiveness of BoC by comparing with methods of higher complexity, and explore its effectiveness on this small dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.10743](http://arxiv.org/abs/1904.10743)
+
+##### PDF
+[http://arxiv.org/pdf/1904.10743](http://arxiv.org/pdf/1904.10743)
+
