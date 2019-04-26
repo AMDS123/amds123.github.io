@@ -1,0 +1,25 @@
+---
+layout: post
+title: "DynamoNet: Dynamic Action and Motion Network"
+date: 2019-04-25 15:27:12
+categories: arXiv_CV
+tags: arXiv_CV Action_Recognition CNN Video_Classification Classification Prediction Recognition
+author: Ali Diba, Vivek Sharma, Luc Van Gool, Rainer Stiefelhagen
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we are interested in self-supervised learning the motion cues in videos using dynamic motion filters for a better motion representation to finally boost human action recognition in particular. Thus far, the vision community has focused on spatio-temporal approaches using standard filters, rather we here propose dynamic filters that adaptively learn the video-specific internal motion representation by predicting the short-term future frames. We name this new motion representation, as dynamic motion representation (DMR) and is embedded inside of 3D convolutional network as a new layer, which captures the visual appearance and motion dynamics throughout entire video clip via end-to-end network learning. Simultaneously, we utilize these motion representation to enrich video classification. We have designed the frame prediction task as an auxiliary task to empower the classification problem. With these overall objectives, to this end, we introduce a novel unified spatio-temporal 3D-CNN architecture (DynamoNet) that jointly optimizes the video classification and learning motion representation by predicting future frames as a multi-task learning problem. We conduct experiments on challenging human action datasets: Kinetics 400, UCF101, HMDB51. The experiments using the proposed DynamoNet show promising results on all the datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.11407](http://arxiv.org/abs/1904.11407)
+
+##### PDF
+[http://arxiv.org/pdf/1904.11407](http://arxiv.org/pdf/1904.11407)
+
