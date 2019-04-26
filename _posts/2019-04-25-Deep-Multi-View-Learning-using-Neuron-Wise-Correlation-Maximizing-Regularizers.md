@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep Multi-View Learning using Neuron-Wise Correlation-Maximizing Regularizers"
+date: 2019-04-25 04:10:10
+categories: arXiv_CV
+tags: arXiv_CV Regularization CNN Image_Classification Classification Relation Recognition
+author: Kui Jia, Jiehong Lin, Mingkui Tan, Dacheng Tao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Many machine learning problems concern with discovering or associating common patterns in data of multiple views or modalities. Multi-view learning is of the methods to achieve such goals. Recent methods propose deep multi-view networks via adaptation of generic Deep Neural Networks (DNNs), which concatenate features of individual views at intermediate network layers (i.e., fusion layers). In this work, we study the problem of multi-view learning in such end-to-end networks. We take a regularization approach via multi-view learning criteria, and propose a novel, effective, and efficient neuron-wise correlation-maximizing regularizer. We implement our proposed regularizers collectively as a correlation-regularized network layer (CorrReg). CorrReg can be applied to either fully-connected or convolutional fusion layers, simply by replacing them with their CorrReg counterparts. By partitioning neurons of a hidden layer in generic DNNs into multiple subsets, we also consider a multi-view feature learning perspective of generic DNNs. Such a perspective enables us to study deep multi-view learning in the context of regularized network training, for which we present control experiments of benchmark image classification to show the efficacy of our proposed CorrReg. To investigate how CorrReg is useful for practical multi-view learning problems, we conduct experiments of RGB-D object/scene recognition and multi-view based 3D object recognition, using networks with fusion layers that concatenate intermediate features of individual modalities or views for subsequent classification. Applying CorrReg to fusion layers of these networks consistently improves classification performance. In particular, we achieve the new state of the art on the benchmark RGB-D object and RGB-D scene datasets. We make the implementation of CorrReg publicly available.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.11151](http://arxiv.org/abs/1904.11151)
+
+##### PDF
+[http://arxiv.org/pdf/1904.11151](http://arxiv.org/pdf/1904.11151)
+
