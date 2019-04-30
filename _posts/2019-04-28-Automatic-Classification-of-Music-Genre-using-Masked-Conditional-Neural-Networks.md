@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Automatic Classification of Music Genre using Masked Conditional Neural Networks"
+date: 2019-04-28 09:00:47
+categories: arXiv_SD
+tags: arXiv_SD Sparse CNN Classification Relation Recognition
+author: Fady Medhat, David Chesmore, John Robinson
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural network based architectures used for sound recognition are usually adapted from other application domains such as image recognition, which may not harness the time-frequency representation of a signal. The ConditionaL Neural Networks (CLNN) and its extension the Masked ConditionaL Neural Networks (MCLNN) are designed for multidimensional temporal signal recognition. The CLNN is trained over a window of frames to preserve the inter-frame relation, and the MCLNN enforces a systematic sparseness over the network's links that mimics a filterbank-like behavior. The masking operation induces the network to learn in frequency bands, which decreases the network susceptibility to frequency-shifts in time-frequency representations. Additionally, the mask allows an exploration of a range of feature combinations concurrently analogous to the manual handcrafting of the optimum collection of features for a recognition task. MCLNN have achieved competitive performance on the Ballroom music dataset compared to several hand-crafted attempts and outperformed models based on state-of-the-art Convolutional Neural Networks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1801.05504](http://arxiv.org/abs/1801.05504)
+
+##### PDF
+[http://arxiv.org/pdf/1801.05504](http://arxiv.org/pdf/1801.05504)
+
