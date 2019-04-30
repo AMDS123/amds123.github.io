@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Improved Conditional VRNNs for Video Prediction"
+date: 2019-04-27 15:07:12
+categories: arXiv_CV
+tags: arXiv_CV RNN Prediction
+author: Lluis Castrejon, Nicolas Ballas, Aaron Courville
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Predicting future frames for a video sequence is a challenging generative modeling task. Promising approaches include probabilistic latent variable models such as the Variational Auto-Encoder. While VAEs can handle uncertainty and model multiple possible future outcomes, they have a tendency to produce blurry predictions. In this work we argue that this is a sign of underfitting. To address this issue, we propose to increase the expressiveness of the latent distributions and to use higher capacity likelihood models. Our approach relies on a hierarchy of latent variables, which defines a family of flexible prior and posterior distributions in order to better model the probability of future sequences. We validate our proposal through a series of ablation experiments and compare our approach to current state-of-the-art latent variable models. Our method performs favorably under several metrics in three different datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.12165](http://arxiv.org/abs/1904.12165)
+
+##### PDF
+[http://arxiv.org/pdf/1904.12165](http://arxiv.org/pdf/1904.12165)
+
