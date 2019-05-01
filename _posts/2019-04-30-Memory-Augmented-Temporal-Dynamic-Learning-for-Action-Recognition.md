@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Memory-Augmented Temporal Dynamic Learning for Action Recognition"
+date: 2019-04-30 07:19:50
+categories: arXiv_CV
+tags: arXiv_CV Action_Recognition Embedding CNN RNN Recognition
+author: Yuan Yuan, Dong Wang, Qi Wang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Human actions captured in video sequences contain two crucial factors for action recognition, i.e., visual appearance and motion dynamics. To model these two aspects, Convolutional and Recurrent Neural Networks (CNNs and RNNs) are adopted in most existing successful methods for recognizing actions. However, CNN based methods are limited in modeling long-term motion dynamics. RNNs are able to learn temporal motion dynamics but lack effective ways to tackle unsteady dynamics in long-duration motion. In this work, we propose a memory-augmented temporal dynamic learning network, which learns to write the most evident information into an external memory module and ignore irrelevant ones. In particular, we present a differential memory controller to make a discrete decision on whether the external memory module should be updated with current feature. The discrete memory controller takes in the memory history, context embedding and current feature as inputs and controls information flow into the external memory module. Additionally, we train this discrete memory controller using straight-through estimator. We evaluate this end-to-end system on benchmark datasets (UCF101 and HMDB51) of human action recognition. The experimental results show consistent improvements on both datasets over prior works and our baselines.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.13080](http://arxiv.org/abs/1904.13080)
+
+##### PDF
+[http://arxiv.org/pdf/1904.13080](http://arxiv.org/pdf/1904.13080)
+
