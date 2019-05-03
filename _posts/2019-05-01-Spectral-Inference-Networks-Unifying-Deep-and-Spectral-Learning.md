@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Spectral Inference Networks: Unifying Deep and Spectral Learning"
+date: 2019-05-01 18:11:43
+categories: arXiv_AI
+tags: arXiv_AI Represenation_Learning Optimization Inference
+author: David Pfau, Stig Petersen, Ashish Agarwal, David G. T. Barrett, Kimberly L. Stachenfeld
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present Spectral Inference Networks, a framework for learning eigenfunctions of linear operators by stochastic optimization. Spectral Inference Networks generalize Slow Feature Analysis to generic symmetric operators, and are closely related to Variational Monte Carlo methods from computational physics. As such, they can be a powerful tool for unsupervised representation learning from video or graph-structured data. We cast training Spectral Inference Networks as a bilevel optimization problem, which allows for online learning of multiple eigenfunctions. We show results of training Spectral Inference Networks on problems in quantum mechanics and feature learning for videos on synthetic datasets. Our results demonstrate that Spectral Inference Networks accurately recover eigenfunctions of linear operators and can discover interpretable representations from video in a fully unsupervised manner.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1806.02215](http://arxiv.org/abs/1806.02215)
+
+##### PDF
+[http://arxiv.org/pdf/1806.02215](http://arxiv.org/pdf/1806.02215)
+
