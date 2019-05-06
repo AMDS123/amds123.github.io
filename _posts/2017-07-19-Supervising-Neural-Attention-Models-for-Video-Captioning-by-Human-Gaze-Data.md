@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Supervising Neural Attention Models for Video Captioning by Human Gaze Data"
+date: 2017-07-19 11:44:36
+categories: arXiv_CV
+tags: arXiv_CV Video_Caption Attention Tracking Caption Prediction
+author: Youngjae Yu, Jongwook Choi, Yeonhwa Kim, Kyung Yoo, Sang-Hun Lee, Gunhee Kim
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The attention mechanisms in deep neural networks are inspired by human's attention that sequentially focuses on the most relevant parts of the information over time to generate prediction output. The attention parameters in those models are implicitly trained in an end-to-end manner, yet there have been few trials to explicitly incorporate human gaze tracking to supervise the attention models. In this paper, we investigate whether attention models can benefit from explicit human gaze labels, especially for the task of video captioning. We collect a new dataset called VAS, consisting of movie clips, and corresponding multiple descriptive sentences along with human gaze tracking data. We propose a video captioning model named Gaze Encoding Attention Network (GEAN) that can leverage gaze tracking information to provide the spatial and temporal attention for sentence generation. Through evaluation of language similarity metrics and human assessment via Amazon mechanical Turk, we demonstrate that spatial attentions guided by human gaze data indeed improve the performance of multiple captioning methods. Moreover, we show that the proposed approach achieves the state-of-the-art performance for both gaze prediction and video captioning not only in our VAS dataset but also in standard datasets (e.g. LSMDC and Hollywood2).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1707.06029](https://arxiv.org/abs/1707.06029)
+
+##### PDF
+[https://arxiv.org/pdf/1707.06029](https://arxiv.org/pdf/1707.06029)
+
