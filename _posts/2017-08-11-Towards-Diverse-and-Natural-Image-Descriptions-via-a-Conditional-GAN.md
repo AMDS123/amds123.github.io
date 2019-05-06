@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Towards Diverse and Natural Image Descriptions via a Conditional GAN"
+date: 2017-08-11 05:02:36
+categories: arXiv_CV
+tags: arXiv_CV Image_Caption Adversarial GAN Reinforcement_Learning Caption RNN
+author: Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Despite the substantial progress in recent years, the image captioning techniques are still far from being perfect.Sentences produced by existing methods, e.g. those based on RNNs, are often overly rigid and lacking in variability. This issue is related to a learning principle widely used in practice, that is, to maximize the likelihood of training samples. This principle encourages high resemblance to the "ground-truth" captions while suppressing other reasonable descriptions. Conventional evaluation metrics, e.g. BLEU and METEOR, also favor such restrictive methods. In this paper, we explore an alternative approach, with the aim to improve the naturalness and diversity -- two essential properties of human expression. Specifically, we propose a new framework based on Conditional Generative Adversarial Networks (CGAN), which jointly learns a generator to produce descriptions conditioned on images and an evaluator to assess how well a description fits the visual content. It is noteworthy that training a sequence generator is nontrivial. We overcome the difficulty by Policy Gradient, a strategy stemming from Reinforcement Learning, which allows the generator to receive early feedback along the way. We tested our method on two large datasets, where it performed competitively against real people in our user study and outperformed other methods on various tasks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1703.06029](https://arxiv.org/abs/1703.06029)
+
+##### PDF
+[https://arxiv.org/pdf/1703.06029](https://arxiv.org/pdf/1703.06029)
+
