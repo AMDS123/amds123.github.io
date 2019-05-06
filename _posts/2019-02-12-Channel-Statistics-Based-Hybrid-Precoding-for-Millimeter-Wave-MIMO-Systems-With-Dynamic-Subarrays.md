@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Channel-Statistics-Based Hybrid Precoding for Millimeter-Wave MIMO Systems With Dynamic Subarrays"
+date: 2019-02-12 23:54:37
+categories: arXiv_CV
+tags: arXiv_CV Optimization
+author: Juening Jin, Chengshan Xiao, Wen Chen, Yongpeng Wu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper investigates the hybrid precoding design for millimeter wave (mmWave) multiple-input multiple-output (MIMO) systems with finite-alphabet inputs. The mmWave MIMO system employs partially-connected hybrid precoding architecture with dynamic subarrays, where each radio frequency (RF) chain is connected to a dynamic subset of antennas. We consider the design of analog and digital precoders utilizing statistical and/or mixed channel state information (CSI), which involve solving an extremely difficult problem in theory: First, designing the optimal partition of antennas over RF chains is a combinatorial optimization problem, whose optimal solution requires an exhaustive search over all antenna partitioning solutions; Second, the average mutual information under mmWave MIMO channels lacks closed-form expression and involves prohibitive computational burden; Third, the hybrid precoding problem with given partition of antennas is nonconvex with respect to the analog and digital precoders. To address these issues, this study first presents a simple criterion and the corresponding low complexity algorithm to design the optimal partition of antennas using statistical CSI. Then it derives the lower bound and its approximation for the average mutual information, in which the computational complexity is greatly reduced compared to calculating the average mutual information directly. In addition, it also shows that the lower bound with a constant shift offers a very accurate approximation to the average mutual information. This paper further proposes utilizing the lower bound approximation as a low-complexity and accurate alternative for developing a manifold-based gradient ascent algorithm to find near optimal analog and digital precoders. Several numerical results are provided to show that our proposed algorithm outperforms existing hybrid precoding algorithms.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1902.04677](https://arxiv.org/abs/1902.04677)
+
+##### PDF
+[https://arxiv.org/pdf/1902.04677](https://arxiv.org/pdf/1902.04677)
+
