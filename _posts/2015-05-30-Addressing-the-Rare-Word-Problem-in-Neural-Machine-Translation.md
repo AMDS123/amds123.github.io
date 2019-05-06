@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Addressing the Rare Word Problem in Neural Machine Translation"
+date: 2015-05-30 19:57:28
+categories: arXiv_CL
+tags: arXiv_CL NMT
+author: Minh-Thang Luong, Ilya Sutskever, Quoc V. Le, Oriol Vinyals, Wojciech Zaremba
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural Machine Translation (NMT) is a new approach to machine translation that has shown promising results that are comparable to traditional approaches. A significant weakness in conventional NMT systems is their inability to correctly translate very rare words: end-to-end NMTs tend to have relatively small vocabularies with a single unk symbol that represents every possible out-of-vocabulary (OOV) word. In this paper, we propose and implement an effective technique to address this problem. We train an NMT system on data that is augmented by the output of a word alignment algorithm, allowing the NMT system to emit, for each OOV word in the target sentence, the position of its corresponding word in the source sentence. This information is later utilized in a post-processing step that translates every OOV word using a dictionary. Our experiments on the WMT14 English to French translation task show that this method provides a substantial improvement of up to 2.8 BLEU points over an equivalent NMT system that does not use this technique. With 37.5 BLEU points, our NMT system is the first to surpass the best result achieved on a WMT14 contest task.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1410.8206](https://arxiv.org/abs/1410.8206)
+
+##### PDF
+[https://arxiv.org/pdf/1410.8206](https://arxiv.org/pdf/1410.8206)
+
