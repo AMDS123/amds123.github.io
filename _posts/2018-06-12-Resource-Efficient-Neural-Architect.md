@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Resource-Efficient Neural Architect"
+date: 2018-06-12 20:41:32
+categories: arXiv_CV
+tags: arXiv_CV NAS Reinforcement_Learning Embedding Recognition
+author: Yanqi Zhou, Siavash Ebrahimi, Sercan Ö. Arık, Haonan Yu, Hairong Liu, Greg Diamos
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural Architecture Search (NAS) is a laborious process. Prior work on automated NAS targets mainly on improving accuracy, but lacks consideration of computational resource use. We propose the Resource-Efficient Neural Architect (RENA), an efficient resource-constrained NAS using reinforcement learning with network embedding. RENA uses a policy network to process the network embeddings to generate new configurations. We demonstrate RENA on image recognition and keyword spotting (KWS) problems. RENA can find novel architectures that achieve high performance even with tight resource constraints. For CIFAR10, it achieves 2.95% test error when compute intensity is greater than 100 FLOPs/byte, and 3.87% test error when model size is less than 3M parameters. For Google Speech Commands Dataset, RENA achieves the state-of-the-art accuracy without resource constraints, and it outperforms the optimized architectures with tight resource constraints.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1806.07912](https://arxiv.org/abs/1806.07912)
+
+##### PDF
+[https://arxiv.org/pdf/1806.07912](https://arxiv.org/pdf/1806.07912)
+
