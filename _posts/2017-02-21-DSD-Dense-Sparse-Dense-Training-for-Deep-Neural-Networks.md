@@ -1,0 +1,25 @@
+---
+layout: post
+title: "DSD: Dense-Sparse-Dense Training for Deep Neural Networks"
+date: 2017-02-21 20:51:05
+categories: arXiv_CV
+tags: arXiv_CV Sparse Speech_Recognition Caption Image_Classification Optimization Inference RNN Classification Recognition
+author: Song Han, Jeff Pool, Sharan Narang, Huizi Mao, Enhao Gong, Shijian Tang, Erich Elsen, Peter Vajda, Manohar Paluri, John Tran, Bryan Catanzaro, William J. Dally
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Modern deep neural networks have a large number of parameters, making them very hard to train. We propose DSD, a dense-sparse-dense training flow, for regularizing deep neural networks and achieving better optimization performance. In the first D (Dense) step, we train a dense network to learn connection weights and importance. In the S (Sparse) step, we regularize the network by pruning the unimportant connections with small weights and retraining the network given the sparsity constraint. In the final D (re-Dense) step, we increase the model capacity by removing the sparsity constraint, re-initialize the pruned parameters from zero and retrain the whole dense network. Experiments show that DSD training can improve the performance for a wide range of CNNs, RNNs and LSTMs on the tasks of image classification, caption generation and speech recognition. On ImageNet, DSD improved the Top1 accuracy of GoogLeNet by 1.1%, VGG-16 by 4.3%, ResNet-18 by 1.2% and ResNet-50 by 1.1%, respectively. On the WSJ'93 dataset, DSD improved DeepSpeech and DeepSpeech2 WER by 2.0% and 1.1%. On the Flickr-8K dataset, DSD improved the NeuralTalk BLEU score by over 1.7. DSD is easy to use in practice: at training time, DSD incurs only one extra hyper-parameter: the sparsity ratio in the S step. At testing time, DSD doesn't change the network architecture or incur any inference overhead. The consistent and significant performance gain of DSD experiments shows the inadequacy of the current training methods for finding the best local optimum, while DSD effectively achieves superior optimization performance for finding a better solution. DSD models are available to download at this https URL.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1607.04381](https://arxiv.org/abs/1607.04381)
+
+##### PDF
+[https://arxiv.org/pdf/1607.04381](https://arxiv.org/pdf/1607.04381)
+
