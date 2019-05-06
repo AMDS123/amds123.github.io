@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Digging Into Self-Supervised Monocular Depth Estimation"
+date: 2019-05-03 01:27:58
+categories: arXiv_CV
+tags: arXiv_CV Prediction Quantitative
+author: Cl&#xe9;ment Godard, Oisin Mac Aodha, Michael Firman, Gabriel Brostow
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Per-pixel ground-truth depth data is challenging to acquire at scale. To overcome this limitation, self-supervised learning has emerged as a promising alternative for training models to perform monocular depth estimation. In this paper, we propose a set of improvements, which together result in both quantitatively and qualitatively improved depth maps compared to competing self-supervised methods. 
+ Research on self-supervised monocular training usually explores increasingly complex architectures, loss functions, and image formation models, all of which have recently helped to close the gap with fully-supervised methods. We show that a surprisingly simple model, and associated design choices, lead to superior predictions. In particular, we propose (i) a minimum reprojection loss, designed to robustly handle occlusions, (ii) a full-resolution multi-scale sampling method that reduces visual artifacts, and (iii) an auto-masking loss to ignore training pixels that violate camera motion assumptions. We demonstrate the effectiveness of each component in isolation, and show high quality, state-of-the-art results on the KITTI benchmark.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1806.01260](http://arxiv.org/abs/1806.01260)
+
+##### PDF
+[http://arxiv.org/pdf/1806.01260](http://arxiv.org/pdf/1806.01260)
+
