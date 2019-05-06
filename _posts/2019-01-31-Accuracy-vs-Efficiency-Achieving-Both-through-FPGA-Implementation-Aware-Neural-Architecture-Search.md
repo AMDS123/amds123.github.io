@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search"
+date: 2019-01-31 04:57:16
+categories: arXiv_CV
+tags: arXiv_CV Knowledge NAS Reinforcement_Learning
+author: Weiwen Jiang, Xinyi Zhang, Edwin H.-M. Sha, Lei Yang, Qingfeng Zhuge, Yiyu Shi, Jingtong Hu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+A fundamental question lies in almost every application of deep neural networks: what is the optimal neural architecture given a specific dataset? Recently, several Neural Architecture Search (NAS) frameworks have been developed that use reinforcement learning and evolutionary algorithm to search for the solution. However, most of them take a long time to find the optimal architecture due to the huge search space and the lengthy training process needed to evaluate each candidate. In addition, most of them aim at accuracy only and do not take into consideration the hardware that will be used to implement the architecture. This will potentially lead to excessive latencies beyond specifications, rendering the resulting architectures useless. To address both issues, in this paper we use Field Programmable Gate Arrays (FPGAs) as a vehicle to present a novel hardware-aware NAS framework, namely FNAS, which will provide an optimal neural architecture with latency guaranteed to meet the specification. In addition, with a performance abstraction model to analyze the latency of neural architectures without training, our framework can quickly prune architectures that do not satisfy the specification, leading to higher efficiency. Experimental results on common data set such as ImageNet show that in the cases where the state-of-the-art generates architectures with latencies 7.81x longer than the specification, those from FNAS can meet the specs with less than 1% accuracy loss. Moreover, FNAS also achieves up to 11.13x speedup for the search process. To the best of the authors' knowledge, this is the very first hardware aware NAS.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1901.11211](https://arxiv.org/abs/1901.11211)
+
+##### PDF
+[https://arxiv.org/pdf/1901.11211](https://arxiv.org/pdf/1901.11211)
+
