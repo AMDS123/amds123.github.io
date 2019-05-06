@@ -1,0 +1,25 @@
+---
+layout: post
+title: "ATOM: Accurate Tracking by Overlap Maximization"
+date: 2019-04-11 17:56:18
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Tracking Classification
+author: Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+While recent years have witnessed astonishing improvements in visual tracking robustness, the advancements in tracking accuracy have been limited. As the focus has been directed towards the development of powerful classifiers, the problem of accurate target state estimation has been largely overlooked. In fact, most trackers resort to a simple multi-scale search in order to estimate the target bounding box. We argue that this approach is fundamentally limited since target estimation is a complex task, requiring high-level knowledge about the object. We address this problem by proposing a novel tracking architecture, consisting of dedicated target estimation and classification components. High level knowledge is incorporated into the target estimation through extensive offline learning. Our target estimation component is trained to predict the overlap between the target object and an estimated bounding box. By carefully integrating target-specific information, our approach achieves previously unseen bounding box accuracy. We further introduce a classification component that is trained online to guarantee high discriminative power in the presence of distractors. Our final tracking framework sets a new state-of-the-art on five challenging benchmarks. On the new large-scale TrackingNet dataset, our tracker ATOM achieves a relative gain of 15% over the previous best approach, while running at over 30 FPS. Code and models are available at this https URL.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1811.07628](https://arxiv.org/abs/1811.07628)
+
+##### PDF
+[https://arxiv.org/pdf/1811.07628](https://arxiv.org/pdf/1811.07628)
+
