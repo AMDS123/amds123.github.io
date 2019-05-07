@@ -1,0 +1,25 @@
+---
+layout: post
+title: "GANs for Biological Image Synthesis"
+date: 2017-09-12 09:18:24
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Relation
+author: Anton Osokin, Anatole Chessel, Rafael E. Carazo Salas, Federico Vaggi
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we propose a novel application of Generative Adversarial Networks (GAN) to the synthesis of cells imaged by fluorescence microscopy. Compared to natural images, cells tend to have a simpler and more geometric global structure that facilitates image generation. However, the correlation between the spatial pattern of different fluorescent proteins reflects important biological functions, and synthesized images have to capture these relationships to be relevant for biological applications. We adapt GANs to the task at hand and propose new models with casual dependencies between image channels that can generate multi-channel images, which would be impossible to obtain experimentally. We evaluate our approach using two independent techniques and compare it against sensible baselines. Finally, we demonstrate that by interpolating across the latent space we can mimic the known changes in protein localization that occur through time during the cell cycle, allowing us to predict temporal evolution from static images.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1708.04692](https://arxiv.org/abs/1708.04692)
+
+##### PDF
+[https://arxiv.org/pdf/1708.04692](https://arxiv.org/pdf/1708.04692)
+
