@@ -1,0 +1,25 @@
+---
+layout: post
+title: "DeepID-Net: multi-stage and deformable deep convolutional neural networks for object detection"
+date: 2014-09-11 17:13:26
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection CNN Deep_Learning Detection
+author: Wanli Ouyang, Ping Luo, Xingyu Zeng, Shi Qiu, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Yuanjun Xiong, Chen Qian, Zhenyao Zhu, Ruohui Wang, Chen-Change Loy, Xiaogang Wang, Xiaoou Tang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we propose multi-stage and deformable deep convolutional neural networks for object detection. This new deep learning object detection diagram has innovations in multiple aspects. In the proposed new deep architecture, a new deformation constrained pooling (def-pooling) layer models the deformation of object parts with geometric constraint and penalty. With the proposed multi-stage training strategy, multiple classifiers are jointly optimized to process samples at different difficulty levels. A new pre-training strategy is proposed to learn feature representations more suitable for the object detection task and with good generalization capability. By changing the net structures, training strategies, adding and removing some key components in the detection pipeline, a set of models with large diversity are obtained, which significantly improves the effectiveness of modeling averaging. The proposed approach ranked \#2 in ILSVRC 2014. It improves the mean averaged precision obtained by RCNN, which is the state-of-the-art of object detection, from $31\%$ to $45\%$. Detailed component-wise analysis is also provided through extensive experimental evaluation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1409.3505](https://arxiv.org/abs/1409.3505)
+
+##### PDF
+[https://arxiv.org/pdf/1409.3505](https://arxiv.org/pdf/1409.3505)
+
