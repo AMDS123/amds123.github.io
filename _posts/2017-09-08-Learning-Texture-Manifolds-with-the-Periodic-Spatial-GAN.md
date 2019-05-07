@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning Texture Manifolds with the Periodic Spatial GAN"
+date: 2017-09-08 21:26:03
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN
+author: Urs Bergmann, Nikolay Jetchev, Roland Vollgraf
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper introduces a novel approach to texture synthesis based on generative adversarial networks (GAN) (Goodfellow et al., 2014). We extend the structure of the input noise distribution by constructing tensors with different types of dimensions. We call this technique Periodic Spatial GAN (PSGAN). The PSGAN has several novel abilities which surpass the current state of the art in texture synthesis. First, we can learn multiple textures from datasets of one or more complex large images. Second, we show that the image generation with PSGANs has properties of a texture manifold: we can smoothly interpolate between samples in the structured noise space and generate novel samples, which lie perceptually between the textures of the original dataset. In addition, we can also accurately learn periodical textures. We make multiple experiments which show that PSGANs can flexibly handle diverse texture and image data sources. Our method is highly scalable and it can generate output images of arbitrary large size.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1705.06566](https://arxiv.org/abs/1705.06566)
+
+##### PDF
+[https://arxiv.org/pdf/1705.06566](https://arxiv.org/pdf/1705.06566)
+
