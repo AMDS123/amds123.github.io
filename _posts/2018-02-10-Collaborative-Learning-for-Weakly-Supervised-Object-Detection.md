@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Collaborative Learning for Weakly Supervised Object Detection"
+date: 2018-02-10 06:36:52
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Attention Weakly_Supervised Prediction Detection
+author: Jiajie Wang, Jiangchao Yao, Ya Zhang, Rui Zhang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Weakly supervised object detection has recently received much attention, since it only requires image-level labels instead of the bounding-box labels consumed in strongly supervised learning. Nevertheless, the save in labeling expense is usually at the cost of model accuracy. In this paper, we propose a simple but effective weakly supervised collaborative learning framework to resolve this problem, which trains a weakly supervised learner and a strongly supervised learner jointly by enforcing partial feature sharing and prediction consistency. For object detection, taking WSDDN-like architecture as weakly supervised detector sub-network and Faster-RCNN-like architecture as strongly supervised detector sub-network, we propose an end-to-end Weakly Supervised Collaborative Detection Network. As there is no strong supervision available to train the Faster-RCNN-like sub-network, a new prediction consistency loss is defined to enforce consistency of predictions between the two sub-networks as well as within the Faster-RCNN-like sub-networks. At the same time, the two detectors are designed to partially share features to further guarantee the model consistency at perceptual level. Extensive experiments on PASCAL VOC 2007 and 2012 data sets have demonstrated the effectiveness of the proposed framework.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1802.03531](https://arxiv.org/abs/1802.03531)
+
+##### PDF
+[https://arxiv.org/pdf/1802.03531](https://arxiv.org/pdf/1802.03531)
+
