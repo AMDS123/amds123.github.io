@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Automated Building Image Extraction from 360-degree Panoramas for Post-Disaster Evaluation"
+date: 2019-05-04 16:58:37
+categories: arXiv_CV
+tags: arXiv_CV Knowledge CNN Relation
+author: Ali Lenjani, Chul Min Yeum, Shirley Dyke, Ilias Bilionis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+After a disaster, teams of structural engineers collect vast amounts of images from damaged buildings to obtain new knowledge and extract lessons from the event. However, in many cases, the images collected are captured without sufficient spatial context. When damage is severe, it may be quite difficult to even recognize the building. Accessing images of the pre-disaster condition of those buildings is required to accurately identify the cause of the failure or the actual loss in the building. Here, to address this issue, we develop a method to automatically extract pre-event building images from 360o panorama images (panoramas). By providing a geotagged image collected near the target building as the input, panoramas close to the input image location are automatically downloaded through street view services (e.g., Google or Bing in the United States). By computing the geometric relationship between the panoramas and the target building, the most suitable projection direction for each panorama is identified to generate high-quality 2D images of the building. Region-based convolutional neural networks are exploited to recognize the building within those 2D images. Several panoramas are used so that the detected building images provide various viewpoints of the building. To demonstrate the capability of the technique, we consider residential buildings in Holiday Beach, Texas, the United States which experienced significant devastation in Hurricane Harvey in 2017. Using geotagged images gathered during actual post-disaster building reconnaissance missions, we verify the method by successfully extracting residential building images from Google Street View images, which were captured before the event.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.01524](http://arxiv.org/abs/1905.01524)
+
+##### PDF
+[http://arxiv.org/pdf/1905.01524](http://arxiv.org/pdf/1905.01524)
+
