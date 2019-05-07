@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Stability Control of Walking Biped Robots based on Total Momentum"
+date: 2019-05-05 03:15:04
+categories: arXiv_RO
+tags: arXiv_RO
+author: Mostafa Ghobadi
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Principle Equation of Motion (for walkers) is derived that later results in introducing two piecewise-continuous dynamical systems namely Simplified Walking Model (SWM) and Complete Walking Model (CWM) which both describe the behavior of walker with emphasis on the motion in horizontal plane. By making some realistic assumptions based on human natural walking, a simplified equation of motion named Step-to-Step Equation of Walking is formulated. By imposing repetition condition on this equation, we reach to a significant finding named Simple and Compound Motion Cycles as general solutions of steady walking. Among motion cycles, Simple Forward Motion Cycle represents normal walking pattern. These cycles have marginal stability that in practice cause the motion to diverge exponentially even under slight disturbance. By defining stabilization of walking as guidance of a motion initiated from arbitrary initial states to a desired motion cycle and controlling the motion about it, two major strategies are presented for stability control of the walkers; 1) Continuous altering of Center of Pressure (CoP) within support polygon, and 2) Continual planning of the step length and duration. Using these two strategies and based on Simplified Walking Model (SWM), four methods of stability control named generally as Motion Cycle Stabilizers are proposed and their theoretical aspects are inspected. To consider the strengths and weaknesses of the proposed stabilizers on Complete Model of Walking (CWM), some simulations are performed on a physical model with realistic constraints. to overcome the deficiencies of the Stabilizers, method of Optimal Stability Control is proposed to complete the solution. Simulations show that the proposed approach for stabilization of biped walkers provides us with a more robust solution compared to traditional approaches and maximally guarantee the stability of walkers.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.01590](http://arxiv.org/abs/1905.01590)
+
+##### PDF
+[http://arxiv.org/pdf/1905.01590](http://arxiv.org/pdf/1905.01590)
+
