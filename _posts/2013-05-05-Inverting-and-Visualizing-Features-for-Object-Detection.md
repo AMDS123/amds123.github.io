@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Inverting and Visualizing Features for Object Detection"
+date: 2013-05-05 18:17:44
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Detection
+author: Carl Vondrick, Aditya Khosla, Tomasz Malisiewicz, Antonio Torralba
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We introduce algorithms to visualize feature spaces used by object detectors. The tools in this paper allow a human to put on `HOG goggles' and perceive the visual world as a HOG based object detector sees it. We found that these visualizations allow us to analyze object detection systems in new ways and gain new insight into the detector's failures. For example, when we visualize the features for high scoring false alarms, we discovered that, although they are clearly wrong in image space, they do look deceptively similar to true positives in feature space. This result suggests that many of these false alarms are caused by our choice of feature space, and indicates that creating a better learning algorithm or building bigger datasets is unlikely to correct these errors. By visualizing feature spaces, we can gain a more intuitive understanding of our detection systems.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1212.2278](https://arxiv.org/abs/1212.2278)
+
+##### PDF
+[https://arxiv.org/pdf/1212.2278](https://arxiv.org/pdf/1212.2278)
+
