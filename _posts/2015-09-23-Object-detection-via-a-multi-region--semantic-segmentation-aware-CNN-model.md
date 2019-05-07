@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Object detection via a multi-region & semantic segmentation-aware CNN model"
+date: 2015-09-23 22:24:42
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Segmentation CNN Semantic_Segmentation Detection Recognition
+author: Spyros Gidaris, Nikos Komodakis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose an object detection system that relies on a multi-region deep convolutional neural network (CNN) that also encodes semantic segmentation-aware features. The resulting CNN-based representation aims at capturing a diverse set of discriminative appearance factors and exhibits localization sensitivity that is essential for accurate object localization. We exploit the above properties of our recognition module by integrating it on an iterative localization mechanism that alternates between scoring a box proposal and refining its location with a deep CNN regression model. Thanks to the efficient use of our modules, we detect objects with very high localization accuracy. On the detection challenges of PASCAL VOC2007 and PASCAL VOC2012 we achieve mAP of 78.2% and 73.9% correspondingly, surpassing any other published work by a significant margin.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1505.01749](https://arxiv.org/abs/1505.01749)
+
+##### PDF
+[https://arxiv.org/pdf/1505.01749](https://arxiv.org/pdf/1505.01749)
+
