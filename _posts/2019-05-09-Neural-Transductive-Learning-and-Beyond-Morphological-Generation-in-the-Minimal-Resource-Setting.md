@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural Transductive Learning and Beyond: Morphological Generation in the Minimal-Resource Setting"
+date: 2019-05-09 13:30:35
+categories: arXiv_CL
+tags: arXiv_CL Relation
+author: Katharina Kann, Hinrich Sch&#xfc;tze
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural state-of-the-art sequence-to-sequence (seq2seq) models often do not perform well for small training sets. We address paradigm completion, the morphological task of, given a partial paradigm, generating all missing forms. We propose two new methods for the minimal-resource setting: (i) Paradigm transduction: Since we assume only few paradigms available for training, neural seq2seq models are able to capture relationships between paradigm cells, but are tied to the idiosyncracies of the training set. Paradigm transduction mitigates this problem by exploiting the input subset of inflected forms at test time. (ii) Source selection with high precision (SHIP): Multi-source models which learn to automatically select one or multiple sources to predict a target inflection do not perform well in the minimal-resource setting. SHIP is an alternative to identify a reliable source if training data is limited. On a 52-language benchmark dataset, we outperform the previous state of the art by up to 9.71% absolute accuracy.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1809.08733](http://arxiv.org/abs/1809.08733)
+
+##### PDF
+[http://arxiv.org/pdf/1809.08733](http://arxiv.org/pdf/1809.08733)
+
