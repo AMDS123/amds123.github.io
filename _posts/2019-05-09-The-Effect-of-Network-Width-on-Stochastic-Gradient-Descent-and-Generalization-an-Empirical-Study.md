@@ -1,0 +1,25 @@
+---
+layout: post
+title: "The Effect of Network Width on Stochastic Gradient Descent and Generalization: an Empirical Study"
+date: 2019-05-09 17:58:13
+categories: arXiv_AI
+tags: arXiv_AI Gradient_Descent
+author: Daniel S. Park, Jascha Sohl-Dickstein, Quoc V. Le, Samuel L. Smith
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We investigate how the final parameters found by stochastic gradient descent are influenced by over-parameterization. We generate families of models by increasing the number of channels in a base network, and then perform a large hyper-parameter search to study how the test error depends on learning rate, batch size, and network width. We find that the optimal SGD hyper-parameters are determined by a "normalized noise scale," which is a function of the batch size, learning rate, and initialization conditions. In the absence of batch normalization, the optimal normalized noise scale is directly proportional to width. Wider networks, with their higher optimal noise scale, also achieve higher test accuracy. These observations hold for MLPs, ConvNets, and ResNets, and for two different parameterization schemes ("Standard" and "NTK"). We observe a similar trend with batch normalization for ResNets. Surprisingly, since the largest stable learning rate is bounded, the largest batch size consistent with the optimal normalized noise scale decreases as the width increases.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.03776](http://arxiv.org/abs/1905.03776)
+
+##### PDF
+[http://arxiv.org/pdf/1905.03776](http://arxiv.org/pdf/1905.03776)
+
