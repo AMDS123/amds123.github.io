@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep Sky Modeling for Single Image Outdoor Lighting Estimation"
+date: 2019-05-10 00:12:20
+categories: arXiv_CV
+tags: arXiv_CV
+author: Yannick Hold-Geoffroy, Akshaya Athawale, Jean-Fran&#xe7;ois Lalonde
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a data-driven learned sky model, which we use for outdoor lighting estimation from a single image. As no large-scale dataset of images and their corresponding ground truth illumination is readily available, we use complementary datasets to train our approach, combining the vast diversity of illumination conditions of SUN360 with the radiometrically calibrated and physically accurate Laval HDR sky database. Our key contribution is to provide a holistic view of both lighting modeling and estimation, solving both problems end-to-end. From a test image, our method can directly estimate an HDR environment map of the lighting without relying on analytical lighting models. We demonstrate the versatility and expressivity of our learned sky model and show that it can be used to recover plausible illumination, leading to visually pleasant virtual object insertions. To further evaluate our method, we capture a dataset of HDR 360{\deg} panoramas and show through extensive validation that we significantly outperform previous state-of-the-art.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.03897](http://arxiv.org/abs/1905.03897)
+
+##### PDF
+[http://arxiv.org/pdf/1905.03897](http://arxiv.org/pdf/1905.03897)
+
