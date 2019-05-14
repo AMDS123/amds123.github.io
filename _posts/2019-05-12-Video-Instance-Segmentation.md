@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Video Instance Segmentation"
+date: 2019-05-12 22:42:17
+categories: arXiv_CV
+tags: arXiv_CV Video_Caption Segmentation Tracking Detection
+author: Linjie Yang, Yuchen Fan, Ning Xu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper we present a new computer vision task, named video instance segmentation. The goal of this new task is simultaneous detection, segmentation and tracking of instances in videos. In words, it is the first time that the image instance segmentation problem is extended to the video domain. To facilitate research on this new task, we propose a large-scale benchmark called YouTube-VIS, which consists of 2883 high-resolution YouTube videos, a 40-category label set and 131k high-quality instance masks. In addition, we propose a novel algorithm called MaskTrack R-CNN for this task. Our new method introduces a new tracking branch to Mask R-CNN to jointly perform the detection, segmentation and tracking tasks simultaneously. Finally, we evaluate the proposed method and several strong baselines on our new dataset. Experimental results clearly demonstrate the advantages of the proposed algorithm and reveal insight for future improvement. We believe the video instance segmentation task will motivate the community along the line of research for video understanding.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.04804](http://arxiv.org/abs/1905.04804)
+
+##### PDF
+[http://arxiv.org/pdf/1905.04804](http://arxiv.org/pdf/1905.04804)
+
