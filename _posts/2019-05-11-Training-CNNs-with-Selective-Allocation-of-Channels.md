@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Training CNNs with Selective Allocation of Channels"
+date: 2019-05-11 12:00:55
+categories: arXiv_CV
+tags: arXiv_CV CNN
+author: Jongheon Jeong, Jinwoo Shin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Recent progress in deep convolutional neural networks (CNNs) have enabled a simple paradigm of architecture design: larger models typically achieve better accuracy. Due to this, in modern CNN architectures, it becomes more important to design models that generalize well under certain resource constraints, e.g. the number of parameters. In this paper, we propose a simple way to improve the capacity of any CNN model having large-scale features, without adding more parameters. In particular, we modify a standard convolutional layer to have a new functionality of channel-selectivity, so that the layer is trained to select important channels to re-distribute their parameters. Our experimental results under various CNN architectures and datasets demonstrate that the proposed new convolutional layer allows new optima that generalize better via efficient resource utilization, compared to the baseline.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.04509](http://arxiv.org/abs/1905.04509)
+
+##### PDF
+[http://arxiv.org/pdf/1905.04509](http://arxiv.org/pdf/1905.04509)
+
