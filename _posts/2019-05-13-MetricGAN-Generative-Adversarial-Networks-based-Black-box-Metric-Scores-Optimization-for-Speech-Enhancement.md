@@ -1,0 +1,25 @@
+---
+layout: post
+title: "MetricGAN: Generative Adversarial Networks based Black-box Metric Scores Optimization for Speech Enhancement"
+date: 2019-05-13 06:21:59
+categories: arXiv_SD
+tags: arXiv_SD Adversarial GAN Optimization
+author: Szu-Wei Fu, Chien-Feng Liao, Yu Tsao, Shou-De Lin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Adversarial loss in a conditional generative adversarial network (GAN) is not designed to directly optimize evaluation metrics of a target task, and thus, may not always guide the generator in a GAN to generate data with improved metric scores. To overcome this issue, we propose a novel MetricGAN approach with an aim to optimize the generator with respect to one or multiple evaluation metrics. Moreover, based on MetricGAN, the metric scores of the generated data can also be arbitrarily specified by users. We tested the proposed MetricGAN on a speech enhancement task, which is particularly suitable to verify the proposed approach because there are multiple metrics measuring different aspects of speech signals. Moreover, these metrics are generally complex and could not be fully optimized by Lp or conventional adversarial losses.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.04874](http://arxiv.org/abs/1905.04874)
+
+##### PDF
+[http://arxiv.org/pdf/1905.04874](http://arxiv.org/pdf/1905.04874)
+
