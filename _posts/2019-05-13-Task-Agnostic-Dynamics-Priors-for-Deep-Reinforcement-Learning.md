@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Task-Agnostic Dynamics Priors for Deep Reinforcement Learning"
+date: 2019-05-13 01:16:16
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning Prediction
+author: Yilun Du, Karthik Narasimhan
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+While model-based deep reinforcement learning (RL) holds great promise for sample efficiency and generalization, learning an accurate dynamics model is often challenging and requires substantial interaction with the environment. A wide variety of domains have dynamics that share common foundations like the laws of classical mechanics, which are rarely exploited by existing algorithms. In fact, humans continuously acquire and use such dynamics priors to easily adapt to operating in new environments. In this work, we propose an approach to learn task-agnostic dynamics priors from videos and incorporate them into an RL agent. Our method involves pre-training a frame predictor on task-agnostic physics videos to initialize dynamics models (and fine-tune them) for unseen target environments. Our frame prediction architecture, SpatialNet, is designed specifically to capture localized physical phenomena and interactions. Our approach allows for both faster policy learning and convergence to better policies, outperforming competitive approaches on several different environments. We also demonstrate that incorporating this prior allows for more effective transfer between environments.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.04819](http://arxiv.org/abs/1905.04819)
+
+##### PDF
+[http://arxiv.org/pdf/1905.04819](http://arxiv.org/pdf/1905.04819)
+
