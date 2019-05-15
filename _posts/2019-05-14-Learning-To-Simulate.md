@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning To Simulate"
+date: 2019-05-14 03:15:27
+categories: arXiv_CV
+tags: arXiv_CV Reinforcement_Learning
+author: Nataniel Ruiz, Samuel Schulter, Manmohan Chandraker
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Simulation is a useful tool in situations where training data for machine learning models is costly to annotate or even hard to acquire. In this work, we propose a reinforcement learning-based method for automatically adjusting the parameters of any (non-differentiable) simulator, thereby controlling the distribution of synthesized data in order to maximize the accuracy of a model trained on that data. In contrast to prior art that hand-crafts these simulation parameters or adjusts only parts of the available parameters, our approach fully controls the simulator with the actual underlying goal of maximizing accuracy, rather than mimicking the real data distribution or randomly generating a large volume of data. We find that our approach (i) quickly converges to the optimal simulation parameters in controlled experiments and (ii) can indeed discover good sets of parameters for an image rendering simulator in actual computer vision applications.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.02513](http://arxiv.org/abs/1810.02513)
+
+##### PDF
+[http://arxiv.org/pdf/1810.02513](http://arxiv.org/pdf/1810.02513)
+
