@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Accelerator-Aware Pruning for Convolutional Neural Networks"
+date: 2019-05-14 12:49:00
+categories: arXiv_CV
+tags: arXiv_CV Sparse CNN
+author: Hyeong-Ju Kang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Convolutional neural networks have shown tremendous performance capabilities in computer vision tasks, but their excessive amounts of weight storage and arithmetic operations prevent them from being adopted in embedded environments. One of the solutions involves pruning, where certain unimportant weights are forced to have a value of zero. Many pruning schemes have been proposed, but these have mainly focused on the number of pruned weights. Previous pruning schemes scarcely considered ASIC or FPGA accelerator architectures. When these pruned networks are run on accelerators, the lack of consideration of the architecture causes some inefficiency problems, including internal buffer misalignments and load imbalances. This paper proposes a new pruning scheme that reflects accelerator architectures. In the proposed scheme, pruning is performed so that the same number of weights remain for each weight group corresponding to activations fetched simultaneously. In this way, the pruning scheme resolves the inefficiency problems, doubling the accelerator performance. Even with this constraint, the proposed pruning scheme reached a pruning ratio similar to that of previous unconstrained pruning schemes, not only on AlexNet and VGG16 but also on state-of-the-art very deep networks such as ResNet. Furthermore, the proposed scheme demonstrated a comparable pruning ratio on compact networks such as MobileNet and on slimmed networks that were already pruned in a channel-wise manner. In addition to improving the efficiency of previous sparse accelerators, it will be also shown that the proposed pruning scheme can be used to reduce the logic complexity of sparse accelerators.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1804.09862](http://arxiv.org/abs/1804.09862)
+
+##### PDF
+[http://arxiv.org/pdf/1804.09862](http://arxiv.org/pdf/1804.09862)
+
