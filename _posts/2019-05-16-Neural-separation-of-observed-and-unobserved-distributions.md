@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural separation of observed and unobserved distributions"
+date: 2019-05-16 12:17:47
+categories: arXiv_CL
+tags: arXiv_CL
+author: Tavi Halperin, Ariel Ephrat, Yedid Hoshen
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Separating mixed distributions is a long standing challenge for machine learning and signal processing. Most current methods either rely on making strong assumptions on the source distributions or rely on having training samples of each source in the mixture. In this work, we introduce a new method---Neural Egg Separation---to tackle the scenario of extracting a signal from an unobserved distribution additively mixed with a signal from an observed distribution. Our method iteratively learns to separate the known distribution from progressively finer estimates of the unknown distribution. In some settings, Neural Egg Separation is initialization sensitive, we therefore introduce Latent Mixture Masking which ensures a good initialization. Extensive experiments on audio and image separation tasks show that our method outperforms current methods that use the same level of supervision, and often achieves similar performance to full supervision.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.12739](http://arxiv.org/abs/1811.12739)
+
+##### PDF
+[http://arxiv.org/pdf/1811.12739](http://arxiv.org/pdf/1811.12739)
+
