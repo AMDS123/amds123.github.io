@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Non-Parametric Priors For Generative Adversarial Networks"
+date: 2019-05-16 23:31:20
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Optimization Quantitative
+author: Rajhans Singh (1), Pavan Turaga (1), Suren Jayasuriya (1), Ravi Garg (2), Martin W. Braun (2) ((1) Arizona State University, (2) Intel Corporation)
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The advent of generative adversarial networks (GAN) has enabled new capabilities in synthesis, interpolation, and data augmentation heretofore considered very challenging. However, one of the common assumptions in most GAN architectures is the assumption of simple parametric latent-space distributions. While easy to implement, a simple latent-space distribution can be problematic for uses such as interpolation. This is due to distributional mismatches when samples are interpolated in the latent space. We present a straightforward formalization of this problem; using basic results from probability theory and off-the-shelf-optimization tools, we develop ways to arrive at appropriate non-parametric priors. The obtained prior exhibits unusual qualitative properties in terms of its shape, and quantitative benefits in terms of lower divergence with its mid-point distribution. We demonstrate that our designed prior helps improve image generation along any Euclidean straight line during interpolation, both qualitatively and quantitatively, without any additional training or architectural modifications. The proposed formulation is quite flexible, paving the way to impose newer constraints on the latent-space statistics.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.07061](http://arxiv.org/abs/1905.07061)
+
+##### PDF
+[http://arxiv.org/pdf/1905.07061](http://arxiv.org/pdf/1905.07061)
+
