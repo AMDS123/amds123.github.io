@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning Image-Specific Attributes by Hyperbolic Neighborhood Graph Propagation"
+date: 2019-05-20 08:05:47
+categories: arXiv_CV
+tags: arXiv_CV Classification Relation
+author: Xiaofeng Xu, Ivor W. Tsang, Xiaofeng Cao, Ruiheng Zhang, Chuancai Liu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+As a kind of semantic representation of visual object descriptions, attributes are widely used in various computer vision tasks. In most of existing attribute-based research, class-specific attributes (CSA), which are class-level annotations, are usually adopted due to its low annotation cost for each class instead of each individual image. However, class-specific attributes are usually noisy because of annotation errors and diversity of individual images. Therefore, it is desirable to obtain image-specific attributes (ISA), which are image-level annotations, from the original class-specific attributes. In this paper, we propose to learn image-specific attributes by graph-based attribute propagation. Considering the intrinsic property of hyperbolic geometry that its distance expands exponentially, hyperbolic neighborhood graph (HNG) is constructed to characterize the relationship between samples. Based on HNG, we define neighborhood consistency for each sample to identify inconsistent samples. Subsequently, inconsistent samples are refined based on their neighbors in HNG. Extensive experiments on five benchmark datasets demonstrate the significant superiority of the learned image-specific attributes over the original class-specific attributes in the zero-shot object classification task.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.07933](http://arxiv.org/abs/1905.07933)
+
+##### PDF
+[http://arxiv.org/pdf/1905.07933](http://arxiv.org/pdf/1905.07933)
+
