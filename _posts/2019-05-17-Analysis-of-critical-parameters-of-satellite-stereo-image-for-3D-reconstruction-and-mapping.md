@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Analysis of critical parameters of satellite stereo image for 3D reconstruction and mapping"
+date: 2019-05-17 20:58:57
+categories: arXiv_CV
+tags: arXiv_CV Semi_Global Detection
+author: Rongjun Qin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Although nowadays advanced dense image matching (DIM) algorithms are able to produce LiDAR (Light Detection And Ranging) comparable dense point clouds from satellite stereo images, the accuracy and completeness of such point clouds heavily depend on the geometric parameters of the satellite stereo images. The intersection angle between two images are normally seen as the most important one in stereo data acquisition, as the state-of-the-art DIM algorithms work best on narrow baseline (smaller intersection angle) stereos (E.g. Semi-Global Matching regards 15-25 degrees as good intersection angle). This factor is in line with the traditional aerial photogrammetry configuration, as the intersection angle directly relates to the base-high ratio and texture distortion in the parallax direction, thus both affecting the horizontal and vertical accuracy. However, our experiments found that even with very similar (and good) intersection angles, the same DIM algorithm applied on different stereo pairs (of the same area) produced point clouds with dramatically different accuracy as compared to the ground truth LiDAR data. This raises a very practical question that is often asked by practitioners: what factors constitute a good satellite stereo pair, such that it produces accurate and optimal results for mapping purpose? In this work, we provide a comprehensive analysis on this matter by performing stereo matching over 1,000 satellite stereo pairs with different acquisition parameters including their intersection angles, off-nadir angles, sun elevation &amp; azimuth angles, as well as time differences, thus to offer a thorough answer to this question. This work will potentially provide a valuable reference to researchers working on multi-view satellite image reconstruction, as well as industrial practitioners minimizing costs for high-quality large-scale mapping.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.07476](http://arxiv.org/abs/1905.07476)
+
+##### PDF
+[http://arxiv.org/pdf/1905.07476](http://arxiv.org/pdf/1905.07476)
+
