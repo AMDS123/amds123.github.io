@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Enriching Pre-trained Language Model with Entity Information for Relation Classification"
+date: 2019-05-20 18:22:18
+categories: arXiv_CL
+tags: arXiv_CL CNN RNN Classification Language_Model Relation
+author: Shanchan Wu, Yifan He
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Relation classification is an important NLP task to extract relations between entities. The state-of-the-art methods for relation classification are primarily based on Convolutional or Recurrent Neural Networks. Recently, the pre-trained BERT model achieves very successful results in many NLP classification / sequence labeling tasks. Relation classification differs from those tasks in that it relies on information of both the sentence and the two target entities. In this paper, we propose a model that both leverages the pre-trained BERT language model and incorporates information from the target entities to tackle the relation classification task. We locate the target entities and transfer the information through the pre-trained architecture and incorporate the corresponding encoding of the two entities. We achieve significant improvement over the state-of-the-art method on the SemEval-2010 task 8 relational dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.08284](http://arxiv.org/abs/1905.08284)
+
+##### PDF
+[http://arxiv.org/pdf/1905.08284](http://arxiv.org/pdf/1905.08284)
+
