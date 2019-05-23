@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robust Optimization over Multiple Domains"
+date: 2018-11-14 19:13:28
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Knowledge Optimization Recognition
+author: Qi Qian, Shenghuo Zhu, Jiasheng Tang, Rong Jin, Baigui Sun, Hao Li
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this work, we study the problem of learning a single model for multiple domains. Unlike the conventional machine learning scenario where each domain can have the corresponding model, multiple domains (i.e., applications/users) may share the same machine learning model due to maintenance loads in cloud computing services. For example, a digit-recognition model should be applicable to hand-written digits, house numbers, car plates, etc. Therefore, an ideal model for cloud computing has to perform well at each applicable domain. To address this new challenge from cloud computing, we develop a framework of robust optimization over multiple domains. In lieu of minimizing the empirical risk, we aim to learn a model optimized to the adversarial distribution over multiple domains. Hence, we propose to learn the model and the adversarial distribution simultaneously with the stochastic algorithm for efficiency. Theoretically, we analyze the convergence rate for convex and non-convex models. To our best knowledge, we first study the convergence rate of learning a robust non-convex model with a practical algorithm. Furthermore, we demonstrate that the robustness of the framework and the convergence rate can be further enhanced by appropriate regularizers over the adversarial distribution. The empirical study on real-world fine-grained visual categorization and digits recognition tasks verifies the effectiveness and efficiency of the proposed framework.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1805.07588](http://arxiv.org/abs/1805.07588)
+
+##### PDF
+[http://arxiv.org/pdf/1805.07588](http://arxiv.org/pdf/1805.07588)
+
