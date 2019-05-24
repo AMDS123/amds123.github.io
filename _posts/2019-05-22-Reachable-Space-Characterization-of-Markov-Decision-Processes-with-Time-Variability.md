@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Reachable Space Characterization of Markov Decision Processes with Time Variability"
+date: 2019-05-22 19:30:36
+categories: arXiv_AI
+tags: arXiv_AI
+author: Junhong Xu, Yin Kai, Lantao Liu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a solution to a time-varying variant of Markov Decision Processes which can be used to address decision-theoretic planning problems for autonomous systems operating in unstructured outdoor environments. We explore the time variability property of the planning stochasticity and investigate the state reachability, based on which we then develop an efficient iterative method that offers a good trade-off between solution optimality and time complexity. The reachability space is constructed by analyzing the means and variances of states' reaching time in the future. We validate our algorithm through extensive simulations using ocean data, and the results show that our method achieves a great performance in terms of both solution quality and computing time.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.09342](http://arxiv.org/abs/1905.09342)
+
+##### PDF
+[http://arxiv.org/pdf/1905.09342](http://arxiv.org/pdf/1905.09342)
+
