@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Direct Approach to Robust Deep Learning Using Adversarial Networks"
+date: 2019-05-23 11:32:28
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Image_Classification Classification Deep_Learning Gradient_Descent
+author: Huaxia Wang, Chun-Nam Yu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks have been shown to perform well in many classical machine learning problems, especially in image classification tasks. However, researchers have found that neural networks can be easily fooled, and they are surprisingly sensitive to small perturbations imperceptible to humans. Carefully crafted input images (adversarial examples) can force a well-trained neural network to provide arbitrary outputs. Including adversarial examples during training is a popular defense mechanism against adversarial attacks. In this paper we propose a new defensive mechanism under the generative adversarial network (GAN) framework. We model the adversarial noise using a generative network, trained jointly with a classification discriminative network as a minimax game. We show empirically that our adversarial network approach works well against black box attacks, with performance on par with state-of-art methods such as ensemble adversarial training and adversarial training with projected gradient descent.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.09591](http://arxiv.org/abs/1905.09591)
+
+##### PDF
+[http://arxiv.org/pdf/1905.09591](http://arxiv.org/pdf/1905.09591)
+
