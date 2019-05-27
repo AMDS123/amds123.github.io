@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Data-Driven Clustering via Parameterized Lloyd's Families"
+date: 2019-05-24 06:44:07
+categories: arXiv_AI
+tags: arXiv_AI
+author: Maria-Florina Balcan, Travis Dick, Colin White
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Algorithms for clustering points in metric spaces is a long-studied area of research. Clustering has seen a multitude of work both theoretically, in understanding the approximation guarantees possible for many objective functions such as k-median and k-means clustering, and experimentally, in finding the fastest algorithms and seeding procedures for Lloyd's algorithm. The performance of a given clustering algorithm depends on the specific application at hand, and this may not be known up front. For example, a "typical instance" may vary depending on the application, and different clustering heuristics perform differently depending on the instance. 
+ In this paper, we define an infinite family of algorithms generalizing Lloyd's algorithm, with one parameter controlling the initialization procedure, and another parameter controlling the local search procedure. This family of algorithms includes the celebrated k-means++ algorithm, as well as the classic farthest-first traversal algorithm. We design efficient learning algorithms which receive samples from an application-specific distribution over clustering instances and learn a near-optimal clustering algorithm from the class. We show the best parameters vary significantly across datasets such as MNIST, CIFAR, and mixtures of Gaussians. Our learned algorithms never perform worse than k-means++, and on some datasets we see significant improvements.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1809.06987](http://arxiv.org/abs/1809.06987)
+
+##### PDF
+[http://arxiv.org/pdf/1809.06987](http://arxiv.org/pdf/1809.06987)
+
