@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Controlling Risk of Web Question Answering"
+date: 2019-05-24 07:55:42
+categories: arXiv_CL
+tags: arXiv_CL QA Deep_Learning Prediction
+author: ixin Su, Jiafeng Guo, Yixing Fan, Yanyan Lan, Xueqi Cheng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Web question answering (QA) has become an dispensable component in modern search systems, which can significantly improve users' search experience by providing a direct answer to users' information need. This could be achieved by applying machine reading comprehension (MRC) models over the retrieved passages to extract answers with respect to the search query. With the development of deep learning techniques, state-of-the-art MRC performances have been achieved by recent deep methods. However, existing studies on MRC seldom address the predictive uncertainty issue, i.e., how likely the prediction of an MRC model is wrong, leading to uncontrollable risks in real-world Web QA applications. In this work, we first conduct an in-depth investigation over the risk of Web QA. We then introduce a novel risk control framework, which consists of a qualify model for uncertainty estimation using the probe idea, and a decision model for selectively output. For evaluation, we introduce risk-related metrics, rather than the traditional EM and F1 in MRC, for the evaluation of risk-aware Web QA. The empirical results over both the real-world Web QA dataset and the academic MRC benchmark collection demonstrate the effectiveness of our approach.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.10077](http://arxiv.org/abs/1905.10077)
+
+##### PDF
+[http://arxiv.org/pdf/1905.10077](http://arxiv.org/pdf/1905.10077)
+
