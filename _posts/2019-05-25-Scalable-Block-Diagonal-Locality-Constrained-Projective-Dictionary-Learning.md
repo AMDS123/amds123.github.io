@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Scalable Block-Diagonal Locality-Constrained Projective Dictionary Learning"
+date: 2019-05-25 10:36:53
+categories: arXiv_CV
+tags: arXiv_CV Sparse Classification Prediction
+author: Zhao Zhang, Weiming Jiang, Zheng Zhang, Sheng Li, Guangcan Liu, Jie Qin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a novel structured discriminative block-diagonal dictionary learning method, referred to as scalable Locality-Constrained Projective Dictionary Learning (LC-PDL), for efficient representation and classification. To improve the scalability by saving both training and testing time, our LC-PDL aims at learning a structured discriminative dictionary and a block-diagonal representation without using costly l0/l1-norm. Besides, it avoids extra time-consuming sparse reconstruction process with the well-trained dictionary for new sample as many existing models. More importantly, LC-PDL avoids using the complementary data matrix to learn the sub-dictionary over each class. To enhance the performance, we incorporate a locality constraint of atoms into the DL procedures to keep local information and obtain the codes of samples over each class separately. A block-diagonal discriminative approximation term is also derived to learn a discriminative projection to bridge data with their codes by extracting the special block-diagonal features from data, which can ensure the approximate coefficients to associate with its label information clearly. Then, a robust multiclass classifier is trained over extracted block-diagonal codes for accurate label predictions. Experimental results verify the effectiveness of our algorithm.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.10568](http://arxiv.org/abs/1905.10568)
+
+##### PDF
+[http://arxiv.org/pdf/1905.10568](http://arxiv.org/pdf/1905.10568)
+
