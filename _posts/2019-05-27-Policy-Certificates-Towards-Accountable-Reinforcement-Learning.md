@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Policy Certificates: Towards Accountable Reinforcement Learning"
+date: 2019-05-27 20:50:36
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning
+author: Christoph Dann, Lihong Li, Wei Wei, Emma Brunskill
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The performance of a reinforcement learning algorithm can vary drastically during learning because of exploration. Existing algorithms provide little information about the quality of their current policy before executing it, and thus have limited use in high-stakes applications like healthcare. We address this lack of accountability by proposing that algorithms output policy certificates. These certificates bound the sub-optimality and return of the policy in the next episode, allowing humans to intervene when the certified quality is not satisfactory. We further introduce two new algorithms with certificates and present a new framework for theoretical analysis that guarantees the quality of their policies and certificates. For tabular MDPs, we show that computing certificates can even improve the sample-efficiency of optimism-based exploration. As a result, one of our algorithms is the first to achieve minimax-optimal PAC bounds up to lower-order terms, and this algorithm also matches (and in some settings slightly improves upon) existing minimax regret bounds.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1811.03056](http://arxiv.org/abs/1811.03056)
+
+##### PDF
+[http://arxiv.org/pdf/1811.03056](http://arxiv.org/pdf/1811.03056)
+
