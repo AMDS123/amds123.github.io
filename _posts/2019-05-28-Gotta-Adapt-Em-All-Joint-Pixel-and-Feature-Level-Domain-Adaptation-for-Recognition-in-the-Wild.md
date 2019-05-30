@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Gotta Adapt 'Em All: Joint Pixel and Feature-Level Domain Adaptation for Recognition in the Wild"
+date: 2019-05-28 19:50:33
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Knowledge GAN Classification Recognition
+author: Luan Tran, Kihyuk Sohn, Xiang Yu, Xiaoming Liu, Manmohan Chandraker
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Recent developments in deep domain adaptation have allowed knowledge transfer from a labeled source domain to an unlabeled target domain at the level of intermediate features or input pixels. We propose that advantages may be derived by combining them, in the form of different insights that lead to a novel design and complementary properties that result in better performance. At the feature level, inspired by insights from semi-supervised learning, we propose a classification-aware domain adversarial neural network that brings target examples into more classifiable regions of source domain. Next, we posit that computer vision insights are more amenable to injection at the pixel level. In particular, we use 3D geometry and image synthesis based on a generalized appearance flow to preserve identity across pose transformations, while using an attribute-conditioned CycleGAN to translate a single source into multiple target images that differ in lower-level properties such as lighting. Besides standard UDA benchmark, we validate on a novel and apt problem of car recognition in unlabeled surveillance images using labeled images from the web, handling explicitly specified, nameable factors of variation through pixel-level and implicit, unspecified factors through feature-level adaptation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1803.00068](http://arxiv.org/abs/1803.00068)
+
+##### PDF
+[http://arxiv.org/pdf/1803.00068](http://arxiv.org/pdf/1803.00068)
+
