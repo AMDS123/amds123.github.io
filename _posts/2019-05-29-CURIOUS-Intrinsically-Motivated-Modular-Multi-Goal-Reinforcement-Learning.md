@@ -1,0 +1,25 @@
+---
+layout: post
+title: "CURIOUS: Intrinsically Motivated Modular Multi-Goal Reinforcement Learning"
+date: 2019-05-29 11:52:20
+categories: arXiv_AI
+tags: arXiv_AI Attention GAN Reinforcement_Learning
+author: C&#xe9;dric Colas, Pierre Fournier, Olivier Sigaud, Mohamed Chetouani, Pierre-Yves Oudeyer
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In open-ended environments, autonomous learning agents must set their own goals and build their own curriculum through an intrinsically motivated exploration. They may consider a large diversity of goals, aiming to discover what is controllable in their environments, and what is not. Because some goals might prove easy and some impossible, agents must actively select which goal to practice at any moment, to maximize their overall mastery on the set of learnable goals. This paper proposes CURIOUS, an algorithm that leverages 1) a modular Universal Value Function Approximator with hindsight learning to achieve a diversity of goals of different kinds within a unique policy and 2) an automated curriculum learning mechanism that biases the attention of the agent towards goals maximizing the absolute learning progress. Agents focus sequentially on goals of increasing complexity, and focus back on goals that are being forgotten. Experiments conducted in a new modular-goal robotic environment show the resulting developmental self-organization of a learning curriculum, and demonstrate properties of robustness to distracting goals, forgetting and changes in body properties.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1810.06284](http://arxiv.org/abs/1810.06284)
+
+##### PDF
+[http://arxiv.org/pdf/1810.06284](http://arxiv.org/pdf/1810.06284)
+
