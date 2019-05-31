@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Ridesharing with Driver Location Preferences"
+date: 2019-05-30 17:21:37
+categories: arXiv_AI
+tags: arXiv_AI
+author: Duncan Rheingans-Yoo, Scott Duke Kominers, Hongyao Ma, David C. Parkes
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We study revenue-optimal pricing and driver compensation in ridesharing platforms when drivers have heterogeneous preferences over locations. If a platform ignores drivers' location preferences, it may make inefficient trip dispatches; moreover, drivers may strategize so as to route towards their preferred locations. In a model with stationary and continuous demand and supply, we present a mechanism that incentivizes drivers to both (i) report their location preferences truthfully and (ii) always provide service. In settings with unconstrained driver supply or symmetric demand patterns, our mechanism achieves (full-information) first-best revenue. Under supply constraints and unbalanced demand, we show via simulation that our mechanism improves over existing mechanisms and has performance close to the first-best.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.13191](http://arxiv.org/abs/1905.13191)
+
+##### PDF
+[http://arxiv.org/pdf/1905.13191](http://arxiv.org/pdf/1905.13191)
+
