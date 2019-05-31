@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Regression with Conditional GAN"
+date: 2019-05-30 06:02:43
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN
+author: Karan Aggarwal, Matthieu Kirchmeyer, Pranjul Yadav, S. Sathiya Keerthi, Patrick Gallinari
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In recent years, impressive progress has been made in the design of implicit probabilistic models via Generative Adversarial Networks (GAN) and its extension, the Conditional GAN (CGAN). Excellent solutions have been demonstrated mostly in image processing applications which involve large, continuous output spaces. There is almost no application of these powerful tools to problems having small dimensional output spaces. Regression problems involving the inductive learning of a map, $y=f(x)$, $f:\mathbb{R} \rightarrow \mathbb{R}^m$, with $m$ small (e.g., $m=1$ or just a few) is one good case in point. The standard approach to solve regression problems is to probabilistically model the output $y$ as the sum of a mean function $m(x)$ and a noise variable $\sigma$; it is also usual to take the noise to be a Gaussian. These are done for convenience sake so that the likelihood of observed data is expressible in closed form. In the real world, on the other hand, stochasticity of the output is usually caused by missing or noisy input variables. Such a real world situation is best represented using an implicit model in which an extra noise vector, $z$ is included with $x$ as input. CGAN is naturally suited to design such implicit models. This paper makes the first step in this direction. Through several artificial and real world datasets, we demonstrate CGAN to be an effective approach for solving regression problems. We compare against Gaussian Processes and show that CGAN has excellent output likelihood properties, and hence, it models noise in a better way.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1905.12868](https://arxiv.org/abs/1905.12868)
+
+##### PDF
+[https://arxiv.org/pdf/1905.12868](https://arxiv.org/pdf/1905.12868)
+
