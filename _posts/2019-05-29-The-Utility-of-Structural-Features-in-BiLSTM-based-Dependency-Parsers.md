@@ -1,0 +1,25 @@
+---
+layout: post
+title: "The Utility of Structural Features in BiLSTM-based Dependency Parsers"
+date: 2019-05-29 18:49:03
+categories: arXiv_CL
+tags: arXiv_CL RNN
+author: Agnieszka Falenska, Jonas Kuhn
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Classical non-neural dependency parsers put considerable effort on the design of feature functions. Especially, they benefit from information coming from structural features, such as features drawn from neighboring tokens in the dependency tree. In contrast, their BiLSTM-based successors achieve state-of-the-art performance without explicit information about the structural context. In this paper we aim to answer the question: How much structural context are the BiLSTM representations able to capture implicitly? We show that features drawn from partial subtrees become redundant when the BiLSTMs are used. We provide a deep insight into information flow in transition- and graph-based neural architectures to demonstrate where the implicit information comes from when the parsers make their decisions. Finally, with model ablations we demonstrate that the structural context is not only present in the models, but it significantly influences their performance.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.12676](http://arxiv.org/abs/1905.12676)
+
+##### PDF
+[http://arxiv.org/pdf/1905.12676](http://arxiv.org/pdf/1905.12676)
+
