@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Towards Photo-Realistic Visible Watermark Removal with Conditional Generative Adversarial Networks"
+date: 2019-05-30 04:08:49
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Attention GAN
+author: Xiang Li, Chan Lu, Danni Cheng, Wei-Hong Li, Mei Cao, Bo Liu, Jiechao Ma, Wei-Shi Zheng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Visible watermark plays an important role in image copyright protection and the robustness of a visible watermark to an attack is shown to be essential. To evaluate and improve the effectiveness of watermark, watermark removal attracts increasing attention and becomes a hot research top. Current methods cast the watermark removal as an image-to-image translation problem where the encode-decode architectures with pixel-wise loss are adopted to transfer the transparent watermarked pixels into unmarked pixels. However, when a number of realistic images are presented, the watermarks are more likely to be unknown and diverse (i.e., the watermarks might be opaque or semi-transparent; the category and pattern of watermarks are unknown). When applying existing methods to the real-world scenarios, they mostly can not satisfactorily reconstruct the hidden information obscured under the complex and various watermarks (i.e., the residual watermark traces remain and the reconstructed images lack reality). To address this difficulty, in this paper, we present a new watermark processing framework using the conditional generative adversarial networks (cGANs) for visible watermark removal in the real-world application. The proposed method \whh{enables} the watermark removal solution \whh{to be more} closed to the photo-realistic reconstruction using a patch-based discriminator conditioned on the watermarked images, which is adversarially trained to differentiate the difference between the recovered images and original watermark-free images. Extensive experimental results on a large-scale visible watermark dataset demonstrate the effectiveness of the proposed method and clearly indicate that our proposed approach can produce more photo-realistic and convincing results compared with the state-of-the-art methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.12845](http://arxiv.org/abs/1905.12845)
+
+##### PDF
+[http://arxiv.org/pdf/1905.12845](http://arxiv.org/pdf/1905.12845)
+
