@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Improved memory in recurrent neural networks with sequential non-normal dynamics"
+date: 2019-05-31 16:50:46
+categories: arXiv_CV
+tags: arXiv_CV Optimization RNN
+author: A. Emin Orhan, Xaq Pitkow
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Training recurrent neural networks (RNNs) is a hard problem due to degeneracies in the optimization landscape, a problem also known as the vanishing/exploding gradients problem. Short of designing new RNN architectures, various methods for dealing with this problem that have been previously proposed usually boil down to orthogonalization of the recurrent dynamics, either at initialization or during the entire training period. The basic motivation behind these methods is that orthogonal transformations are isometries of the Euclidean space, hence they preserve (Euclidean) norms and effectively deal with the vanishing/exploding gradients problem. However, this idea ignores the crucial effects of non-linearity and noise. In the presence of a non-linearity, orthogonal transformations no longer preserve norms, suggesting that alternative transformations might be better suited to non-linear networks. Moreover, in the presence of noise, norm preservation itself ceases to be the ideal objective. A more sensible objective is maximizing the signal-to-noise ratio (SNR) of the propagated signal instead. Previous work has shown that in the linear case, recurrent networks that maximize the SNR display strongly non-normal dynamics and orthogonal networks are highly suboptimal by this measure. Motivated by this finding, in this paper, we investigate the potential of non-normal RNNs, i.e. RNNs with a non-normal recurrent connectivity matrix, in sequential processing tasks. Our experimental results show that non-normal RNNs significantly outperform their orthogonal counterparts in a diverse range of benchmarks. We also find evidence for increased non-normality and hidden chain-like feedforward structures in trained RNNs initialized with orthogonal recurrent connectivity matrices.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1905.13715](https://arxiv.org/abs/1905.13715)
+
+##### PDF
+[https://arxiv.org/pdf/1905.13715](https://arxiv.org/pdf/1905.13715)
+
