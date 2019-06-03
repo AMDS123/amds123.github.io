@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Time Matters in Regularizing Deep Networks: Weight Decay and Data Augmentation Affect Early Learning Dynamics, Matter Little Near Convergence"
+date: 2019-05-30 19:57:39
+categories: arXiv_AI
+tags: arXiv_AI Regularization
+author: Aditya Golatkar, Alessandro Achille, Stefano Soatto
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Regularization is typically understood as improving generalization by altering the landscape of local extrema to which the model eventually converges. Deep neural networks (DNNs), however, challenge this view: We show that removing regularization after an initial transient period has little effect on generalization, even if the final loss landscape is the same as if there had been no regularization. In some cases, generalization even improves after interrupting regularization. Conversely, if regularization is applied only after the initial transient, it has no effect on the final solution, whose generalization gap is as bad as if regularization never happened. This suggests that what matters for training deep networks is not just whether or how, but when to regularize. The phenomena we observe are manifest in different datasets (CIFAR-10, CIFAR-100), different architectures (ResNet-18, All-CNN), different regularization methods (weight decay, data augmentation), different learning rate schedules (exponential, piece-wise constant). They collectively suggest that there is a ``critical period'' for regularizing deep networks that is decisive of the final performance. More analysis should, therefore, focus on the transient rather than asymptotic behavior of learning.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.13277](http://arxiv.org/abs/1905.13277)
+
+##### PDF
+[http://arxiv.org/pdf/1905.13277](http://arxiv.org/pdf/1905.13277)
+
