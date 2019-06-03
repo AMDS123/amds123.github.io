@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Modeling Theory of Mind in Multi-Agent Games Using Adaptive Feedback Control"
+date: 2019-05-29 18:26:26
+categories: arXiv_AI
+tags: arXiv_AI Deep_Learning Prediction
+author: Ismael T. Freire, Xerxes D. Arsiwalla, Jordi-Ysard Puigb&#xf2;, Paul Verschure
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+A major challenge in cognitive science and AI has been to understand how autonomous agents might acquire and predict behavioral and mental states of other agents in the course of complex social interactions. How does such an agent model the goals, beliefs, and actions of other agents it interacts with? What are the computational principles to model a Theory of Mind (ToM)? Deep learning approaches to address these questions fall short of a better understanding of the problem. In part, this is due to the black-box nature of deep networks, wherein computational mechanisms of ToM are not readily revealed. Here, we consider alternative hypotheses seeking to model how the brain might realize a ToM. In particular, we propose embodied and situated agent models based on distributed adaptive control theory to predict actions of other agents in five different game theoretic tasks (Harmony Game, Hawk-Dove, Stag-Hunt, Prisoner's Dilemma and Battle of the Exes). Our multi-layer control models implement top-down predictions from adaptive to reactive layers of control and bottom-up error feedback from reactive to adaptive layers. We test cooperative and competitive strategies among seven different agent models (cooperative, greedy, tit-for-tat, reinforcement-based, rational, predictive and other's-model agents). We show that, compared to pure reinforcement-based strategies, probabilistic learning agents modeled on rational, predictive and other's-model phenotypes perform better in game-theoretic metrics across tasks. Our autonomous multi-agent models capture systems-level processes underlying a ToM and highlight architectural principles of ToM from a control-theoretic perspective.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.13225](http://arxiv.org/abs/1905.13225)
+
+##### PDF
+[http://arxiv.org/pdf/1905.13225](http://arxiv.org/pdf/1905.13225)
+
