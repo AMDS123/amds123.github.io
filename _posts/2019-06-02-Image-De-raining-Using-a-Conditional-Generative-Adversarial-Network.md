@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Image De-raining Using a Conditional Generative Adversarial Network"
+date: 2019-06-02 19:18:19
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Optimization Classification Quantitative Detection
+author: He Zhang, Vishwanath Sindagi, Vishal M. Patel
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Severe weather conditions such as rain and snow adversely affect the visual quality of images captured under such conditions thus rendering them useless for further usage and sharing. In addition, such degraded images drastically affect performance of vision systems. Hence, it is important to solve the problem of single image de-raining/de-snowing. However, this is a difficult problem to solve due to its inherent ill-posed nature. Existing approaches attempt to introduce prior information to convert it into a well-posed problem. In this paper, we investigate a new point of view in addressing the single image de-raining problem. Instead of focusing only on deciding what is a good prior or a good framework to achieve good quantitative and qualitative performance, we also ensure that the de-rained image itself does not degrade the performance of a given computer vision algorithm such as detection and classification. In other words, the de-rained result should be indistinguishable from its corresponding clear image to a given discriminator. This criterion can be directly incorporated into the optimization framework by using the recently introduced conditional generative adversarial networks (GANs). To minimize artifacts introduced by GANs and ensure better visual quality, a new refined loss function is introduced. Based on this, we propose a novel single image de-raining method called Image De-raining Conditional General Adversarial Network (ID-CGAN), which considers quantitative, visual and also discriminative performance into the objective function. Experiments evaluated on synthetic images and real images show that the proposed method outperforms many recent state-of-the-art single image de-raining methods in terms of quantitative and visual performance.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1701.05957](http://arxiv.org/abs/1701.05957)
+
+##### PDF
+[http://arxiv.org/pdf/1701.05957](http://arxiv.org/pdf/1701.05957)
+
