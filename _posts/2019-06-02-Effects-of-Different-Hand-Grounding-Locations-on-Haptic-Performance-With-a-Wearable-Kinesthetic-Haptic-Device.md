@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Effects of Different Hand-Grounding Locations on Haptic Performance With a Wearable Kinesthetic Haptic Device"
+date: 2019-06-02 15:58:59
+categories: arXiv_RO
+tags: arXiv_RO
+author: Sajid Nisar, Melisa Orta Martinez, Takahiro Endo, Fumitoshi Matsuno, Allison M. Okamura
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Grounding of kinesthetic feedback against a user's hand can increase the portability and wearability of a haptic device. However, the effects of different hand-grounding locations on haptic perception of a user are unknown. In this letter, we investigate the effects of three different hand-grounding locations-back of the hand, proximal phalanx of the index finger, and middle phalanx of the index finger-on haptic perception using a newly designed wearable haptic device. The novel device can provide kinesthetic feedback to the user's index finger in two directions: along the finger-axis and in the finger's flexion-extension movement direction. We measure users' haptic perception for each grounding location through a psychophysical experiment for each of the two feedback directions. Results show that among the studied locations, grounding at proximal phalanx has a smaller average just noticeable difference for both feedback directions, indicating a more sensitive haptic perception. The realism of the haptic feedback, based on user ratings, was the highest with grounding at the middle phalanx for feedback along the finger axis, and at the proximal phalanx for feedback in the flexion-extension direction. Users identified the haptic feedback as most comfortable with grounding at the back of the hand for feedback along the finger axis and at the proximal phalanx for feedback in the flexion-extension direction. These findings show that the choice of grounding location has a significant impact on the user's haptic perception and qualitative experience. The results provide insights for designing next-generation wearable hand-grounded kinesthetic devices to achieve better haptic performance and user experience in virtual reality and teleoperated robotic applications.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.00430](http://arxiv.org/abs/1906.00430)
+
+##### PDF
+[http://arxiv.org/pdf/1906.00430](http://arxiv.org/pdf/1906.00430)
+
