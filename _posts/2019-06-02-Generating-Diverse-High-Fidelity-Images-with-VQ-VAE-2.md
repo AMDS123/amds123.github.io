@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Generating Diverse High-Fidelity Images with VQ-VAE-2"
+date: 2019-06-02 16:46:42
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Face
+author: Ali Razavi, Aaron van den Oord, Oriol Vinyals
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We explore the use of Vector Quantized Variational AutoEncoder (VQ-VAE) models for large scale image generation. To this end, we scale and enhance the autoregressive priors used in VQ-VAE to generate synthetic samples of much higher coherence and fidelity than possible before. We use simple feed-forward encoder and decoder networks, making our model an attractive candidate for applications where the encoding and/or decoding speed is critical. Additionally, VQ-VAE requires sampling an autoregressive model only in the compressed latent space, which is an order of magnitude faster than sampling in the pixel space, especially for large images. We demonstrate that a multi-scale hierarchical organization of VQ-VAE, augmented with powerful priors over the latent codes, is able to generate samples with quality that rivals that of state of the art Generative Adversarial Networks on multifaceted datasets such as ImageNet, while not suffering from GAN's known shortcomings such as mode collapse and lack of diversity.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.00446](http://arxiv.org/abs/1906.00446)
+
+##### PDF
+[http://arxiv.org/pdf/1906.00446](http://arxiv.org/pdf/1906.00446)
+
