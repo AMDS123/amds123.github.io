@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Multilingual Constituency Parsing with Self-Attention and Pre-Training"
+date: 2019-06-04 12:49:56
+categories: arXiv_CL
+tags: arXiv_CL Attention Embedding
+author: Nikita Kitaev, Steven Cao, Dan Klein
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We show that constituency parsing benefits from unsupervised pre-training across a variety of languages and a range of pre-training conditions. We first compare the benefits of no pre-training, fastText, ELMo, and BERT for English and find that BERT outperforms ELMo, in large part due to increased model capacity, whereas ELMo in turn outperforms the non-contextual fastText embeddings. We also find that pre-training is beneficial across all 11 languages tested; however, large model sizes (more than 100 million parameters) make it computationally expensive to train separate models for each language. To address this shortcoming, we show that joint multilingual pre-training and fine-tuning allows sharing all but a small number of parameters between ten languages in the final model. The 10x reduction in model size compared to fine-tuning one model per language causes only a 3.2% relative error increase in aggregate. We further explore the idea of joint fine-tuning and show that it gives low-resource languages a way to benefit from the larger datasets of other languages. Finally, we demonstrate new state-of-the-art results for 11 languages, including English (95.8 F1) and Chinese (91.8 F1).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.11760](http://arxiv.org/abs/1812.11760)
+
+##### PDF
+[http://arxiv.org/pdf/1812.11760](http://arxiv.org/pdf/1812.11760)
+
