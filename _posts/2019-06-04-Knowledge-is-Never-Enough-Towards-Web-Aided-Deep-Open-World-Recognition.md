@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Knowledge is Never Enough: Towards Web Aided Deep Open World Recognition"
+date: 2019-06-04 08:14:22
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Deep_Learning Recognition
+author: Massimiliano Mancini, Hakan Karaoguz, Elisa Ricci, Patric Jensfelt, Barbara Caputo
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+While today's robots are able to perform sophisticated tasks, they can only act on objects they have been trained to recognize. This is a severe limitation: any robot will inevitably see new objects in unconstrained settings, and thus will always have visual knowledge gaps. However, standard visual modules are usually built on a limited set of classes and are based on the strong prior that an object must belong to one of those classes. Identifying whether an instance does not belong to the set of known categories (i.e. open set recognition), only partially tackles this problem, as a truly autonomous agent should be able not only to detect what it does not know, but also to extend dynamically its knowledge about the world. We contribute to this challenge with a deep learning architecture that can dynamically update its known classes in an end-to-end fashion. The proposed deep network, based on a deep extension of a non-parametric model, detects whether a perceived object belongs to the set of categories known by the system and learns it without the need to retrain the whole system from scratch. Annotated images about the new category can be provided by an 'oracle' (i.e. human supervision), or by autonomous mining of the Web. Experiments on two different databases and on a robot platform demonstrate the promise of our approach.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.01258](http://arxiv.org/abs/1906.01258)
+
+##### PDF
+[http://arxiv.org/pdf/1906.01258](http://arxiv.org/pdf/1906.01258)
+
