@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Recognising Agreement and Disagreement between Stances with Reason Comparing Networks"
+date: 2019-06-04 13:04:38
+categories: arXiv_CL
+tags: arXiv_CL Inference Detection
+author: Chang Xu, Cecile Paris, Surya Nepal, Ross Sparks
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We identify agreement and disagreement between utterances that express stances towards a topic of discussion. Existing methods focus mainly on conversational settings, where dialogic features are used for (dis)agreement inference. We extend this scope and seek to detect stance (dis)agreement in a broader setting, where independent stance-bearing utterances, which prevail in many stance corpora and real-world scenarios, are compared. To cope with such non-dialogic utterances, we find that the reasons uttered to back up a specific stance can help predict stance (dis)agreements. We propose a reason comparing network (RCN) to leverage reason information for stance comparison. Empirical results on a well-known stance corpus show that our method can discover useful reason information, enabling it to outperform several baselines in stance (dis)agreement detection.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.01392](http://arxiv.org/abs/1906.01392)
+
+##### PDF
+[http://arxiv.org/pdf/1906.01392](http://arxiv.org/pdf/1906.01392)
+
