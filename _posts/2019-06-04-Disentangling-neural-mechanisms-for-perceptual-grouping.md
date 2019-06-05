@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Disentangling neural mechanisms for perceptual grouping"
+date: 2019-06-04 16:21:46
+categories: arXiv_AI
+tags: arXiv_AI Prediction
+author: Junkyung Kim, Drew Linsley, Kalpit Thakkar, Thomas Serre
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Forming perceptual groups and individuating objects in visual scenes is an essential step towards visual intelligence. This ability is thought to arise in the brain from computations implemented by bottom-up, horizontal, and top-down connections between neurons. However, the relative contributions of these connections to perceptual grouping are poorly understood. We address this question by systematically evaluating neural network architectures featuring combinations of these connections on two synthetic visual tasks, which stress low-level `gestalt' vs. high-level object cues for perceptual grouping. We show that increasing the difficulty of either task strains learning for networks that rely solely on bottom-up processing. Horizontal connections resolve this limitation on tasks with gestalt cues by supporting incremental spatial propagation of activities, whereas top-down connections rescue learning on tasks featuring object cues by propagating coarse predictions about the position of the target object. Our findings disassociate the computational roles of bottom-up, horizontal and top-down connectivity, and demonstrate how a model featuring all of these interactions can more flexibly learn to form perceptual groups.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.01558](http://arxiv.org/abs/1906.01558)
+
+##### PDF
+[http://arxiv.org/pdf/1906.01558](http://arxiv.org/pdf/1906.01558)
+
