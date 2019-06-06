@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural Legal Judgment Prediction in English"
+date: 2019-06-05 14:56:06
+categories: arXiv_CL
+tags: arXiv_CL Classification Prediction
+author: Ilias Chalkidis, Ion Androutsopoulos, Nikolaos Aletras
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Legal judgment prediction is the task of automatically predicting the outcome of a court case, given a text describing the case's facts. Previous work on using neural models for this task has focused on Chinese; only feature-based models (e.g., using bags of words and topics) have been considered in English. We release a new English legal judgment prediction dataset, containing cases from the European Court of Human Rights. We evaluate a broad variety of neural models on the new dataset, establishing strong baselines that surpass previous feature-based models in three tasks: (1) binary violation classification; (2) multi-label classification; (3) case importance prediction. We also explore if models are biased towards demographic information via data anonymization. As a side-product, we propose a hierarchical version of BERT, which bypasses BERT's length limitation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.02059](http://arxiv.org/abs/1906.02059)
+
+##### PDF
+[http://arxiv.org/pdf/1906.02059](http://arxiv.org/pdf/1906.02059)
+
