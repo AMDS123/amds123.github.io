@@ -1,0 +1,25 @@
+---
+layout: post
+title: "BayesSim: adaptive domain randomization via probabilistic inference for robotics simulators"
+date: 2019-06-04 21:12:41
+categories: arXiv_RO
+tags: arXiv_RO Inference
+author: Fabio Ramos, Rafael Carvalhaes Possas, Dieter Fox
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We introduce BayesSim, a framework for robotics simulations allowing a full Bayesian treatment for the parameters of the simulator. As simulators become more sophisticated and able to represent the dynamics more accurately, fundamental problems in robotics such as motion planning and perception can be solved in simulation and solutions transferred to the physical robot. However, even the most complex simulator might still not be able to represent reality in all its details either due to inaccurate parametrization or simplistic assumptions in the dynamic models. BayesSim provides a principled framework to reason about the uncertainty of simulation parameters. Given a black box simulator (or generative model) that outputs trajectories of state and action pairs from unknown simulation parameters, followed by trajectories obtained with a physical robot, we develop a likelihood-free inference method that computes the posterior distribution of simulation parameters. This posterior can then be used in problems where Sim2Real is critical, for example in policy search. We compare the performance of BayesSim in obtaining accurate posteriors in a number of classical control and robotics problems. Results show that the posterior computed from BayesSim can be used for domain randomization outperforming alternative methods that randomize based on uniform priors.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.01728](http://arxiv.org/abs/1906.01728)
+
+##### PDF
+[http://arxiv.org/pdf/1906.01728](http://arxiv.org/pdf/1906.01728)
+
