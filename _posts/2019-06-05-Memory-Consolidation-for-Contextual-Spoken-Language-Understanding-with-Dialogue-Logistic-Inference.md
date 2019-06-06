@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Memory Consolidation for Contextual Spoken Language Understanding with Dialogue Logistic Inference"
+date: 2019-06-05 02:24:15
+categories: arXiv_CL
+tags: arXiv_CL Inference
+author: He Bai, Yu Zhou, Jiajun Zhang, Chengqing Zong
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Dialogue contexts are proven helpful in the spoken language understanding (SLU) system and they are typically encoded with explicit memory representations. However, most of the previous models learn the context memory with only one objective to maximizing the SLU performance, leaving the context memory under-exploited. In this paper, we propose a new dialogue logistic inference (DLI) task to consolidate the context memory jointly with SLU in the multi-task framework. DLI is defined as sorting a shuffled dialogue session into its original logical order and shares the same memory encoder and retrieval mechanism as the SLU model. Our experimental results show that various popular contextual SLU models can benefit from our approach, and improvements are quite impressive, especially in slot filling.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.01788](http://arxiv.org/abs/1906.01788)
+
+##### PDF
+[http://arxiv.org/pdf/1906.01788](http://arxiv.org/pdf/1906.01788)
+
