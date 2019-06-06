@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Towards Multimodal Sarcasm Detection"
+date: 2019-06-05 04:08:47
+categories: arXiv_CV
+tags: arXiv_CV Face Classification Detection
+author: Santiago Castro, Devamanyu Hazarika, Ver&#xf3;nica P&#xe9;rez-Rosas, Roger Zimmermann, Rada Mihalcea, Soujanya Poria
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Sarcasm is often expressed through several verbal and non-verbal cues, e.g., a change of tone, overemphasis in a word, a drawn-out syllable, or a straight looking face. Most of the recent work in sarcasm detection has been carried out on textual data. In this paper, we argue that incorporating multimodal cues can improve the automatic classification of sarcasm. As a first step towards enabling the development of multimodal approaches for sarcasm detection, we propose a new sarcasm dataset, Multimodal Sarcasm Detection Dataset (MUStARD), compiled from popular TV shows. MUStARD consists of audiovisual utterances annotated with sarcasm labels. Each utterance is accompanied by its context of historical utterances in the dialogue, which provides additional information on the scenario where the utterance occurs. Our initial results show that the use of multimodal information can reduce the relative error rate of sarcasm detection by up to 12.9% in F-score when compared to the use of individual modalities. The full dataset is publicly available for use at https://github.com/soujanyaporia/MUStARD
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.01815](http://arxiv.org/abs/1906.01815)
+
+##### PDF
+[http://arxiv.org/pdf/1906.01815](http://arxiv.org/pdf/1906.01815)
+
