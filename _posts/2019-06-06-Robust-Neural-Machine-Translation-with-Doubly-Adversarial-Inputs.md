@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robust Neural Machine Translation with Doubly Adversarial Inputs"
+date: 2019-06-06 07:02:04
+categories: arXiv_CL
+tags: arXiv_CL Adversarial NMT
+author: Yong Cheng, Lu Jiang, Wolfgang Macherey
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural machine translation (NMT) often suffers from the vulnerability to noisy perturbations in the input. We propose an approach to improving the robustness of NMT models, which consists of two parts: (1) attack the translation model with adversarial source examples; (2) defend the translation model with adversarial target inputs to improve its robustness against the adversarial source inputs.For the generation of adversarial inputs, we propose a gradient-based method to craft adversarial examples informed by the translation loss over the clean inputs.Experimental results on Chinese-English and English-German translation tasks demonstrate that our approach achieves significant improvements ($2.8$ and $1.6$ BLEU points) over Transformer on standard clean benchmarks as well as exhibiting higher robustness on noisy data.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.02443](http://arxiv.org/abs/1906.02443)
+
+##### PDF
+[http://arxiv.org/pdf/1906.02443](http://arxiv.org/pdf/1906.02443)
+
