@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Embedding Imputation with Grounded Language Information"
+date: 2019-06-10 01:10:34
+categories: arXiv_CL
+tags: arXiv_CL Knowledge_Graph Knowledge Embedding Relation
+author: Ziyi Yang, Chenguang Zhu, Vin Sachidananda, Eric Darve
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Due to the ubiquitous use of embeddings as input representations for a wide range of natural language tasks, imputation of embeddings for rare and unseen words is a critical problem in language processing. Embedding imputation involves learning representations for rare or unseen words during the training of an embedding model, often in a post-hoc manner. In this paper, we propose an approach for embedding imputation which uses grounded information in the form of a knowledge graph. This is in contrast to existing approaches which typically make use of vector space properties or subword information. We propose an online method to construct a graph from grounded information and design an algorithm to map from the resulting graphical structure to the space of the pre-trained embeddings. Finally, we evaluate our approach on a range of rare and unseen word tasks across various domains and show that our model can learn better representations. For example, on the Card-660 task our method improves Pearson's and Spearman's correlation coefficients upon the state-of-the-art by 11% and 17.8% respectively using GloVe embeddings.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.03753](http://arxiv.org/abs/1906.03753)
+
+##### PDF
+[http://arxiv.org/pdf/1906.03753](http://arxiv.org/pdf/1906.03753)
+
