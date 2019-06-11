@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Video Modeling with Correlation Networks"
+date: 2019-06-07 22:36:00
+categories: arXiv_CV
+tags: arXiv_CV Salient Action_Recognition CNN Relation Recognition
+author: Heng Wang, Du Tran, Lorenzo Torresani, Matt Feiszli
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Motion is a salient cue to recognize actions in video. Modern action recognition models leverage motion information either explicitly by using optical flow as input or implicitly by means of 3D convolutional filters that simultaneously capture appearance and motion information. This paper proposes an alternative approach based on a learnable correlation operator that can be used to establish frame-to-frame matches over convolutional feature maps in the different layers of the network. The proposed architecture enables the fusion of this explicit temporal matching information with traditional appearance cues captured by 2D convolution. Our correlation network compares favorably with widely-used 3D CNNs for video modeling, and achieves competitive results over the prominent two-stream network while being much faster to train. We empirically demonstrate that correlation networks produce strong results on a variety of video datasets, and outperform the state of the art on three popular benchmarks for action recognition: Kinetics, Something-Something and Diving48.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.03349](http://arxiv.org/abs/1906.03349)
+
+##### PDF
+[http://arxiv.org/pdf/1906.03349](http://arxiv.org/pdf/1906.03349)
+
