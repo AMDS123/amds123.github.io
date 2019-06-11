@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Synthesizing 3D Shapes from Silhouette Image Collections using Multi-projection Generative Adversarial Networks"
+date: 2019-06-10 08:45:35
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Weakly_Supervised GAN Prediction
+author: Xiao Li, Yue Dong, Pieter Peers, Xin Tong
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present a new weakly supervised learning-based method for generating novel category-specific 3D shapes from unoccluded image collections. Our method is weakly supervised and only requires silhouette annotations from unoccluded, category-specific objects. Our method does not require access to the object's 3D shape, multiple observations per object from different views, intra-image pixel-correspondences, or any view annotations. Key to our method is a novel multi-projection generative adversarial network (MP-GAN) that trains a 3D shape generator to be consistent with multiple 2D projections of the 3D shapes, and without direct access to these 3D shapes. This is achieved through multiple discriminators that encode the distribution of 2D projections of the 3D shapes seen from a different views. Additionally, to determine the view information for each silhouette image, we also train a view prediction network on visualizations of 3D shapes synthesized by the generator. We iteratively alternate between training the generator and training the view prediction network. We validate our multi-projection GAN on both synthetic and real image datasets. Furthermore, we also show that multi-projection GANs can aid in learning other high-dimensional distributions from lower dimensional training datasets, such as material-class specific spatially varying reflectance properties from images.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.03841](http://arxiv.org/abs/1906.03841)
+
+##### PDF
+[http://arxiv.org/pdf/1906.03841](http://arxiv.org/pdf/1906.03841)
+
