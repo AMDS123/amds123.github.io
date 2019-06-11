@@ -1,0 +1,25 @@
+---
+layout: post
+title: "SCAN: A Scalable Neural Networks Framework Towards Compact and Efficient Models"
+date: 2019-05-27 11:11:01
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Attention Inference
+author: Linfeng Zhang, Zhanhong Tan, Jiebo Song, Jingwei Chen, Chenglong Bao, Kaisheng Ma
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Remarkable achievements have been attained by deep neural networks in various applications. However, the increasing depth and width of such models also lead to explosive growth in both storage and computation, which has restricted the deployment of deep neural networks on resource-limited edge devices. To address this problem, we propose the so-called SCAN framework for networks training and inference, which is orthogonal and complementary to existing acceleration and compression methods. The proposed SCAN firstly divides neural networks into multiple sections according to their depth and constructs shallow classifiers upon the intermediate features of different sections. Moreover, attention modules and knowledge distillation are utilized to enhance the accuracy of shallow classifiers. Based on this architecture, we further propose a threshold controlled scalable inference mechanism to approach human-like sample-specific inference. Experimental results show that SCAN can be easily equipped on various neural networks without any adjustment on hyper-parameters or neural networks architectures, yielding significant performance gain on CIFAR100 and ImageNet. Codes will be released on github soon.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.03951](http://arxiv.org/abs/1906.03951)
+
+##### PDF
+[http://arxiv.org/pdf/1906.03951](http://arxiv.org/pdf/1906.03951)
+
