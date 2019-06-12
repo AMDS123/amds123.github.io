@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep learning analysis of cardiac CT angiography for detection of coronary arteries with functionally significant stenosis"
+date: 2019-06-11 07:38:26
+categories: arXiv_CV
+tags: arXiv_CV CNN Deep_Learning Detection
+author: Majd Zreik, Robbert W. van Hamersvelt, Nadieh Khalili, Jelmer M. Wolterink, Michiel Voskuil, Max A. Viergever, Tim Leiner, Ivana I&#x161;gum
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In patients with obstructive coronary artery disease, the functional significance of a coronary artery stenosis needs to be determined to guide treatment. This is typically established through fractional flow reserve (FFR) measurement, performed during invasive coronary angiography (ICA). We present a method for automatic and non-invasive detection of functionally significant coronary artery stenosis, employing deep unsupervised analysis of complete coronary arteries in cardiac CT angiography (CCTA) images. We retrospectively collected CCTA scans of 187 patients, 137 of them underwent invasive FFR measurement in 192 different coronary arteries. These FFR measurements served as a reference standard for the functional significance of the coronary stenosis. The centerlines of the coronary arteries were extracted and used to reconstruct straightened multi-planar reformatted (MPR) volumes. To automatically identify arteries with functionally significant stenosis, each MPR volume was encoded into a fixed number of encodings using two disjoint 3D and 1D convolutional autoencoders performing spatial and sequential encodings, respectively. Thereafter, these encodings were employed to classify arteries according to the presence of functionally significant stenosis using a support vector machine classifier. The detection of functionally significant stenosis, evaluated using repeated cross-validation experiments, resulted in an area under the receiver operating characteristic curve of $0.81 \pm 0.02$ on the artery-level, and $0.87 \pm 0.02$ on the patient-level. The results demonstrate that automatic non-invasive detection of the functionally significant stenosis in coronary arteries, using characteristics of complete coronary arteries in CCTA images, is feasible. This could potentially reduce the number of patients that unnecessarily undergo ICA.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.04419](http://arxiv.org/abs/1906.04419)
+
+##### PDF
+[http://arxiv.org/pdf/1906.04419](http://arxiv.org/pdf/1906.04419)
+
