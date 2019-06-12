@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Scale Invariant Fully Convolutional Network: Detecting Hands Efficiently"
+date: 2019-06-11 14:52:08
+categories: arXiv_CV
+tags: arXiv_CV CNN Detection
+author: Dan Liu, Dawei Du, Libo Zhang, Tiejian Luo, Yanjun Wu, Feiyue Huang, Siwei Lyu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Existing hand detection methods usually follow the pipeline of multiple stages with high computation cost, i.e., feature extraction, region proposal, bounding box regression, and additional layers for rotated region detection. In this paper, we propose a new Scale Invariant Fully Convolutional Network (SIFCN) trained in an end-to-end fashion to detect hands efficiently. Specifically, we merge the feature maps from high to low layers in an iterative way, which handles different scales of hands better with less time overhead comparing to concatenating them simply. Moreover, we develop the Complementary Weighted Fusion (CWF) block to make full use of the distinctive features among multiple layers to achieve scale invariance. To deal with rotated hand detection, we present the rotation map to get rid of complex rotation and derotation layers. Besides, we design the multi-scale loss scheme to accelerate the training process significantly by adding supervision to the intermediate layers of the network. Compared with the state-of-the-art methods, our algorithm shows comparable accuracy and runs a 4.23 times faster speed on the VIVA dataset and achieves better average precision on Oxford hand detection dataset at a speed of 62.5 fps.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.04634](http://arxiv.org/abs/1906.04634)
+
+##### PDF
+[http://arxiv.org/pdf/1906.04634](http://arxiv.org/pdf/1906.04634)
+
