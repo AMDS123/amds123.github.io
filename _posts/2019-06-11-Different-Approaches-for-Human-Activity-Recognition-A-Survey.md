@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Different Approaches for Human Activity Recognition: A Survey"
+date: 2019-06-11 04:12:15
+categories: arXiv_CV
+tags: arXiv_CV Knowledge Survey Recognition
+author: Zawar Hussain, Michael Sheng, Wei Emma Zhang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Human activity recognition has gained importance in recent years due to its applications in various fields such as health, security and surveillance, entertainment, and intelligent environments. A significant amount of work has been done on human activity recognition and researchers have leveraged different approaches, such as wearable, object-tagged, and device-free, to recognize human activities. In this article, we present a comprehensive survey of the work conducted over the period 2010-2018 in various areas of human activity recognition with main focus on device-free solutions. The device-free approach is becoming very popular due to the fact that the subject is not required to carry anything, instead, the environment is tagged with devices to capture the required information. We propose a new taxonomy for categorizing the research work conducted in the field of activity recognition and divide the existing literature into three sub-areas: action-based, motion-based, and interaction-based. We further divide these areas into ten different sub-topics and present the latest research work in these sub-topics. Unlike previous surveys which focus only on one type of activities, to the best of our knowledge, we cover all the sub-areas in activity recognition and provide a comparison of the latest research work in these sub-areas. Specifically, we discuss the key attributes and design approaches for the work presented. Then we provide extensive analysis based on 10 important metrics, to give the reader, a complete overview of the state-of-the-art techniques and trends in different sub-areas of human activity recognition. In the end, we discuss open research issues and provide future research directions in the field of human activity recognition.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.05074](http://arxiv.org/abs/1906.05074)
+
+##### PDF
+[http://arxiv.org/pdf/1906.05074](http://arxiv.org/pdf/1906.05074)
+
