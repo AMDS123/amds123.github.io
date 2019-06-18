@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Using Automatically Extracted Minimum Spans to Disentangle Coreference Evaluation from Boundary Detection"
+date: 2019-06-16 14:33:45
+categories: arXiv_CL
+tags: arXiv_CL Detection
+author: Nafise Sadat Moosavi, Leo Born, Massimo Poesio, Michael Strube
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The common practice in coreference resolution is to identify and evaluate the maximum span of mentions. The use of maximum spans tangles coreference evaluation with the challenges of mention boundary detection like prepositional phrase attachment. To address this problem, minimum spans are manually annotated in smaller corpora. However, this additional annotation is costly and therefore, this solution does not scale to large corpora. In this paper, we propose the MINA algorithm for automatically extracting minimum spans to benefit from minimum span evaluation in all corpora. We show that the extracted minimum spans by MINA are consistent with those that are manually annotated by experts. Our experiments show that using minimum spans is in particular important in cross-dataset coreference evaluation, in which detected mention boundaries are noisier due to domain shift. We will integrate MINA into https://github.com/ns-moosavi/coval for reporting standard coreference scores based on both maximum and automatically detected minimum spans.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.06703](http://arxiv.org/abs/1906.06703)
+
+##### PDF
+[http://arxiv.org/pdf/1906.06703](http://arxiv.org/pdf/1906.06703)
+
