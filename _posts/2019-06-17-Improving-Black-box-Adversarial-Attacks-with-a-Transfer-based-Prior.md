@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Improving Black-box Adversarial Attacks with a Transfer-based Prior"
+date: 2019-06-17 09:40:32
+categories: arXiv_CV
+tags: arXiv_CV Adversarial
+author: Shuyu Cheng, Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We consider the black-box adversarial setting, where the adversary has to generate adversarial perturbations without access to the target models to compute gradients. Previous methods tried to approximate the gradient either by using a transfer gradient of a surrogate white-box model, or based on the query feedback. However, these methods often suffer from low attack success rates or poor query efficiency since it is non-trivial to estimate the gradient in a high-dimensional space with limited information. To address these problems, we propose a prior-guided random gradient-free (P-RGF) method to improve black-box adversarial attacks, which takes the advantage of a transfer-based prior and the query information simultaneously. The transfer-based prior given by the gradient of a surrogate model is appropriately integrated into our algorithm by an optimal coefficient derived by a theoretical analysis. Extensive experiments demonstrate that our method requires much fewer queries to attack black-box models with higher success rates compared with the alternative state-of-the-art methods.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.06919](http://arxiv.org/abs/1906.06919)
+
+##### PDF
+[http://arxiv.org/pdf/1906.06919](http://arxiv.org/pdf/1906.06919)
+
