@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Manipulating the Difficulty of C-Tests"
+date: 2019-06-17 08:57:38
+categories: arXiv_CL
+tags: arXiv_CL Prediction
+author: Ji-Ung Lee, Erik Schwan, Christian M. Meyer
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose two novel manipulation strategies for increasing and decreasing the difficulty of C-tests automatically. This is a crucial step towards generating learner-adaptive exercises for self-directed language learning and preparing language assessment tests. To reach the desired difficulty level, we manipulate the size and the distribution of gaps based on absolute and relative gap difficulty predictions. We evaluate our approach in corpus-based experiments and in a user study with 60 participants. We find that both strategies are able to generate C-tests with the desired difficulty level.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.06905](http://arxiv.org/abs/1906.06905)
+
+##### PDF
+[http://arxiv.org/pdf/1906.06905](http://arxiv.org/pdf/1906.06905)
+
