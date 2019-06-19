@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Zero-Shot Entity Linking by Reading Entity Descriptions"
+date: 2019-06-18 02:36:39
+categories: arXiv_CL
+tags: arXiv_CL
+author: Lajanugen Logeswaran, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, Jacob Devlin, Honglak Lee
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present the zero-shot entity linking task, where mentions must be linked to unseen entities without in-domain labeled data. The goal is to enable robust transfer to highly specialized domains, and so no metadata or alias tables are assumed. In this setting, entities are only identified by text descriptions, and models must rely strictly on language understanding to resolve the new entities. First, we show that strong reading comprehension models pre-trained on large unlabeled data can be used to generalize to unseen entities. Second, we propose a simple and effective adaptive pre-training strategy, which we term domain-adaptive pre-training (DAP), to address the domain shift problem associated with linking unseen entities in a new domain. We present experiments on a new dataset that we construct for this task and show that DAP improves over strong pre-training baselines, including BERT. The data and code are available at https://github.com/lajanugen/zeshel.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.07348](http://arxiv.org/abs/1906.07348)
+
+##### PDF
+[http://arxiv.org/pdf/1906.07348](http://arxiv.org/pdf/1906.07348)
+
