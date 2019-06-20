@@ -1,0 +1,25 @@
+---
+layout: post
+title: "PoseConvGRU: A Monocular Approach for Visual Ego-motion Estimation by Learning"
+date: 2019-06-19 13:42:35
+categories: arXiv_AI
+tags: arXiv_AI Attention Pose_Estimation CNN
+author: Guangyao Zhai, Liang Liu, Linjian Zhang, Yong Liu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+While many visual ego-motion algorithm variants have been proposed in the past decade, learning based ego-motion estimation methods have seen an increasing attention because of its desirable properties of robustness to image noise and camera calibration independence. In this work, we propose a data-driven approach of fully trainable visual ego-motion estimation for a monocular camera. We use an end-to-end learning approach in allowing the model to map directly from input image pairs to an estimate of ego-motion (parameterized as 6-DoF transformation matrices). We introduce a novel two-module Long-term Recurrent Convolutional Neural Networks called PoseConvGRU, with an explicit sequence pose estimation loss to achieve this. The feature-encoding module encodes the short-term motion feature in an image pair, while the memory-propagating module captures the long-term motion feature in the consecutive image pairs. The visual memory is implemented with convolutional gated recurrent units, which allows propagating information over time. At each time step, two consecutive RGB images are stacked together to form a 6 channels tensor for module-1 to learn how to extract motion information and estimate poses. The sequence of output maps is then passed through a stacked ConvGRU module to generate the relative transformation pose of each image pair. We also augment the training data by randomly skipping frames to simulate the velocity variation which results in a better performance in turning and high-velocity situations. We evaluate the performance of our proposed approach on the KITTI Visual Odometry benchmark. The experiments show a competitive performance of the proposed method to the geometric method and encourage further exploration of learning based methods for the purpose of estimating camera ego-motion even though geometrical methods demonstrate promising results.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.08095](http://arxiv.org/abs/1906.08095)
+
+##### PDF
+[http://arxiv.org/pdf/1906.08095](http://arxiv.org/pdf/1906.08095)
+
