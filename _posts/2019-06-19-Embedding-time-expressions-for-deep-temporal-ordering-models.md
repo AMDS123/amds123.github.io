@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Embedding time expressions for deep temporal ordering models"
+date: 2019-06-19 18:08:33
+categories: arXiv_CL
+tags: arXiv_CL Embedding RNN Relation
+author: Tanya Goyal, Greg Durrett
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Data-driven models have demonstrated state-of-the-art performance in inferring the temporal ordering of events in text. However, these models often overlook explicit temporal signals, such as dates and time windows. Rule-based methods can be used to identify the temporal links between these time expressions (timexes), but they fail to capture timexes' interactions with events and are hard to integrate with the distributed representations of neural net models. In this paper, we introduce a framework to infuse temporal awareness into such models by learning a pre-trained model to embed timexes. We generate synthetic data consisting of pairs of timexes, then train a character LSTM to learn embeddings and classify the timexes' temporal relation. We evaluate the utility of these embeddings in the context of a strong neural model for event temporal ordering, and show a small increase in performance on the MATRES dataset and more substantial gains on an automatically collected dataset with more frequent event-timex interactions.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.08287](http://arxiv.org/abs/1906.08287)
+
+##### PDF
+[http://arxiv.org/pdf/1906.08287](http://arxiv.org/pdf/1906.08287)
+
