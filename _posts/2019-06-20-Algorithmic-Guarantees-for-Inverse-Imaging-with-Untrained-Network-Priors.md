@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Algorithmic Guarantees for Inverse Imaging with Untrained Network Priors"
+date: 2019-06-20 17:34:49
+categories: arXiv_CV
+tags: arXiv_CV Super_Resolution Gradient_Descent
+author: Gauri Jagatap, Chinmay Hegde
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep neural networks as image priors have been recently introduced for problems such as denoising, super-resolution and inpainting with promising performance gains over hand-crafted image priors such as sparsity and low-rank. Unlike learned generative priors they do not require any training over large datasets. However, few theoretical guarantees exist in the scope of using untrained network priors for inverse imaging problems. We explore new applications and theory for untrained network priors. Specifically, we consider the problem of solving linear inverse problems, such as compressive sensing, as well as non-linear problems, such as compressive phase retrieval. We model images to lie in the range of an untrained deep generative network with a fixed seed. We further present a projected gradient descent scheme that can be used for both compressive sensing and phase retrieval and provide rigorous theoretical guarantees for its convergence. We also show both theoretically as well as empirically that with deep network priors, one can achieve better compression rates for the same image quality compared to hand crafted priors.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.08763](http://arxiv.org/abs/1906.08763)
+
+##### PDF
+[http://arxiv.org/pdf/1906.08763](http://arxiv.org/pdf/1906.08763)
+
