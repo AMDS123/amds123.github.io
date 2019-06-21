@@ -1,0 +1,25 @@
+---
+layout: post
+title: "From Zero-Shot Learning to Cold-Start Recommendation"
+date: 2019-06-20 09:13:17
+categories: arXiv_CV
+tags: arXiv_CV Relation Recommendation
+author: v Li, Mengmeng Jing, Ke Lu, Lei Zhu, Yang Yang, Zi Huang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Zero-shot learning (ZSL) and cold-start recommendation (CSR) are two challenging problems in computer vision and recommender system, respectively. In general, they are independently investigated in different communities. This paper, however, reveals that ZSL and CSR are two extensions of the same intension. Both of them, for instance, attempt to predict unseen classes and involve two spaces, one for direct feature representation and the other for supplementary description. Yet there is no existing approach which addresses CSR from the ZSL perspective. This work, for the first time, formulates CSR as a ZSL problem, and a tailor-made ZSL method is proposed to handle CSR. Specifically, we propose a Low-rank Linear Auto-Encoder (LLAE), which challenges three cruxes, i.e., domain shift, spurious correlations and computing efficiency, in this paper. LLAE consists of two parts, a low-rank encoder maps user behavior into user attributes and a symmetric decoder reconstructs user behavior from user attributes. Extensive experiments on both ZSL and CSR tasks verify that the proposed method is a win-win formulation, i.e., not only can CSR be handled by ZSL models with a significant performance improvement compared with several conventional state-of-the-art methods, but the consideration of CSR can benefit ZSL as well.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.08511](http://arxiv.org/abs/1906.08511)
+
+##### PDF
+[http://arxiv.org/pdf/1906.08511](http://arxiv.org/pdf/1906.08511)
+
