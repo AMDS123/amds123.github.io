@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Customer Segmentation of Wireless Trajectory Data"
+date: 2019-06-20 21:32:33
+categories: arXiv_AI
+tags: arXiv_AI Segmentation Prediction Recommendation
+author: Matthew R Karlsen, Sotiris K. Moschoyiannis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Wireless trajectory data consists of a number of (time, point) entries where each point is associated with a particular wireless device (WAP or BLE beacon) tied to a location identifier, such as a place name. A trajectory relates to a particular mobile device. Such data can be clustered `semantically' to identify similar trajectories, where similarity relates to non-geographic characteristics such as the type of location visited. Here we present a new approach to semantic trajectory clustering for such data. The approach is applicable to interpreting data that does not contain geographical coordinates, and thus contributes to the current literature on semantic trajectory clustering. The literature does not appear to provide such an approach, instead focusing on trajectory data where latitude and longitude data is available. 
+ We apply the techniques developed above in the context of the Onward Journey Planner Application, with the motivation of providing on-line recommendations for onward journey options in a context-specific manner. The trajectories analysed indicate commute patterns on the London Underground. Points are only recorded for communication with WAP and BLE beacons within the rail network. This context presents additional challenge since the trajectories are `truncated', with no true origin and destination details. 
+ In the above context we find that there are a range of travel patterns in the data, without the existence of distinct clusters. Suggestions are made concerning how to approach the problem of provision of on-line recommendations with such a data set. Thoughts concerning the related problem of prediction of journey route and destination are also provided.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.08874](http://arxiv.org/abs/1906.08874)
+
+##### PDF
+[http://arxiv.org/pdf/1906.08874](http://arxiv.org/pdf/1906.08874)
+
