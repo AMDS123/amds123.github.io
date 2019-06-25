@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Learning Latent Trees with Stochastic Perturbations and Differentiable Dynamic Programming"
+date: 2019-06-24 14:29:12
+categories: arXiv_CL
+tags: arXiv_CL Sentiment Inference
+author: Caio Corro, Ivan Titov
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We treat projective dependency trees as latent variables in our probabilistic model and induce them in such a way as to be beneficial for a downstream task, without relying on any direct tree supervision. Our approach relies on Gumbel perturbations and differentiable dynamic programming. Unlike previous approaches to latent tree learning, we stochastically sample global structures and our parser is fully differentiable. We illustrate its effectiveness on sentiment analysis and natural language inference tasks. We also study its properties on a synthetic structure induction task. Ablation studies emphasize the importance of both stochasticity and constraining latent structures to be projective trees.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.09992](http://arxiv.org/abs/1906.09992)
+
+##### PDF
+[http://arxiv.org/pdf/1906.09992](http://arxiv.org/pdf/1906.09992)
+
