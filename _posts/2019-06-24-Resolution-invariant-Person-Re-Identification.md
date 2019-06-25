@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Resolution-invariant Person Re-Identification"
+date: 2019-06-24 07:03:20
+categories: arXiv_CV
+tags: arXiv_CV Re-identification Super_Resolution Attention Person_Re-identification CNN
+author: Shunan Mao, Shiliang Zhang, Ming Yang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Exploiting resolution invariant representation is critical for person Re-Identification (ReID) in real applications, where the resolutions of captured person images may vary dramatically. This paper learns person representations robust to resolution variance through jointly training a Foreground-Focus Super-Resolution (FFSR) module and a Resolution-Invariant Feature Extractor (RIFE) by end-to-end CNN learning. FFSR upscales the person foreground using a fully convolutional auto-encoder with skip connections learned with a foreground focus training loss. RIFE adopts two feature extraction streams weighted by a dual-attention block to learn features for low and high resolution images, respectively. These two complementary modules are jointly trained, leading to a strong resolution invariant representation. We evaluate our methods on five datasets containing person images at a large range of resolutions, where our methods show substantial superiority to existing solutions. For instance, we achieve Rank-1 accuracy of 36.4% and 73.3% on CAVIAR and MLR-CUHK03, outperforming the state-of-the art by 2.9% and 2.6%, respectively.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.09748](http://arxiv.org/abs/1906.09748)
+
+##### PDF
+[http://arxiv.org/pdf/1906.09748](http://arxiv.org/pdf/1906.09748)
+
