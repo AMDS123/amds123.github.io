@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Neural Vocoder with Hierarchical Generation of Amplitude and Phase Spectra for Statistical Parametric Speech Synthesis"
+date: 2019-06-23 10:01:33
+categories: arXiv_SD
+tags: arXiv_SD RNN
+author: Yang Ai, Zhen-Hua Ling
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This paper presents a neural vocoder named HiNet which reconstructs speech waveforms from acoustic features by predicting amplitude and phase spectra hierarchically. Different from existing neural vocoders such as WaveNet, SampleRNN and WaveRNN which directly generate waveform samples using single neural networks, the HiNet vocoder is composed of an amplitude spectrum predictor (ASP) and a phase spectrum predictor (PSP). The ASP is a simple DNN model which predicts log amplitude spectra (LAS) from acoustic features. The predicted LAS are sent into the PSP for phase recovery. Considering the issue of phase warping and the difficulty of phase modeling, the PSP is constructed by concatenating a neural source-filter waveform generator with a phase extractor. Finally, the outputs of ASP and PSP are combined to reconstruct speech waveforms by short-time Fourier synthesis. Since there are no autoregressive structures in both predictors, the HiNet vocoder can generate speech waveforms with high efficiency. Objective and subjective experimental results show that our proposed HiNet vocoder achieves better naturalness of reconstructed speech than the conventional STRAIGHT vocoder and a 16-bit WaveNet vocoder using open source implementation, and obtains similar performance with a 16-bit WaveRNN vocoder, no matter using natural or predicted acoustic features as input. We also find that the performance of HiNet is insensitive to the complexity of the neural waveform generator in PSP to some extend. After simplifying its model structure, the time consumed for generating 1s waveforms of 16kHz speech can be further reduced from 0.34s to 0.19s without significant quality degradation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.09573](http://arxiv.org/abs/1906.09573)
+
+##### PDF
+[http://arxiv.org/pdf/1906.09573](http://arxiv.org/pdf/1906.09573)
+
