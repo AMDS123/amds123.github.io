@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Image to Images Translation for Multi-Task Organ Segmentation and Bone Suppression in Chest X-Ray Radiography"
+date: 2019-06-24 17:12:31
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Segmentation GAN Classification Deep_Learning
+author: Mohammad Eslami, Solale Tabarestani, Shadi Albarqouni, Ehsan Adeli, Nassir Navab, Malek Adjouadi
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Chest X-ray radiography is one of the earliest medical imaging technologies and remains one of the most widely-used for the diagnosis, screening and treatment follow up of diseases related to lungs and heart. The literature in this field of research reports many interesting studies dealing with the challenging tasks of bone suppression and organ segmentation but performed separately, limiting any learning that comes with the consolidation of parameters that could optimize both processes. Although image processing could facilitate computer aided diagnosis, machine learning seems more amenable in dealing with the many parameters one would have to contend with to yield an near optimal classification or decision-making process. This study, and for the first time, introduces a multitask deep learning model that generates simultaneously the bone-suppressed image and the organ segmented image, minimizing as a consequence the number of parameters the model has to deal with and optimizing the processing time as well; while at the same time exploiting the interplay in these parameters so as to benefit the performance of both tasks. The design architecture of this model, which relies on a conditional generative adversarial network, reveals the process on how we managed to modify the well-established pix2pix network to fit the need for multitasking and hence extending the standard image-to-image network to the new image-to-images architecture. Dilated convolutions are also used to improve the results through a more effective receptive field assessment. A comparison of the proposed approach to state-of-the-art algorithms is provided to gauge the merits of the proposed approach.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.10089](http://arxiv.org/abs/1906.10089)
+
+##### PDF
+[http://arxiv.org/pdf/1906.10089](http://arxiv.org/pdf/1906.10089)
+
