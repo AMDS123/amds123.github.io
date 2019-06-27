@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Towards Empathic Deep Q-Learning"
+date: 2019-06-26 08:59:02
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning
+author: Bart Bussmann, Jacqueline Heinerman, Joel Lehman
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+As reinforcement learning (RL) scales to solve increasingly complex tasks, interest continues to grow in the fields of AI safety and machine ethics. As a contribution to these fields, this paper introduces an extension to Deep Q-Networks (DQNs), called Empathic DQN, that is loosely inspired both by empathy and the golden rule ("Do unto others as you would have them do unto you"). Empathic DQN aims to help mitigate negative side effects to other agents resulting from myopic goal-directed behavior. We assume a setting where a learning agent coexists with other independent agents (who receive unknown rewards), where some types of reward (e.g. negative rewards from physical harm) may generalize across agents. Empathic DQN combines the typical (self-centered) value with the estimated value of other agents, by imagining (by its own standards) the value of it being in the other's situation (by considering constructed states where both agents are swapped). Proof-of-concept results in two gridworld environments highlight the approach's potential to decrease collateral harms. While extending Empathic DQN to complex environments is non-trivial, we believe that this first step highlights the potential of bridge-work between machine ethics and RL to contribute useful priors for norm-abiding RL agents.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.10918](http://arxiv.org/abs/1906.10918)
+
+##### PDF
+[http://arxiv.org/pdf/1906.10918](http://arxiv.org/pdf/1906.10918)
+
