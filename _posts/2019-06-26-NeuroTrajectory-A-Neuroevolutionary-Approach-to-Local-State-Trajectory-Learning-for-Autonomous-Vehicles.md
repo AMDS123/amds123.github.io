@@ -1,0 +1,25 @@
+---
+layout: post
+title: "NeuroTrajectory: A Neuroevolutionary Approach to Local State Trajectory Learning for Autonomous Vehicles"
+date: 2019-06-26 11:05:18
+categories: arXiv_RO
+tags: arXiv_RO Reinforcement_Learning Deep_Learning Prediction Gradient_Descent
+author: Sorin Grigorescu, Bogdan Trasnea, Liviu Marina, Andrei Vasilcoi, Tiberiu Cocias
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Autonomous vehicles are controlled today either based on sequences of decoupled perception-planning-action operations, either based on End2End or Deep Reinforcement Learning (DRL) systems. Current deep learning solutions for autonomous driving are subject to several limitations (e.g. they estimate driving actions through a direct mapping of sensors to actuators, or require complex reward shaping methods). Although the cost function used for training can aggregate multiple weighted objectives, the gradient descent step is computed by the backpropagation algorithm using a single-objective loss. To address these issues, we introduce NeuroTrajectory, which is a multi-objective neuroevolutionary approach to local state trajectory learning for autonomous driving, where the desired state trajectory of the ego-vehicle is estimated over a finite prediction horizon by a perception-planning deep neural network. In comparison to DRL methods, which predict optimal actions for the upcoming sampling time, we estimate a sequence of optimal states that can be used for motion control. We propose an approach which uses genetic algorithms for training a population of deep neural networks, where each network individual is evaluated based on a multi-objective fitness vector, with the purpose of establishing a so-called Pareto front of optimal deep neural networks. The performance of an individual is given by a fitness vector composed of three elements. Each element describes the vehicle's travel path, lateral velocity and longitudinal speed, respectively. The same network structure can be trained on synthetic, as well as on real-world data sequences. We have benchmarked our system against a baseline Dynamic Window Approach (DWA), as well as against an End2End supervised learning method.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.10971](http://arxiv.org/abs/1906.10971)
+
+##### PDF
+[http://arxiv.org/pdf/1906.10971](http://arxiv.org/pdf/1906.10971)
+
