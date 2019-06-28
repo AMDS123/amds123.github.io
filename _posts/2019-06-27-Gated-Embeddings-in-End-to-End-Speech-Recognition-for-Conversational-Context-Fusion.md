@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Gated Embeddings in End-to-End Speech Recognition for Conversational-Context Fusion"
+date: 2019-06-27 13:10:37
+categories: arXiv_CL
+tags: arXiv_CL Speech_Recognition Embedding Recognition
+author: Suyoun Kim, Siddharth Dalmia, Florian Metze
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present a novel conversational-context aware end-to-end speech recognizer based on a gated neural network that incorporates conversational-context/word/speech embeddings. Unlike conventional speech recognition models, our model learns longer conversational-context information that spans across sentences and is consequently better at recognizing long conversations. Specifically, we propose to use the text-based external word and/or sentence embeddings (i.e., fastText, BERT) within an end-to-end framework, yielding a significant improvement in word error rate with better conversational-context representation. We evaluated the models on the Switchboard conversational speech corpus and show that our model outperforms standard end-to-end speech recognition models.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.11604](http://arxiv.org/abs/1906.11604)
+
+##### PDF
+[http://arxiv.org/pdf/1906.11604](http://arxiv.org/pdf/1906.11604)
+
