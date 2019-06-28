@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Determining Relative Argument Specificity and Stance for Complex Argumentative Structures"
+date: 2019-06-26 19:45:42
+categories: arXiv_AI
+tags: arXiv_AI
+author: Esin Durmus, Faisal Ladhak, Claire Cardie
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Systems for automatic argument generation and debate require the ability to (1) determine the stance of any claims employed in the argument and (2) assess the specificity of each claim relative to the argument context. Existing work on understanding claim specificity and stance, however, has been limited to the study of argumentative structures that are relatively shallow, most often consisting of a single claim that directly supports or opposes the argument thesis. In this paper, we tackle these tasks in the context of complex arguments on a diverse set of topics. In particular, our dataset consists of manually curated argument trees for 741 controversial topics covering 95,312 unique claims; lines of argument are generally of depth 2 to 6. We find that as the distance between a pair of claims increases along the argument path, determining the relative specificity of a pair of claims becomes easier and determining their relative stance becomes harder.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.11313](http://arxiv.org/abs/1906.11313)
+
+##### PDF
+[http://arxiv.org/pdf/1906.11313](http://arxiv.org/pdf/1906.11313)
+
