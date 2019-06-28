@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Methodology of Designing Multi-agent Robot Control Systems Utilising Hierarchical Petri Nets"
+date: 2019-06-27 13:21:38
+categories: arXiv_RO
+tags: arXiv_RO GAN
+author: Maksym Figat, Cezary Zieli&#x144;ski
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+A robot system is designed as a set of embodied agents. An embodied agent is decomposed into cooperating subsystems. In our previous work activities of subsystems were defined by hierarchical finite state machines. With their states, activities were associated. In that approach communication between subsystems was treated as an implementation issue. This paper represents the activities of a robot system using hierarchical Petri nets with conditions. Such net is created by specifying consecutive layers: multi-agent robot system layer, agent layer, subsystem layer, behaviour layer and communication layer. This decomposition not only organizes in a systematic manner the development of a robot system but also introduces a comprehensive description of concurrently acting subsystems. Based on those theoretical considerations, a tool was created for producing hierarchical Petri nets defining the model of a robotic system and enabling automatic generation of the robot controller code, resulting in a significant acceleration of the implementation phase. The capabilities of the tool are presented by the development of a robot controller performing a rudimentary task.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.11614](http://arxiv.org/abs/1906.11614)
+
+##### PDF
+[http://arxiv.org/pdf/1906.11614](http://arxiv.org/pdf/1906.11614)
+
