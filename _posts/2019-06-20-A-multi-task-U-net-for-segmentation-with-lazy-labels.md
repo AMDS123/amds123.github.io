@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A multi-task U-net for segmentation with lazy labels"
+date: 2019-06-20 17:38:54
+categories: arXiv_CV
+tags: arXiv_CV Segmentation CNN Detection
+author: Rihuan Ke, Aur&#xe9;lie Bugeau, Nicolas Papadakis, Peter Schuetz, Carola-Bibiane Sch&#xf6;nlieb
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The need for labour intensive pixel-wise annotation is a major limitation of many fully supervised learning methods for image segmentation. In this paper, we propose a deep convolutional neural network for multi-class segmentation that circumvents this problem by being trainable on coarse data labels combined with only a very small number of images with pixel-wise annotations. We call this new labelling strategy 'lazy' labels. Image segmentation is then stratified into three connected tasks: rough detection of class instances, separation of wrongly connected objects without a clear boundary, and pixel-wise segmentation to find the accurate boundaries of each object. These problems are integrated into a multitask learning framework and the model is trained end-to-end in a semi-supervised fashion. The method is applied on a dataset of food microscopy images. We show that the model gives accurate segmentation results even if exact boundary labels are missing for a majority of the annotated data. This allows more flexibility and efficiency for training deep neural networks that are data hungry in a practical setting where manual annotation is expensive, by collecting more lazy (rough) annotations than precisely segmented images.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1906.12177](http://arxiv.org/abs/1906.12177)
+
+##### PDF
+[http://arxiv.org/pdf/1906.12177](http://arxiv.org/pdf/1906.12177)
+
