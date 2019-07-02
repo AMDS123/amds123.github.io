@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Robustness Guarantees for Deep Neural Networks on Videos"
+date: 2019-06-28 22:27:17
+categories: arXiv_CV
+tags: arXiv_CV Adversarial CNN Deep_Learning
+author: Min Wu, Marta Kwiatkowska
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The widespread adoption of deep learning models places demands on their robustness. In this paper, we consider the robustness of deep neural networks on videos, which comprise both the spatial features of individual frames extracted by a convolutional neural network and the temporal dynamics between adjacent frames captured by a recurrent neural network. To measure robustness, we study the maximum safe radius problem, which computes the minimum distance from the optical flow set obtained from a given input to that of an adversarial example in the norm ball. We demonstrate that, under the assumption of Lipschitz continuity, the problem can be approximated using finite optimisation via discretising the optical flow space, and the approximation has provable guarantees. We then show that the finite optimisation problem can be solved by utilising a two-player turn-based game in a cooperative setting, where the first player selects the optical flows and the second player determines the dimensions to be manipulated in the chosen flow. We employ an anytime approach to solve the game, in the sense of approximating the value of the game by monotonically improving its upper and lower bounds. We exploit a gradient-based search algorithm to compute the upper bounds, and the admissible A* algorithm to update the lower bounds. Finally, we evaluate our framework on the UCF101 video dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.00098](http://arxiv.org/abs/1907.00098)
+
+##### PDF
+[http://arxiv.org/pdf/1907.00098](http://arxiv.org/pdf/1907.00098)
+
