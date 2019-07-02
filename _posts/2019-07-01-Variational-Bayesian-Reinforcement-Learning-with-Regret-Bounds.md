@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Variational Bayesian Reinforcement Learning with Regret Bounds"
+date: 2019-07-01 10:52:26
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning
+author: Brendan O&#x27;Donoghue
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We consider the exploration-exploitation trade-off in reinforcement learning and we show that an agent imbued with an epistemic-risk-seeking utility function is able to explore efficiently, as measured by regret. The parameter that controls how risk-seeking the agent is can be optimized to minimize regret, or annealed according to a schedule. We call the resulting algorithm K-learning and we show that the K-values that the agent maintains are optimistic for the expected optimal Q-values at each state-action pair. The utility function approach induces a natural Boltzmann exploration policy for which the 'temperature' parameter is equal to the risk-seeking parameter. This policy achieves a Bayesian regret bound of $\tilde O(L^{3/2} \sqrt{SAT})$, where L is the time horizon, S is the number of states, A is the number of actions, and T is the total number of elapsed time-steps. K-learning can be interpreted as mirror descent in the policy space, and it is similar to other well-known methods in the literature, including Q-learning, soft-Q-learning, and maximum entropy policy gradient. K-learning is simple to implement, as it only requires adding a bonus to the reward at each state-action and then solving a Bellman equation. We conclude with a numerical example demonstrating that K-learning is competitive with other state-of-the-art algorithms in practice.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1807.09647](http://arxiv.org/abs/1807.09647)
+
+##### PDF
+[http://arxiv.org/pdf/1807.09647](http://arxiv.org/pdf/1807.09647)
+
