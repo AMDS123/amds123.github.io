@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Merge and Label: A novel neural network architecture for nested NER"
+date: 2019-06-30 21:12:14
+categories: arXiv_AI
+tags: arXiv_AI Segmentation Embedding RNN Recognition
+author: Joseph Fisher, Andreas Vlachos
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Named entity recognition (NER) is one of the best studied tasks in natural language processing. However, most approaches are not capable of handling nested structures which are common in many applications. In this paper we introduce a novel neural network architecture that first merges tokens and/or entities into entities forming nested structures, and then labels each of them independently. Unlike previous work, our merge and label approach predicts real-valued instead of discrete segmentation structures, which allow it to combine word and nested entity embeddings while maintaining differentiability. %which smoothly groups entities into single vectors across multiple levels. We evaluate our approach using the ACE 2005 Corpus, where it achieves state-of-the-art F1 of 74.6, further improved with contextual embeddings (BERT) to 82.4, an overall improvement of close to 8 F1 points over previous approaches trained on the same data. Additionally we compare it against BiLSTM-CRFs, the dominant approach for flat NER structures, demonstrating that its ability to predict nested structures does not impact performance in simpler cases.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.00464](http://arxiv.org/abs/1907.00464)
+
+##### PDF
+[http://arxiv.org/pdf/1907.00464](http://arxiv.org/pdf/1907.00464)
+
