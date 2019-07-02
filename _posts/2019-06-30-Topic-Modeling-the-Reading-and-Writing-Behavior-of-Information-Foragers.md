@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Topic Modeling the Reading and Writing Behavior of Information Foragers"
+date: 2019-06-30 22:40:37
+categories: arXiv_CL
+tags: arXiv_CL Knowledge Survey
+author: Jaimie Murdock
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The general problem of "information foraging" in an environment about which agents have incomplete information has been explored in many fields, including cognitive psychology, neuroscience, economics, finance, ecology, and computer science. In all of these areas, the searcher aims to enhance future performance by surveying enough of existing knowledge to orient themselves in the information space. Individuals can be viewed as conducting a cognitive search in which they must balance exploration of ideas that are novel to them against exploitation of knowledge in domains in which they are already expert. 
+ In this dissertation, I present several case studies that demonstrate how reading and writing behaviors interact to construct personal knowledge bases. These studies use LDA topic modeling to represent the information environment of the texts each author read and wrote. Three studies revolve around Charles Darwin. Darwin left detailed records of every book he read for 23 years, from disembarking from the H.M.S. Beagle to just after publication of The Origin of Species. Additionally, he left copies of his drafts before publication. I characterize his reading behavior, then show how that reading behavior interacted with the drafts and subsequent revisions of The Origin of Species, and expand the dataset to include later readings and writings. Then, through a study of Thomas Jefferson's correspondence, I expand the study to non-book data. Finally, through an examination of neuroscience citation data, I move from individual behavior to collective behavior in constructing an information environment. Together, these studies reveal "the interplay between individual and collective phenomena where innovation takes place" (Tria et al. 2014).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.00488](http://arxiv.org/abs/1907.00488)
+
+##### PDF
+[http://arxiv.org/pdf/1907.00488](http://arxiv.org/pdf/1907.00488)
+
