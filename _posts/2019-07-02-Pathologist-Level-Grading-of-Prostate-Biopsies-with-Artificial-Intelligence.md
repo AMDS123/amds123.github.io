@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Pathologist-Level Grading of Prostate Biopsies with Artificial Intelligence"
+date: 2019-07-02 13:52:02
+categories: arXiv_AI
+tags: arXiv_AI Prediction Relation
+author: Peter Str&#xf6;m (1), Kimmo Kartasalo (2), Henrik Olsson (1), Leslie Solorzano (3), Brett Delahunt (4), Daniel M. Berney (5), David G. Bostwick (6), Andrew J. Evans (7), David J. Grignon (8), Peter A. Humphrey (9), Kenneth A. Iczkowski (10), James G. Kench (11), Glen Kristiansen (12), Theodorus H. van der Kwast (7), Katia R.M. Leite (13), Jesse K. McKenney (14), Jon Oxley (15), Chin-Chen Pan (16), Hemamali Samaratunga (17), John R. Srigley (18), Hiroyuki Takahashi (19), Toyonori Tsuzuki (20), Murali Varma (21), Ming Zhou (22), Johan Lindberg (1), Cecilia Bergstr&#xf6;m (23), Pekka Ruusuvuori (2), Carolina W&#xe4;hlby (3 and 24), Henrik Gr&#xf6;nberg (1 and 25), Mattias Rantalainen (1), Lars Egevad (26), Martin Eklund (1) ((1) Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden, (2) Faculty of Medicine and Health Technology, Tampere University, Tampere, Finland, (3) Centre for Image Analysis, Department of Information Technology, Uppsala University, Uppsala, Sweden, (4) Department of Pathology and Molecular Medicine, Wellington School of Medicine and Health Sciences, University of Otago, Wellington, New Zealand, (5) Barts Cancer Institute, Queen Mary University of London, London, UK, (6) Bostwick Laboratories, Orlando, FL, USA, (7) Laboratory Medicine Program, University Health Network, Toronto General Hospital, Toronto, ON, Canada, (8) Department of Pathology and Laboratory Medicine, Indiana University School of Medicine, Indianapolis, IN, USA, (9) Department of Pathology, Yale University School of Medicine, New Haven, CT, USA, (10) Department of Pathology, Medical College of Wisconsin, Milwaukee, WI, USA, (11) Department of Tissue Pathology and Diagnostic Oncology, Royal Prince Alfred Hospital and Central Clinical School, University of Sydney, Sydney, NSW, Australia, (12) Institute of Pathology, University Hospital Bonn, Bonn, Germany, (13) Department of Urology, Laboratory of Medical Research, University of S&#xe3;o Paulo Medical School, S&#xe3;o Paulo, Brazil, (14) Pathology and Laboratory Medicine Institute, Cleveland Clinic, Cleveland, OH, USA, (15) Department of Cellular Pathology, Southmead Hospital, Bristol, UK, (16) Department of Pathology, Taipei Veterans General Hospital, Taipei, Taiwan, (17) Aquesta Uropathology and University of Queensland, Brisbane, Qld, Australia, (18) Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, ON, Canada, (19) Department of Pathology, Jikei University School of Medicine, Tokyo, Japan, (20) Department of Surgical Pathology, School of Medicine, Aichi Medical University, Nagoya, Japan, (21) Department of Cellular Pathology, University Hospital of Wales, Cardiff, UK, (22) Department of Pathology, UT Southwestern Medical Center, Dallas, TX, USA, (23) Department of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden, (24) BioImage Informatics Facility of SciLifeLab, Uppsala, Sweden, (25) Department of Oncology, St G&#xf6;ran Hospital, Stockholm, Sweden, (26) Department of Oncology and Pathology, Karolinska Institutet, Stockholm, Sweden)
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Background: An increasing volume of prostate biopsies and a world-wide shortage of uro-pathologists puts a strain on pathology departments. Additionally, the high intra- and inter-observer variability in grading can result in over- and undertreatment of prostate cancer. Artificial intelligence (AI) methods may alleviate these problems by assisting pathologists to reduce workload and harmonize grading. 
+ Methods: We digitized 6,682 needle biopsies from 976 participants in the population based STHLM3 diagnostic study to train deep neural networks for assessing prostate biopsies. The networks were evaluated by predicting the presence, extent, and Gleason grade of malignant tissue for an independent test set comprising 1,631 biopsies from 245 men. We additionally evaluated grading performance on 87 biopsies individually graded by 23 experienced urological pathologists from the International Society of Urological Pathology. We assessed discriminatory performance by receiver operating characteristics (ROC) and tumor extent predictions by correlating predicted millimeter cancer length against measurements by the reporting pathologist. We quantified the concordance between grades assigned by the AI and the expert urological pathologists using Cohen's kappa. 
+ Results: The performance of the AI to detect and grade cancer in prostate needle biopsy samples was comparable to that of international experts in prostate pathology. The AI achieved an area under the ROC curve of 0.997 for distinguishing between benign and malignant biopsy cores, and 0.999 for distinguishing between men with or without prostate cancer. The correlation between millimeter cancer predicted by the AI and assigned by the reporting pathologist was 0.96. For assigning Gleason grades, the AI achieved an average pairwise kappa of 0.62. This was within the range of the corresponding values for the expert pathologists (0.60 to 0.73).
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.01368](http://arxiv.org/abs/1907.01368)
+
+##### PDF
+[http://arxiv.org/pdf/1907.01368](http://arxiv.org/pdf/1907.01368)
+
