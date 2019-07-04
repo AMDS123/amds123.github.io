@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Hyper-Molecules: on the Representation and Recovery of Dynamical Structures, with Application to Flexible Macro-Molecular Structures in Cryo-EM"
+date: 2019-07-02 19:16:12
+categories: arXiv_CV
+tags: arXiv_CV
+author: Roy R. Lederman, Joakim and&#xe9;n, Amit Singer
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Cryo-electron microscopy (cryo-EM), the subject of the 2017 Nobel Prize in Chemistry, is a technology for determining the 3-D structure of macromolecules from many noisy 2-D projections of instances of these macromolecules, whose orientations and positions are unknown. The molecular structures are not rigid objects, but flexible objects involved in dynamical processes. The different conformations are exhibited by different instances of the macromolecule observed in a cryo-EM experiment, each of which is recorded as a particle image. The range of conformations and the conformation of each particle are not known a priori; one of the great promises of cryo-EM is to map this conformation space. Remarkable progress has been made in determining rigid structures from homogeneous samples of molecules in spite of the unknown orientation of each particle image and significant progress has been made in recovering a few distinct states from mixtures of rather distinct conformations, but more complex heterogeneous samples remain a major challenge. We introduce the ``hyper-molecule'' framework for modeling structures across different states of heterogeneous molecules, including continuums of states. The key idea behind this framework is representing heterogeneous macromolecules as high-dimensional objects, with the additional dimensions representing the conformation space. This idea is then refined to model properties such as localized heterogeneity. In addition, we introduce an algorithmic framework for recovering such maps of heterogeneous objects from experimental data using a Bayesian formulation of the problem and Markov chain Monte Carlo (MCMC) algorithms to address the computational challenges in recovering these high dimensional hyper-molecules. We demonstrate these ideas in a prototype applied to synthetic data.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.01589](http://arxiv.org/abs/1907.01589)
+
+##### PDF
+[http://arxiv.org/pdf/1907.01589](http://arxiv.org/pdf/1907.01589)
+
