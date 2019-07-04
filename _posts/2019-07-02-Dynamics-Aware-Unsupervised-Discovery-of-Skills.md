@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Dynamics-Aware Unsupervised Discovery of Skills"
+date: 2019-07-02 21:32:19
+categories: arXiv_RO
+tags: arXiv_RO Sparse Reinforcement_Learning
+author: Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Conventionally, model-based reinforcement learning (MBRL) aims to learn a global model for the dynamics of the environment. A good model can potentially enable planning algorithms to generate a large variety of behaviors and solve diverse tasks. However, learning an accurate model for complex dynamical systems is difficult, and even then, the model might not generalize well outside the distribution of states on which it was trained. In this work, we combine model-based learning with model-free learning of primitives that make model-based planning easy. To that end, we aim to answer the question: how can we discover skills whose outcomes are easy to predict? We propose an unsupervised learning algorithm, Dynamics-Aware Discovery of Skills (DADS), which simultaneously discovers predictable behaviors and learns their dynamics. Our method can leverage continuous skill spaces, theoretically, allowing us to learn infinitely many behaviors even for high-dimensional state-spaces. We demonstrate that zero-shot planning in the learned latent space significantly outperforms standard MBRL and model-free goal-conditioned RL, can handle sparse-reward tasks, and substantially improves over prior hierarchical RL methods for unsupervised skill discovery.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.01657](http://arxiv.org/abs/1907.01657)
+
+##### PDF
+[http://arxiv.org/pdf/1907.01657](http://arxiv.org/pdf/1907.01657)
+
