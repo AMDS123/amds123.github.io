@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Multi-Task Learning for Coherence Modeling"
+date: 2019-07-04 14:40:22
+categories: arXiv_CL
+tags: arXiv_CL Summarization Prediction
+author: Youmna Farag, Helen Yannakoudakis
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We address the task of assessing discourse coherence, an aspect of text quality that is essential for many NLP tasks, such as summarization and language assessment. We propose a hierarchical neural network trained in a multi-task fashion that learns to predict a document-level coherence score (at the network's top layers) along with word-level grammatical roles (at the bottom layers), taking advantage of inductive transfer between the two tasks. We assess the extent to which our framework generalizes to different domains and prediction tasks, and demonstrate its effectiveness not only on standard binary evaluation coherence tasks, but also on real-world tasks involving the prediction of varying degrees of coherence, achieving a new state of the art.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.02427](http://arxiv.org/abs/1907.02427)
+
+##### PDF
+[http://arxiv.org/pdf/1907.02427](http://arxiv.org/pdf/1907.02427)
+
