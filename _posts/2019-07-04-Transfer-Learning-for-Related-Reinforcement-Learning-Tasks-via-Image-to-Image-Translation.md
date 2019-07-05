@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation"
+date: 2019-07-04 06:51:34
+categories: arXiv_AI
+tags: arXiv_AI GAN Reinforcement_Learning Transfer_Learning
+author: Shani Gamrian, Yoav Goldberg
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Despite the remarkable success of Deep RL in learning control policies from raw pixels, the resulting models do not generalize. We demonstrate that a trained agent fails completely when facing small visual changes, and that fine-tuning---the common transfer learning paradigm---fails to adapt to these changes, to the extent that it is faster to re-train the model from scratch. We show that by separating the visual transfer task from the control policy we achieve substantially better sample efficiency and transfer behavior, allowing an agent trained on the source task to transfer well to the target tasks. The visual mapping from the target to the source domain is performed using unaligned GANs, resulting in a control policy that can be further improved using imitation learning from imperfect demonstrations. We demonstrate the approach on synthetic visual variants of the Breakout game, as well as on transfer between subsequent levels of Road Fighter, a Nintendo car-driving game. A visualization of our approach can be seen in https://youtu.be/4mnkzYyXMn4 and https://youtu.be/KCGTrQi6Ogo .
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1806.07377](http://arxiv.org/abs/1806.07377)
+
+##### PDF
+[http://arxiv.org/pdf/1806.07377](http://arxiv.org/pdf/1806.07377)
+
