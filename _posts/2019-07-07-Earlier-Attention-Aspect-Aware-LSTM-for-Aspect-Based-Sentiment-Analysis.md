@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Earlier Attention? Aspect-Aware LSTM for Aspect-Based Sentiment Analysis"
+date: 2019-07-07 09:02:41
+categories: arXiv_CL
+tags: arXiv_CL Sentiment Attention RNN
+author: Bowen Xing, Lejian Liao, Dandan Song, Jingang Wang, Fuzheng Zhang, Zhongyuan Wang, Heyan Huang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Aspect-based sentiment analysis (ABSA) aims to predict fine-grained sentiments of comments with respect to given aspect terms or categories. In previous ABSA methods, the importance of aspect has been realized and verified. Most existing LSTM-based models take aspect into account via the attention mechanism, where the attention weights are calculated after the context is modeled in the form of contextual vectors. However, aspect-related information may be already discarded and aspect-irrelevant information may be retained in classic LSTM cells in the context modeling process, which can be improved to generate more effective context representations. This paper proposes a novel variant of LSTM, termed as aspect-aware LSTM (AA-LSTM), which incorporates aspect information into LSTM cells in the context modeling stage before the attention mechanism. Therefore, our AA-LSTM can dynamically produce aspect-aware contextual representations. We experiment with several representative LSTM-based models by replacing the classic LSTM cells with the AA-LSTM cells. Experimental results on SemEval-2014 Datasets demonstrate the effectiveness of AA-LSTM.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1905.07719](http://arxiv.org/abs/1905.07719)
+
+##### PDF
+[http://arxiv.org/pdf/1905.07719](http://arxiv.org/pdf/1905.07719)
+
