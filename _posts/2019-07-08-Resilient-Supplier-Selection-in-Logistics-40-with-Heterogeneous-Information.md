@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Resilient Supplier Selection in Logistics 4.0 with Heterogeneous Information"
+date: 2019-07-08 21:18:53
+categories: arXiv_AI
+tags: arXiv_AI Attention Quantitative
+author: Md Mahmudul Hassan, Dizuo Jiang, A. M. M. Sharif Ullah, Md. Noor-E-Alam
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Supplier selection problem has gained extensive attention in the prior studies. However, research based on Fuzzy Multi-Attribute Decision Making (F-MADM) approach in ranking resilient suppliers in logistic 4 is still in its infancy. Traditional MADM approach fails to address the resilient supplier selection problem in logistic 4 primarily because of the large amount of data concerning some attributes that are quantitative, yet difficult to process while making decisions. Besides, some qualitative attributes prevalent in logistic 4 entail imprecise perceptual or judgmental decision relevant information, and are substantially different than those considered in traditional suppler selection problems. This study develops a Decision Support System (DSS) that will help the decision maker to incorporate and process such imprecise heterogeneous data in a unified framework to rank a set of resilient suppliers in the logistic 4 environment. The proposed framework induces a triangular fuzzy number from large-scale temporal data using probability-possibility consistency principle. Large number of non-temporal data presented graphically are computed by extracting granular information that are imprecise in nature. Fuzzy linguistic variables are used to map the qualitative attributes. Finally, fuzzy based TOPSIS method is adopted to generate the ranking score of alternative suppliers. These ranking scores are used as input in a Multi-Choice Goal Programming (MCGP) model to determine optimal order allocation for respective suppliers. Finally, a sensitivity analysis assesses how the Suppliers Cost versus Resilience Index (SCRI) changes when differential priorities are set for respective cost and resilience attributes.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1904.09837](http://arxiv.org/abs/1904.09837)
+
+##### PDF
+[http://arxiv.org/pdf/1904.09837](http://arxiv.org/pdf/1904.09837)
+
