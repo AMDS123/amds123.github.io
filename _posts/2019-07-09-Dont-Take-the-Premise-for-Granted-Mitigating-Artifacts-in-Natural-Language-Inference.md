@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Don't Take the Premise for Granted: Mitigating Artifacts in Natural Language Inference"
+date: 2019-07-09 19:40:47
+categories: arXiv_CL
+tags: arXiv_CL Inference
+author: Yonatan Belinkov, Adam Poliak, Stuart M. Shieber, Benjamin Van Durme, Alexander M. Rush
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Natural Language Inference (NLI) datasets often contain hypothesis-only biases---artifacts that allow models to achieve non-trivial performance without learning whether a premise entails a hypothesis. We propose two probabilistic methods to build models that are more robust to such biases and better transfer across datasets. In contrast to standard approaches to NLI, our methods predict the probability of a premise given a hypothesis and NLI label, discouraging models from ignoring the premise. We evaluate our methods on synthetic and existing NLI datasets by training on datasets containing biases and testing on datasets containing no (or different) hypothesis-only biases. Our results indicate that these methods can make NLI models more robust to dataset-specific artifacts, transferring better than a baseline architecture in 9 out of 12 NLI datasets. Additionally, we provide an extensive analysis of the interplay of our methods with known biases in NLI datasets, as well as the effects of encouraging models to ignore biases and fine-tuning on target datasets.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.04380](http://arxiv.org/abs/1907.04380)
+
+##### PDF
+[http://arxiv.org/pdf/1907.04380](http://arxiv.org/pdf/1907.04380)
+
