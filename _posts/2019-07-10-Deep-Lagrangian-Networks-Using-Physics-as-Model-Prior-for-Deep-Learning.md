@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning"
+date: 2019-07-10 02:31:51
+categories: arXiv_RO
+tags: arXiv_RO Knowledge Tracking Deep_Learning
+author: Michael Lutter, Christian Ritter, Jan Peters
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep learning has achieved astonishing results on many tasks with large amounts of data and generalization within the proximity of training data. For many important real-world applications, these requirements are unfeasible and additional prior knowledge on the task domain is required to overcome the resulting problems. In particular, learning physics models for model-based control requires robust extrapolation from fewer samples - often collected online in real-time - and model errors may lead to drastic damages of the system. Directly incorporating physical insight has enabled us to obtain a novel deep model learning approach that extrapolates well while requiring fewer samples. As a first example, we propose Deep Lagrangian Networks (DeLaN) as a deep network structure upon which Lagrangian Mechanics have been imposed. DeLaN can learn the equations of motion of a mechanical system (i.e., system dynamics) with a deep network efficiently while ensuring physical plausibility. The resulting DeLaN network performs very well at robot tracking control. The proposed method did not only outperform previous model learning approaches at learning speed but exhibits substantially improved and more robust extrapolation to novel trajectories and learns online in real-time
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.04490](http://arxiv.org/abs/1907.04490)
+
+##### PDF
+[http://arxiv.org/pdf/1907.04490](http://arxiv.org/pdf/1907.04490)
+
