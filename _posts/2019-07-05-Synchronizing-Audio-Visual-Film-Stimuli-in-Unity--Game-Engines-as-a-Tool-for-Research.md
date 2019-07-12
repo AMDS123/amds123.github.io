@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Synchronizing Audio-Visual Film Stimuli in Unity : Game Engines as a Tool for Research"
+date: 2019-07-05 09:05:37
+categories: arXiv_SD
+tags: arXiv_SD
+author: Javier Sanz, Andreas Wulff-Abramsson, Carlos Aguilar-Paredes, Luis Emilio Bruni, Lydia Sanchez
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Unity is a software specifically designed for the development of video games. However, due to its programming possibilities and the polyvalence of its architecture, it can prove to be a versatile tool for stimuli presentation in research experiments. Nevertheless, it also has some limitations and conditions that need to be taken into account to ensure optimal performance in particular experimental situations. Such is the case if we want to use it in an experimental design that includes the acquisition of biometric signals synchronized with the broadcasting of video and audio in real time. In the present paper, we analyse how Unity (version 5.5.1f1) reacts in one such experimental design that requires the execution of audio-visual material. From the analysis of an experimental procedure in which the video was executed following the standard software specifications, we have detected the following problems desynchronization between the emission of the video and the audio; desynchronization between the temporary counter and the video; a delay in the execution of the screenshot; and depending on the encoding of the video a bad fluency in the video playback, which even though it maintains the total playback time, it causes Unity to freeze frames and proceed to compensate with little temporary jumps in the video. Finally, having detected all the problems, a compensation and verification process is designed to be able to work with audio-visual material in Unity (version 5.5.1f1) in an accurate way. We present a protocol for checks and compensations that allows solving these problems to ensure the execution of robust experiments in terms of reliability.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.04926](http://arxiv.org/abs/1907.04926)
+
+##### PDF
+[http://arxiv.org/pdf/1907.04926](http://arxiv.org/pdf/1907.04926)
+
