@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning"
+date: 2019-07-12 03:53:08
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Knowledge GAN Embedding
+author: Jian Ni, Shanghang Zhang, Haiyong Xie
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Generalized zero-shot learning (GZSL) is a challenging class of vision and knowledge transfer problems in which both seen and unseen classes appear during testing. Existing GZSL approaches either suffer from semantic loss and discard discriminative information at the embedding stage, or cannot guarantee the visual-semantic interactions. To address these limitations, we propose the Dual Adversarial Semantics-Consistent Network (DASCN), which learns primal and dual Generative Adversarial Networks (GANs) in a unified framework for GZSL. In particular, the primal GAN learns to synthesize inter-class discriminative and semantics-preserving visual features from both the semantic representations of seen/unseen classes and the ones reconstructed by the dual GAN. The dual GAN enforces the synthetic visual features to represent prior semantic knowledge well via semantics-consistent adversarial learning. To the best of our knowledge, this is the first work that employs a novel dual-GAN mechanism for GZSL. Extensive experiments show that our approach achieves significant improvements over the state-of-the-art approaches.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.05570](http://arxiv.org/abs/1907.05570)
+
+##### PDF
+[http://arxiv.org/pdf/1907.05570](http://arxiv.org/pdf/1907.05570)
+
