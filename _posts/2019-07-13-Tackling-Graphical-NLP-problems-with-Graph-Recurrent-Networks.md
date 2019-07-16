@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Tackling Graphical NLP problems with Graph Recurrent Networks"
+date: 2019-07-13 22:48:31
+categories: arXiv_CL
+tags: arXiv_CL Knowledge_Graph Knowledge Relation_Extraction RNN Deep_Learning Relation
+author: Linfeng Song
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+How to properly model graphs is a long-existing and important problem in NLP area, where several popular types of graphs are knowledge graphs, semantic graphs and dependency graphs. Comparing with other data structures, such as sequences and trees, graphs are generally more powerful in representing complex correlations among entities. For example, a knowledge graph stores real-word entities (such as "Barack_Obama" and "U.S.") and their relations (such as "live_in" and "lead_by"). Properly encoding a knowledge graph is beneficial to user applications, such as question answering and knowledge discovery. Modeling graphs is also very challenging, probably because graphs usually contain massive and cyclic relations. 
+ Recent years have witnessed the success of deep learning, especially RNN-based models, on many NLP problems. Besides, RNNs and their variations have been extensively studied on several graph problems and showed preliminary successes. Despite the successes that have been achieved, RNN-based models suffer from several major drawbacks on graphs. First, they can only consume sequential data, thus linearization is required to serialize input graphs, resulting in the loss of important structural information. Second, the serialization results are usually very long, so it takes a long time for RNNs to encode them. 
+ In this thesis, we propose a novel graph neural network, named graph recurrent network (GRN). We study our GRN model on 4 very different tasks, such as machine reading comprehension, relation extraction and machine translation. Some take undirected graphs without edge labels, while the others have directed ones with edge labels. To consider these important differences, we gradually enhance our GRN model, such as further considering edge labels and adding an RNN decoder. Carefully designed experiments show the effectiveness of GRN on all these tasks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.06142](http://arxiv.org/abs/1907.06142)
+
+##### PDF
+[http://arxiv.org/pdf/1907.06142](http://arxiv.org/pdf/1907.06142)
+
