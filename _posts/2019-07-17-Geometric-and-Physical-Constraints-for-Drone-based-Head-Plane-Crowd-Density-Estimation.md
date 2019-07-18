@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Geometric and Physical Constraints for Drone-based Head Plane Crowd Density Estimation"
+date: 2019-07-17 14:00:35
+categories: arXiv_CV
+tags: arXiv_CV Drone
+author: Weizhe Liu, Krzysztof Lis, Mathieu Salzmann, Pascal Fua
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+State-of-the-art methods for counting people in crowded scenes rely on deep networks to estimate crowd density in the image plane. While useful for this purpose, this image-plane density has no immediate physical meaning because it is subject to perspective distortion. This is a concern in sequences acquired by drones because the viewpoint changes often. This distortion is usually handled implicitly by either learning scale-invariant features or estimating density in patches of different sizes, neither of which accounts for the fact that scale changes must be consistent over the whole scene. 
+ In this paper, we explicitly model the scale changes and reason in terms of people per square-meter. We show that feeding the perspective model to the network allows us to enforce global scale consistency and that this model can be obtained on the fly from the drone sensors. In addition, it also enables us to enforce physically-inspired temporal consistency constraints that do not have to be learned. This yields an algorithm that outperforms state-of-the-art methods in inferring crowd density from a moving drone camera especially when perspective effects are strong.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1803.08805](http://arxiv.org/abs/1803.08805)
+
+##### PDF
+[http://arxiv.org/pdf/1803.08805](http://arxiv.org/pdf/1803.08805)
+
