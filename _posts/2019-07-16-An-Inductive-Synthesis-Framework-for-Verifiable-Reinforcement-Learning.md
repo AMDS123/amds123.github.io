@@ -1,0 +1,25 @@
+---
+layout: post
+title: "An Inductive Synthesis Framework for Verifiable Reinforcement Learning"
+date: 2019-07-16 21:57:17
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning
+author: He Zhu, Zikang Xiong, Stephen Magill, Suresh Jagannathan
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Despite the tremendous advances that have been made in the last decade on developing useful machine-learning applications, their wider adoption has been hindered by the lack of strong assurance guarantees that can be made about their behavior. In this paper, we consider how formal verification techniques developed for traditional software systems can be repurposed for verification of reinforcement learning-enabled ones, a particularly important class of machine learning systems. Rather than enforcing safety by examining and altering the structure of a complex neural network implementation, our technique uses blackbox methods to synthesizes deterministic programs, simpler, more interpretable, approximations of the network that can nonetheless guarantee desired safety properties are preserved, even when the network is deployed in unanticipated or previously unobserved environments. Our methodology frames the problem of neural network verification in terms of a counterexample and syntax-guided inductive synthesis procedure over these programs. The synthesis procedure searches for both a deterministic program and an inductive invariant over an infinite state transition system that represents a specification of an application's control logic. Additional specifications defining environment-based constraints can also be provided to further refine the search space. Synthesized programs deployed in conjunction with a neural network implementation dynamically enforce safety conditions by monitoring and preventing potentially unsafe actions proposed by neural policies. Experimental results over a wide range of cyber-physical applications demonstrate that software-inspired formal verification techniques can be used to realize trustworthy reinforcement learning systems with low overhead.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.07273](http://arxiv.org/abs/1907.07273)
+
+##### PDF
+[http://arxiv.org/pdf/1907.07273](http://arxiv.org/pdf/1907.07273)
+
