@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A fully 3D multi-path convolutional neural network with feature fusion and feature weighting for automatic lesion identification in brain MRI images"
+date: 2019-07-17 23:21:42
+categories: arXiv_CV
+tags: arXiv_CV CNN
+author: Yunzhe Xue, Meiyan Xie, Fadi G. Farhat, Olga Boukrina, A. M. Barrett, Jeffrey R. Binder, Usman W. Roshan, William W. Graves
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Brain MRI images consist of multiple 2D images stacked at consecutive spatial intervals to form a 3D structure. Thus it seems natural to use a convolutional neural network with 3D convolutional kernels that would automatically also account for spatial dependence between the slices. However, 3D models remain a challenge in practice due to overfitting caused by insufficient training data. For example in a 2D model we typically have 150-300 slices per patient per plane of orientation whereas in a 3D setting this gets reduced to just one point. Here we propose a fully 3D multi-path convolutional network with custom designed components to better utilize features from multiple modalities. In particular our multi-path model has independent encoders for different modalities containing residual convolutional blocks, weighted multi-path feature fusion from different modalities, and weighted fusion modules to combine encoder and decoder features. We provide intuitive reasoning for different components along with empirical evidence to show that they work. Compared to existing 3D CNNs like DeepMedic, 3D U-Net, and AnatomyNet, our networks achieves the highest statistically significant cross-validation accuracy of 60.5% on the large ATLAS benchmark of 220 patients. We also test our model on multi-modal images from the Kessler Foundation and Medical College Wisconsin and achieve a statistically significant cross-validation accuracy of 65%, significantly outperforming the multi-modal 3D U-Net and DeepMedic. Overall our model offers a principled, extensible multi-path approach that outperforms multi-channel alternatives and achieves high Dice accuracies on existing benchmarks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.07807](http://arxiv.org/abs/1907.07807)
+
+##### PDF
+[http://arxiv.org/pdf/1907.07807](http://arxiv.org/pdf/1907.07807)
+
