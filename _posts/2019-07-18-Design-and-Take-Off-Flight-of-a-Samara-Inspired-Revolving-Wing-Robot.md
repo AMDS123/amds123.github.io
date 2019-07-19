@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Design and Take-Off Flight of a Samara-Inspired Revolving-Wing Robot"
+date: 2019-07-18 14:13:30
+categories: arXiv_RO
+tags: arXiv_RO Optimization
+author: Songnan Bai, Pakpong Chirarattananon
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Motivated by a winged seed, which takes advantage of a wing with high angles of attack and its associated leading-edge vortex to boost lift, we propose a powered 13.8-gram aerial robot with the maximum take-off weight of 310 mN (31.6 gram) or thrust-to-weight ratio of 2.3. The robot, consisting of two airfoils and two horizontally directed motor-driven propellers, revolves around its vertical axis to hover. To amplify the thrust production while retaining a minimal weight, we develop an optimization framework for the robot and airfoil geometries. The analysis integrates quasi-steady aerodynamic models for the airfoils and the propellers with the motor model. We fabricated the robots according to the optimized design. The prototypes are experimentally tested. The revolving-wing robot produces approximately 50% higher lift compared to conventional multirotor designs. Finally, an uncontrolled hovering flight is presented.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1907.08065](https://arxiv.org/abs/1907.08065)
+
+##### PDF
+[https://arxiv.org/pdf/1907.08065](https://arxiv.org/pdf/1907.08065)
+
