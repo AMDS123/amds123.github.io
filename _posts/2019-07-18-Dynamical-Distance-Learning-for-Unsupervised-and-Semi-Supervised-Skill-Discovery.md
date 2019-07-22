@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Dynamical Distance Learning for Unsupervised and Semi-Supervised Skill Discovery"
+date: 2019-07-18 18:07:47
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning
+author: Kristian Hartikainen, Xinyang Geng, Tuomas Haarnoja, Sergey Levine
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Reinforcement learning requires manual specification of a reward function to learn a task. While in principle this reward function only needs to specify the task goal, in practice reinforcement learning can be very time-consuming or even infeasible unless the reward function is shaped so as to provide a smooth gradient towards a successful outcome. This shaping is difficult to specify by hand, particularly when the task is learned from raw observations, such as images. In this paper, we study how we can automatically learn dynamical distances: a measure of the expected number of time steps to reach a given goal state from any other state. These dynamical distances can be used to provide well-shaped reward functions for reaching new goals, making it possible to learn complex tasks efficiently. We also show that dynamical distances can be used in a semi-supervised regime, where unsupervised interaction with the environment is used to learn the dynamical distances, while a small amount of preference supervision is used to determine the task goal, without any manually engineered reward function or goal examples. We evaluate our method both in simulation and on a real-world robot. We show that our method can learn locomotion skills in simulation without any supervision. We also show that it can learn to turn a valve with a real-world 9-DoF hand, using raw image observations and ten preference labels, without any other supervision. Videos of the learned skills can be found on the project website: https://sites.google.com/view/skills-via-distance-learning.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.08225](http://arxiv.org/abs/1907.08225)
+
+##### PDF
+[http://arxiv.org/pdf/1907.08225](http://arxiv.org/pdf/1907.08225)
+
