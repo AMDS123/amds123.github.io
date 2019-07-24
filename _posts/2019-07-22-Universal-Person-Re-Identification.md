@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Universal Person Re-Identification"
+date: 2019-07-22 18:17:56
+categories: arXiv_CV
+tags: arXiv_CV Re-identification Person_Re-identification
+author: Xu Lan, Xiatian Zhu, Shaogang Gong
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Most state-of-the-art person re-identification (re-id) methods depend on supervised model learning with a large set of cross-view identity labelled training data. Even worse, such trained models are limited to only the same-domain deployment with significantly degraded cross-domain generalization capability, i.e. "domain specific". To solve this limitation, there are a number of recent unsupervised domain adaptation and unsupervised learning methods that leverage unlabelled target domain training data. However, these methods need to train a separate model for each target domain as supervised learning methods. This conventional "{\em train once, run once}" pattern is unscalable to a large number of target domains typically encountered in real-world deployments. We address this problem by presenting a "train once, run everywhere" pattern industry-scale systems are desperate for. We formulate a "universal model learning' approach enabling domain-generic person re-id using only limited training data of a "{\em single}" seed domain. Specifically, we train a universal re-id deep model to discriminate between a set of transformed person identity classes. Each of such classes is formed by applying a variety of random appearance transformations to the images of that class, where the transformations simulate the camera viewing conditions of any domains for making the model training domain generic. Extensive evaluations show the superiority of our method for universal person re-id over a wide variety of state-of-the-art unsupervised domain adaptation and unsupervised learning re-id methods on five standard benchmarks: Market-1501, DukeMTMC, CUHK03, MSMT17, and VIPeR.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.09511](http://arxiv.org/abs/1907.09511)
+
+##### PDF
+[http://arxiv.org/pdf/1907.09511](http://arxiv.org/pdf/1907.09511)
+
