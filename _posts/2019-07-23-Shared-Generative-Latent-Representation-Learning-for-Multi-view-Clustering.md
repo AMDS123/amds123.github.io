@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Shared Generative Latent Representation Learning for Multi-view Clustering"
+date: 2019-07-23 08:20:38
+categories: arXiv_CV
+tags: arXiv_CV Embedding Represenation_Learning Relation
+author: Ming Yin, Weitian Huang, Junbin Gao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Clustering multi-view data has been a fundamental research topic in the computer vision community. It has been shown that a better accuracy can be achieved by integrating information of all the views than just using one view individually. However, the existing methods often struggle with the issues of dealing with the large-scale datasets and the poor performance in reconstructing samples. This paper proposes a novel multi-view clustering method by learning a shared generative latent representation that obeys a mixture of Gaussian distributions. The motivation is based on the fact that the multi-view data share a common latent embedding despite the diversity among the views. Specifically, benefited from the success of the deep generative learning, the proposed model not only can extract the nonlinear features from the views, but render a powerful ability in capturing the correlations among all the views. The extensive experimental results, on several datasets with different scales, demonstrate that the proposed method outperforms the state-of-the-art methods under a range of performance criteria.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.09747](http://arxiv.org/abs/1907.09747)
+
+##### PDF
+[http://arxiv.org/pdf/1907.09747](http://arxiv.org/pdf/1907.09747)
+
