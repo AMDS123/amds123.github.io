@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Deep Dialog Act Recognition using Multiple Token, Segment, and Context Information Representations"
+date: 2019-07-26 21:36:28
+categories: arXiv_CL
+tags: arXiv_CL Embedding Classification Recognition
+author: Eug&#xe9;nio Ribeiro, Ricardo Ribeiro, David Martins de Matos
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Dialog act (DA) recognition is a task that has been widely explored over the years. Recently, most approaches to the task explored different DNN architectures to combine the representations of the words in a segment and generate a segment representation that provides cues for intention. In this study, we explore means to generate more informative segment representations, not only by exploring different network architectures, but also by considering different token representations, not only at the word level, but also at the character and functional levels. At the word level, in addition to the commonly used uncontextualized embeddings, we explore the use of contextualized representations, which provide information concerning word sense and segment structure. Character-level tokenization is important to capture intention-related morphological aspects that cannot be captured at the word level. Finally, the functional level provides an abstraction from words, which shifts the focus to the structure of the segment. We also explore approaches to enrich the segment representation with context information from the history of the dialog, both in terms of the classifications of the surrounding segments and the turn-taking history. This kind of information has already been proved important for the disambiguation of DAs in previous studies. Nevertheless, we are able to capture additional information by considering a summary of the dialog history and a wider turn-taking context. By combining the best approaches at each step, we achieve results that surpass the previous state-of-the-art on generic DA recognition on both SwDA and MRDA, two of the most widely explored corpora for the task. Furthermore, by considering both past and future context, simulating annotation scenario, our approach achieves a performance similar to that of a human annotator on SwDA and surpasses it on MRDA.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1807.08587](http://arxiv.org/abs/1807.08587)
+
+##### PDF
+[http://arxiv.org/pdf/1807.08587](http://arxiv.org/pdf/1807.08587)
+
