@@ -1,0 +1,25 @@
+---
+layout: post
+title: "How model accuracy and explanation fidelity influence user trust"
+date: 2019-07-26 09:22:16
+categories: arXiv_AI
+tags: arXiv_AI Classification Relation
+author: Andrea Papenmeier, Gwenn Englebienne, Christin Seifert
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Machine learning systems have become popular in fields such as marketing, financing, or data mining. While they are highly accurate, complex machine learning systems pose challenges for engineers and users. Their inherent complexity makes it impossible to easily judge their fairness and the correctness of statistically learned relations between variables and classes. Explainable AI aims to solve this challenge by modelling explanations alongside with the classifiers, potentially improving user trust and acceptance. However, users should not be fooled by persuasive, yet untruthful explanations. We therefore conduct a user study in which we investigate the effects of model accuracy and explanation fidelity, i.e. how truthfully the explanation represents the underlying model, on user trust. Our findings show that accuracy is more important for user trust than explainability. Adding an explanation for a classification result can potentially harm trust, e.g. when adding nonsensical explanations. We also found that users cannot be tricked by high-fidelity explanations into having trust for a bad classifier. Furthermore, we found a mismatch between observed (implicit) and self-reported (explicit) trust.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1907.12652](http://arxiv.org/abs/1907.12652)
+
+##### PDF
+[http://arxiv.org/pdf/1907.12652](http://arxiv.org/pdf/1907.12652)
+
