@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Look Further to Recognize Better: Learning Shared Topics and Category-Specific Dictionaries for Open-Ended 3D Object Recognition"
+date: 2019-07-26 08:28:49
+categories: arXiv_RO
+tags: arXiv_RO Classification Recognition
+author: S. Hamidreza Kasaei
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Service robots are expected to operate effectively in human-centric environments for long periods of time. In such realistic scenarios, fine-grained object categorization is as important as basic-level object categorization. We tackle this problem by proposing an open-ended object recognition approach which concurrently learns both the object categories and the local features for encoding objects. In this work, each object is represented using a set of general latent visual topics and category-specific dictionaries. The general topics encode the common patterns of all categories, while the category-specific dictionary describes the content of each category in details. The proposed approach discovers both sets of general and specific representations in an unsupervised fashion and updates them incrementally using new object views. Experimental results show that our approach yields significant improvements over the previous state-of-the-art approaches concerning scalability and object classification performance. Moreover, our approach demonstrates the capability of learning from very few training examples in a real-world setting. Regarding computation time, the best result was obtained with a Bag-of-Words method followed by a variant of the Latent Dirichlet Allocation approach.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1907.12924](https://arxiv.org/abs/1907.12924)
+
+##### PDF
+[https://arxiv.org/pdf/1907.12924](https://arxiv.org/pdf/1907.12924)
+
