@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Generative Image Inpainting with Submanifold Alignment"
+date: 2019-08-01 05:01:17
+categories: arXiv_CV
+tags: arXiv_CV Regularization GAN
+author: Ang Li, Jianzhong Qi, Rui Zhang, Xingjun Ma, Kotagiri Ramamohanarao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Image inpainting aims at restoring missing regions of corrupted images, which has many applications such as image restoration and object removal. However, current GAN-based generative inpainting models do not explicitly exploit the structural or textural consistency between restored contents and their surrounding contexts.To address this limitation, we propose to enforce the alignment (or closeness) between the local data submanifolds (or subspaces) around restored images and those around the original (uncorrupted) images during the learning process of GAN-based inpainting models. We exploit Local Intrinsic Dimensionality (LID) to measure, in deep feature space, the alignment between data submanifolds learned by a GAN model and those of the original data, from a perspective of both images (denoted as iLID) and local patches (denoted as pLID) of images. We then apply iLID and pLID as regularizations for GAN-based inpainting models to encourage two levels of submanifold alignment: 1) an image-level alignment for improving structural consistency, and 2) a patch-level alignment for improving textural details. Experimental results on four benchmark datasets show that our proposed model can generate more accurate results than state-of-the-art models.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.00211](http://arxiv.org/abs/1908.00211)
+
+##### PDF
+[http://arxiv.org/pdf/1908.00211](http://arxiv.org/pdf/1908.00211)
+
