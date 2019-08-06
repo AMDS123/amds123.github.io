@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Disentangling Propagation and Generation for Video Prediction"
+date: 2019-08-05 07:15:09
+categories: arXiv_CV
+tags: arXiv_CV Prediction
+author: Hang Gao, Huazhe Xu, Qi-Zhi Cai, Ruth Wang, Fisher Yu, Trevor Darrell
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+A dynamic scene has two types of elements: those that move fluidly and can be predicted from previous frames, and those which are disoccluded (exposed) and cannot be extrapolated. Prior approaches to video prediction typically learn either to warp or to hallucinate future pixels, but not both. In this paper, we describe a computational model for high-fidelity video prediction which disentangles motion-specific propagation from motion-agnostic generation. We introduce a confidence-aware warping operator which gates the output of pixel predictions from a flow predictor for non-occluded regions and from a context encoder for occluded regions. Moreover, in contrast to prior works where confidence is jointly learned with flow and appearance using a single network, we compute confidence after a warping step, and employ a separate network to inpaint exposed regions. Empirical results on both synthetic and real datasets show that our disentangling approach provides better occlusion maps and produces both sharper and more realistic predictions compared to strong baselines.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.00452](http://arxiv.org/abs/1812.00452)
+
+##### PDF
+[http://arxiv.org/pdf/1812.00452](http://arxiv.org/pdf/1812.00452)
+
