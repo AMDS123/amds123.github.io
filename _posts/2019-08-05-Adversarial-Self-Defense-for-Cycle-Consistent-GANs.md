@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Adversarial Self-Defense for Cycle-Consistent GANs"
+date: 2019-08-05 08:37:40
+categories: arXiv_CV
+tags: arXiv_CV Adversarial GAN Quantitative
+author: Dina Bashkirova, Ben Usman, Kate Saenko
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+The goal of unsupervised image-to-image translation is to map images from one domain to another without the ground truth correspondence between the two domains. State-of-art methods learn the correspondence using large numbers of unpaired examples from both domains and are based on generative adversarial networks. In order to preserve the semantics of the input image, the adversarial objective is usually combined with a cycle-consistency loss that penalizes incorrect reconstruction of the input image from the translated one. However, if the target mapping is many-to-one, e.g. aerial photos to maps, such a restriction forces the generator to hide information in low-amplitude structured noise that is undetectable by human eye or by the discriminator. In this paper, we show how such self-attacking behavior of unsupervised translation methods affects their performance and provide two defense techniques. We perform a quantitative evaluation of the proposed techniques and show that making the translation model more robust to the self-adversarial attack increases its generation quality and reconstruction reliability and makes the model less sensitive to low-amplitude perturbations.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.01517](http://arxiv.org/abs/1908.01517)
+
+##### PDF
+[http://arxiv.org/pdf/1908.01517](http://arxiv.org/pdf/1908.01517)
+
