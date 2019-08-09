@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Fast Point R-CNN"
+date: 2019-08-08 09:52:09
+categories: arXiv_CV
+tags: arXiv_CV Object_Detection Attention CNN Prediction Detection
+author: Yilun Chen, Shu Liu, Xiaoyong Shen, Jiaya Jia
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present a unified, efficient and effective framework for point-cloud based 3D object detection. Our two-stage approach utilizes both voxel representation and raw point cloud data to exploit respective advantages. The first stage network, with voxel representation as input, only consists of light convolutional operations, producing a small number of high-quality initial predictions. Coordinate and indexed convolutional feature of each point in initial prediction are effectively fused with the attention mechanism, preserving both accurate localization and context information. The second stage works on interior points with their fused feature for further refining the prediction. Our method is evaluated on KITTI dataset, in terms of both 3D and Bird's Eye View (BEV) detection, and achieves state-of-the-arts with a 15FPS detection rate.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.02990](http://arxiv.org/abs/1908.02990)
+
+##### PDF
+[http://arxiv.org/pdf/1908.02990](http://arxiv.org/pdf/1908.02990)
+
