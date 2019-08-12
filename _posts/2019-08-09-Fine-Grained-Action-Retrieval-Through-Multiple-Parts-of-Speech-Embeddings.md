@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings"
+date: 2019-08-09 14:41:06
+categories: arXiv_CV
+tags: arXiv_CV Caption Embedding
+author: Michael Wray, Diane Larlus, Gabriela Csurka, Dima Damen
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We address the problem of cross-modal fine-grained action retrieval between text and video. Cross-modal retrieval is commonly achieved through learning a shared embedding space, that can indifferently embed modalities. In this paper, we propose to enrich the embedding by disentangling parts-of-speech (PoS) in the accompanying captions. We build a separate multi-modal embedding space for each PoS tag. The outputs of multiple PoS embeddings are then used as input to an integrated multi-modal space, where we perform action retrieval. All embeddings are trained jointly through a combination of PoS-aware and PoS-agnostic losses. Our proposal enables learning specialised embedding spaces that offer multiple views of the same embedded entities. We report the first retrieval results on fine-grained actions for the large-scale EPIC dataset, in a generalised zero-shot setting. Results show the advantage of our approach for both video-to-text and text-to-video action retrieval. We also demonstrate the benefit of disentangling the PoS for the generic task of cross-modal video retrieval on the MSR-VTT dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1908.03477](https://arxiv.org/abs/1908.03477)
+
+##### PDF
+[https://arxiv.org/pdf/1908.03477](https://arxiv.org/pdf/1908.03477)
+
