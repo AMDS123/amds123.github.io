@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Bayesian Inference for Large Scale Image Classification"
+date: 2019-08-09 15:15:56
+categories: arXiv_CV
+tags: arXiv_CV Image_Classification Optimization Inference Classification Deep_Learning Prediction
+author: Jonathan Heek, Nal Kalchbrenner
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Bayesian inference promises to ground and improve the performance of deep neural networks. It promises to be robust to overfitting, to simplify the training procedure and the space of hyperparameters, and to provide a calibrated measure of uncertainty that can enhance decision making, agent exploration and prediction fairness. Markov Chain Monte Carlo (MCMC) methods enable Bayesian inference by generating samples from the posterior distribution over model parameters. Despite the theoretical advantages of Bayesian inference and the similarity between MCMC and optimization methods, the performance of sampling methods has so far lagged behind optimization methods for large scale deep learning tasks. We aim to fill this gap and introduce ATMC, an adaptive noise MCMC algorithm that estimates and is able to sample from the posterior of a neural network. ATMC dynamically adjusts the amount of momentum and noise applied to each parameter update in order to compensate for the use of stochastic gradients. We use a ResNet architecture without batch normalization to test ATMC on the Cifar10 benchmark and the large scale ImageNet benchmark and show that, despite the absence of batch normalization, ATMC outperforms a strong optimization baseline in terms of both classification accuracy and test log-likelihood. We show that ATMC is intrinsically robust to overfitting on the training data and that ATMC provides a better calibrated measure of uncertainty compared to the optimization baseline.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1908.03491](https://arxiv.org/abs/1908.03491)
+
+##### PDF
+[https://arxiv.org/pdf/1908.03491](https://arxiv.org/pdf/1908.03491)
+
