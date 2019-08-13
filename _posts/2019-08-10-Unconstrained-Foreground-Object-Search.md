@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Unconstrained Foreground Object Search"
+date: 2019-08-10 02:57:04
+categories: arXiv_CV
+tags: arXiv_CV Quantitative
+author: Yinan Zhao, Brian Price, Scott Cohen, Danna Gurari
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Many people search for foreground objects to use when editing images. While existing methods can retrieve candidates to aid in this, they are constrained to returning objects that belong to a pre-specified semantic class. We instead propose a novel problem of unconstrained foreground object (UFO) search and introduce a solution that supports efficient search by encoding the background image in the same latent space as the candidate foreground objects. A key contribution of our work is a cost-free, scalable approach for creating a large-scale training dataset with a variety of foreground objects of differing semantic categories per image location. Quantitative and human-perception experiments with two diverse datasets demonstrate the advantage of our UFO search solution over related baselines.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1908.03675](https://arxiv.org/abs/1908.03675)
+
+##### PDF
+[https://arxiv.org/pdf/1908.03675](https://arxiv.org/pdf/1908.03675)
+
