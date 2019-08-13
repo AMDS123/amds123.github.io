@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Automatic acute ischemic stroke lesion segmentation using semi-supervised learning"
+date: 2019-08-10 11:48:02
+categories: arXiv_CV
+tags: arXiv_CV Segmentation CNN Classification
+author: Bin Zhao, Hong Wu, Guohua Liu, Chen Cao, Song Jin, Zhiyang Liu, Shuxue Ding
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Ischemic stroke is a common disease in the elderly population, which can cause long-term disability and even death. However, the time window for treatment of ischemic stroke in its acute stage is very short. To fast localize and quantitively evaluate the acute ischemic stroke (AIS) lesions, many deep-learning-based lesion segmentation methods have been proposed in the literature, where a deep convolutional neural network (CNN) was trained on hundreds of fully labeled subjects with accurate annotations of AIS lesions. Despite that high segmentation accuracy can be achieved, the accurate labels should be annotated by experienced clinicians, and it is therefore very time-consuming to obtain a large number of fully labeled subjects. In this paper, we propose a semi-supervised method to automatically segment AIS lesions in diffusion weighted images and apparent diffusion coefficient maps. By using a large number of weakly labeled subjects and a small number of fully labeled subjects, our proposed method is able to accurately detect and segment the AIS lesions. In particular, our proposed method consists of three parts: 1) a double-path classification net (DPC-Net) trained in a weakly-supervised way is used to detect the suspicious regions of AIS lesions; 2) a pixel-level K-Means clustering algorithm is used to identify the hyperintensive regions on the DWIs; and 3) a region-growing algorithm combines the outputs of the DPC-Net and the K-Means to obtain the final precise lesion segmentation. In our experiment, we use 460 weakly labeled subjects and 15 fully labeled subjects to train and fine-tune the proposed method. By evaluating on a clinical dataset with 150 fully labeled subjects, our proposed method achieves a mean dice coefficient of 0.639, and a lesion-wise F1 score of 0.799.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1908.03735](https://arxiv.org/abs/1908.03735)
+
+##### PDF
+[https://arxiv.org/pdf/1908.03735](https://arxiv.org/pdf/1908.03735)
+
