@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Semi-Supervised Video Salient Object Detection Using Pseudo-Labels"
+date: 2019-08-12 08:32:48
+categories: arXiv_CV
+tags: arXiv_CV Salient Object_Detection Sparse Inference Deep_Learning Detection
+author: Pengxiang Yan, Guanbin Li, Yuan Xie, Zhen Li, Chuan Wang, Tianshui Chen, Liang Lin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep learning-based video salient object detection has recently achieved great success with its performance significantly outperforming any other unsupervised methods. However, existing data-driven approaches heavily rely on a large quantity of pixel-wise annotated video frames to deliver such promising results. In this paper, we address the semi-supervised video salient object detection task using pseudo-labels. Specifically, we present an effective video saliency detector that consists of a spatial refinement network and a spatiotemporal module. Based on the same refinement network and motion information in terms of optical flow, we further propose a novel method for generating pixel-level pseudo-labels from sparsely annotated frames. By utilizing the generated pseudo-labels together with a part of manual annotations, our video saliency detector learns spatial and temporal cues for both contrast inference and coherence enhancement, thus producing accurate saliency maps. Experimental results demonstrate that our proposed semi-supervised method even greatly outperforms all the state-of-the-art fully supervised methods across three public benchmarks of VOS, DAVIS, and FBMS.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1908.04051](https://arxiv.org/abs/1908.04051)
+
+##### PDF
+[https://arxiv.org/pdf/1908.04051](https://arxiv.org/pdf/1908.04051)
+
