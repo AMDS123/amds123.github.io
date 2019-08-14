@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Competitive Multi-Agent Deep Reinforcement Learning with Counterfactual Thinking"
+date: 2019-08-13 10:55:24
+categories: arXiv_AI
+tags: arXiv_AI Reinforcement_Learning
+author: Yue Wang, Yao Wan, Chenwei Zhang, Lixin Cui, Lu Bai, Philip S. Yu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Counterfactual thinking describes a psychological phenomenon that people re-infer the possible results with different solutions about things that have already happened. It helps people to gain more experience from mistakes and thus to perform better in similar future tasks. This paper investigates the counterfactual thinking for agents to find optimal decision-making strategies in multi-agent reinforcement learning environments. In particular, we propose a multi-agent deep reinforcement learning model with a structure which mimics the human-psychological counterfactual thinking process to improve the competitive abilities for agents. To this end, our model generates several possible actions (intent actions) with a parallel policy structure and estimates the rewards and regrets for these intent actions based on its current understanding of the environment. Our model incorporates a scenario-based framework to link the estimated regrets with its inner policies. During the iterations, our model updates the parallel policies and the corresponding scenario-based regrets for agents simultaneously. To verify the effectiveness of our proposed model, we conduct extensive experiments on two different environments with real-world applications. Experimental results show that counterfactual thinking can actually benefit the agents to obtain more accumulative rewards from the environments with fair information by comparing to their opponents while keeping high performing efficiency.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.04573](http://arxiv.org/abs/1908.04573)
+
+##### PDF
+[http://arxiv.org/pdf/1908.04573](http://arxiv.org/pdf/1908.04573)
+
