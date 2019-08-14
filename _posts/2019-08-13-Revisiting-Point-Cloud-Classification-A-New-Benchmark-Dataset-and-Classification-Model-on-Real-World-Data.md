@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data"
+date: 2019-08-13 12:56:03
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Classification Deep_Learning
+author: Mikaela Angelina Uy, Quang-Hieu Pham, Binh-Son Hua, Duc Thanh Nguyen, Sai-Kit Yeung
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Deep learning techniques for point cloud data have demonstrated great potentials in solving classical problems in 3D computer vision such as 3D object classification and segmentation. Several recent 3D object classification methods have reported state-of-the-art performance on CAD model datasets such as ModelNet40 with high accuracy (~92%). Despite such impressive results, in this paper, we argue that object classification is still a challenging task when objects are framed with real-world settings. To prove this, we introduce ScanObjectNN, a new real-world point cloud object dataset based on scanned indoor scene data. From our comprehensive benchmark, we show that our dataset poses great challenges to existing point cloud classification techniques as objects from real-world scans are often cluttered with background and/or are partial due to occlusions. We identify three key open problems for point cloud object classification, and propose new point cloud classification neural networks that achieve state-of-the-art performance on classifying objects with cluttered background. Our dataset and code are publicly available in our project page https://hkust-vgd.github.io/scanobjectnn/.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.04616](http://arxiv.org/abs/1908.04616)
+
+##### PDF
+[http://arxiv.org/pdf/1908.04616](http://arxiv.org/pdf/1908.04616)
+
