@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Point-Based Multi-View Stereo Network"
+date: 2019-08-12 22:21:52
+categories: arXiv_CV
+tags: arXiv_CV
+author: Rui Chen, Songfang Han, Jing Xu, Hao Su
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We introduce Point-MVSNet, a novel point-based deep framework for multi-view stereo (MVS). Distinct from existing cost volume approaches, our method directly processes the target scene as point clouds. More specifically, our method predicts the depth in a coarse-to-fine manner. We first generate a coarse depth map, convert it into a point cloud and refine the point cloud iteratively by estimating the residual between the depth of the current iteration and that of the ground truth. Our network leverages 3D geometry priors and 2D texture information jointly and effectively by fusing them into a feature-augmented point cloud, and processes the point cloud to estimate the 3D flow for each point. This point-based architecture allows higher accuracy, more computational efficiency and more flexibility than cost-volume-based counterparts. Experimental results show that our approach achieves a significant improvement in reconstruction quality compared with state-of-the-art methods on the DTU and the Tanks and Temples dataset. Our source code and trained models are available at https://github.com/callmeray/PointMVSNet .
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.04422](http://arxiv.org/abs/1908.04422)
+
+##### PDF
+[http://arxiv.org/pdf/1908.04422](http://arxiv.org/pdf/1908.04422)
+
