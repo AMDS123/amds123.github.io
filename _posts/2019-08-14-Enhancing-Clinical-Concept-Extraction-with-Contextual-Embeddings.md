@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Enhancing Clinical Concept Extraction with Contextual Embeddings"
+date: 2019-08-14 16:20:26
+categories: arXiv_CL
+tags: arXiv_CL Embedding Language_Model
+author: Yuqi Si, Jingqi Wang, Hua Xu, Kirk Roberts
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Neural network-based representations ("embeddings") have dramatically advanced natural language processing (NLP) tasks, including clinical NLP tasks such as concept extraction. Recently, however, more advanced embedding methods and representations (e.g., ELMo, BERT) have further pushed the state-of-the-art in NLP, yet there are no common best practices for how to integrate these representations into clinical tasks. The purpose of this study, then, is to explore the space of possible options in utilizing these new models for clinical concept extraction, including comparing these to traditional word embedding methods (word2vec, GloVe, fastText). Both off-the-shelf open-domain embeddings and pre-trained clinical embeddings from MIMIC-III are evaluated. We explore a battery of embedding methods consisting of traditional word embeddings and contextual embeddings, and compare these on four concept extraction corpora: i2b2 2010, i2b2 2012, SemEval 2014, and SemEval 2015. We also analyze the impact of the pre-training time of a large language model like ELMo or BERT on the extraction performance. Last, we present an intuitive way to understand the semantic information encoded by contextual embeddings. Contextual embeddings pre-trained on a large clinical corpus achieves new state-of-the-art performances across all concept extraction tasks. The best-performing model outperforms all state-of-the-art methods with respective F1-measures of 90.25, 93.18 (partial), 80.74, and 81.65. We demonstrate the potential of contextual embeddings through the state-of-the-art performance these methods achieve on clinical concept extraction. Additionally, we demonstrate contextual embeddings encode valuable semantic information not accounted for in traditional word representations.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.08691](http://arxiv.org/abs/1902.08691)
+
+##### PDF
+[http://arxiv.org/pdf/1902.08691](http://arxiv.org/pdf/1902.08691)
+
