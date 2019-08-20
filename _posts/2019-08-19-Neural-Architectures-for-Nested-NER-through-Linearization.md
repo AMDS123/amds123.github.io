@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Neural Architectures for Nested NER through Linearization"
+date: 2019-08-19 16:54:53
+categories: arXiv_CL
+tags: arXiv_CL Attention Embedding RNN Recognition
+author: Jana Strakov&#xe1;, Milan Straka, Jan Haji&#x10d;
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose two neural network architectures for nested named entity recognition (NER), a setting in which named entities may overlap and also be labeled with more than one label. We encode the nested labels using a linearized scheme. In our first proposed approach, the nested labels are modeled as multilabels corresponding to the Cartesian product of the nested labels in a standard LSTM-CRF architecture. In the second one, the nested NER is viewed as a sequence-to-sequence problem, in which the input sequence consists of the tokens and output sequence of the labels, using hard attention on the word whose label is being predicted. The proposed methods outperform the nested NER state of the art on four corpora: ACE-2004, ACE-2005, GENIA and Czech CNEC. We also enrich our architectures with the recently published contextual embeddings: ELMo, BERT and Flair, reaching further improvements for the four nested entity corpora. In addition, we report flat NER state-of-the-art results for CoNLL-2002 Dutch and Spanish and for CoNLL-2003 English.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.06926](http://arxiv.org/abs/1908.06926)
+
+##### PDF
+[http://arxiv.org/pdf/1908.06926](http://arxiv.org/pdf/1908.06926)
+
