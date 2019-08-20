@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Long and Diverse Text Generation with Planning-based Hierarchical Variational Model"
+date: 2019-08-19 06:20:38
+categories: arXiv_CL
+tags: arXiv_CL Text_Generation
+author: Zhihong Shao, Minlie Huang, Jiangtao Wen, Wenfei Xu, Xiaoyan Zhu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Existing neural methods for data-to-text generation are still struggling to produce long and diverse texts: they are insufficient to model input data dynamically during generation, to capture inter-sentence coherence, or to generate diversified expressions. To address these issues, we propose a Planning-based Hierarchical Variational Model (PHVM). Our model first plans a sequence of groups (each group is a subset of input items to be covered by a sentence) and then realizes each sentence conditioned on the planning result and the previously generated context, thereby decomposing long text generation into dependent sentence generation sub-tasks. To capture expression diversity, we devise a hierarchical latent structure where a global planning latent variable models the diversity of reasonable planning and a sequence of local latent variables controls sentence realization. Experiments show that our model outperforms state-of-the-art baselines in long and diverse text generation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.06605](http://arxiv.org/abs/1908.06605)
+
+##### PDF
+[http://arxiv.org/pdf/1908.06605](http://arxiv.org/pdf/1908.06605)
+
