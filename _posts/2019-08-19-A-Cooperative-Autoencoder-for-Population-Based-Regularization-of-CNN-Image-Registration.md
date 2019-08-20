@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Cooperative Autoencoder for Population-Based Regularization of CNN Image Registration"
+date: 2019-08-19 14:44:47
+categories: arXiv_CV
+tags: arXiv_CV Regularization
+author: Riddhish Bhalodia, Shireen Y. Elhabian, Ladislav Kavan, Ross T. Whitaker
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Spatial transformations are enablers in a variety of medical image analysis applications that entail aligning images to a common coordinate systems. Population analysis of such transformations is expected to capture the underlying image and shape variations, and hence these transformations are required to produce anatomically feasible correspondences. This is usually enforced through some smoothness-based generic regularization on deformation field. Alternatively, population-based regularization has been shown to produce anatomically accurate correspondences in cases where anatomically unaware (i.e., data independent) fail. Recently, deep networks have been for unsupervised image registration, these methods are computationally faster and maintains the accuracy of state of the art methods. However, these networks use smoothness penalty on deformation fields and ignores population-level statistics of the transformations. We propose a novel neural network architecture that simultaneously learns and uses the population-level statistics of the spatial transformations to regularize the neural networks for unsupervised image registration. This regularization is in the form of a bottleneck autoencoder, which encodes the population level information of the deformation fields in a low-dimensional manifold. The proposed architecture produces deformation fields that describe the population-level features and associated correspondences in an anatomically relevant manner and are statistically compact relative to the state-of-the-art approaches while maintaining computational efficiency. We demonstrate the efficacy of the proposed architecture on synthetic data sets, as well as 2D and 3D medical data.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[https://arxiv.org/abs/1908.05825](https://arxiv.org/abs/1908.05825)
+
+##### PDF
+[https://arxiv.org/pdf/1908.05825](https://arxiv.org/pdf/1908.05825)
+
