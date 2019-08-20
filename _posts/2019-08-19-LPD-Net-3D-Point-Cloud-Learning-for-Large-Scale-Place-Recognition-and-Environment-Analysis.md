@@ -1,0 +1,25 @@
+---
+layout: post
+title: "LPD-Net: 3D Point Cloud Learning for Large-Scale Place Recognition and Environment Analysis"
+date: 2019-08-19 08:02:47
+categories: arXiv_CV
+tags: arXiv_CV Recognition
+author: Zhe Liu, Shunbo Zhou, Chuanzhe Suo, Yingtian Liu, Peng Yin, Hesheng Wang, Yun-Hui Liu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Point cloud based place recognition is still an open issue due to the difficulty in extracting local features from the raw 3D point cloud and generating the global descriptor, and it's even harder in the large-scale dynamic environments. In this paper, we develop a novel deep neural network, named LPD-Net (Large-scale Place Description Network), which can extract discriminative and generalizable global descriptors from the raw 3D point cloud. Two modules, the adaptive local feature extraction module and the graph-based neighborhood aggregation module, are proposed, which contribute to extract the local structures and reveal the spatial distribution of local features in the large-scale point cloud, with an end-to-end manner. We implement the proposed global descriptor in solving point cloud based retrieval tasks to achieve the large-scale place recognition. Comparison results show that our LPD-Net is much better than PointNetVLAD and reaches the state-of-the-art. We also compare our LPD-Net with the vision-based solutions to show the robustness of our approach to different weather and light conditions.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1812.07050](http://arxiv.org/abs/1812.07050)
+
+##### PDF
+[http://arxiv.org/pdf/1812.07050](http://arxiv.org/pdf/1812.07050)
+
