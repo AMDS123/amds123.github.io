@@ -1,0 +1,25 @@
+---
+layout: post
+title: "A Microphone Array and Voice Algorithm based Smart Hearing Aid"
+date: 2019-08-20 13:17:09
+categories: arXiv_SD
+tags: arXiv_SD Face Relation
+author: Bharath Sudharsan, Manigandan Chockalingam
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Approximately 6.2% of the world's population (466 million people) suffer from disabling hearing impairment [1]. Hearing impairment impacts negatively on one's education, financial success [2][3], cognitive development in childhood [4], including increased risk of dementia in older adulthood [5]. Lack of or reduced social interaction due to hearing impairment affects creating or maintaining healthy relationships at home, school and work [5]. Hence, hearing impairment genuinely affects the overall quality of life and wellbeing. \newline \newline The cocktail party effect, which is a healthy hearing individual's ability to understand one voice in a cacophony of other voices or sounds, is an important ability lacking in people with hearing impairment. This inability results in difficulties with simple daily activities such as partaking in group discussions or conversing in noisy restaurants [6]. This smart hearing aid aims to provide much-needed assistance with understanding speech in noisy environments. For example, if a person wants to partake in a group discussion, he/she needs to place the microphone array based unit on a flat surface in front of him/her, such as a table. When conversations take place, the microphone array will capture and process sound from all directions, intelligently prioritise and provide the lead speaker's voice by suppressing unwanted noises, including speeches of other people. This device selects and alternates voices between speakers automatically using voice algorithms. Additionally, the user has the option of further fine-tuning the acoustic parameters as needed through a smartphone interface. This paper describes the development and functions of this new Smart Hearing Aid.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.07324](http://arxiv.org/abs/1908.07324)
+
+##### PDF
+[http://arxiv.org/pdf/1908.07324](http://arxiv.org/pdf/1908.07324)
+
