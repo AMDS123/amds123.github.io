@@ -1,0 +1,25 @@
+---
+layout: post
+title: "SROBB: Targeted Perceptual Loss for Single Image Super-Resolution"
+date: 2019-08-20 08:39:48
+categories: arXiv_CV
+tags: arXiv_CV Super_Resolution Segmentation
+author: Mohammad Saeed Rad, Behzad Bozorgtabar, Urs-Viktor Marti, Max Basler, Hazim Kemal Ekenel, Jean-Philippe Thiran
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+By benefiting from perceptual losses, recent studies have improved significantly the performance of the super-resolution task, where a high-resolution image is resolved from its low-resolution counterpart. Although such objective functions generate near-photorealistic results, their capability is limited, since they estimate the reconstruction error for an entire image in the same way, without considering any semantic information. In this paper, we propose a novel method to benefit from perceptual loss in a more objective way. We optimize a deep network-based decoder with a targeted objective function that penalizes images at different semantic levels using the corresponding terms. In particular, the proposed method leverages our proposed OBB (Object, Background and Boundary) labels, generated from segmentation labels, to estimate a suitable perceptual loss for boundaries, while considering texture similarity for backgrounds. We show that our proposed approach results in more realistic textures and sharper edges, and outperforms other state-of-the-art algorithms in terms of both qualitative results on standard benchmarks and results of extensive user studies.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.07222](http://arxiv.org/abs/1908.07222)
+
+##### PDF
+[http://arxiv.org/pdf/1908.07222](http://arxiv.org/pdf/1908.07222)
+
