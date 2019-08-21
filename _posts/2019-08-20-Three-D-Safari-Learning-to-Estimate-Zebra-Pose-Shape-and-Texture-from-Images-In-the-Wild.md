@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture from Images 'In the Wild'"
+date: 2019-08-20 07:45:57
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Pose_Estimation Optimization Prediction
+author: Silvia Zuffi, Angjoo Kanazawa, Tanja Berger-Wolf, Michael J. Black
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We present the first method to perform automatic 3D pose, shape and texture capture of animals from images acquired in-the-wild. In particular, we focus on the problem of capturing 3D information about Grevy's zebras from a collection of images. The Grevy's zebra is one of the most endangered species in Africa, with only a few thousand individuals left. Capturing the shape and pose of these animals can provide biologists and conservationists with information about animal health and behavior. In contrast to research on human pose, shape and texture estimation, training data for endangered species is limited, the animals are in complex natural scenes with occlusion, they are naturally camouflaged, travel in herds, and look similar to each other. To overcome these challenges, we integrate the recent SMAL animal model into a network-based regression pipeline, which we train end-to-end on synthetically generated images with pose, shape, and background variation. Going beyond state-of-the-art methods for human shape and pose estimation, our method learns a shape space for zebras during training. Learning such a shape space from images using only a photometric loss is novel, and the approach can be used to learn shape in other settings with limited 3D supervision. Moreover, we couple 3D pose and shape prediction with the task of texture synthesis, obtaining a full texture map of the animal from a single image. We show that the predicted texture map allows a novel per-instance unsupervised optimization over the network features. This method, SMALST (SMAL with learned Shape and Texture) goes beyond previous work, which assumed manual keypoints and/or segmentation, to regress directly from pixels to 3D animal shape, pose and texture. Code and data are available at https://github.com/silviazuffi/smalst.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.07201](http://arxiv.org/abs/1908.07201)
+
+##### PDF
+[http://arxiv.org/pdf/1908.07201](http://arxiv.org/pdf/1908.07201)
+
