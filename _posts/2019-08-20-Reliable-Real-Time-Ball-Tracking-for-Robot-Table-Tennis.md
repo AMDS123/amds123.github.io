@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Reliable Real Time Ball Tracking for Robot Table Tennis"
+date: 2019-08-20 13:35:16
+categories: arXiv_RO
+tags: arXiv_RO Object_Detection Tracking Detection
+author: Sebastian Gomez-Gonzalez, Yassine Nemmour, Bernhard Sch&#xf6;lkopf, Jan Peters
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Robot table tennis systems require a vision system that can track the ball position with low latency and high sampling rate. Altering the ball to simplify the tracking using for instance infrared coating changes the physics of the ball trajectory. As a result, table tennis systems use custom tracking systems to track the ball based on heuristic algorithms respecting the real time constrains applied to RGB images captured with a set of cameras. However, these heuristic algorithms often report erroneous ball positions, and the table tennis policies typically need to incorporate additional heuristics to detect and possibly correct outliers. In this paper, we propose a vision system for object detection and tracking that focus on reliability while providing real time performance. Our assumption is that by using multiple cameras, we can find and discard the errors obtained in the object detection phase by checking for consistency with the positions reported by other cameras. We provide an open source implementation of the proposed tracking system to simplify future research in robot table tennis or related tracking applications with strong real time requirements. We evaluate the proposed system thoroughly in simulation and in the real system, outperforming previous work. Furthermore, we show that the accuracy and robustness of the proposed system increases as more cameras are added. Finally, we evaluate the table tennis playing performance of an existing method in the real robot using the proposed vision system. We measure a slight increase in performance compared to a previous vision system even after removing all the heuristics previously present to filter out erroneous ball observations.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.07332](http://arxiv.org/abs/1908.07332)
+
+##### PDF
+[http://arxiv.org/pdf/1908.07332](http://arxiv.org/pdf/1908.07332)
+
