@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Survey on Deep Neural Networks in Speech and Vision Systems"
+date: 2019-08-16 16:40:49
+categories: arXiv_SD
+tags: arXiv_SD Review Knowledge Survey Deep_Learning
+author: Mahbubul Alam, Manar D. Samad, Lasitha Vidyaratne, Alexander Glandon, Khan M. Iftekharuddin
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This survey presents a review of state-of-the-art deep neural network architectures, algorithms, and systems in vision and speech applications. Recent advances in deep artificial neural network algorithms and architectures have spurred rapid innovation and development of intelligent vision and speech systems. With availability of vast amounts of sensor data and cloud computing for processing and training of deep neural networks, and with increased sophistication in mobile and embedded technology, the next-generation intelligent systems are poised to revolutionize personal and commercial computing. This survey begins by providing background and evolution of some of the most successful deep learning models for intelligent vision and speech systems to date. An overview of large-scale industrial research and development efforts is provided to emphasize future trends and prospects of intelligent vision and speech systems. Robust and efficient intelligent systems demand low-latency and high fidelity in resource constrained hardware platforms such as mobile devices, robots, and automobiles. Therefore, this survey also provides a summary of key challenges and recent successes in running deep neural networks on hardware-restricted platforms, i.e. within limited memory, battery life, and processing capabilities. Finally, emerging applications of vision and speech across disciplines such as affective computing, intelligent transportation, and precision medicine are discussed. To our knowledge, this paper provides one of the most comprehensive surveys on the latest developments in intelligent vision and speech applications from the perspectives of both software and hardware systems. Many of these emerging technologies using deep neural networks show tremendous promise to revolutionize research and development for future vision and speech systems.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.07656](http://arxiv.org/abs/1908.07656)
+
+##### PDF
+[http://arxiv.org/pdf/1908.07656](http://arxiv.org/pdf/1908.07656)
+
