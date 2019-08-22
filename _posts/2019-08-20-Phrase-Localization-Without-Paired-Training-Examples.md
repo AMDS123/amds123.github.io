@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Phrase Localization Without Paired Training Examples"
+date: 2019-08-20 18:07:37
+categories: arXiv_CV
+tags: arXiv_CV Image_Caption Weakly_Supervised
+author: Josiah Wang, Lucia Specia
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Localizing phrases in images is an important part of image understanding and can be useful in many applications that require mappings between textual and visual information. Existing work attempts to learn these mappings from examples of phrase-image region correspondences (strong supervision) or from phrase-image pairs (weak supervision). We postulate that such paired annotations are unnecessary, and propose the first method for the phrase localization problem where neither training procedure nor paired, task-specific data is required. Our method is simple but effective: we use off-the-shelf approaches to detect objects, scenes and colours in images, and explore different approaches to measure semantic similarity between the categories of detected visual elements and words in phrases. Experiments on two well-known phrase localization datasets show that this approach surpasses all weakly supervised methods by a large margin and performs very competitively to strongly supervised methods, and can thus be considered a strong baseline to the task. The non-paired nature of our method makes it applicable to any domain and where no paired phrase localization annotation is available.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.07553](http://arxiv.org/abs/1908.07553)
+
+##### PDF
+[http://arxiv.org/pdf/1908.07553](http://arxiv.org/pdf/1908.07553)
+
