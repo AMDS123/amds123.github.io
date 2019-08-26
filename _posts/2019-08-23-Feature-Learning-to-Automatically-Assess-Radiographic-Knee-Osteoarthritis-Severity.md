@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Feature Learning to Automatically Assess Radiographic Knee Osteoarthritis Severity"
+date: 2019-08-23 14:23:35
+categories: arXiv_CV
+tags: arXiv_CV Review CNN Image_Classification Classification Detection
+author: Joseph Antony, Kevin McGuinness, Kieran Moran, Noel E O&#x27; Connor
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+This chapter presents the investigations and the results of feature learning using convolutional neural networks to automatically assess knee osteoarthritis (OA) severity and the associated clinical and diagnostic features of knee OA from X-ray images. Also, this chapter demonstrates that feature learning in a supervised manner is more effective than using conventional handcrafted features for automatic detection of knee joints and fine-grained knee OA image classification. In the general machine learning approach to automatically assess knee OA severity, the first step is to localize the region of interest that is to detect and extract the knee joint regions from the radiographs, and the next step is to classify the localized knee joints based on a radiographic classification scheme such as Kellgren and Lawrence grades. First, the existing approaches for detecting (or localizing) the knee joint regions based on handcrafted features are reviewed and outlined. Next, three new approaches are introduced: 1) to automatically detect the knee joint region using a fully convolutional network, 2) to automatically assess the radiographic knee OA using CNNs trained from scratch for classification and regression of knee joint images to predict KL grades in ordinal and continuous scales, and 3) to quantify the knee OA severity optimizing a weighted ratio of two loss functions: categorical cross entropy and mean-squared error using multi-objective convolutional learning and ordinal regression. Two public datasets: the OAI and the MOST are used to evaluate the approaches with promising results that outperform existing approaches. In summary, this work primarily contributes to the field of automated methods for localization (automatic detection) and quantification (image classification) of radiographic knee OA.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.08840](http://arxiv.org/abs/1908.08840)
+
+##### PDF
+[http://arxiv.org/pdf/1908.08840](http://arxiv.org/pdf/1908.08840)
+
