@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Informed Asymptotically Optimal Anytime Search"
+date: 2019-08-23 07:51:52
+categories: arXiv_RO
+tags: arXiv_RO
+author: Jonathan D. Gammell, Timothy D. Barfoot, Siddhartha S. Srinivasa
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Path planning in robotics often requires finding high-quality solutions to continuously valued and/or high-dimensional problems. These problems are challenging and most planning algorithms instead solve simplified approximations. Popular approximations include graphs and random samples, as respectively used by informed graph-based searches and anytime sampling-based planners. Informed graph-based searches, such as A*, traditionally use heuristics to search a priori graphs in order of potential solution quality. This makes their search efficient but leaves their performance dependent on the chosen approximation. If its resolution is too low then they may not find a (suitable) solution but if it is too high then they may take a prohibitively long time to do so. Anytime sampling-based planners, such as RRT*, traditionally use random sampling to approximate the problem domain incrementally. This allows them to increase resolution until a suitable solution is found but makes their search dependent on the order of approximation. Arbitrary sequences of random samples approximate the problem domain in every direction simultaneously and but may be prohibitively inefficient at containing a solution. This paper unifies and extends these two approaches to develop Batch Informed Trees (BIT*), an informed, anytime sampling-based planner. BIT* solves continuous path planning problems efficiently by using sampling and heuristics to alternately approximate and search the problem domain. Its search is ordered by potential solution quality, as in A*, and its approximation improves indefinitely with additional computational time, as in RRT*. It is shown analytically to be almost-surely asymptotically optimal and experimentally to outperform existing sampling-based planners, especially on high-dimensional planning problems.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1707.01888](http://arxiv.org/abs/1707.01888)
+
+##### PDF
+[http://arxiv.org/pdf/1707.01888](http://arxiv.org/pdf/1707.01888)
+
