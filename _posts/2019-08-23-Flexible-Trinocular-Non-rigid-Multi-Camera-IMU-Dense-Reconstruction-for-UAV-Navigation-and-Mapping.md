@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Flexible Trinocular: Non-rigid Multi-Camera-IMU Dense Reconstruction for UAV Navigation and Mapping"
+date: 2019-08-23 16:20:41
+categories: arXiv_RO
+tags: arXiv_RO
+author: Timo Hinzmann, Cesar Cadena, Juan Nieto, Roland Siegwart
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we propose a visual-inertial framework able to efficiently estimate the camera poses of a non-rigid trinocular baseline for long-range depth estimation on-board a fast moving aerial platform. The estimation of the time-varying baseline is based on relative inertial measurements, a photometric relative pose optimizer, and a probabilistic wing model fused in an efficient Extended Kalman Filter (EKF) formulation. The estimated depth measurements can be integrated into a geo-referenced global map to render a reconstruction of the environment useful for local replanning algorithms. Based on extensive real-world experiments we describe the challenges and solutions for obtaining the probabilistic wing model, reliable relative inertial measurements, and vision-based relative pose updates and demonstrate the computational efficiency and robustness of the overall system under challenging conditions.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.08891](http://arxiv.org/abs/1908.08891)
+
+##### PDF
+[http://arxiv.org/pdf/1908.08891](http://arxiv.org/pdf/1908.08891)
+
