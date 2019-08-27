@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Customizable Architecture Search for Semantic Segmentation"
+date: 2019-08-26 09:22:15
+categories: arXiv_CV
+tags: arXiv_CV Segmentation Semantic_Segmentation Optimization
+author: Yiheng Zhang, Zhaofan Qiu, Jingen Liu, Ting Yao, Dong Liu, Tao Mei
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In this paper, we propose a Customizable Architecture Search (CAS) approach to automatically generate a network architecture for semantic image segmentation. The generated network consists of a sequence of stacked computation cells. A computation cell is represented as a directed acyclic graph, in which each node is a hidden representation (i.e., feature map) and each edge is associated with an operation (e.g., convolution and pooling), which transforms data to a new layer. During the training, the CAS algorithm explores the search space for an optimized computation cell to build a network. The cells of the same type share one architecture but with different weights. In real applications, however, an optimization may need to be conducted under some constraints such as GPU time and model size. To this end, a cost corresponding to the constraint will be assigned to each operation. When an operation is selected during the search, its associated cost will be added to the objective. As a result, our CAS is able to search an optimized architecture with customized constraints. The approach has been thoroughly evaluated on Cityscapes and CamVid datasets, and demonstrates superior performance over several state-of-the-art techniques. More remarkably, our CAS achieves 72.3% mIoU on the Cityscapes dataset with speed of 108 FPS on an Nvidia TitanXp GPU.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.09550](http://arxiv.org/abs/1908.09550)
+
+##### PDF
+[http://arxiv.org/pdf/1908.09550](http://arxiv.org/pdf/1908.09550)
+
