@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Constructing Self-motivated Pyramid Curriculums for Cross-Domain Semantic Segmentation: A Non-Adversarial Approach"
+date: 2019-08-26 09:16:17
+categories: arXiv_CV
+tags: arXiv_CV Adversarial Segmentation Semantic_Segmentation
+author: Qing Lian, Fengmao Lv, Lixin Duan, Boqing Gong
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose a new approach, called self-motivated pyramid curriculum domain adaptation (PyCDA), to facilitate the adaptation of semantic segmentation neural networks from synthetic source domains to real target domains. Our approach draws on an insight connecting two existing works: curriculum domain adaptation and self-training. Inspired by the former, PyCDA constructs a pyramid curriculum which contains various properties about the target domain. Those properties are mainly about the desired label distributions over the target domain images, image regions, and pixels. By enforcing the segmentation neural network to observe those properties, we can improve the network's generalization capability to the target domain. Motivated by the self-training, we infer this pyramid of properties by resorting to the semantic segmentation network itself. Unlike prior work, we do not need to maintain any additional models (e.g., logistic regression or discriminator networks) or to solve minmax problems which are often difficult to optimize. We report state-of-the-art results for the adaptation from both GTAV and SYNTHIA to Cityscapes, two popular settings in unsupervised domain adaptation for semantic segmentation.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.09547](http://arxiv.org/abs/1908.09547)
+
+##### PDF
+[http://arxiv.org/pdf/1908.09547](http://arxiv.org/pdf/1908.09547)
+
