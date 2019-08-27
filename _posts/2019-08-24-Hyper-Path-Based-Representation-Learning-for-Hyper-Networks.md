@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Hyper-Path-Based Representation Learning for Hyper-Networks"
+date: 2019-08-24 15:19:29
+categories: arXiv_AI
+tags: arXiv_AI Represenation_Learning Prediction Relation
+author: Jie Huang, Xin Liu, Yangqiu Song
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Network representation learning has aroused widespread interests in recent years. While most of the existing methods deal with edges as pairwise relations, only a few studies have been proposed for hyper-networks to capture more complicated tuplewise relationships among multiple nodes. A hyper-network is a network where each edge, called hyperedge, connects an arbitrary number of nodes. Different from conventional networks, hyper-networks have certain degrees of indecomposability such that the nodes in a subset of a hyperedge may not possess a strong relationship. That is the main reason why traditional algorithms fail in learning representations in hyper-networks by simply decomposing hyperedges into pairwise relationships. In this paper, we firstly define a metric to depict the degrees of indecomposability for hyper-networks. Then we propose a new concept called hyper-path and design hyper-path-based random walks to preserve the structural information of hyper-networks according to the analysis of the indecomposability. Then a carefully designed algorithm, Hyper-gram, utilizes these random walks to capture both pairwise relationships and tuplewise relationships in the whole hyper-networks. Finally, we conduct extensive experiments on several real-world datasets covering the tasks of link prediction and hyper-network reconstruction, and results demonstrate the rationality, validity, and effectiveness of our methods compared with those existing state-of-the-art models designed for conventional networks or hyper-networks.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.09152](http://arxiv.org/abs/1908.09152)
+
+##### PDF
+[http://arxiv.org/pdf/1908.09152](http://arxiv.org/pdf/1908.09152)
+
