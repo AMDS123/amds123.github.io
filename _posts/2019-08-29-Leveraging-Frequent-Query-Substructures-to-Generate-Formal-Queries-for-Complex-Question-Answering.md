@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Leveraging Frequent Query Substructures to Generate Formal Queries for Complex Question Answering"
+date: 2019-08-29 05:03:57
+categories: arXiv_AI
+tags: arXiv_AI Knowledge Relation
+author: Jiwei Ding, Wei Hu, Qixin Xu, Yuzhong Qu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Formal query generation aims to generate correct executable queries for question answering over knowledge bases (KBs), given entity and relation linking results. Current approaches build universal paraphrasing or ranking models for the whole questions, which are likely to fail in generating queries for complex, long-tail questions. In this paper, we propose SubQG, a new query generation approach based on frequent query substructures, which helps rank the existing (but nonsignificant) query structures or build new query structures. Our experiments on two benchmark datasets show that our approach significantly outperforms the existing ones, especially for complex questions. Also, it achieves promising performance with limited training data and noisy entity/relation linking results.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.11053](http://arxiv.org/abs/1908.11053)
+
+##### PDF
+[http://arxiv.org/pdf/1908.11053](http://arxiv.org/pdf/1908.11053)
+
