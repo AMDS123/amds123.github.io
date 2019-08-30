@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Variational Denoising Network: Toward Blind Noise Modeling and Removal"
+date: 2019-08-29 15:54:06
+categories: arXiv_CV
+tags: arXiv_CV Inference Deep_Learning
+author: Zongsheng Yue, Hongwei Yong, Qian Zhao, Lei Zhang, Deyu Meng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Blind image denoising is an important yet very challenging problem in computer vision due to the complicated acquisition process of real images. In this work we propose a new variational inference method, which integrates both noise estimation and image denoising into a unique Bayesian framework, for blind image denoising. Specifically, an approximate posterior, parameterized by deep neural networks, is presented by taking the intrinsic clean image and noise variances as latent variables conditioned on the input noisy image. This posterior provides explicit parametric forms for all its involved hyper-parameters, and thus can be easily implemented for blind image denoising with automatic noise estimation for the test noisy image. On one hand, as other data-driven deep learning methods, our method, namely variational denoising network (VDN), can perform denoising efficiently due to its explicit form of posterior expression. On the other hand, VDN inherits the advantages of traditional model-driven approaches, especially the good generalization capability of generative models. VDN has good interpretability and can be flexibly utilized to estimate and remove complicated non-i.i.d. noise collected in real scenarios. Comprehensive experiments are performed to substantiate the superiority of our method in blind image denoising.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.11314](http://arxiv.org/abs/1908.11314)
+
+##### PDF
+[http://arxiv.org/pdf/1908.11314](http://arxiv.org/pdf/1908.11314)
+
