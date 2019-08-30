@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Texel-Att: Representing and Classifying Element-based Textures by Attributes"
+date: 2019-08-29 09:50:44
+categories: arXiv_CV
+tags: arXiv_CV Classification Detection
+author: Marco Godi, Christian Joppi, Andrea Giachetti, Fabio Pellacini, Marco Cristani
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Element-based textures are a kind of texture formed by nameable elements, the texels [1], distributed according to specific statistical distributions; it is of primary importance in many sectors, namely textile, fashion and interior design industry. State-of-theart texture descriptors fail to properly characterize element-based texture, so we present Texel-Att to fill this gap. Texel-Att is the first fine-grained, attribute-based representation and classification framework for element-based textures. It first individuates texels, characterizing them with individual attributes; subsequently, texels are grouped and characterized through layout attributes, which give the Texel-Att representation. Texels are detected by a Mask-RCNN, trained on a brand-new element-based texture dataset, ElBa, containing 30K texture images with 3M fully-annotated texels. Examples of individual and layout attributes are exhibited to give a glimpse on the level of achievable graininess. In the experiments, we present detection results to show that texels can be precisely individuated, even on textures "in the wild"; to this sake, we individuate the element-based classes of the Describable Texture Dataset (DTD), where almost 900K texels have been manually annotated, leading to the Element-based DTD (E-DTD). Subsequently, classification and ranking results demonstrate the expressivity of Texel-Att on ElBa and E-DTD, overcoming the alternative features and relative attributes, doubling the best performance in some cases; finally, we report interactive search results on ElBa and E-DTD: with Texel-Att on the E-DTD dataset we are able to individuate within 10 iterations the desired texture in the 90% of cases, against the 71% obtained with a combination of the finest existing attributes so far. Dataset and code is available at https://github.com/godimarcovr/Texel-Att
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.11127](http://arxiv.org/abs/1908.11127)
+
+##### PDF
+[http://arxiv.org/pdf/1908.11127](http://arxiv.org/pdf/1908.11127)
+
