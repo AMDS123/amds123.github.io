@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Regularized Context Gates on Transformer for Machine Translation"
+date: 2019-08-29 02:20:26
+categories: arXiv_CL
+tags: arXiv_CL Regularization NMT RNN
+author: Xintong Li, Lemao Liu, Rui Wang, Guoping Huang, Max Meng
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Context gates are effective to control the contributions from the source and target contexts in the recurrent neural network (RNN) based neural machine translation (NMT). However, it is challenging to extend them into the advanced Transformer architecture, which is more complicated than RNN. This paper first provides a method to identify source and target contexts and then introduce a gate mechanism to control the source and target contributions in Transformer. In addition, to further reduce the bias problem in the gate mechanism, this paper proposes a regularization method to guide the learning of the gates with supervision automatically generated using pointwise mutual information. Extensive experiments on 4 translation datasets demonstrate that the proposed model obtains an averaged gain of 1.0 BLEU score over strong Transformer baseline.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.11020](http://arxiv.org/abs/1908.11020)
+
+##### PDF
+[http://arxiv.org/pdf/1908.11020](http://arxiv.org/pdf/1908.11020)
+
