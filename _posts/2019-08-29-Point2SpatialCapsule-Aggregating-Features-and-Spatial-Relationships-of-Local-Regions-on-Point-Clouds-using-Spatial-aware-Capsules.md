@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Point2SpatialCapsule: Aggregating Features and Spatial Relationships of Local Regions on Point Clouds using Spatial-aware Capsules"
+date: 2019-08-29 02:54:31
+categories: arXiv_CV
+tags: arXiv_CV Deep_Learning Relation
+author: Xin Wen, Zhizhong Han, Xinhai Liu, Yu-Shen Liu
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Learning discriminative shape representation directly on point clouds is still challenging in 3D shape analysis and understanding. Recent studies usually involve three steps: first splitting a point cloud into some local regions, then extracting corresponding feature of each local region, and finally aggregating all individual local region features into a global feature as shape representation using simple max pooling. However, such pooling-based feature aggregation methods do not adequately take the spatial relationships between local regions into account, which greatly limits the ability to learn discriminative shape representation. To address this issue, we propose a novel deep learning network, named Point2SpatialCapsule, for aggregating features and spatial relationships of local regions on point clouds, which aims to learn more discriminative shape representation. Compared with traditional max-pooling based feature aggregation networks, Point2SpatialCapsule can explicitly learn not only geometric features of local regions but also spatial relationships among them. It consists of two modules. To resolve the disorder problem of local regions, the first module, named geometric feature aggregation, is designed to aggregate the local region features into the learnable cluster centers, which explicitly encodes the spatial locations from the original 3D space. The second module, named spatial relationship aggregation, is proposed for further aggregating clustered features and the spatial relationships among them in the feature space using the spatial-aware capsules developed in this paper. Compared to the previous capsule network based methods, the feature routing on the spatial-aware capsules can learn more discriminative spatial relationships among local regions for point clouds, which establishes a direct mapping between log priors and the spatial locations through feature clusters.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.11026](http://arxiv.org/abs/1908.11026)
+
+##### PDF
+[http://arxiv.org/pdf/1908.11026](http://arxiv.org/pdf/1908.11026)
+
