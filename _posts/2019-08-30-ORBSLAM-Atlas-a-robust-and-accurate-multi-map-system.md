@@ -1,0 +1,26 @@
+---
+layout: post
+title: "ORBSLAM-Atlas: a robust and accurate multi-map system"
+date: 2019-08-30 08:09:46
+categories: arXiv_CV
+tags: arXiv_CV Tracking Optimization Quantitative Detection SLAM
+author: Richard Elvira, Juan D. Tard&#xf3;s, J.M.M. Montiel
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+We propose ORBSLAM-Atlas, a system able to handle an unlimited number of disconnected sub-maps, that includes a robust map merging algorithm able to detect sub-maps with common regions and seamlessly fuse them. The outstanding robustness and accuracy of ORBSLAM are due to its ability to detect wide-baseline matches between keyframes, and to exploit them by means of non-linear optimization, however it only can handle a single map. ORBSLAM-Atlas brings the wide-baseline matching detection and exploitation to the multiple map arena. The result is a SLAM system significantly more general and robust, able to perform multi-session mapping. If tracking is lost during exploration, instead of freezing the map, a new sub-map is launched, and it can be fused with the previous map when common parts are visited. Our criteria to declare the camera lost contrast with previous approaches that simply count the number of tracked points, we propose to discard also inaccurately estimated camera poses due to bad geometrical conditioning. As a result, the map is split into more accurate sub-maps, that are eventually merged in a more accurate global map, thanks to the multi-mapping capabilities. 
+ We provide extensive experimental validation in the EuRoC datasets, where ORBSLAM-Atlas obtains accurate monocular and stereo results in the difficult sequences where ORBSLAM failed. We also build global maps after multiple sessions in the same room, obtaining the best results to date, between 2 and 3 times more accurate than competing multi-map approaches. We also show the robustness and capability of our system to deal with dynamic scenes, quantitatively in the EuRoC datasets and qualitatively in a densely populated corridor where camera occlusions and tracking losses are frequent.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1908.11585](http://arxiv.org/abs/1908.11585)
+
+##### PDF
+[http://arxiv.org/pdf/1908.11585](http://arxiv.org/pdf/1908.11585)
+
