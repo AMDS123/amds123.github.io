@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Sequential Learning of Convolutional Features for Effective Text Classification"
+date: 2019-08-30 22:10:52
+categories: arXiv_CL
+tags: arXiv_CL Sentiment Face Text_Classification CNN RNN Classification Deep_Learning
+author: Avinash Madasu, Vijjini Anvesh Rao
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Text classification has been one of the major problems in natural language processing. With the advent of deep learning, convolutional neural network (CNN) has been a popular solution to this task. However, CNNs which were first proposed for images, face many crucial challenges in the context of text processing, namely in their elementary blocks: convolution filters and max pooling. These challenges have largely been overlooked by the most existing CNN models proposed for text classification. In this paper, we present an experimental study on the fundamental blocks of CNNs in text categorization. Based on this critique, we propose Sequential Convolutional Attentive Recurrent Network (SCARN). The proposed SCARN model utilizes both the advantages of recurrent and convolutional structures efficiently in comparison to previously proposed recurrent convolutional models. We test our model on different text classification datasets across tasks like sentiment analysis and question classification. Extensive experiments establish that SCARN outperforms other recurrent convolutional architectures with significantly less parameters. Furthermore, SCARN achieves better performance compared to equally large various deep CNN and LSTM architectures.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1909.00080](http://arxiv.org/abs/1909.00080)
+
+##### PDF
+[http://arxiv.org/pdf/1909.00080](http://arxiv.org/pdf/1909.00080)
+
