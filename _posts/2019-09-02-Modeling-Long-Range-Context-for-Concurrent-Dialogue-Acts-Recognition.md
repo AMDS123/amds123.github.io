@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Modeling Long-Range Context for Concurrent Dialogue Acts Recognition"
+date: 2019-09-02 03:12:19
+categories: arXiv_CL
+tags: arXiv_CL CNN RNN Recognition
+author: Yue Yu, Siyao Peng, Grace Hui Yang
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+In dialogues, an utterance is a chain of consecutive sentences produced by one speaker which ranges from a short sentence to a thousand-word post. When studying dialogues at the utterance level, it is not uncommon that an utterance would serve multiple functions. For instance, "Thank you. It works great." expresses both gratitude and positive feedback in the same utterance. Multiple dialogue acts (DA) for one utterance breeds complex dependencies across dialogue turns. Therefore, DA recognition challenges a model's predictive power over long utterances and complex DA context. We term this problem Concurrent Dialogue Acts (CDA) recognition. Previous work on DA recognition either assumes one DA per utterance or fails to realize the sequential nature of dialogues. In this paper, we present an adapted Convolutional Recurrent Neural Network (CRNN) which models the interactions between utterances of long-range context. Our model significantly outperforms existing work on CDA recognition on a tech forum dataset.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1909.00521](http://arxiv.org/abs/1909.00521)
+
+##### PDF
+[http://arxiv.org/pdf/1909.00521](http://arxiv.org/pdf/1909.00521)
+
