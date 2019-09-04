@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Subword Language Model for Query Auto-Completion"
+date: 2019-09-02 08:40:41
+categories: arXiv_CL
+tags: arXiv_CL QA Language_Model
+author: Gyuwan Kim
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+Current neural query auto-completion (QAC) systems rely on character-level language models, but they slow down when queries are long. We present how to utilize subword language models for the fast and accurate generation of query completion candidates. Representing queries with subwords shorten a decoding length significantly. To deal with issues coming from introducing subword language model, we develop a retrace algorithm and a reranking method by approximate marginalization. As a result, our model achieves up to 2.5 times faster while maintaining a similar quality of generated results compared to the character-level baseline. Also, we propose a new evaluation metric, mean recoverable length (MRL), measuring how many upcoming characters the model could complete correctly. It provides more explicit meaning and eliminates the need for prefix length sampling for existing rank-based metrics. Moreover, we performed a comprehensive analysis with ablation study to figure out the importance of each component.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1909.00599](http://arxiv.org/abs/1909.00599)
+
+##### PDF
+[http://arxiv.org/pdf/1909.00599](http://arxiv.org/pdf/1909.00599)
+
