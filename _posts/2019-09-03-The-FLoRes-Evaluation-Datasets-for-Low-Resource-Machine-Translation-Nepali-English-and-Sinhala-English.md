@@ -1,0 +1,25 @@
+---
+layout: post
+title: "The FLoRes Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala-English"
+date: 2019-09-03 20:05:12
+categories: arXiv_CL
+tags: arXiv_CL Weakly_Supervised Face
+author: Francisco Guzm&#xe1;n, Peng-Jen Chen, Myle Ott, Juan Pino, Guillaume Lample, Philipp Koehn, Vishrav Chaudhary, Marc&#x27;Aurelio Ranzato
+mathjax: true
+---
+
+* content
+{:toc}
+
+##### Abstract
+For machine translation, a vast majority of language pairs in the world are considered low-resource because they have little parallel data available. Besides the technical challenges of learning with limited supervision, it is difficult to evaluate methods trained on low-resource language pairs because of the lack of freely and publicly available benchmarks. In this work, we introduce the FLoRes evaluation datasets for Nepali-English and Sinhala-English, based on sentences translated from Wikipedia. Compared to English, these are languages with very different morphology and syntax, for which little out-of-domain parallel data is available and for which relatively large amounts of monolingual data are freely available. We describe our process to collect and cross-check the quality of translations, and we report baseline performance using several learning settings: fully supervised, weakly supervised, semi-supervised, and fully unsupervised. Our experiments demonstrate that current state-of-the-art methods perform rather poorly on this benchmark, posing a challenge to the research community working on low-resource MT. Data and code to reproduce our experiments are available at https://github.com/facebookresearch/flores.
+
+##### Abstract (translated by Google)
+
+
+##### URL
+[http://arxiv.org/abs/1902.01382](http://arxiv.org/abs/1902.01382)
+
+##### PDF
+[http://arxiv.org/pdf/1902.01382](http://arxiv.org/pdf/1902.01382)
+
